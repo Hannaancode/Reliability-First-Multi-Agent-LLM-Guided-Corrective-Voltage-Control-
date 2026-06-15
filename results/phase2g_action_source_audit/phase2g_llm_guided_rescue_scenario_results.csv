@@ -1,0 +1,2 @@
+scenario_id,base_converged,base_uv,final_uv,base_vmin,final_vmin,base_deficit,final_deficit,uv_reduced,full_restoration,vmin_improved,deficit_reduced,n_actions_executed,stop_reason,executed_source_sequence
+fed_combined_load_1p25_line_101_MG1,True,8,0,0.9272108217802728,0.9519999999999997,0.09084558075330429,0.0,True,True,True,True,5,full_restoration,safety_fallback_physics_refinement -> llm_direct -> safety_fallback_physics_refinement -> safety_fallback_physics_refinement -> llm_direct

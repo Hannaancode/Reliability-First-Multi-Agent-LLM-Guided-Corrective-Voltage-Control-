@@ -1,0 +1,21 @@
+{
+  "compared_cases": 137,
+  "base_mismatch_cases": 0,
+  "chosen_v2r_cases": 108,
+  "fallback_to_v2b_cases": 29,
+  "v2b_avg_final_vm_min_pu": 0.9404612204746521,
+  "v2r_avg_final_vm_min_pu": 0.9442671245952644,
+  "router_avg_final_vm_min_pu": 0.9445537668924336,
+  "v2b_avg_final_uv": 6.094890510948905,
+  "v2r_avg_final_uv": 4.788321167883212,
+  "router_avg_final_uv": 3.978102189781022,
+  "v2b_full_restoration_rate": 0.31386861313868614,
+  "v2r_full_restoration_rate": 0.7737226277372263,
+  "router_full_restoration_rate": 0.7591240875912408,
+  "v2b_avg_final_deficit": 0.06862985024792642,
+  "v2r_avg_final_deficit": 0.05708593198276979,
+  "router_avg_final_deficit": 0.0476428238422059,
+  "router_worse_than_v2b_vm_cases": 0,
+  "router_higher_than_v2b_uv_cases": 0,
+  "router_higher_than_v2b_deficit_cases": 0
+}

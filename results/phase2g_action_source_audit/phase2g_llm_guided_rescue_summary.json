@@ -1,0 +1,18 @@
+{
+  "total_scenarios": 1,
+  "base_converged": 1,
+  "avg_base_uv": 8.0,
+  "avg_final_uv": 0.0,
+  "avg_base_vmin": 0.9272108217802728,
+  "avg_final_vmin": 0.9519999999999997,
+  "avg_base_deficit": 0.09084558075330429,
+  "avg_final_deficit": 0.0,
+  "uv_reduction_rate": 1.0,
+  "full_restoration_rate": 1.0,
+  "total_base_uv": 8,
+  "total_final_uv": 0,
+  "executed_action_source_counts": {
+    "safety_fallback_physics_refinement": 3,
+    "llm_direct": 2
+  }
+}
