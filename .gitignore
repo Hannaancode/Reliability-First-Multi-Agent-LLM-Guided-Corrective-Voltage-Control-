@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large/model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoint-*/
+tokenizer.json
+wandb/
+runs/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Temporary
+tmp/
+temp/
+manual_review/
