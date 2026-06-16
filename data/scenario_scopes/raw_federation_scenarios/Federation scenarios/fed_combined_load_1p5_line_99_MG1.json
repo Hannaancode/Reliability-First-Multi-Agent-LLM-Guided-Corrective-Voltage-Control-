@@ -1,0 +1,33 @@
+{
+  "scenario_id": "fed_combined_load_1p5_line_99_MG1",
+  "system": "federation_4mg_ieee118",
+  "scenario_type": "combined_stress",
+  "severity": "critical",
+  "description": "Combined stress: load scaled by 1.5, tie-line 99 opened, and DERs in MG1 dropped if available.",
+  "modifications": [
+    {
+      "action": "scale_all_loads",
+      "factor": 1.5
+    },
+    {
+      "action": "open_line",
+      "line_idx": 99
+    },
+    {
+      "action": "drop_sgen_indices",
+      "sgen_indices": [
+        0,
+        1
+      ]
+    }
+  ],
+  "tags": [
+    "combined",
+    "load",
+    "tie-line",
+    "der_drop",
+    "MG1"
+  ],
+  "source_note": null,
+  "created_at_utc": "2026-05-03T09:56:34.512075Z"
+}
