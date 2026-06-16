@@ -1,0 +1,22 @@
+{
+  "scenario_id": "fed_der_drop_mg4",
+  "system": "federation_4mg_ieee118",
+  "scenario_type": "der_drop",
+  "severity": "stress",
+  "description": "All static DER injections in MG4 are dropped to zero.",
+  "modifications": [
+    {
+      "action": "drop_sgen_indices",
+      "sgen_indices": [
+        6,
+        7
+      ]
+    }
+  ],
+  "tags": [
+    "der_drop",
+    "MG4"
+  ],
+  "source_note": null,
+  "created_at_utc": "2026-05-03T09:56:34.511107Z"
+}

@@ -1,0 +1,19 @@
+{
+  "scenario_id": "fed_load_scale_1p35",
+  "system": "federation_4mg_ieee118",
+  "scenario_type": "load_scaling",
+  "severity": "stress",
+  "description": "Uniform load scaling of IEEE-118 federation by factor 1.35.",
+  "modifications": [
+    {
+      "action": "scale_all_loads",
+      "factor": 1.35
+    }
+  ],
+  "tags": [
+    "load",
+    "system_wide"
+  ],
+  "source_note": null,
+  "created_at_utc": "2026-05-03T09:56:34.510582Z"
+}

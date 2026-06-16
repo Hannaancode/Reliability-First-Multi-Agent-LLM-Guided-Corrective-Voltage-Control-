@@ -1,0 +1,18 @@
+{
+  "scenario_id": "fed_der_drop_all_sgens",
+  "system": "federation_4mg_ieee118",
+  "scenario_type": "der_drop",
+  "severity": "critical",
+  "description": "All static generator DER injections in the IEEE-118 federation are dropped to zero.",
+  "modifications": [
+    {
+      "action": "drop_all_sgens"
+    }
+  ],
+  "tags": [
+    "der_drop",
+    "system_wide"
+  ],
+  "source_note": null,
+  "created_at_utc": "2026-05-03T09:56:34.511269Z"
+}

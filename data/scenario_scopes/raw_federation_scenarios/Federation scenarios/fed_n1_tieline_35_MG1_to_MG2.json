@@ -1,0 +1,21 @@
+{
+  "scenario_id": "fed_n1_tieline_35_MG1_to_MG2",
+  "system": "federation_4mg_ieee118",
+  "scenario_type": "n_minus_1_tieline_outage",
+  "severity": "stress",
+  "description": "N-1 outage of tie-line 35 connecting MG1 bus 16 to MG2 bus 30.",
+  "modifications": [
+    {
+      "action": "open_line",
+      "line_idx": 35
+    }
+  ],
+  "tags": [
+    "n-1",
+    "tie-line",
+    "MG1",
+    "MG2"
+  ],
+  "source_note": null,
+  "created_at_utc": "2026-05-03T09:56:34.510802Z"
+}
