@@ -19,3 +19,17 @@ Read `outputs/research_tasks_20261014/Critical_Continuation_Plan_20261018.md` an
 ## Archive coverage
 
 The local research artifacts total approximately70GB. This publication contains code, progress, explicit evidence and an inventory; it is NOT a complete backup of large raw checkpoints, capsules and scientific journals. Any file listed as local-only is NOT uploaded. Runtime environments, downloaded base-model caches and credentials are excluded. Large-file storage/upload needs a separate supported archival path; no LFS purchase or quota bypass was attempted. Original files are unchanged.
+
+## Download and verify
+
+The `archives/` directory contains **11,771 exact files**: 2,098 source files, 505 documents and 9,168 reports. The selection rule is fixed by filename/type/size, never by whether a result was favorable. These archives include adverse and partial results. See `Publication_Coverage_Manifest.json` for archive SHA-256, sizes, counts and limitations.
+
+Download all three ZIPs, `Published_File_Map.json.gz`, and `Publication_Coverage_Manifest.json` into one directory. Run:
+
+```powershell
+python verify_github_code_report_archives_20261018.py --archive-directory PATH
+```
+
+Add `--extract-to NEW_DIRECTORY` to restore original relative paths after every archive and member hash passes. It refuses to overwrite an existing destination. Verification makes zero scientific/model calls.
+
+`All_Artifact_Coverage.jsonl.gz` inventories **54,167 research files totaling 69,664,948,199 bytes**. Each selected file points to its archive and exact member; all remaining files are explicitly local-only. Its pending labels record selection before publication; the branch commit and publication receipt establish the actual remote upload. This is **not a complete 69.7GB raw-data backup**. In particular, large full checkpoints, multi-GB capsules/journals and non-selected per-record arrays are not uploaded. Runtime environments, downloaded base caches and credentials are excluded. The direct core files and archives can overlap; do not add their counts as distinct research evidence.
