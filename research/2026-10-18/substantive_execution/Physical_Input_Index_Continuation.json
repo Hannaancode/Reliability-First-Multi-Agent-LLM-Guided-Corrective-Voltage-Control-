@@ -1,0 +1,47 @@
+{
+  "at_utc": "2026-10-18T15:21:41.214480+00:00",
+  "status": "ACTUAL_PHYSICAL_INPUT_INDEX_LIVE_SCIENCE_ZERO",
+  "actual_pid": 4516,
+  "shim": 18252,
+  "execsession": 31624,
+  "source": "work/prior_physical_query_footprints_20261018.py",
+  "source_sha256": "d0c9b568b4b739b06467eac037f7bc006fcccc8c2796c10632f6454a2df8ce3a",
+  "protocol": "outputs/prior_physical_query_footprints_20261018/Protocol.json",
+  "protocol_sha256": "de5443106b7f277995c592bc436b111ebf7ad67b4baf02da21bfaf36013df664",
+  "reader": "work/audit_prior_physical_query_footprints_20261018.py",
+  "reader_sha256": "aed94f1791969a40b4ae8bfec9414f741080a0fc8b0542d20d13e492dfe33242",
+  "producer_and_reader_fixed_seconds_each": 1800,
+  "actual_progress_snapshot_not_completion": {
+    "intents_decoded": 21000,
+    "unique_components": 20543,
+    "seconds": 458.4759410000006
+  },
+  "new_model_PF_optimizer_derivative_forecast_solve_calls": 0,
+  "result_dependencies": [
+    "outputs/prior_physical_query_footprints_20261018/actual/Result.json",
+    "outputs/prior_physical_query_footprints_20261018/independent_audit/Independent_Audit.json",
+    "outputs/prior_physical_query_footprints_20261018/Completion.json"
+  ],
+  "one_time_followup": {
+    "id": "hiergrid-physical-input-result-continuation",
+    "intended_next_local": "2026-10-18 19:05 Asia/Qatar",
+    "intended_next_utc": "2026-10-18T16:05:00Z",
+    "rule_expires_utc": "2026-10-18T16:10:00Z",
+    "policy": "Inspect exact live actors at estimated check; rearm estimated check only if genuinely live result remains sole dependency; delete when terminal. Old recurring timers not revived."
+  },
+  "completed_while_waiting": {
+    "strict_full_native_matcher": "outputs/strict_saved_native_input_match_v2_20261018/Results.json",
+    "all10actual_input_and_mutation_checks": "PASS; v1unsupportedIndex partial preserved; additivev2 typedIndex exact support, no relaxed matching",
+    "next_query_input": "outputs/next_exact_paid_query_preparation_20261018/Exact_Candidate_Inputs.json",
+    "fresh_prior3418source_exclusion": "outputs/fresh_root_query_nonoverlap_20261018/Independent_Audit.json"
+  },
+  "exact_next_tasks": [
+    "Verify fresh actual PID/parent/command/source and actual closed reports; no duplicate/restart/extension. If partial preserve missing identities UNKNOWN, do not treat partial no-hit as absence.",
+    "If target physical component has prior matches, use strict_saved_native_input_match_v2_20261018.py for FULL actual actuated NET plus actual solver kwargs. Component matches are candidates only; no negative from mismatched metadata. Any positive full input match supports designing raw paid PF result reuse with CURRENT guard/resource/score and old costs. Never reuse old accept/reject/score automatically.",
+    "If no tracked input component matches, close remaining broader relevant history including fresh3418physicalaggregate scope (rowcount exclusion alone is not aggregate equivalence proof); separately frozen persistent warm/cold/query reservation/source/ownership/independent-reader gates BEFORE real PF. Exact two actions are prepared at observed17UV, not automatically authorized by absent60377key.",
+    "No query at already-solved line36UV0terminal. No newGPU, model/learning or fullpolicy campaign from software readiness. User six goals/fullbothbranchDSE/frozenassets/stoppedmethods/fullcosts/unusedconfirmation remain in force.",
+    "Save verified results and this continuation in reseacrh progress.txt and existing GitHub branch, lease-safe with byte/size checks. Keep explanations short; do substantive ready work, not routine polling."
+  ],
+  "full_policy_LLM_superiority": "UNACHIEVED",
+  "archive_publication_head_verified": "fad023f584b61dd85b07670f8aff3146b81b76c0"
+}
