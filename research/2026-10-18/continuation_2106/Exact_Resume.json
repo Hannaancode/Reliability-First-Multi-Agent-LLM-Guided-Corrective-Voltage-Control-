@@ -1,0 +1,986 @@
+{
+  "at_utc": "2026-10-18T18:38:26.433458+00:00",
+  "status": "CLOSED_TWO_QUERY_ENGINEERING_AND_NEW_RECEIPT_SCREEN_ROSTER_INPUT_PREPARATION",
+  "human_start_honored_UTC": "2026-10-18T18:06:01+00:00",
+  "all_owned_jobs": [],
+  "timers": [],
+  "GPU_allocations": [],
+  "G1_5_G1_6": "COMPLETE",
+  "all6finalgoals": "OPEN",
+  "verified_query_engineering": {
+    "status": "PASS_COMPLETE_FIXED_TWO_QUERY_WARM_COLD_AND_CHARGED_REPLAY_ENGINEERING",
+    "counts": {
+      "PF_attempts": 4,
+      "PF_returns": 4,
+      "PF_exceptions": 0,
+      "new_query_PF_attempts": 2,
+      "continuous_replay_PF_attempts": 2
+    },
+    "PF_seconds": 11.198982799993246,
+    "costs": {
+      "PF_attempts": 4,
+      "PF_returns": 4,
+      "PF_exceptions": 0,
+      "PF_seconds": 11.198982799993246,
+      "new_query_PF_attempts": 2,
+      "continuous_replay_PF_attempts": 2,
+      "preservation_seconds": 0.9258079999926849,
+      "new_model_calls": 0,
+      "new_optimizer_steps": 0,
+      "new_derivative_forecast_linear_solve_calls": 0
+    },
+    "query_outcomes": [
+      {
+        "row": {
+          "donor_bus": 32,
+          "donor_index": 16,
+          "kind": "equal_owned_reallocation",
+          "q": 100.0,
+          "receiver": 42,
+          "universe_index": 602
+        },
+        "verdict": {
+          "accepted": false,
+          "after": {
+            "deficit_sum": 0.208687535231581,
+            "ov_count": 1,
+            "uv_count": 14,
+            "vmax": 1.0554550647282228,
+            "vmean": 0.9777059855334896,
+            "vmin": 0.9031547027975366
+          },
+          "before": {
+            "deficit_sum": 0.37733194380645085,
+            "ov_count": 0,
+            "uv_count": 17,
+            "vmax": 1.05,
+            "vmean": 0.9749132387756779,
+            "vmin": 0.892167898232881
+          },
+          "converged": true,
+          "normal_upper_band_admissible": false,
+          "original_native_accepted": true,
+          "reason": "normal_upper_band_mediation"
+        },
+        "original_score": [
+          -999,
+          -999,
+          -999,
+          -999,
+          -999
+        ]
+      },
+      {
+        "row": {
+          "donor_bus": 0,
+          "donor_index": 14,
+          "kind": "equal_owned_reallocation",
+          "q": 25.0,
+          "receiver": 44,
+          "universe_index": 343
+        },
+        "verdict": {
+          "accepted": false,
+          "after": {
+            "deficit_sum": 0.30520989211600524,
+            "ov_count": 1,
+            "uv_count": 18,
+            "vmax": 1.0500403307298414,
+            "vmean": 0.9758375480635458,
+            "vmin": 0.8981737479990335
+          },
+          "before": {
+            "deficit_sum": 0.37733194380645085,
+            "ov_count": 0,
+            "uv_count": 17,
+            "vmax": 1.05,
+            "vmean": 0.9749132387756779,
+            "vmin": 0.892167898232881
+          },
+          "converged": true,
+          "normal_upper_band_admissible": false,
+          "original_native_accepted": false,
+          "reason": "uv_increased"
+        },
+        "original_score": [
+          -999,
+          -999,
+          -999,
+          -999,
+          -999
+        ]
+      }
+    ],
+    "cold_restore_verified": true,
+    "all118_replay_tolerance": 1e-10,
+    "failure_or_unstarted_phases": [],
+    "original_verifier_and_native_BEFORE_inputs_checked": true,
+    "query_only_no_actual_commits": true,
+    "new_model_PF_derivative_factor_solve_calls": 0,
+    "whole_policy_DSE_LLM_superiority": "NOT_TESTED",
+    "prior_source_costs": "Retained by source references; not imputed per call, waived or pooled into a deployment speed claim.",
+    "workflow_seconds": 1.6770726000031573
+  },
+  "new_readonly_gap_proof": {
+    "status": "PASS_CHANGED_EVIDENCE_SCREEN_INTEGRITY_BOTH_REJECTED_RECEIPTS_AVAILABLE_NEXT_EXACT_GAP_SAVED_FULL_GATE_UNKNOWN",
+    "actual_owner_and_shim_ended": true,
+    "closed_query_messages": 1518,
+    "new_receipt_causally_used": 1,
+    "new_receipts_available": 2,
+    "same_saved_native_current_UV": 17,
+    "next_exact_missing_key": "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|f02856a8072569ba72fe8e6e39a50a99c468651c09369723043561662b0cc5c4",
+    "original_K4_followups_still_missing": 3,
+    "fixed_policy_menu_before_new_physics_equal": true,
+    "zero_new_model_PF_derivative_forecast_factor_solve_calls": 0,
+    "actual_screen_costs": {
+      "preservation_seconds": 46.148777199974575,
+      "archived_receipt_verification_CPU_seconds": 303.7859670997641
+    },
+    "screen_workflow_seconds": 408.8919980999999,
+    "no_new_commit_or_completed_decision": true,
+    "not_a_full_independent_policy_performance_audit": true,
+    "full_four_world_gate": "UNKNOWN",
+    "workflow_seconds": 3.7809975999989547
+  },
+  "new_static_index": {
+    "status": "PASS_ALL3418_DUAL_EQUATIONS_280_REUSABLE_STATIC_COMPONENT_REFS_NEW_TARGETS",
+    "observations": 3418,
+    "unique_components": 280,
+    "target_component_matches": {
+      "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|f02856a8072569ba72fe8e6e39a50a99c468651c09369723043561662b0cc5c4": 0,
+      "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|4795c96fdf13eb2d88fc55242bf5f3c5e87b81a2b320dfeea6785f892074742f": 0,
+      "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|de2b758c4c31b4dcb9bbcdec03d3a53aa600abe074c2d3a801eba729bf8efaea": 0
+    },
+    "index_sha256": "3b79f518ea94a59369eb4a0b8e9a53ba499329f080ba2a4362b9d32b2ea728ad",
+    "prior_journal_sha256": "9a8c6b76c0f645224c6f6da649dfabbfcb0df0c061a4aab57d28f4a3ac417810",
+    "new_scientific_calls": 0,
+    "workflow_seconds": 45.4800882999989,
+    "limits": "Static observed shunt scope only. Source/verifier/persistent state/ownership/reader/protocol must separately gate any new call. No automatic PF authority or performance claim."
+  },
+  "all141_roster": {
+    "status": "PASS_EXACT_ALL141_RECIPE_BYTES_EXISTING_INITIAL_ONLY_STRATA_AND_NO_OUTCOME_SELECTION",
+    "recipe_count": 141,
+    "stratum_counts": {
+      "OTHER_KNOWN_INITIAL": 63,
+      "UNKNOWN_INITIAL_RETAIN_FOR_SCREENING": 70,
+      "PRIMARY_GE60": 2,
+      "BROADER_GE50": 6
+    },
+    "primary_known_ge60": [
+      "fed_combined_load_1p5_line_101_MG1",
+      "fed_combined_load_1p5_line_128_MG3"
+    ],
+    "all_known_ge50": [
+      "fed_combined_load_1p5_line_101_MG1",
+      "fed_combined_load_1p5_line_127_MG3",
+      "fed_combined_load_1p5_line_128_MG3",
+      "fed_combined_load_1p5_line_129_MG3",
+      "fed_combined_load_1p5_line_135_MG3",
+      "fed_combined_load_1p5_line_35_MG1",
+      "fed_combined_load_1p5_line_36_MG1",
+      "fed_combined_load_1p5_line_84_MG2"
+    ],
+    "unknown_initial_count": 70,
+    "new_scientific_calls": 0,
+    "limitations": "Existing inspected development initial counts, not newly measured case starts. No matched outcomes, feasibility, zero-all, wholeDSE or LLM result; all unknowns retained."
+  },
+  "remaining_original_K4_identities": [
+    {
+      "fixed_rank": 2,
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 19,
+        "q": 100.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 392
+      },
+      "point_action_key": "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|f02856a8072569ba72fe8e6e39a50a99c468651c09369723043561662b0cc5c4",
+      "status": "UNEXECUTED_IN_TRACKED_EXACT_KEY_LINEAGE",
+      "physical_component_sha256": "2a51ee788b741bdcbdee6b18c6de3ef9c816e56425180887bb788a300bb2b6ec",
+      "perbus_rational_component": [
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          [
+            -25,
+            1
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            1
+          ],
+          [
+            40,
+            1
+          ]
+        ],
+        [
+          14,
+          [
+            0,
+            1
+          ],
+          [
+            -25,
+            1
+          ]
+        ],
+        [
+          19,
+          [
+            0,
+            1
+          ],
+          [
+            -100,
+            1
+          ]
+        ],
+        [
+          27,
+          [
+            0,
+            1
+          ],
+          [
+            -50,
+            1
+          ]
+        ],
+        [
+          32,
+          [
+            0,
+            1
+          ],
+          [
+            -125,
+            1
+          ]
+        ],
+        [
+          33,
+          [
+            0,
+            1
+          ],
+          [
+            -14,
+            1
+          ]
+        ],
+        [
+          36,
+          [
+            0,
+            1
+          ],
+          [
+            25,
+            1
+          ]
+        ],
+        [
+          43,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          44,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          45,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          47,
+          [
+            0,
+            1
+          ],
+          [
+            -15,
+            1
+          ]
+        ],
+        [
+          51,
+          [
+            0,
+            1
+          ],
+          [
+            -100,
+            1
+          ]
+        ],
+        [
+          73,
+          [
+            0,
+            1
+          ],
+          [
+            -12,
+            1
+          ]
+        ],
+        [
+          75,
+          [
+            0,
+            1
+          ],
+          [
+            -250,
+            1
+          ]
+        ],
+        [
+          78,
+          [
+            0,
+            1
+          ],
+          [
+            -20,
+            1
+          ]
+        ],
+        [
+          81,
+          [
+            0,
+            1
+          ],
+          [
+            -20,
+            1
+          ]
+        ],
+        [
+          82,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          95,
+          [
+            0,
+            1
+          ],
+          [
+            -125,
+            1
+          ]
+        ],
+        [
+          104,
+          [
+            0,
+            1
+          ],
+          [
+            -20,
+            1
+          ]
+        ],
+        [
+          106,
+          [
+            0,
+            1
+          ],
+          [
+            -6,
+            1
+          ]
+        ],
+        [
+          109,
+          [
+            0,
+            1
+          ],
+          [
+            -6,
+            1
+          ]
+        ]
+      ],
+      "tracked_prior_component_matches": 0,
+      "prior_component_references": [],
+      "new_science_permission": "NONE_PENDING_FRESH_OBSERVED_SCOPE_AND_NEW_PROSPECTIVE_OWNER_SOURCE_READER_PRESERVATION_PROTOCOL"
+    },
+    {
+      "fixed_rank": 3,
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 19,
+        "q": 75.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 391
+      },
+      "point_action_key": "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|4795c96fdf13eb2d88fc55242bf5f3c5e87b81a2b320dfeea6785f892074742f",
+      "status": "UNEXECUTED_IN_TRACKED_EXACT_KEY_LINEAGE",
+      "physical_component_sha256": "a1606845f8dfae76f106fba6d6ad8da7b0ec5408fbc3cecfe752e5bffc676690",
+      "perbus_rational_component": [
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          [
+            -25,
+            1
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            1
+          ],
+          [
+            40,
+            1
+          ]
+        ],
+        [
+          14,
+          [
+            0,
+            1
+          ],
+          [
+            -50,
+            1
+          ]
+        ],
+        [
+          19,
+          [
+            0,
+            1
+          ],
+          [
+            -75,
+            1
+          ]
+        ],
+        [
+          27,
+          [
+            0,
+            1
+          ],
+          [
+            -50,
+            1
+          ]
+        ],
+        [
+          32,
+          [
+            0,
+            1
+          ],
+          [
+            -125,
+            1
+          ]
+        ],
+        [
+          33,
+          [
+            0,
+            1
+          ],
+          [
+            -14,
+            1
+          ]
+        ],
+        [
+          36,
+          [
+            0,
+            1
+          ],
+          [
+            25,
+            1
+          ]
+        ],
+        [
+          43,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          44,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          45,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          47,
+          [
+            0,
+            1
+          ],
+          [
+            -15,
+            1
+          ]
+        ],
+        [
+          51,
+          [
+            0,
+            1
+          ],
+          [
+            -100,
+            1
+          ]
+        ],
+        [
+          73,
+          [
+            0,
+            1
+          ],
+          [
+            -12,
+            1
+          ]
+        ],
+        [
+          75,
+          [
+            0,
+            1
+          ],
+          [
+            -250,
+            1
+          ]
+        ],
+        [
+          78,
+          [
+            0,
+            1
+          ],
+          [
+            -20,
+            1
+          ]
+        ],
+        [
+          81,
+          [
+            0,
+            1
+          ],
+          [
+            -20,
+            1
+          ]
+        ],
+        [
+          82,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          95,
+          [
+            0,
+            1
+          ],
+          [
+            -125,
+            1
+          ]
+        ],
+        [
+          104,
+          [
+            0,
+            1
+          ],
+          [
+            -20,
+            1
+          ]
+        ],
+        [
+          106,
+          [
+            0,
+            1
+          ],
+          [
+            -6,
+            1
+          ]
+        ],
+        [
+          109,
+          [
+            0,
+            1
+          ],
+          [
+            -6,
+            1
+          ]
+        ]
+      ],
+      "tracked_prior_component_matches": 0,
+      "prior_component_references": [],
+      "new_science_permission": "NONE_PENDING_FRESH_OBSERVED_SCOPE_AND_NEW_PROSPECTIVE_OWNER_SOURCE_READER_PRESERVATION_PROTOCOL"
+    },
+    {
+      "fixed_rank": 4,
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 19,
+        "q": 50.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 390
+      },
+      "point_action_key": "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|de2b758c4c31b4dcb9bbcdec03d3a53aa600abe074c2d3a801eba729bf8efaea",
+      "status": "UNEXECUTED_IN_TRACKED_EXACT_KEY_LINEAGE",
+      "physical_component_sha256": "6045a26184e0843d33a142dd972fbcf2453edf39d66ed75121de0bccf6d974f9",
+      "perbus_rational_component": [
+        [
+          0,
+          [
+            0,
+            1
+          ],
+          [
+            -25,
+            1
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            1
+          ],
+          [
+            40,
+            1
+          ]
+        ],
+        [
+          14,
+          [
+            0,
+            1
+          ],
+          [
+            -75,
+            1
+          ]
+        ],
+        [
+          19,
+          [
+            0,
+            1
+          ],
+          [
+            -50,
+            1
+          ]
+        ],
+        [
+          27,
+          [
+            0,
+            1
+          ],
+          [
+            -50,
+            1
+          ]
+        ],
+        [
+          32,
+          [
+            0,
+            1
+          ],
+          [
+            -125,
+            1
+          ]
+        ],
+        [
+          33,
+          [
+            0,
+            1
+          ],
+          [
+            -14,
+            1
+          ]
+        ],
+        [
+          36,
+          [
+            0,
+            1
+          ],
+          [
+            25,
+            1
+          ]
+        ],
+        [
+          43,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          44,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          45,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          47,
+          [
+            0,
+            1
+          ],
+          [
+            -15,
+            1
+          ]
+        ],
+        [
+          51,
+          [
+            0,
+            1
+          ],
+          [
+            -100,
+            1
+          ]
+        ],
+        [
+          73,
+          [
+            0,
+            1
+          ],
+          [
+            -12,
+            1
+          ]
+        ],
+        [
+          75,
+          [
+            0,
+            1
+          ],
+          [
+            -250,
+            1
+          ]
+        ],
+        [
+          78,
+          [
+            0,
+            1
+          ],
+          [
+            -20,
+            1
+          ]
+        ],
+        [
+          81,
+          [
+            0,
+            1
+          ],
+          [
+            -20,
+            1
+          ]
+        ],
+        [
+          82,
+          [
+            0,
+            1
+          ],
+          [
+            -10,
+            1
+          ]
+        ],
+        [
+          95,
+          [
+            0,
+            1
+          ],
+          [
+            -125,
+            1
+          ]
+        ],
+        [
+          104,
+          [
+            0,
+            1
+          ],
+          [
+            -20,
+            1
+          ]
+        ],
+        [
+          106,
+          [
+            0,
+            1
+          ],
+          [
+            -6,
+            1
+          ]
+        ],
+        [
+          109,
+          [
+            0,
+            1
+          ],
+          [
+            -6,
+            1
+          ]
+        ]
+      ],
+      "tracked_prior_component_matches": 0,
+      "prior_component_references": [],
+      "new_science_permission": "NONE_PENDING_FRESH_OBSERVED_SCOPE_AND_NEW_PROSPECTIVE_OWNER_SOURCE_READER_PRESERVATION_PROTOCOL"
+    }
+  ],
+  "next_steps_in_order": [
+    "Do NOT restart any completed worker/coordinator/reader. All science and analysis actors ended; no GPU or timers. Read exact remaining3inputs and original pre-outcomeK4 menu proof first.",
+    "Implement a separately prospective THREE-identity paid-acquisition worker and independent reader: remaining originalK4 ranks2/3/4 at the same17UV observed hypothetical branch. Ordinary/native9Q/receiver/donor/rawscope/450cap/no-refund/ownedstock/remaining15ops/normalupper1.05+1e-8/verifier/score unchanged. This is completion of an already fixed menu, not outcome-driven Q/width tuning.",
+    "Existing Reservations v1 is explicitly TWO-only. Additive N=3 source must preserve every predicate and prove only declared arity differs. Never silently edit old pinned source or feed3identities into the2-only API.",
+    "Freeze source/current input/exact3keys/coverage/solver/cost/absolute new resource bound/owner claims/independent reader BEFORE outcomes. Use completed60426BEFORE component index plus new280staticAFTER index and both already-paid newprimary/replay input fingerprints. Broader unlogged-history/fullBEFORE limitations remain explicit; scoped absence alone is not launch permission.",
+    "Preserve full query-onlyNET/cursor/registry/history/source/input/RNG/cost/absolute-bound state before cold queries and before more science. Verify fresh exact realPID/parent/command/claim. Original core imported claim() used worker __file__ for reader: fix that provenance binding in NEW source before launch; preserve old failure.",
+    "Only after actual gates pass, acquire exactly those3unexecuted primary identities once, plus atmost3explicitlycharged independent converged-query replays; no retries/old-budget extension/extra identities. Retain all rejects/exceptions/UNKNOWN and full118fields. A query-only engineering/acquisition result does NOT establish G1.7 or policy/LLM superiority.",
+    "Then reuse all paid receipts in the unchanged source policy. Missing future context/receipt remainsUNKNOWN; no invented AFTER or partial-menu choice. A full matched complete trajectory worker/reader still needs its own frozen persistent-state and continuous-replay protocol.",
+    "Use the exact141-recipe development roster for G1.7:8known initial>=50, including primary61UV line101 and60UV line128;70initialsUNKNOWN stayincluded. The recent4-root numerical studies do not cover both primary>=60 identities. Frozen62bank is separate, not a name-only join. Historical/inspected worlds are not unused confirmation.",
+    "Keep all6human priorities and final acceptance criteria. G2/G3 public native benchmark attempts failed and must not be retuned; G4size-only imitation stopped. No idleGPU allocation. Final claims require fresh inference, matched controls/full bothDSE costs and unused confirmation."
+  ],
+  "latest_verified_GitHub_head_before_this_delta": "cd3d7111370eb44f1eb0697157c8ac3beff00e11",
+  "current_source_full_four_world_gate": "UNKNOWN",
+  "new_LLM_advantage": "NOT_ESTABLISHED"
+}
