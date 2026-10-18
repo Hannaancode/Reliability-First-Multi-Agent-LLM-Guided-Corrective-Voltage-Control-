@@ -1,0 +1,37 @@
+{
+  "at_utc": "2026-10-18T09:34:31.408436+00:00",
+  "status": "VERIFIED_ALL26_COMMITTED_PREFIX_PLUS_REFERENCED_FACTORY_AND_LINEAGE_FRONTIER",
+  "scoped_physics_checkpoint": "outputs\\referenced_controller_research_handoff_20261018\\Verified_Research_Checkpoint.json",
+  "verified_one_world_zero_UV": "17 residual UV to0 in both closed numerical suffixes;11vs14 added operations, within original25 budget. No LLM causal advantage or fullDSE victory.",
+  "lineage_frontier_audit": {
+    "status": "PASS_ALL_LINEAGE_ATTEMPT_KEYS_AND_EXACT_SOURCE_RECEIPT_REFERENCES",
+    "keys": 60377,
+    "warm_paid_keys": 22721,
+    "old_blocked_keys": 0,
+    "new_primary_attempt_keys": 37656,
+    "new_primary_closed_receipts": 37656,
+    "new_primary_missing_receipt_BLOCKED": 0,
+    "all_attempts_including_replay": 37682,
+    "source_recorded_exceptions": 15,
+    "reader_scientific_calls": 0,
+    "workflow_seconds": 151.56865839999955,
+    "limitations": "Index identity/source closure only, NOT independent physical certification of every candidate or permission to execute an absent key. Not global history beyond this four-root lineage."
+  },
+  "capacity_v2_saved_real_factory_checks": 17,
+  "capacity_v2_future_query_guard": {
+    "rejected_before_save": true,
+    "new_science": 0
+  },
+  "source_closure_modules": 31,
+  "new_scientific_calls_in_this_unit": 0,
+  "owned_science_GPU_collector_reader_jobs": [],
+  "next_tasks_in_order": [
+    "Bind full-native v2 source/encoding admission to actual prospective input bounds (118buses/9Q/<=25ownedrows, <=27,628queryrefs, <=1024bytes/ref, <=8MiB metadata). Saved real factory/cold passes do not alone certify every future input.",
+    "Build the future reader and cache consumer around the verified60,377-key inspected lineage frontier. Every recorded receipt requires independent source/physical-result checks before use; old attempts never repeat; missing/out-of-lineage history stays UNKNOWN, not permission.",
+    "Freeze a separately justified genuinely unexecuted measurement protocol, exact cases, both fixed policies/strong controls, complete/partial reader, source/input/ownership/preservation/cost/bounds BEFORE physics. Do not restart old owner/budget or infer missing26th complete checkpoint.",
+    "Then bind actual original LOCAL model/family broker causal serving role with numerical-only and trained numerical ablations. No further size-only imitation retraining; fresh full protected trajectories and unused confirmation required before LLM value.",
+    "Keep all141 source recipes and73 missing old outcomes explicit; primary>=60 initial-UV cases remain unsolved/unverified. Published benchmark/security tasks remain pending their scientific gates."
+  ],
+  "all_four_full_policy_or_LLM_superiority_gate": "UNKNOWN_OR_UNACHIEVED",
+  "no_new_timer_or_idle_GPU": true
+}

@@ -41,3 +41,9 @@ The new independent scoped audit checked all26 recorded commits and all source a
 The exact35.23MB duplicated decision record now has a1.323MB journal-reference representation; all2,580 receipts restore exactly in a cold process. Referenced full saved controller-factory checks17/17 and causal-prefix rejection passed. Raw scientific journal remains required. The conservative full-native capacity variant is PREPARED ONLY, not live performance readiness.
 
 Read `continuation/Results_And_Next_Execution.md` and the52-member verified supplemental archive. Old source/setup failures are retained. These are scoped physical evidence and software improvements, not proof of LLM superiority, all-case zero UV or published-method superiority.
+
+## Follow-through: full-native transport binding and prior-attempt frontier
+
+The wider source-bounded v2 history transport now passes the17 real saved controller-factory cold checks plus rejection of future receipts before checkpoint save. Recursive local source closure is inventoried. Prospective input admission and a complete/partial performance reader/owner protocol are still required; no new physics/GPU campaign was launched.
+
+An independently checked lineage frontier contains60,377 exact prior point/action keys:22,721 warm paid keys and37,656 new primary attempts, with all15 source-recorded solver exceptions retained. This prevents accidental primary reruns within the inspected four-root lineage. It does NOT certify every unselected physical result or prove that an absent key is globally unexecuted. Consumer-side source/physical checks and old costs remain mandatory. The frontier data and29-member source/report supplement are in `archives/`; exact next tasks are in `continuation/Exact_Next_Execution_State.json`.

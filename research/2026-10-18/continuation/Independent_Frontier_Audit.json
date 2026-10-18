@@ -1,0 +1,14 @@
+{
+  "status": "PASS_ALL_LINEAGE_ATTEMPT_KEYS_AND_EXACT_SOURCE_RECEIPT_REFERENCES",
+  "keys": 60377,
+  "warm_paid_keys": 22721,
+  "old_blocked_keys": 0,
+  "new_primary_attempt_keys": 37656,
+  "new_primary_closed_receipts": 37656,
+  "new_primary_missing_receipt_BLOCKED": 0,
+  "all_attempts_including_replay": 37682,
+  "source_recorded_exceptions": 15,
+  "reader_scientific_calls": 0,
+  "workflow_seconds": 151.56865839999955,
+  "limitations": "Index identity/source closure only, NOT independent physical certification of every candidate or permission to execute an absent key. Not global history beyond this four-root lineage."
+}

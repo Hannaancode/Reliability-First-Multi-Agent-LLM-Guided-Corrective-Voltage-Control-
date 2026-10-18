@@ -15,3 +15,7 @@ The actual35,228,332-byte history record now has an exact1,323,285-byte referenc
 5. All141 federation recipes stay in coverage;118 is the bus count. The primary>=60 initial-UV recipes and all missing73 historical outcomes must remain explicit. No one-world result implies zero UV on all severe cases. Published dataset/method work remains pending faithful, separately justified solver integration; original failed native OPF attempts remain preserved, not rerun.
 
 All six human goals remain active/unachieved. Preserve frozen original model/network/controller/locked62 bank, literal DFF+DFF-ALT+unchangedDSE selector, individual branches and FULL BOTH costs, adverse/partial/UNKNOWN results, strong matched controls and unused confirmation. No GPU allocation, scientific worker or timer follows automatically from these software/audit passes.
+
+## Final follow-through
+
+The v2 capacity component is now bound to a separate original-commit/runtime namespace and passed the17 actual saved-real cold factory checks plus the future-receipt rejection test. A recursive local-source inventory is saved. This still requires prospective actual-input admission and a frozen complete/partial performance reader/owner protocol. The complete inspected-lineage index and independent reader verified60,377 keys,37,656 new primary attempts and15 recorded solver exceptions. Index identity/source closure is not independent physical validation of every candidate; absent keys do not prove globally unexecuted work. Read Exact_Next_Execution_State.json.

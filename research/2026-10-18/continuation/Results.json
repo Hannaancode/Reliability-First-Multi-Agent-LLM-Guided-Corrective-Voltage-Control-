@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETE_SOURCE_AND_IDENTITY_FRONTIER_REQUIRES_READER",
+  "all_keys": 60377,
+  "warm_paid": 22721,
+  "old_blocked": 0,
+  "new_primary_attempts": 37656,
+  "new_primary_with_closed_receipts": 37656,
+  "new_primary_without_closed_receipt_BLOCKED": 0,
+  "all_actual_attempts_including_replay": 37682,
+  "recorded_exceptions": 15,
+  "journal_sha256": "7961c57411526eaf8f7d79620b91fd00fcbf53d91d3aaf95598997add2f16732",
+  "frontier_sha256": "b80c61c3de920acde213f5574bf6abd917b73dd586a7b28c4e08bf93548025bd",
+  "new_scientific_calls": 0,
+  "workflow_seconds": 84.47082190000037,
+  "scope": "Only this source-compatible lineage, not all141 initial cases; every old cost/adverse/unknown outcome retained. No launch authorization, physical-candidate certification or winning gate."
+}
