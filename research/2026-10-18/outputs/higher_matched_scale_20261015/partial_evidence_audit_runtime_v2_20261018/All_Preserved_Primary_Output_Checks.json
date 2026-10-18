@@ -1,0 +1,731 @@
+[
+  {
+    "arm": "public_3B",
+    "id": "089dfdebf90b5da42c03dab6ba037979978717b75dd30b35451e0473b01f9c37_1143625b8ee202f9c697624972d18b25e27ad266ff3137eba2d9a353658295f3",
+    "world_sha256": "089dfdebf90b5da42c03dab6ba037979978717b75dd30b35451e0473b01f9c37",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "089dfdebf90b5da42c03dab6ba037979978717b75dd30b35451e0473b01f9c37_3d62e5c468982291db64eb2566beed4bd53e5de09cbd03dbe212445aea3234bc",
+    "world_sha256": "089dfdebf90b5da42c03dab6ba037979978717b75dd30b35451e0473b01f9c37",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "089dfdebf90b5da42c03dab6ba037979978717b75dd30b35451e0473b01f9c37_48581ce71cd3ff8fb0809892e87498e3da89efc6b9f39be20606377f3a5ae367",
+    "world_sha256": "089dfdebf90b5da42c03dab6ba037979978717b75dd30b35451e0473b01f9c37",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "089dfdebf90b5da42c03dab6ba037979978717b75dd30b35451e0473b01f9c37_5479fe5dce4584ee2506d8a97901fe9f1c495920e984cdde31c54b016d3df662",
+    "world_sha256": "089dfdebf90b5da42c03dab6ba037979978717b75dd30b35451e0473b01f9c37",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "0dbbbde9ea61b9e4ef6f425086b8d2e91c924bcce0ba23081f8445826d3b37fd_37abe1a90dd0eff259c1b9138ff0819fceda30d133c3e21c9a583477ef852905",
+    "world_sha256": "0dbbbde9ea61b9e4ef6f425086b8d2e91c924bcce0ba23081f8445826d3b37fd",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "0dbbbde9ea61b9e4ef6f425086b8d2e91c924bcce0ba23081f8445826d3b37fd_d0957789b1d55b5d7cd5941419031e62c3da0bc3f37645ff2b20a6bef1db5165",
+    "world_sha256": "0dbbbde9ea61b9e4ef6f425086b8d2e91c924bcce0ba23081f8445826d3b37fd",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "0dbbbde9ea61b9e4ef6f425086b8d2e91c924bcce0ba23081f8445826d3b37fd_d4e6bbcd6f189943f4fdf521f0d13f523415c4d5b04c2f0a1d31ae7b26567c7a",
+    "world_sha256": "0dbbbde9ea61b9e4ef6f425086b8d2e91c924bcce0ba23081f8445826d3b37fd",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "0dbbbde9ea61b9e4ef6f425086b8d2e91c924bcce0ba23081f8445826d3b37fd_f611bf95d0d080bc182b036c95606e63d8a42ce33769111c02e8776d92d7b3f6",
+    "world_sha256": "0dbbbde9ea61b9e4ef6f425086b8d2e91c924bcce0ba23081f8445826d3b37fd",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "11d46d14697582574d12894bf5593f61ce5fa5928cabb1d228af5bdc410e4139_1d3105b4e53699672b355d2fbe8267594753b652aaa176047b1e0f19a0c7a32e",
+    "world_sha256": "11d46d14697582574d12894bf5593f61ce5fa5928cabb1d228af5bdc410e4139",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "11d46d14697582574d12894bf5593f61ce5fa5928cabb1d228af5bdc410e4139_1d377019aa69b0da49995329c96b8422ea4ac210e2465262ac8d881976d5d1b2",
+    "world_sha256": "11d46d14697582574d12894bf5593f61ce5fa5928cabb1d228af5bdc410e4139",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "11d46d14697582574d12894bf5593f61ce5fa5928cabb1d228af5bdc410e4139_1feec6073ce975cf3e7983d3e82e653f416e86d828075d623234f4c2f89730b0",
+    "world_sha256": "11d46d14697582574d12894bf5593f61ce5fa5928cabb1d228af5bdc410e4139",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "11d46d14697582574d12894bf5593f61ce5fa5928cabb1d228af5bdc410e4139_54553388f78e85e273ba970456ec2c7731791f13ae7c7a1c1724bbecde490235",
+    "world_sha256": "11d46d14697582574d12894bf5593f61ce5fa5928cabb1d228af5bdc410e4139",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "1526405222df9e9844d494e736c7007b35623f30ef5b30e66ad003df951aa0d6_24ab8e5fc7552f9d71d7ee73024cfb499d43f2a8326dca75e31f3e393b7551da",
+    "world_sha256": "1526405222df9e9844d494e736c7007b35623f30ef5b30e66ad003df951aa0d6",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "1526405222df9e9844d494e736c7007b35623f30ef5b30e66ad003df951aa0d6_44f866490f0d1a4efd7d90decb39e799d19668c024a5c07b3aff93bf75783147",
+    "world_sha256": "1526405222df9e9844d494e736c7007b35623f30ef5b30e66ad003df951aa0d6",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "1526405222df9e9844d494e736c7007b35623f30ef5b30e66ad003df951aa0d6_4da4deb61783a7901ec43457e370b315498400381358ab478de15e9cc175091e",
+    "world_sha256": "1526405222df9e9844d494e736c7007b35623f30ef5b30e66ad003df951aa0d6",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "1526405222df9e9844d494e736c7007b35623f30ef5b30e66ad003df951aa0d6_a8c8073bd2e20713b98829976c4e1be1360eb407855d4da5b2c73ee60f4c12cf",
+    "world_sha256": "1526405222df9e9844d494e736c7007b35623f30ef5b30e66ad003df951aa0d6",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "2c95227ccae5cbc3053a0677141b2f9da12d5059975651edf4dc61ecf815765d_02ee722bfb70d8e8ae39d3b30bae838e1f8f296a4074a31e3a531a3e5716da1d",
+    "world_sha256": "2c95227ccae5cbc3053a0677141b2f9da12d5059975651edf4dc61ecf815765d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "2c95227ccae5cbc3053a0677141b2f9da12d5059975651edf4dc61ecf815765d_82f7b6c903e79bc817d9184076816210cf44ab2dd7952120c92a034e634ae07d",
+    "world_sha256": "2c95227ccae5cbc3053a0677141b2f9da12d5059975651edf4dc61ecf815765d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "2c95227ccae5cbc3053a0677141b2f9da12d5059975651edf4dc61ecf815765d_9f2aeec1477a7844da53db4112416cec744eb74121b9226e999b449d2f392488",
+    "world_sha256": "2c95227ccae5cbc3053a0677141b2f9da12d5059975651edf4dc61ecf815765d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "2c95227ccae5cbc3053a0677141b2f9da12d5059975651edf4dc61ecf815765d_c9b414c576f36bab23ae183ab492446592173f5032559851510cc7744ccc1dae",
+    "world_sha256": "2c95227ccae5cbc3053a0677141b2f9da12d5059975651edf4dc61ecf815765d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "303fad315354d01991aa627d93c3c3509a518eaa7e439f523375ec9db789a094_1458a18886e4ab8f89c06ab1271669e69a7bbb85db43d0d9705a8a182c0cb8bd",
+    "world_sha256": "303fad315354d01991aa627d93c3c3509a518eaa7e439f523375ec9db789a094",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "303fad315354d01991aa627d93c3c3509a518eaa7e439f523375ec9db789a094_579c57517668f92069ea9d7a64257c9de9e9d4d42493554641fc372f1829ddc4",
+    "world_sha256": "303fad315354d01991aa627d93c3c3509a518eaa7e439f523375ec9db789a094",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "303fad315354d01991aa627d93c3c3509a518eaa7e439f523375ec9db789a094_67331fd11833bc7179b6792fb125db9f5e63e1e529125ed7f34dfa12d0aa81ad",
+    "world_sha256": "303fad315354d01991aa627d93c3c3509a518eaa7e439f523375ec9db789a094",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "303fad315354d01991aa627d93c3c3509a518eaa7e439f523375ec9db789a094_92442f1ee915c97f90a542e61ad1240ed594fa893e210c8a2aa61896d34b2424",
+    "world_sha256": "303fad315354d01991aa627d93c3c3509a518eaa7e439f523375ec9db789a094",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "409f39110a417dea959f889cfa1e337e7a00afedd5eb77c8f8535117981108cc_0c833aaef77033d0607973c4026d4353347dea1891855bc90e83957aaf528000",
+    "world_sha256": "409f39110a417dea959f889cfa1e337e7a00afedd5eb77c8f8535117981108cc",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "409f39110a417dea959f889cfa1e337e7a00afedd5eb77c8f8535117981108cc_749cb7fb8bb35541736717861d09682a9d475a92f664c3ab454e93b5e94ee108",
+    "world_sha256": "409f39110a417dea959f889cfa1e337e7a00afedd5eb77c8f8535117981108cc",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "409f39110a417dea959f889cfa1e337e7a00afedd5eb77c8f8535117981108cc_9105521302c0a1ed05cb60e8bd13c3dc83afcd0417212f1554930468f9bfabb8",
+    "world_sha256": "409f39110a417dea959f889cfa1e337e7a00afedd5eb77c8f8535117981108cc",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "409f39110a417dea959f889cfa1e337e7a00afedd5eb77c8f8535117981108cc_fb1889941ac843959b5410648f30eeb0115b95cc3102477558cb8e9d30842dd9",
+    "world_sha256": "409f39110a417dea959f889cfa1e337e7a00afedd5eb77c8f8535117981108cc",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "440159b237edf20713c1909c2886ada7e2bd8a96aa82b4277a31a0dbcd7713c0_1f0aae7e527f9ea633d6a2dd1d24e27c0b26dda063a22a04b9f178fb3be9780f",
+    "world_sha256": "440159b237edf20713c1909c2886ada7e2bd8a96aa82b4277a31a0dbcd7713c0",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "440159b237edf20713c1909c2886ada7e2bd8a96aa82b4277a31a0dbcd7713c0_320a3127185a10ceb11ec9d478b8998deeccebd74d80946dcf6e24e5eaac8555",
+    "world_sha256": "440159b237edf20713c1909c2886ada7e2bd8a96aa82b4277a31a0dbcd7713c0",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "440159b237edf20713c1909c2886ada7e2bd8a96aa82b4277a31a0dbcd7713c0_4123285c9b2e29485fd6e9690de351ea1f3fe353e758f5a738d212a8abd824bc",
+    "world_sha256": "440159b237edf20713c1909c2886ada7e2bd8a96aa82b4277a31a0dbcd7713c0",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "440159b237edf20713c1909c2886ada7e2bd8a96aa82b4277a31a0dbcd7713c0_c80671151e47d3c0184814e89290d3fb94c04aeec6fe97dfd485d66df9a2fb11",
+    "world_sha256": "440159b237edf20713c1909c2886ada7e2bd8a96aa82b4277a31a0dbcd7713c0",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "4fef544c991b4cc5c4805d99c7a4064d9fefa47482957493455c22c99b18b84d_55e4d16916fcce5330f3295a9373403f98f6165f730c732c4194391d9c32dd22",
+    "world_sha256": "4fef544c991b4cc5c4805d99c7a4064d9fefa47482957493455c22c99b18b84d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "4fef544c991b4cc5c4805d99c7a4064d9fefa47482957493455c22c99b18b84d_62b379db5c4a655e6321aceb17058803c42ab779fe2093bdc35dbb3b15e82351",
+    "world_sha256": "4fef544c991b4cc5c4805d99c7a4064d9fefa47482957493455c22c99b18b84d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "4fef544c991b4cc5c4805d99c7a4064d9fefa47482957493455c22c99b18b84d_98d665625a3ab9a355470c70b32c5f999502f2c35b98b40f1d735e86d0189458",
+    "world_sha256": "4fef544c991b4cc5c4805d99c7a4064d9fefa47482957493455c22c99b18b84d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "4fef544c991b4cc5c4805d99c7a4064d9fefa47482957493455c22c99b18b84d_b9bf0ab52628417402d535ea75d5a89325cc9842ef7a48689bd1833886868f9d",
+    "world_sha256": "4fef544c991b4cc5c4805d99c7a4064d9fefa47482957493455c22c99b18b84d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "580fd59c6a948959facfe5d025c66d064e9b0f9f55218433865c2ec0bf7315d8_4777bc308ff015813f1106abb55d00b93bedbf6a9f462d51d61c48634eaeae7c",
+    "world_sha256": "580fd59c6a948959facfe5d025c66d064e9b0f9f55218433865c2ec0bf7315d8",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "580fd59c6a948959facfe5d025c66d064e9b0f9f55218433865c2ec0bf7315d8_7b346c1e6ddd94fa2682759219378a2e716fd9e40adceef9c71e8346193d8f4c",
+    "world_sha256": "580fd59c6a948959facfe5d025c66d064e9b0f9f55218433865c2ec0bf7315d8",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "580fd59c6a948959facfe5d025c66d064e9b0f9f55218433865c2ec0bf7315d8_82acd07355ae80e0d833cd346b2b47694246a72a1d9f4247738f7b5f5e93f82d",
+    "world_sha256": "580fd59c6a948959facfe5d025c66d064e9b0f9f55218433865c2ec0bf7315d8",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "580fd59c6a948959facfe5d025c66d064e9b0f9f55218433865c2ec0bf7315d8_f5fab6f60b5250e39ebb1a4542960cf3ddb73735f1cfc5f34ac2567ca545cbcf",
+    "world_sha256": "580fd59c6a948959facfe5d025c66d064e9b0f9f55218433865c2ec0bf7315d8",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "5d8d1d6fbd54cb69da38e305f170fb7bc588d4d1011b4070f8921b25c4fd133a_125e441c08156774ad6a129ec1f1bbfd27ca1ac2bd7f61d849d1da09ea3fdccc",
+    "world_sha256": "5d8d1d6fbd54cb69da38e305f170fb7bc588d4d1011b4070f8921b25c4fd133a",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "5d8d1d6fbd54cb69da38e305f170fb7bc588d4d1011b4070f8921b25c4fd133a_1458a18886e4ab8f89c06ab1271669e69a7bbb85db43d0d9705a8a182c0cb8bd",
+    "world_sha256": "5d8d1d6fbd54cb69da38e305f170fb7bc588d4d1011b4070f8921b25c4fd133a",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "5d8d1d6fbd54cb69da38e305f170fb7bc588d4d1011b4070f8921b25c4fd133a_92442f1ee915c97f90a542e61ad1240ed594fa893e210c8a2aa61896d34b2424",
+    "world_sha256": "5d8d1d6fbd54cb69da38e305f170fb7bc588d4d1011b4070f8921b25c4fd133a",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "5d8d1d6fbd54cb69da38e305f170fb7bc588d4d1011b4070f8921b25c4fd133a_ca93e0f67dbe14346d19c440bd0610b0829776033ab6c286b7c3151fde5aff80",
+    "world_sha256": "5d8d1d6fbd54cb69da38e305f170fb7bc588d4d1011b4070f8921b25c4fd133a",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "6ebb860d1a5745dc0362bb9887c0e120f1a1d61090cd29cc2758543bb0d914ff_3b1064ebcc51cbfd91e70b71ecc02269aaf5912519d6b42742d8ea3145078033",
+    "world_sha256": "6ebb860d1a5745dc0362bb9887c0e120f1a1d61090cd29cc2758543bb0d914ff",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "6ebb860d1a5745dc0362bb9887c0e120f1a1d61090cd29cc2758543bb0d914ff_8acad3da42cb219555ac8e42413faa677f487fe5468e0473b9c3d59d73f4f307",
+    "world_sha256": "6ebb860d1a5745dc0362bb9887c0e120f1a1d61090cd29cc2758543bb0d914ff",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "6ebb860d1a5745dc0362bb9887c0e120f1a1d61090cd29cc2758543bb0d914ff_b48352af8e85d30219aff8ea91e2720543ea9820cada6e8a347d0fe8239d7ca9",
+    "world_sha256": "6ebb860d1a5745dc0362bb9887c0e120f1a1d61090cd29cc2758543bb0d914ff",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "6ebb860d1a5745dc0362bb9887c0e120f1a1d61090cd29cc2758543bb0d914ff_c2c274aa3aad2cfbf6385bdc55b837a093d063f273ed986264aab46c84bff745",
+    "world_sha256": "6ebb860d1a5745dc0362bb9887c0e120f1a1d61090cd29cc2758543bb0d914ff",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "7123075ec2c0041d21c08efd28e85a23d4cc509163bbd9b79d760961356543aa_47456442534c0ade9225b9aaa054f1c7b409b4a3e3f284b55b5295609a4847a6",
+    "world_sha256": "7123075ec2c0041d21c08efd28e85a23d4cc509163bbd9b79d760961356543aa",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "7123075ec2c0041d21c08efd28e85a23d4cc509163bbd9b79d760961356543aa_91d9bb9723f79c96f23541ab1e223668c1f2592b152160a40ebe0fe1a1697b9c",
+    "world_sha256": "7123075ec2c0041d21c08efd28e85a23d4cc509163bbd9b79d760961356543aa",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "7123075ec2c0041d21c08efd28e85a23d4cc509163bbd9b79d760961356543aa_a84319912b54f39fb4241f36f7c5ad79c02f412e66cd5b0776d7fc81bb8dafad",
+    "world_sha256": "7123075ec2c0041d21c08efd28e85a23d4cc509163bbd9b79d760961356543aa",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "7123075ec2c0041d21c08efd28e85a23d4cc509163bbd9b79d760961356543aa_c682860ef121bbd21f63faef9720e83816b167208933686f1549b962de25ec98",
+    "world_sha256": "7123075ec2c0041d21c08efd28e85a23d4cc509163bbd9b79d760961356543aa",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "87b224e2c2c845f68f7ac91c05ebf3b754f6fdeacd7d5a10911c7b115e2dad69_025313194f93ff77c0d37790f9a36238b7ba0911f4daf3269bca28d25eab85cb",
+    "world_sha256": "87b224e2c2c845f68f7ac91c05ebf3b754f6fdeacd7d5a10911c7b115e2dad69",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "87b224e2c2c845f68f7ac91c05ebf3b754f6fdeacd7d5a10911c7b115e2dad69_4ea11323a6e2e9eb80e3ea3b564e70faded7fe063f3785feb35496611eea4d3f",
+    "world_sha256": "87b224e2c2c845f68f7ac91c05ebf3b754f6fdeacd7d5a10911c7b115e2dad69",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "87b224e2c2c845f68f7ac91c05ebf3b754f6fdeacd7d5a10911c7b115e2dad69_7858faf9b50c63be9000bb75f54526df4be11158f352aaa743dead4ffb4149b6",
+    "world_sha256": "87b224e2c2c845f68f7ac91c05ebf3b754f6fdeacd7d5a10911c7b115e2dad69",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "87b224e2c2c845f68f7ac91c05ebf3b754f6fdeacd7d5a10911c7b115e2dad69_b36f51735f810dba7e5166862af4feea681129a61a36600e5dffe28e0fafc611",
+    "world_sha256": "87b224e2c2c845f68f7ac91c05ebf3b754f6fdeacd7d5a10911c7b115e2dad69",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "b67ff90a6787cf2cc37cb9604265d857cbd33dafb6b4f18b4f88c49e594fb758_530a33c41634483c3d468460decf9bc5ab2ed58250f119356fbd8ebe7abbe3af",
+    "world_sha256": "b67ff90a6787cf2cc37cb9604265d857cbd33dafb6b4f18b4f88c49e594fb758",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "b67ff90a6787cf2cc37cb9604265d857cbd33dafb6b4f18b4f88c49e594fb758_8688ac0d12e41abfd584ff56befaebab1b73951ac35ed47732cec8bfe64b8aea",
+    "world_sha256": "b67ff90a6787cf2cc37cb9604265d857cbd33dafb6b4f18b4f88c49e594fb758",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "b67ff90a6787cf2cc37cb9604265d857cbd33dafb6b4f18b4f88c49e594fb758_b62acd40b6914209bb0d4e89eabc9b97bea5755d6615766dd46775e7d6f033cd",
+    "world_sha256": "b67ff90a6787cf2cc37cb9604265d857cbd33dafb6b4f18b4f88c49e594fb758",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "b67ff90a6787cf2cc37cb9604265d857cbd33dafb6b4f18b4f88c49e594fb758_f5d8a33df87cf1d0d575598c753b3c3b2c2fa40948e0bed05c24360c5834edd9",
+    "world_sha256": "b67ff90a6787cf2cc37cb9604265d857cbd33dafb6b4f18b4f88c49e594fb758",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "bd767b70d42a4b5c8f5f8f9b1bdbcd82bc9fb9f1fa6fd4bef4d27fca11229857_33ec70b9f7ae63e06432db0cf761961ca02b899be8a8eb1c6a45572f1416989a",
+    "world_sha256": "bd767b70d42a4b5c8f5f8f9b1bdbcd82bc9fb9f1fa6fd4bef4d27fca11229857",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "bd767b70d42a4b5c8f5f8f9b1bdbcd82bc9fb9f1fa6fd4bef4d27fca11229857_915d4eee9d9bb05c77c9765e29a8e4c73732c99a09a20c42ebf6bd6b697893dc",
+    "world_sha256": "bd767b70d42a4b5c8f5f8f9b1bdbcd82bc9fb9f1fa6fd4bef4d27fca11229857",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "bd767b70d42a4b5c8f5f8f9b1bdbcd82bc9fb9f1fa6fd4bef4d27fca11229857_b37f93ca20e597c3fcaede2c4ef39a9382fe74e55933674ab54a26090f619a8f",
+    "world_sha256": "bd767b70d42a4b5c8f5f8f9b1bdbcd82bc9fb9f1fa6fd4bef4d27fca11229857",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "bd767b70d42a4b5c8f5f8f9b1bdbcd82bc9fb9f1fa6fd4bef4d27fca11229857_d69889528006b65fa45aa22318158ad22371a7045ce3514e27ed62937d657fde",
+    "world_sha256": "bd767b70d42a4b5c8f5f8f9b1bdbcd82bc9fb9f1fa6fd4bef4d27fca11229857",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "c3f9bc461cb0b892fb1dcf0009ceae73c77553780b71481ae0bc6e17b15fcafc_20923ac06eecda30ea510b306082f3425169a9255e69ae95e95db2e444260358",
+    "world_sha256": "c3f9bc461cb0b892fb1dcf0009ceae73c77553780b71481ae0bc6e17b15fcafc",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "c3f9bc461cb0b892fb1dcf0009ceae73c77553780b71481ae0bc6e17b15fcafc_2b68e79067c9e81640a283d4bcbefdd6e31d28a882521f9cf46390a13f167613",
+    "world_sha256": "c3f9bc461cb0b892fb1dcf0009ceae73c77553780b71481ae0bc6e17b15fcafc",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "c3f9bc461cb0b892fb1dcf0009ceae73c77553780b71481ae0bc6e17b15fcafc_9bf5f4940ba206cf7ede639a279fa35fbaaf4cb365a1c3d356700704669011ef",
+    "world_sha256": "c3f9bc461cb0b892fb1dcf0009ceae73c77553780b71481ae0bc6e17b15fcafc",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "c3f9bc461cb0b892fb1dcf0009ceae73c77553780b71481ae0bc6e17b15fcafc_bf79d308ba9b9b2e87115ed12e3330ea0ed3ebedc8ac5098f0afae4cea631460",
+    "world_sha256": "c3f9bc461cb0b892fb1dcf0009ceae73c77553780b71481ae0bc6e17b15fcafc",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "c791b29c8cb13e9a3443b241970da909f72de03fd9f40a647ec370e5211a9b2d_0a5f95eaf172a10cbb7b36b5bc8680c68669daccc7f2f137685747ba32d7963a",
+    "world_sha256": "c791b29c8cb13e9a3443b241970da909f72de03fd9f40a647ec370e5211a9b2d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "c791b29c8cb13e9a3443b241970da909f72de03fd9f40a647ec370e5211a9b2d_49d7070ac6403c9b263eb52b88a6e9f8a549850dfbee4c6051ba2479c811d67a",
+    "world_sha256": "c791b29c8cb13e9a3443b241970da909f72de03fd9f40a647ec370e5211a9b2d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "c791b29c8cb13e9a3443b241970da909f72de03fd9f40a647ec370e5211a9b2d_507d9fd7bf9e266ab03a80330c002242873a5faf55688a32ffb915a7df5faa96",
+    "world_sha256": "c791b29c8cb13e9a3443b241970da909f72de03fd9f40a647ec370e5211a9b2d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "c791b29c8cb13e9a3443b241970da909f72de03fd9f40a647ec370e5211a9b2d_f873e103e0a14804984750ccd7a4cef8c436e88812afff754ae0d0a8644e650f",
+    "world_sha256": "c791b29c8cb13e9a3443b241970da909f72de03fd9f40a647ec370e5211a9b2d",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "cee1301a0de772e758b9bc0cf142d8820d99c10ba33603c45b9d8d2f813c5834_8306bd04d735a9c370c77971dcdbeaba8003b1c6b24634f2ea5ca905c4129d09",
+    "world_sha256": "cee1301a0de772e758b9bc0cf142d8820d99c10ba33603c45b9d8d2f813c5834",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "cee1301a0de772e758b9bc0cf142d8820d99c10ba33603c45b9d8d2f813c5834_8acad3da42cb219555ac8e42413faa677f487fe5468e0473b9c3d59d73f4f307",
+    "world_sha256": "cee1301a0de772e758b9bc0cf142d8820d99c10ba33603c45b9d8d2f813c5834",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "cee1301a0de772e758b9bc0cf142d8820d99c10ba33603c45b9d8d2f813c5834_b48352af8e85d30219aff8ea91e2720543ea9820cada6e8a347d0fe8239d7ca9",
+    "world_sha256": "cee1301a0de772e758b9bc0cf142d8820d99c10ba33603c45b9d8d2f813c5834",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "cee1301a0de772e758b9bc0cf142d8820d99c10ba33603c45b9d8d2f813c5834_efa83a09bdbf750ef7841e72302d0b92e85d4351891f7557f2336d9edf112acd",
+    "world_sha256": "cee1301a0de772e758b9bc0cf142d8820d99c10ba33603c45b9d8d2f813c5834",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "db20822184bd4282b6e6e0b73a0d034b64aa49da9f0e98c7131e87250febb224_120bd8d8a8f000c63aa9994aa318573b82fbaf3c9f2fd4a8d65c4d3546363c07",
+    "world_sha256": "db20822184bd4282b6e6e0b73a0d034b64aa49da9f0e98c7131e87250febb224",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "db20822184bd4282b6e6e0b73a0d034b64aa49da9f0e98c7131e87250febb224_acd69d4495680efff343e282ea0c8d9487f9fa449ff9b80daac51f86904576c1",
+    "world_sha256": "db20822184bd4282b6e6e0b73a0d034b64aa49da9f0e98c7131e87250febb224",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "db20822184bd4282b6e6e0b73a0d034b64aa49da9f0e98c7131e87250febb224_d90eba4119ca964d62c41e3821283d7c170fcac9a581688b02bf5ea5d2c911dd",
+    "world_sha256": "db20822184bd4282b6e6e0b73a0d034b64aa49da9f0e98c7131e87250febb224",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "db20822184bd4282b6e6e0b73a0d034b64aa49da9f0e98c7131e87250febb224_ff08cdfc0910579d8de598e49eaaa7de938c9f64ec9aac255dbb91db9f1a97d9",
+    "world_sha256": "db20822184bd4282b6e6e0b73a0d034b64aa49da9f0e98c7131e87250febb224",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": true,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  },
+  {
+    "arm": "public_3B",
+    "id": "dfcc0014e9fbb43ba97b52b8d7e79f2a85b1347b5dfe05849c29e690e8eee1c3_1e4c00d097d4fffef0fd1e04417b80b1caa64fa416613385436ae60d84dd44ca",
+    "world_sha256": "dfcc0014e9fbb43ba97b52b8d7e79f2a85b1347b5dfe05849c29e690e8eee1c3",
+    "strict_schema_and_local_grammar": true,
+    "exact_action_hit": false,
+    "invalid_reason": null,
+    "original_teacher_target_is_not_physical_oracle": true
+  }
+]

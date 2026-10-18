@@ -1,0 +1,2702 @@
+{
+  "at_utc": "2026-10-14T18:38:57.815512+00:00",
+  "118_is_bus_count": true,
+  "recipe_count": 141,
+  "historical_complete_rows": 68,
+  "no_historical_result_rows": 73,
+  "classification": "Initial>=60 primary severe, >=50 broader severe, retain all141 including UNKNOWN. A coverage inventory, not a performance subset.",
+  "historical_csv_sha256": "369b3199def893eb32a6582e83cf194d38725fc18587a86af94ae3ee9dd1df99",
+  "already_verified_diagnostic_sha256": "4174c18d5e253a46b9f8337cf38385089e92fc7349c545673d329fc80d09d1aa",
+  "all_cases": [
+    {
+      "recipe": "fed_combined_load_1p25_line_101_MG1.json",
+      "world": "fed_combined_load_1p25_line_101_MG1",
+      "recorded_initial_UV": 8,
+      "historical_run": {
+        "scenario_index": 1,
+        "initial_UV": 8,
+        "final_UV": 0,
+        "actions": 5,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_127_MG3.json",
+      "world": "fed_combined_load_1p25_line_127_MG3",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 2,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [
+        {
+          "scenario_id": "fed_combined_load_1p25_line_127_MG3",
+          "arm": "LoRA_fresh_guarded",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "strict_UV_cleared",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_127_MG3",
+          "arm": "LoRA_held_initial_guarded",
+          "initial_uv": 9,
+          "final_uv": 1,
+          "vmax": 1.05,
+          "deficit": 0.005578663655444571,
+          "actions": 11,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_127_MG3",
+          "arm": "base_fresh_guarded",
+          "initial_uv": 9,
+          "final_uv": 1,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.0017756411427078955,
+          "actions": 12,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_127_MG3",
+          "arm": "budgeted_DFF_ALT_guarded",
+          "initial_uv": 9,
+          "final_uv": 4,
+          "vmax": 1.05,
+          "deficit": 0.06386227602814942,
+          "actions": 5,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_127_MG3",
+          "arm": "budgeted_DFF_guarded",
+          "initial_uv": 9,
+          "final_uv": 4,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.06380749704428867,
+          "actions": 5,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_127_MG3",
+          "arm": "guarded_full_DFF",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.05,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_127_MG3",
+          "arm": "guarded_full_DFF_ALT",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.05,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_127_MG3",
+          "arm": "lowest_guarded",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.05,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "strict_UV_cleared",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_127_MG3",
+          "arm": "original_DFF",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0517970636918834,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_127_MG3",
+          "arm": "original_DFF_ALT",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.05117117813208,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        }
+      ],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_128_MG3.json",
+      "world": "fed_combined_load_1p25_line_128_MG3",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 3,
+        "initial_UV": 9,
+        "final_UV": 1,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_129_MG3.json",
+      "world": "fed_combined_load_1p25_line_129_MG3",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 4,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 5,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_135_MG3.json",
+      "world": "fed_combined_load_1p25_line_135_MG3",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 5,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 8,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_136_MG3.json",
+      "world": "fed_combined_load_1p25_line_136_MG3",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 6,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_138_MG3.json",
+      "world": "fed_combined_load_1p25_line_138_MG3",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 7,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 5,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_139_MG3.json",
+      "world": "fed_combined_load_1p25_line_139_MG3",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 8,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_140_MG3.json",
+      "world": "fed_combined_load_1p25_line_140_MG3",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 9,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_165_MG1.json",
+      "world": "fed_combined_load_1p25_line_165_MG1",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 10,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 5,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_166_MG2.json",
+      "world": "fed_combined_load_1p25_line_166_MG2",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 11,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_167_MG2.json",
+      "world": "fed_combined_load_1p25_line_167_MG2",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 12,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_168_MG1.json",
+      "world": "fed_combined_load_1p25_line_168_MG1",
+      "recorded_initial_UV": 11,
+      "historical_run": {
+        "scenario_index": 13,
+        "initial_UV": 11,
+        "final_UV": 0,
+        "actions": 5,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_170_MG1.json",
+      "world": "fed_combined_load_1p25_line_170_MG1",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 14,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_171_MG3.json",
+      "world": "fed_combined_load_1p25_line_171_MG3",
+      "recorded_initial_UV": 7,
+      "historical_run": {
+        "scenario_index": 15,
+        "initial_UV": 7,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_172_MG3.json",
+      "world": "fed_combined_load_1p25_line_172_MG3",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 16,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_35_MG1.json",
+      "world": "fed_combined_load_1p25_line_35_MG1",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 17,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 5,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [
+        {
+          "scenario_id": "fed_combined_load_1p25_line_35_MG1",
+          "arm": "LoRA_fresh_guarded",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.0,
+          "actions": 5,
+          "stop_reason": "strict_UV_cleared",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_35_MG1",
+          "arm": "LoRA_held_initial_guarded",
+          "initial_uv": 9,
+          "final_uv": 1,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.0056114610404228715,
+          "actions": 10,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_35_MG1",
+          "arm": "base_fresh_guarded",
+          "initial_uv": 9,
+          "final_uv": 1,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.002200515640535028,
+          "actions": 12,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_35_MG1",
+          "arm": "budgeted_DFF_ALT_guarded",
+          "initial_uv": 9,
+          "final_uv": 4,
+          "vmax": 1.05,
+          "deficit": 0.06511408978654787,
+          "actions": 8,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_35_MG1",
+          "arm": "budgeted_DFF_guarded",
+          "initial_uv": 9,
+          "final_uv": 4,
+          "vmax": 1.0500000000000005,
+          "deficit": 0.06506350902196034,
+          "actions": 7,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_35_MG1",
+          "arm": "guarded_full_DFF",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0500000000000005,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_35_MG1",
+          "arm": "guarded_full_DFF_ALT",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_35_MG1",
+          "arm": "lowest_guarded",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0500000000000005,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "strict_UV_cleared",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_35_MG1",
+          "arm": "original_DFF",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0500000000000005,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_35_MG1",
+          "arm": "original_DFF_ALT",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        }
+      ],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_36_MG1.json",
+      "world": "fed_combined_load_1p25_line_36_MG1",
+      "recorded_initial_UV": 11,
+      "historical_run": {
+        "scenario_index": 18,
+        "initial_UV": 11,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [
+        {
+          "scenario_id": "fed_combined_load_1p25_line_36_MG1",
+          "arm": "LoRA_fresh_guarded",
+          "initial_uv": 11,
+          "final_uv": 0,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.0,
+          "actions": 12,
+          "stop_reason": "strict_UV_cleared",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_36_MG1",
+          "arm": "LoRA_held_initial_guarded",
+          "initial_uv": 11,
+          "final_uv": 0,
+          "vmax": 1.05,
+          "deficit": 0.0,
+          "actions": 8,
+          "stop_reason": "strict_UV_cleared",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_36_MG1",
+          "arm": "base_fresh_guarded",
+          "initial_uv": 11,
+          "final_uv": 1,
+          "vmax": 1.05,
+          "deficit": 0.002316427122937781,
+          "actions": 11,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_36_MG1",
+          "arm": "budgeted_DFF_ALT_guarded",
+          "initial_uv": 11,
+          "final_uv": 4,
+          "vmax": 1.05,
+          "deficit": 0.06414160535790814,
+          "actions": 7,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_36_MG1",
+          "arm": "budgeted_DFF_guarded",
+          "initial_uv": 11,
+          "final_uv": 4,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.06415236902249122,
+          "actions": 7,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_36_MG1",
+          "arm": "guarded_full_DFF",
+          "initial_uv": 11,
+          "final_uv": 0,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.0,
+          "actions": 5,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_36_MG1",
+          "arm": "guarded_full_DFF_ALT",
+          "initial_uv": 11,
+          "final_uv": 0,
+          "vmax": 1.05,
+          "deficit": 0.0,
+          "actions": 5,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_36_MG1",
+          "arm": "lowest_guarded",
+          "initial_uv": 11,
+          "final_uv": 0,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.0,
+          "actions": 5,
+          "stop_reason": "strict_UV_cleared",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_36_MG1",
+          "arm": "original_DFF",
+          "initial_uv": 11,
+          "final_uv": 0,
+          "vmax": 1.0545992868694347,
+          "deficit": 0.0,
+          "actions": 5,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_36_MG1",
+          "arm": "original_DFF_ALT",
+          "initial_uv": 11,
+          "final_uv": 0,
+          "vmax": 1.0544635161432685,
+          "deficit": 0.0,
+          "actions": 5,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        }
+      ],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_37_MG1.json",
+      "world": "fed_combined_load_1p25_line_37_MG1",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 19,
+        "initial_UV": 9,
+        "final_UV": 1,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_39_MG1.json",
+      "world": "fed_combined_load_1p25_line_39_MG1",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 20,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_40_MG1.json",
+      "world": "fed_combined_load_1p25_line_40_MG1",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 21,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 7,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_41_MG1.json",
+      "world": "fed_combined_load_1p25_line_41_MG1",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 22,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 7,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_49_MG1.json",
+      "world": "fed_combined_load_1p25_line_49_MG1",
+      "recorded_initial_UV": 10,
+      "historical_run": {
+        "scenario_index": 23,
+        "initial_UV": 10,
+        "final_UV": 0,
+        "actions": 8,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_84_MG2.json",
+      "world": "fed_combined_load_1p25_line_84_MG2",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 24,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 5,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [
+        {
+          "scenario_id": "fed_combined_load_1p25_line_84_MG2",
+          "arm": "LoRA_fresh_guarded",
+          "initial_uv": 9,
+          "final_uv": 2,
+          "vmax": 1.05,
+          "deficit": 0.016159899927232546,
+          "actions": 11,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_84_MG2",
+          "arm": "LoRA_held_initial_guarded",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0500000000000005,
+          "deficit": 0.0,
+          "actions": 6,
+          "stop_reason": "strict_UV_cleared",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_84_MG2",
+          "arm": "base_fresh_guarded",
+          "initial_uv": 9,
+          "final_uv": 1,
+          "vmax": 1.05,
+          "deficit": 0.002012907247078144,
+          "actions": 12,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_84_MG2",
+          "arm": "budgeted_DFF_ALT_guarded",
+          "initial_uv": 9,
+          "final_uv": 4,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.06265046749171521,
+          "actions": 5,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_84_MG2",
+          "arm": "budgeted_DFF_guarded",
+          "initial_uv": 9,
+          "final_uv": 4,
+          "vmax": 1.05,
+          "deficit": 0.06269188747341836,
+          "actions": 5,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_84_MG2",
+          "arm": "guarded_full_DFF",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_84_MG2",
+          "arm": "guarded_full_DFF_ALT",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0500000000000005,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_84_MG2",
+          "arm": "lowest_guarded",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "strict_UV_cleared",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": true
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_84_MG2",
+          "arm": "original_DFF",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0511837075218837,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p25_line_84_MG2",
+          "arm": "original_DFF_ALT",
+          "initial_uv": 9,
+          "final_uv": 0,
+          "vmax": 1.0509575336003838,
+          "deficit": 0.0,
+          "actions": 4,
+          "stop_reason": "full_restoration",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        }
+      ],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_85_MG2.json",
+      "world": "fed_combined_load_1p25_line_85_MG2",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 25,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 8,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_86_MG2.json",
+      "world": "fed_combined_load_1p25_line_86_MG2",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 26,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 7,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_89_MG2.json",
+      "world": "fed_combined_load_1p25_line_89_MG2",
+      "recorded_initial_UV": 21,
+      "historical_run": {
+        "scenario_index": 27,
+        "initial_UV": 21,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_91_MG2.json",
+      "world": "fed_combined_load_1p25_line_91_MG2",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 28,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_92_MG2.json",
+      "world": "fed_combined_load_1p25_line_92_MG2",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 29,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_96_MG2.json",
+      "world": "fed_combined_load_1p25_line_96_MG2",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 30,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_97_MG2.json",
+      "world": "fed_combined_load_1p25_line_97_MG2",
+      "recorded_initial_UV": 9,
+      "historical_run": {
+        "scenario_index": 31,
+        "initial_UV": 9,
+        "final_UV": 0,
+        "actions": 5,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p25_line_99_MG1.json",
+      "world": "fed_combined_load_1p25_line_99_MG1",
+      "recorded_initial_UV": 8,
+      "historical_run": {
+        "scenario_index": 32,
+        "initial_UV": 8,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_101_MG1.json",
+      "world": "fed_combined_load_1p35_line_101_MG1",
+      "recorded_initial_UV": 16,
+      "historical_run": {
+        "scenario_index": 33,
+        "initial_UV": 16,
+        "final_UV": 6,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_127_MG3.json",
+      "world": "fed_combined_load_1p35_line_127_MG3",
+      "recorded_initial_UV": 15,
+      "historical_run": {
+        "scenario_index": 34,
+        "initial_UV": 15,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_128_MG3.json",
+      "world": "fed_combined_load_1p35_line_128_MG3",
+      "recorded_initial_UV": 17,
+      "historical_run": {
+        "scenario_index": 35,
+        "initial_UV": 17,
+        "final_UV": 3,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_129_MG3.json",
+      "world": "fed_combined_load_1p35_line_129_MG3",
+      "recorded_initial_UV": 15,
+      "historical_run": {
+        "scenario_index": 36,
+        "initial_UV": 15,
+        "final_UV": 0,
+        "actions": 5,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_135_MG3.json",
+      "world": "fed_combined_load_1p35_line_135_MG3",
+      "recorded_initial_UV": 16,
+      "historical_run": {
+        "scenario_index": 37,
+        "initial_UV": 16,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_136_MG3.json",
+      "world": "fed_combined_load_1p35_line_136_MG3",
+      "recorded_initial_UV": 15,
+      "historical_run": {
+        "scenario_index": 38,
+        "initial_UV": 15,
+        "final_UV": 6,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_138_MG3.json",
+      "world": "fed_combined_load_1p35_line_138_MG3",
+      "recorded_initial_UV": 20,
+      "historical_run": {
+        "scenario_index": 39,
+        "initial_UV": 20,
+        "final_UV": 1,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_139_MG3.json",
+      "world": "fed_combined_load_1p35_line_139_MG3",
+      "recorded_initial_UV": 17,
+      "historical_run": {
+        "scenario_index": 40,
+        "initial_UV": 17,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_140_MG3.json",
+      "world": "fed_combined_load_1p35_line_140_MG3",
+      "recorded_initial_UV": 16,
+      "historical_run": {
+        "scenario_index": 41,
+        "initial_UV": 16,
+        "final_UV": 1,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_165_MG1.json",
+      "world": "fed_combined_load_1p35_line_165_MG1",
+      "recorded_initial_UV": 16,
+      "historical_run": {
+        "scenario_index": 42,
+        "initial_UV": 16,
+        "final_UV": 0,
+        "actions": 7,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_166_MG2.json",
+      "world": "fed_combined_load_1p35_line_166_MG2",
+      "recorded_initial_UV": 15,
+      "historical_run": {
+        "scenario_index": 43,
+        "initial_UV": 15,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_167_MG2.json",
+      "world": "fed_combined_load_1p35_line_167_MG2",
+      "recorded_initial_UV": 15,
+      "historical_run": {
+        "scenario_index": 44,
+        "initial_UV": 15,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_168_MG1.json",
+      "world": "fed_combined_load_1p35_line_168_MG1",
+      "recorded_initial_UV": 17,
+      "historical_run": {
+        "scenario_index": 45,
+        "initial_UV": 17,
+        "final_UV": 0,
+        "actions": 8,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_170_MG1.json",
+      "world": "fed_combined_load_1p35_line_170_MG1",
+      "recorded_initial_UV": 14,
+      "historical_run": {
+        "scenario_index": 46,
+        "initial_UV": 14,
+        "final_UV": 5,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_171_MG3.json",
+      "world": "fed_combined_load_1p35_line_171_MG3",
+      "recorded_initial_UV": 17,
+      "historical_run": {
+        "scenario_index": 47,
+        "initial_UV": 17,
+        "final_UV": 0,
+        "actions": 7,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_172_MG3.json",
+      "world": "fed_combined_load_1p35_line_172_MG3",
+      "recorded_initial_UV": 15,
+      "historical_run": {
+        "scenario_index": 48,
+        "initial_UV": 15,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_35_MG1.json",
+      "world": "fed_combined_load_1p35_line_35_MG1",
+      "recorded_initial_UV": 15,
+      "historical_run": {
+        "scenario_index": 49,
+        "initial_UV": 15,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_36_MG1.json",
+      "world": "fed_combined_load_1p35_line_36_MG1",
+      "recorded_initial_UV": 17,
+      "historical_run": {
+        "scenario_index": 50,
+        "initial_UV": 17,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_37_MG1.json",
+      "world": "fed_combined_load_1p35_line_37_MG1",
+      "recorded_initial_UV": 18,
+      "historical_run": {
+        "scenario_index": 51,
+        "initial_UV": 18,
+        "final_UV": 3,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_39_MG1.json",
+      "world": "fed_combined_load_1p35_line_39_MG1",
+      "recorded_initial_UV": 15,
+      "historical_run": {
+        "scenario_index": 52,
+        "initial_UV": 15,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_40_MG1.json",
+      "world": "fed_combined_load_1p35_line_40_MG1",
+      "recorded_initial_UV": 16,
+      "historical_run": {
+        "scenario_index": 53,
+        "initial_UV": 16,
+        "final_UV": 0,
+        "actions": 8,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_41_MG1.json",
+      "world": "fed_combined_load_1p35_line_41_MG1",
+      "recorded_initial_UV": 16,
+      "historical_run": {
+        "scenario_index": 54,
+        "initial_UV": 16,
+        "final_UV": 0,
+        "actions": 9,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_49_MG1.json",
+      "world": "fed_combined_load_1p35_line_49_MG1",
+      "recorded_initial_UV": 24,
+      "historical_run": {
+        "scenario_index": 55,
+        "initial_UV": 24,
+        "final_UV": 0,
+        "actions": 6,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_84_MG2.json",
+      "world": "fed_combined_load_1p35_line_84_MG2",
+      "recorded_initial_UV": 15,
+      "historical_run": {
+        "scenario_index": 56,
+        "initial_UV": 15,
+        "final_UV": 1,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_85_MG2.json",
+      "world": "fed_combined_load_1p35_line_85_MG2",
+      "recorded_initial_UV": 15,
+      "historical_run": {
+        "scenario_index": 57,
+        "initial_UV": 15,
+        "final_UV": 3,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_86_MG2.json",
+      "world": "fed_combined_load_1p35_line_86_MG2",
+      "recorded_initial_UV": 15,
+      "historical_run": {
+        "scenario_index": 58,
+        "initial_UV": 15,
+        "final_UV": 5,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_89_MG2.json",
+      "world": "fed_combined_load_1p35_line_89_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_91_MG2.json",
+      "world": "fed_combined_load_1p35_line_91_MG2",
+      "recorded_initial_UV": 16,
+      "historical_run": {
+        "scenario_index": 60,
+        "initial_UV": 16,
+        "final_UV": 0,
+        "actions": 8,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_92_MG2.json",
+      "world": "fed_combined_load_1p35_line_92_MG2",
+      "recorded_initial_UV": 16,
+      "historical_run": {
+        "scenario_index": 61,
+        "initial_UV": 16,
+        "final_UV": 0,
+        "actions": 8,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_96_MG2.json",
+      "world": "fed_combined_load_1p35_line_96_MG2",
+      "recorded_initial_UV": 16,
+      "historical_run": {
+        "scenario_index": 62,
+        "initial_UV": 16,
+        "final_UV": 0,
+        "actions": 5,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_97_MG2.json",
+      "world": "fed_combined_load_1p35_line_97_MG2",
+      "recorded_initial_UV": 14,
+      "historical_run": {
+        "scenario_index": 63,
+        "initial_UV": 14,
+        "final_UV": 0,
+        "actions": 7,
+        "stop": "full_restoration",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p35_line_99_MG1.json",
+      "world": "fed_combined_load_1p35_line_99_MG1",
+      "recorded_initial_UV": 16,
+      "historical_run": {
+        "scenario_index": 64,
+        "initial_UV": 16,
+        "final_UV": 3,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "OTHER_RECORDED"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_101_MG1.json",
+      "world": "fed_combined_load_1p5_line_101_MG1",
+      "recorded_initial_UV": 61,
+      "historical_run": {
+        "scenario_index": 65,
+        "initial_UV": 61,
+        "final_UV": 21,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "INITIAL_UV_GE60"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_127_MG3.json",
+      "world": "fed_combined_load_1p5_line_127_MG3",
+      "recorded_initial_UV": 55,
+      "historical_run": {
+        "scenario_index": 66,
+        "initial_UV": 55,
+        "final_UV": 41,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [
+        {
+          "scenario_id": "fed_combined_load_1p5_line_127_MG3",
+          "arm": "LoRA_fresh_guarded",
+          "initial_uv": 55,
+          "final_uv": 15,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.24550284596492067,
+          "actions": 8,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_127_MG3",
+          "arm": "LoRA_held_initial_guarded",
+          "initial_uv": 55,
+          "final_uv": 13,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.6041667273140233,
+          "actions": 8,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_127_MG3",
+          "arm": "base_fresh_guarded",
+          "initial_uv": 55,
+          "final_uv": 14,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.30284377369569504,
+          "actions": 12,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_127_MG3",
+          "arm": "budgeted_DFF_ALT_guarded",
+          "initial_uv": 55,
+          "final_uv": 38,
+          "vmax": 1.0500000000000003,
+          "deficit": 1.5261586256405861,
+          "actions": 5,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_127_MG3",
+          "arm": "budgeted_DFF_guarded",
+          "initial_uv": 55,
+          "final_uv": 24,
+          "vmax": 1.0500000000000003,
+          "deficit": 1.0363189037687777,
+          "actions": 11,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_127_MG3",
+          "arm": "guarded_full_DFF",
+          "initial_uv": 55,
+          "final_uv": 10,
+          "vmax": 1.05,
+          "deficit": 0.1415716062954646,
+          "actions": 6,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_127_MG3",
+          "arm": "guarded_full_DFF_ALT",
+          "initial_uv": 55,
+          "final_uv": 10,
+          "vmax": 1.05,
+          "deficit": 0.1415716062954646,
+          "actions": 6,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_127_MG3",
+          "arm": "lowest_guarded",
+          "initial_uv": 55,
+          "final_uv": 5,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.06192780461740788,
+          "actions": 7,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_127_MG3",
+          "arm": "original_DFF",
+          "initial_uv": 55,
+          "final_uv": 7,
+          "vmax": 1.0599853477698533,
+          "deficit": 0.523938334453125,
+          "actions": 8,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_127_MG3",
+          "arm": "original_DFF_ALT",
+          "initial_uv": 55,
+          "final_uv": 7,
+          "vmax": 1.0599932593728179,
+          "deficit": 0.4986759080989863,
+          "actions": 8,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        }
+      ],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "INITIAL_UV_GE50"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_128_MG3.json",
+      "world": "fed_combined_load_1p5_line_128_MG3",
+      "recorded_initial_UV": 60,
+      "historical_run": {
+        "scenario_index": 67,
+        "initial_UV": 60,
+        "final_UV": 15,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "INITIAL_UV_GE60"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_129_MG3.json",
+      "world": "fed_combined_load_1p5_line_129_MG3",
+      "recorded_initial_UV": 57,
+      "historical_run": {
+        "scenario_index": 68,
+        "initial_UV": 57,
+        "final_UV": 3,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "INITIAL_UV_GE50"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_135_MG3.json",
+      "world": "fed_combined_load_1p5_line_135_MG3",
+      "recorded_initial_UV": 58,
+      "historical_run": {
+        "scenario_index": 69,
+        "initial_UV": 58,
+        "final_UV": 20,
+        "actions": 10,
+        "stop": "max_iterations_reached",
+        "scope": "Historical partial log, not matched DSE or continuous physical replay"
+      },
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "INITIAL_UV_GE50"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_136_MG3.json",
+      "world": "fed_combined_load_1p5_line_136_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_138_MG3.json",
+      "world": "fed_combined_load_1p5_line_138_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_139_MG3.json",
+      "world": "fed_combined_load_1p5_line_139_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_140_MG3.json",
+      "world": "fed_combined_load_1p5_line_140_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_165_MG1.json",
+      "world": "fed_combined_load_1p5_line_165_MG1",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_166_MG2.json",
+      "world": "fed_combined_load_1p5_line_166_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_167_MG2.json",
+      "world": "fed_combined_load_1p5_line_167_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_168_MG1.json",
+      "world": "fed_combined_load_1p5_line_168_MG1",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_170_MG1.json",
+      "world": "fed_combined_load_1p5_line_170_MG1",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_171_MG3.json",
+      "world": "fed_combined_load_1p5_line_171_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_172_MG3.json",
+      "world": "fed_combined_load_1p5_line_172_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_35_MG1.json",
+      "world": "fed_combined_load_1p5_line_35_MG1",
+      "recorded_initial_UV": 56,
+      "historical_run": null,
+      "Stage3_development_outcomes": [
+        {
+          "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+          "arm": "LoRA_fresh_guarded",
+          "initial_uv": 56,
+          "final_uv": 17,
+          "vmax": 1.05,
+          "deficit": 0.47018435999044794,
+          "actions": 9,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+          "arm": "LoRA_held_initial_guarded",
+          "initial_uv": 56,
+          "final_uv": 36,
+          "vmax": 1.05,
+          "deficit": 1.4190788825449185,
+          "actions": 6,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+          "arm": "base_fresh_guarded",
+          "initial_uv": 56,
+          "final_uv": 33,
+          "vmax": 1.05,
+          "deficit": 1.3139787258000908,
+          "actions": 5,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+          "arm": "budgeted_DFF_ALT_guarded",
+          "initial_uv": 56,
+          "final_uv": 39,
+          "vmax": 1.0500000000000003,
+          "deficit": 1.5441619280492067,
+          "actions": 5,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+          "arm": "budgeted_DFF_guarded",
+          "initial_uv": 56,
+          "final_uv": 41,
+          "vmax": 1.0500000000000003,
+          "deficit": 1.557847853381839,
+          "actions": 5,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+          "arm": "guarded_full_DFF",
+          "initial_uv": 56,
+          "final_uv": 6,
+          "vmax": 1.05,
+          "deficit": 0.08373911862050665,
+          "actions": 9,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+          "arm": "guarded_full_DFF_ALT",
+          "initial_uv": 56,
+          "final_uv": 6,
+          "vmax": 1.05,
+          "deficit": 0.08373911862050665,
+          "actions": 9,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+          "arm": "lowest_guarded",
+          "initial_uv": 56,
+          "final_uv": 2,
+          "vmax": 1.05,
+          "deficit": 0.021230418445242427,
+          "actions": 9,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+          "arm": "original_DFF",
+          "initial_uv": 56,
+          "final_uv": 11,
+          "vmax": 1.0599839410599374,
+          "deficit": 0.5967795077616579,
+          "actions": 7,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+          "arm": "original_DFF_ALT",
+          "initial_uv": 56,
+          "final_uv": 9,
+          "vmax": 1.0599366398641938,
+          "deficit": 0.5168317298001083,
+          "actions": 9,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        }
+      ],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "INITIAL_UV_GE50"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_36_MG1.json",
+      "world": "fed_combined_load_1p5_line_36_MG1",
+      "recorded_initial_UV": 58,
+      "historical_run": null,
+      "Stage3_development_outcomes": [
+        {
+          "scenario_id": "fed_combined_load_1p5_line_36_MG1",
+          "arm": "LoRA_fresh_guarded",
+          "initial_uv": 58,
+          "final_uv": 33,
+          "vmax": 1.05,
+          "deficit": 1.1512158586303043,
+          "actions": 6,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_36_MG1",
+          "arm": "LoRA_held_initial_guarded",
+          "initial_uv": 58,
+          "final_uv": 26,
+          "vmax": 1.0500000000000003,
+          "deficit": 1.0657157409152322,
+          "actions": 7,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_36_MG1",
+          "arm": "base_fresh_guarded",
+          "initial_uv": 58,
+          "final_uv": 14,
+          "vmax": 1.05,
+          "deficit": 0.38839596915068364,
+          "actions": 9,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_36_MG1",
+          "arm": "budgeted_DFF_ALT_guarded",
+          "initial_uv": 58,
+          "final_uv": null,
+          "status": "UNKNOWN",
+          "vmax": null
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_36_MG1",
+          "arm": "budgeted_DFF_guarded",
+          "initial_uv": 58,
+          "final_uv": null,
+          "status": "UNKNOWN",
+          "vmax": null
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_36_MG1",
+          "arm": "guarded_full_DFF",
+          "initial_uv": 58,
+          "final_uv": null,
+          "status": "UNKNOWN",
+          "vmax": null
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_36_MG1",
+          "arm": "guarded_full_DFF_ALT",
+          "initial_uv": 58,
+          "final_uv": null,
+          "status": "UNKNOWN",
+          "vmax": null
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_36_MG1",
+          "arm": "lowest_guarded",
+          "initial_uv": 58,
+          "final_uv": null,
+          "status": "UNKNOWN",
+          "vmax": null
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_36_MG1",
+          "arm": "original_DFF",
+          "initial_uv": 58,
+          "final_uv": 15,
+          "vmax": 1.059986276939239,
+          "deficit": 0.6966919513526881,
+          "actions": 7,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_36_MG1",
+          "arm": "original_DFF_ALT",
+          "initial_uv": 58,
+          "final_uv": null,
+          "status": "UNKNOWN",
+          "vmax": null
+        }
+      ],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "INITIAL_UV_GE50"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_37_MG1.json",
+      "world": "fed_combined_load_1p5_line_37_MG1",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_39_MG1.json",
+      "world": "fed_combined_load_1p5_line_39_MG1",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_40_MG1.json",
+      "world": "fed_combined_load_1p5_line_40_MG1",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_41_MG1.json",
+      "world": "fed_combined_load_1p5_line_41_MG1",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_49_MG1.json",
+      "world": "fed_combined_load_1p5_line_49_MG1",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_84_MG2.json",
+      "world": "fed_combined_load_1p5_line_84_MG2",
+      "recorded_initial_UV": 57,
+      "historical_run": null,
+      "Stage3_development_outcomes": [
+        {
+          "scenario_id": "fed_combined_load_1p5_line_84_MG2",
+          "arm": "LoRA_fresh_guarded",
+          "initial_uv": 57,
+          "final_uv": 28,
+          "vmax": 1.05,
+          "deficit": 1.0256749879696647,
+          "actions": 3,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_84_MG2",
+          "arm": "LoRA_held_initial_guarded",
+          "initial_uv": 57,
+          "final_uv": 42,
+          "vmax": 1.0500000000000003,
+          "deficit": 1.5870516220785977,
+          "actions": 2,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_84_MG2",
+          "arm": "base_fresh_guarded",
+          "initial_uv": 57,
+          "final_uv": 15,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.32732284866079253,
+          "actions": 9,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_84_MG2",
+          "arm": "budgeted_DFF_ALT_guarded",
+          "initial_uv": 57,
+          "final_uv": 40,
+          "vmax": 1.05,
+          "deficit": 1.5681329099427894,
+          "actions": 3,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_84_MG2",
+          "arm": "budgeted_DFF_guarded",
+          "initial_uv": 57,
+          "final_uv": 23,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.9771638751020242,
+          "actions": 8,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_84_MG2",
+          "arm": "guarded_full_DFF",
+          "initial_uv": 57,
+          "final_uv": 10,
+          "vmax": 1.05,
+          "deficit": 0.11792382482385155,
+          "actions": 6,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_84_MG2",
+          "arm": "guarded_full_DFF_ALT",
+          "initial_uv": 57,
+          "final_uv": 10,
+          "vmax": 1.05,
+          "deficit": 0.11792382482385155,
+          "actions": 6,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_84_MG2",
+          "arm": "lowest_guarded",
+          "initial_uv": 57,
+          "final_uv": 9,
+          "vmax": 1.0500000000000003,
+          "deficit": 0.07609848643400707,
+          "actions": 7,
+          "stop_reason": "no_accepted_action_within_declared_search",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_84_MG2",
+          "arm": "original_DFF",
+          "initial_uv": 57,
+          "final_uv": 18,
+          "vmax": 1.059994932732014,
+          "deficit": 0.7688670169120554,
+          "actions": 7,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        },
+        {
+          "scenario_id": "fed_combined_load_1p5_line_84_MG2",
+          "arm": "original_DFF_ALT",
+          "initial_uv": 57,
+          "final_uv": 10,
+          "vmax": 1.0599593577020667,
+          "deficit": 0.5026080428960483,
+          "actions": 8,
+          "stop_reason": "no_accepted_action",
+          "status": "complete",
+          "strict_UV_zero_and_normal_upper": false
+        }
+      ],
+      "unknown_is_not_negative_or_excluded": false,
+      "severity_tag": "INITIAL_UV_GE50"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_85_MG2.json",
+      "world": "fed_combined_load_1p5_line_85_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_86_MG2.json",
+      "world": "fed_combined_load_1p5_line_86_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_89_MG2.json",
+      "world": "fed_combined_load_1p5_line_89_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_91_MG2.json",
+      "world": "fed_combined_load_1p5_line_91_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_92_MG2.json",
+      "world": "fed_combined_load_1p5_line_92_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_96_MG2.json",
+      "world": "fed_combined_load_1p5_line_96_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_97_MG2.json",
+      "world": "fed_combined_load_1p5_line_97_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_combined_load_1p5_line_99_MG1.json",
+      "world": "fed_combined_load_1p5_line_99_MG1",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_der_drop_all_sgens.json",
+      "world": "fed_der_drop_all_sgens",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_der_drop_mg1.json",
+      "world": "fed_der_drop_mg1",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_der_drop_mg2.json",
+      "world": "fed_der_drop_mg2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_der_drop_mg3.json",
+      "world": "fed_der_drop_mg3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_der_drop_mg4.json",
+      "world": "fed_der_drop_mg4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_load_scale_0p7.json",
+      "world": "fed_load_scale_0p7",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_load_scale_0p85.json",
+      "world": "fed_load_scale_0p85",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_load_scale_1p0.json",
+      "world": "fed_load_scale_1p0",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_load_scale_1p15.json",
+      "world": "fed_load_scale_1p15",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_load_scale_1p25.json",
+      "world": "fed_load_scale_1p25",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_load_scale_1p35.json",
+      "world": "fed_load_scale_1p35",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_load_scale_1p45.json",
+      "world": "fed_load_scale_1p45",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_load_scale_1p5.json",
+      "world": "fed_load_scale_1p5",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_101_MG1_to_MG3.json",
+      "world": "fed_n1_tieline_101_MG1_to_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_127_MG3_to_MG4.json",
+      "world": "fed_n1_tieline_127_MG3_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_128_MG3_to_MG4.json",
+      "world": "fed_n1_tieline_128_MG3_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_129_MG3_to_MG4.json",
+      "world": "fed_n1_tieline_129_MG3_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_135_MG3_to_MG4.json",
+      "world": "fed_n1_tieline_135_MG3_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_136_MG3_to_MG4.json",
+      "world": "fed_n1_tieline_136_MG3_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_138_MG3_to_MG4.json",
+      "world": "fed_n1_tieline_138_MG3_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_139_MG3_to_MG4.json",
+      "world": "fed_n1_tieline_139_MG3_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_140_MG3_to_MG4.json",
+      "world": "fed_n1_tieline_140_MG3_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_165_MG1_to_MG4.json",
+      "world": "fed_n1_tieline_165_MG1_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_166_MG2_to_MG4.json",
+      "world": "fed_n1_tieline_166_MG2_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_167_MG2_to_MG4.json",
+      "world": "fed_n1_tieline_167_MG2_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_168_MG1_to_MG4.json",
+      "world": "fed_n1_tieline_168_MG1_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_170_MG1_to_MG4.json",
+      "world": "fed_n1_tieline_170_MG1_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_171_MG3_to_MG4.json",
+      "world": "fed_n1_tieline_171_MG3_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_172_MG3_to_MG4.json",
+      "world": "fed_n1_tieline_172_MG3_to_MG4",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_35_MG1_to_MG2.json",
+      "world": "fed_n1_tieline_35_MG1_to_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_36_MG1_to_MG2.json",
+      "world": "fed_n1_tieline_36_MG1_to_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_37_MG1_to_MG2.json",
+      "world": "fed_n1_tieline_37_MG1_to_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_39_MG1_to_MG2.json",
+      "world": "fed_n1_tieline_39_MG1_to_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_40_MG1_to_MG2.json",
+      "world": "fed_n1_tieline_40_MG1_to_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_41_MG1_to_MG2.json",
+      "world": "fed_n1_tieline_41_MG1_to_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_49_MG1_to_MG2.json",
+      "world": "fed_n1_tieline_49_MG1_to_MG2",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_84_MG2_to_MG3.json",
+      "world": "fed_n1_tieline_84_MG2_to_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_85_MG2_to_MG3.json",
+      "world": "fed_n1_tieline_85_MG2_to_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_86_MG2_to_MG3.json",
+      "world": "fed_n1_tieline_86_MG2_to_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_89_MG2_to_MG3.json",
+      "world": "fed_n1_tieline_89_MG2_to_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_91_MG2_to_MG3.json",
+      "world": "fed_n1_tieline_91_MG2_to_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_92_MG2_to_MG3.json",
+      "world": "fed_n1_tieline_92_MG2_to_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_96_MG2_to_MG3.json",
+      "world": "fed_n1_tieline_96_MG2_to_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_97_MG2_to_MG3.json",
+      "world": "fed_n1_tieline_97_MG2_to_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    },
+    {
+      "recipe": "fed_n1_tieline_99_MG1_to_MG3.json",
+      "world": "fed_n1_tieline_99_MG1_to_MG3",
+      "recorded_initial_UV": null,
+      "historical_run": null,
+      "Stage3_development_outcomes": [],
+      "unknown_is_not_negative_or_excluded": true,
+      "severity_tag": "UNKNOWN"
+    }
+  ],
+  "new_model_PF_calls": 0
+}

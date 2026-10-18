@@ -1,0 +1,18 @@
+{
+  "question": "Do the exact96 declared primary outputs still permit the frozen .7791666666666667 exact-action gate under ANY possible completion of missing outputs? No observed outcomes inspected for this new analysis yet.",
+  "selection": "ALL96 originalHELD identities/24worlds; every present output and every missing output retained. No chosen prefix performance.",
+  "bounds": "Per-world observed hits / full declared denominator gives lower; (observed hits + missing)/full denominator gives upper; average all24 worlds. Missing schema similarly unknown. Bounds are logical missing-evidence limits, not confidence intervals.",
+  "threshold": 0.7791666666666667,
+  "upper_bound_test": "If primary upper<threshold, that necessary threshold cannot be met by any missing-output completion; complete end-to-end training/reload/matched7B gates remain UNKNOWN, not invented passed/failed science.",
+  "no_new_model_PF_optimizer_GPU_calls": true,
+  "no_old_owner_reader_restarts_or_budget_extensions": true,
+  "all_original_sources_claims_costs_failures_unchanged": true,
+  "mechanical_environment_repair": {
+    "original_source_sha256": "351c18f1c751dc6b1a3cd9e385f5888bc8e6762ad3ee05db4892129b4cf0b703",
+    "new_source_sha256": "881bdcbb051b4660a639eacae11317a51d29cb6bc8d4d9f494fe9dffd1717458",
+    "change": "Preload existing source-pinned local MSVC Torch DLL runtime helper, exactly as successful package verifiers did; no library installation, threshold/identity/physics/scoring/source-check change. New output directory; original failure retained.",
+    "original_failure": "WinError1114 importing Torch c10.dll before CPU checkpoint verification",
+    "source_helper_sha256": "374037d30b1b2556fe4bbd0cf89638227d39db99f43f025e4b1fc0aef9fd3c7b",
+    "scientific_calls": 0
+  }
+}

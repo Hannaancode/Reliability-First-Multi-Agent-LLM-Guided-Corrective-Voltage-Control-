@@ -1,0 +1,21 @@
+{
+  "at_utc": "2026-10-18T08:45:25.429129+00:00",
+  "status": "INDEPENDENT_PARTIAL_AUDIT_PASS_FIXED_3B_THRESHOLD_EXCLUDED",
+  "3B_scientific_updates_verified": 170,
+  "3B_scientific_backward_returns_verified": 680,
+  "3B_completed_primary_outputs_verified": 81,
+  "3B_exact_primary_hits": 42,
+  "3B_unknown_primary_outputs": 15,
+  "3B_exact_action_logical_lower": 0.4375,
+  "3B_exact_action_logical_upper": 0.59375,
+  "completed_numeric_reference": 0.7291666666666666,
+  "fixed_threshold": 0.7791666666666667,
+  "3B_cannot_reach_fixed_numeric_or_primary_threshold_under_any_missing_completion": true,
+  "all81_observed_outputs_schema_legal": true,
+  "3B_final_complete_AdamW_RNG_cursor_checkpoint_CPU_verified": true,
+  "7B": "First full-length engineering loss forward returned; first backward ran out of T4 memory. No scientific training or primary performance; raw0hooks were a subset, not zero actual work.",
+  "full_pair_gate": "UNKNOWN_TERMINAL_PARTIAL_NO_96_RELOAD_OR_7B_RESULT",
+  "new_model_PF_optimizer_calls_in_this_audit": 0,
+  "original_failures_kept": true,
+  "no_owned_GPU_jobs": true
+}

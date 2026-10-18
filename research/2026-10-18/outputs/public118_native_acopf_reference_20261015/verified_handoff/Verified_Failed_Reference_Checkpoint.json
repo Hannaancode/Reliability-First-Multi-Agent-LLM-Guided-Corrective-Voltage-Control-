@@ -1,0 +1,54 @@
+{
+  "status": "TERMINAL_ALL3_NATIVE_OPF_LIBRARY_COMPATIBILITY_EXCEPTIONS_INDEPENDENT_OUTPUT_AND_COST_AUDIT_COMPLETE",
+  "OPF_attempts": 3,
+  "OPF_returns": 0,
+  "OPF_exceptions": 3,
+  "OPF_call_seconds": 0.3466061996296048,
+  "owned_workflow_seconds": 14.136776000028476,
+  "independent_audit_seconds": 0.38287740014493465,
+  "cause": "Installed pandapower d2Sbr_dV2 accesses csr_matrix.H, absent in installed SciPy; all3 terminate in first Lagrangian-Hessian evaluation before first Newton update.",
+  "all3_native_feasibility": "UNKNOWN; no returned dispatch, not physical infeasibility",
+  "compatibility_analytic_controls": [
+    {
+      "matrix_class": "csr_matrix",
+      "size": 2,
+      "getH_equals_exact_conjugate_transpose": true,
+      "old_H_attribute_available": false
+    },
+    {
+      "matrix_class": "csr_matrix",
+      "size": 3,
+      "getH_equals_exact_conjugate_transpose": true,
+      "old_H_attribute_available": false
+    },
+    {
+      "matrix_class": "csr_matrix",
+      "size": 5,
+      "getH_equals_exact_conjugate_transpose": true,
+      "old_H_attribute_available": false
+    },
+    {
+      "matrix_class": "csc_matrix",
+      "size": 2,
+      "getH_equals_exact_conjugate_transpose": true,
+      "old_H_attribute_available": false
+    },
+    {
+      "matrix_class": "csc_matrix",
+      "size": 3,
+      "getH_equals_exact_conjugate_transpose": true,
+      "old_H_attribute_available": false
+    },
+    {
+      "matrix_class": "csc_matrix",
+      "size": 5,
+      "getH_equals_exact_conjugate_transpose": true,
+      "old_H_attribute_available": false
+    }
+  ],
+  "production_solver_or_frozen_environment_modified": false,
+  "old_failed_calls_retried": false,
+  "new_LLM_PF_GPU_calls": 0,
+  "scope": "New3 actual OPF attempts fully charged; zero standalonePF/LLM. Conjugate-transpose software controls only; no corrected-case OPF or model benchmark claimed.",
+  "next": "Keep this fixed solver attempt terminal. A separately justified faithful solver implementation/reference-method protocol needs complete algebra/import/source gates before any genuinely new measurement. Never silently rerun these failed identities or overwrite costs."
+}

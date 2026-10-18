@@ -1,0 +1,40 @@
+{
+  "status": "PASS_ACTUAL_LARGE_RECORD_AND_FAIL_CLOSED_STORAGE_BOUNDARIES",
+  "controls": {
+    "actual35228332byte_record_roundtrip_exact": true,
+    "bounded_index_vs_32MiB_failure": true,
+    "every_chunk_at_most1MiB": true,
+    "wrong_source_anchor_rejected": true,
+    "wrong_input_anchor_rejected": true,
+    "stale_or_torn_prefix_rejected": true,
+    "changed_chunk_rejected": true,
+    "missing_chunk_rejected": true,
+    "fixed_storage_bound_rejected_before_payload_write": true,
+    "duplicate_event_identity_rejected": true,
+    "old_cursor_after_later_commit_rejected": true,
+    "complete_latest_two_record_cold_prefix_exact": true
+  },
+  "actual_old_fixture_source": "outputs\\full_receding_paid_campaign_20261015\\actual\\Complete_Runtime_History.bin",
+  "actual_old_record_index": 50,
+  "actual_payload_bytes": 35228332,
+  "actual_payload_sha256": "df68df59de35c8fcfa4d159b39423d849f14c1b6baed9adc9d636a227fa34c61",
+  "new_index_bytes": 3621,
+  "new_object_files": 34,
+  "new_component_source_sha256": "c8de4ffc6b2bdc7b016f93db3a2ab042ba8d36e3be8af5ec9fff22b2e5795a1f",
+  "source_and_input_anchor": {
+    "path": "outputs\\bounded_chunk_actual_history_engineering_20261015\\actual_record",
+    "index_bytes": 3621,
+    "index_sha256": "0ea169898ef7e32cb7ad55890e046bc1dc19004e186f2624f755241deafcc983",
+    "last_record_sha256": "4c0d7537f661077d6ce91942ae0ac24d9c1afe1a3b11d09ade3ebd99d52d4d69",
+    "records": 1,
+    "source_anchor": "c8de4ffc6b2bdc7b016f93db3a2ab042ba8d36e3be8af5ec9fff22b2e5795a1f",
+    "input_anchor": "df68df59de35c8fcfa4d159b39423d849f14c1b6baed9adc9d636a227fa34c61",
+    "max_total_bytes": 2147483648,
+    "committed_physical_bytes": 35231953,
+    "codec": "bounded_chunk_store_v1_20261015"
+  },
+  "workflow_seconds": 4.338963200105354,
+  "new_PF_model_derivative_forecast_linear_solve_calls": 0,
+  "old_runtime_or_study_changed_or_resumed": false,
+  "limits": "Storage component only. No full controller/RNG/cost checkpoint cold integration or scientific resume permission. Old26th complete controller state remains unrecovered; oldpartial/audit failures unchanged."
+}

@@ -1,0 +1,180 @@
+{
+  "at_utc": "2026-10-14T20:20:27.488065+00:00",
+  "status": "PASS_COMPLETE_BOUNDED_SCREEN_SOURCE_PHYSICS_REPLAY_COST_AND_FROZEN_EVIDENCE",
+  "fixed_opportunity_gate": "PASS",
+  "strict_UV_wins": 2,
+  "UV_losses": 0,
+  "all8_branches": [
+    {
+      "world": "fed_combined_load_1p5_line_35_MG1",
+      "method": "immediate1_followup16",
+      "status": "complete_declared_bounded_horizon",
+      "endpoint_UV": 6,
+      "operations": 4,
+      "attributed_costs": {
+        "attributed_query_PF_calls": 2102,
+        "attributed_query_solver_seconds": 134.542377500562,
+        "cached_query_receipts": 2102,
+        "new_query_PF_calls": 0,
+        "root_query_count": 2086,
+        "second_query_count": 16
+      }
+    },
+    {
+      "world": "fed_combined_load_1p5_line_35_MG1",
+      "method": "breadth4_followup4",
+      "status": "complete_declared_bounded_horizon",
+      "endpoint_UV": 6,
+      "operations": 4,
+      "attributed_costs": {
+        "attributed_query_PF_calls": 2102,
+        "attributed_query_solver_seconds": 134.4467573002912,
+        "cached_query_receipts": 2090,
+        "new_query_PF_calls": 12,
+        "root_query_count": 2086,
+        "second_query_count": 16
+      }
+    },
+    {
+      "world": "fed_combined_load_1p5_line_36_MG1",
+      "method": "immediate1_followup16",
+      "status": "complete_declared_bounded_horizon",
+      "endpoint_UV": 16,
+      "operations": 4,
+      "attributed_costs": {
+        "attributed_query_PF_calls": 1576,
+        "attributed_query_solver_seconds": 99.64774929801933,
+        "cached_query_receipts": 1576,
+        "new_query_PF_calls": 0,
+        "root_query_count": 1560,
+        "second_query_count": 16
+      }
+    },
+    {
+      "world": "fed_combined_load_1p5_line_36_MG1",
+      "method": "breadth4_followup4",
+      "status": "complete_declared_bounded_horizon",
+      "endpoint_UV": 16,
+      "operations": 4,
+      "attributed_costs": {
+        "attributed_query_PF_calls": 1576,
+        "attributed_query_solver_seconds": 99.47850089799613,
+        "cached_query_receipts": 1564,
+        "new_query_PF_calls": 12,
+        "root_query_count": 1560,
+        "second_query_count": 16
+      }
+    },
+    {
+      "world": "fed_combined_load_1p5_line_84_MG2",
+      "method": "immediate1_followup16",
+      "status": "complete_declared_bounded_horizon",
+      "endpoint_UV": 21,
+      "operations": 4,
+      "attributed_costs": {
+        "attributed_query_PF_calls": 951,
+        "attributed_query_solver_seconds": 56.23805020051077,
+        "cached_query_receipts": 947,
+        "new_query_PF_calls": 4,
+        "root_query_count": 935,
+        "second_query_count": 16
+      }
+    },
+    {
+      "world": "fed_combined_load_1p5_line_84_MG2",
+      "method": "breadth4_followup4",
+      "status": "complete_declared_bounded_horizon",
+      "endpoint_UV": 16,
+      "operations": 3,
+      "attributed_costs": {
+        "attributed_query_PF_calls": 951,
+        "attributed_query_solver_seconds": 56.2757297011558,
+        "cached_query_receipts": 939,
+        "new_query_PF_calls": 12,
+        "root_query_count": 935,
+        "second_query_count": 16
+      }
+    },
+    {
+      "world": "fed_combined_load_1p5_line_127_MG3",
+      "method": "immediate1_followup16",
+      "status": "complete_declared_bounded_horizon",
+      "endpoint_UV": 7,
+      "operations": 4,
+      "attributed_costs": {
+        "attributed_query_PF_calls": 1804,
+        "attributed_query_solver_seconds": 110.94499360094778,
+        "cached_query_receipts": 1791,
+        "new_query_PF_calls": 16,
+        "root_query_count": 1791,
+        "second_query_count": 16
+      }
+    },
+    {
+      "world": "fed_combined_load_1p5_line_127_MG3",
+      "method": "breadth4_followup4",
+      "status": "complete_declared_bounded_horizon",
+      "endpoint_UV": 5,
+      "operations": 4,
+      "attributed_costs": {
+        "attributed_query_PF_calls": 1804,
+        "attributed_query_solver_seconds": 110.94343810109422,
+        "cached_query_receipts": 1795,
+        "new_query_PF_calls": 12,
+        "root_query_count": 1791,
+        "second_query_count": 16
+      }
+    }
+  ],
+  "actual_new_costs": {
+    "PF_attempts": 84,
+    "PF_returns": 84,
+    "PF_exceptions": 0,
+    "PF_seconds": 7.685985101154074,
+    "new_query_PF_attempts": 68,
+    "continuous_replay_PF_attempts": 16,
+    "preservation_seconds": 21.075637598754838,
+    "new_model_calls": 0,
+    "new_optimizer_steps": 0,
+    "new_derivative_forecast_linear_solve_calls": 0
+  },
+  "actual_new_numerical_costs": {
+    "public_derivative_attempts": 13,
+    "public_derivative_returns": 13,
+    "LU_factor_attempts": 13,
+    "LU_factor_returns": 13,
+    "LU_solve_attempts": 13,
+    "LU_solve_returns": 13,
+    "RHS_columns": 1534,
+    "exact_context_reuses": 7,
+    "compile_seconds": 2.2120166001841426,
+    "new_forecasts": 30842
+  },
+  "science_workflow_seconds_before_manifest": 78.23829080001451,
+  "independent_reader_workflow_seconds": 60.77878350019455,
+  "logical_query_receipts_checked": 12872,
+  "selected_path_replay_steps": 16,
+  "numerical_attempt_return_RHS_and_all_forecast_counter_closure": "PASS_SOURCE_BOUND_JOURNAL_ARITHMETIC",
+  "nine_original_frozen_checks": {
+    "audited_at_utc": "2026-10-14T20:15:20.864582+00:00",
+    "checks": {
+      "frozen_matched_protocol_sha256": true,
+      "frozen_controller_sources": true,
+      "all_62_scenario_files": true,
+      "locked_file_set": true,
+      "bank_manifest": true,
+      "bank_sanity_report": true,
+      "network": true,
+      "metadata": true,
+      "model_root_files": true
+    },
+    "all_passed": true,
+    "new_model_or_PF_calls": 0
+  },
+  "owned_scientific_or_reader_jobs": [],
+  "new_LLM_calls_actual_commits_optimizer_steps": 0,
+  "scope": "All4 inspected residual endpoints from actual old trained-LoRA prefixes, at most4 device operations and16followup queries per method. Matched acquisition comparison, not full originalDSE, zeroUV all cases, actual LLM gain, hardware switchability or novelty.",
+  "old_source_failures_and_unknowns": "Original readerv1exit1/source/claim/stderr preserved. Separate cached-receipt analysisrepair inverseexact with all old predicates/gate retained,0newscience. Old suffix/domain/role failures/partial/UNKNOWN stay unchanged.",
+  "future_gate": "A separately prospectively frozen full nonlinear receding-policy campaign and genuine original-model causal/economic integration are now justified for preparation, not automatically launched. Same actors/controls/rights/resources/fullcosts/continuousreplay/unusedconfirmation remain necessary.",
+  "main_goal": "ACTIVE_UNACHIEVED"
+}

@@ -1,0 +1,14 @@
+{
+  "role": "SOFTWARE_ONLY_SAVED_STATE_TRANSPORT_NOT_EXECUTABLE_SCIENCE",
+  "source": "Existing exact cold checkpoint1, preserved actual35MB history record50; no future physical outcome selection.",
+  "original_absolute_deadline_not_extended": "2026-10-15T01:48:58.889650+00:00",
+  "test_changes": "Only fixture commit_mode namespace/protocol label/next_phase and transport history anchor. Preserve actual118NET, all operations/cap/ownedbank/receipts, RNG, costs and already expired deadline.",
+  "no_scientific_queries_commits_model_optimizer_or_solve": true,
+  "original_commit_ASTs": {
+    "original_source_sha256": "04271bf185fa383dde274d5f748c934bb0bddb7f6a0c967cbdebba8493f7a418",
+    "all_original_commit_validate_state_save_restore_function_ASTs_exact": true,
+    "change": "New isolated MODE and chunked history transport only. No action/operation/cap/protection/cost semantic change.",
+    "no_scientific_launch_or_automatic_old_resume": true
+  },
+  "new_adapter_sha256": "036652f62646a3dc5eb74aea2b160b54e381f7a0ce9cd4b7a7e46e4254e5626c"
+}

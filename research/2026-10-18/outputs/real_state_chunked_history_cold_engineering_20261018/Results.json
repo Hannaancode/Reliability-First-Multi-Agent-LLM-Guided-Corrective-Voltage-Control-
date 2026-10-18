@@ -1,0 +1,36 @@
+{
+  "status": "PASS_SAVED_REAL_NET_CURSOR_RNG_COST_COMPLETE_STATE_CHUNKED_HISTORY_COLD_TRANSPORT",
+  "controls": {
+    "all118_vm_angle_P_Q_fields_exact": true,
+    "all_operation_cap_stock_and_prior_commit_cursor_preserved_except_explicit_namespace": true,
+    "costs_exact": true,
+    "python_RNG_exact": true,
+    "numpy_RNG_exact": true,
+    "paid_registry_identity_set_exact": true,
+    "35MB_record_exact_after_full_state_cold_restore": true,
+    "original_absolute_bound_preserved_and_expired": true,
+    "fixture_cannot_claim_live_scientific_next_phase": true,
+    "old_study_receipt_rejected_by_new_mode": true,
+    "stale_checkpoint_after_new_event_rejected_no_rollback": true,
+    "latest_complete_cold_history_has_both_events": true
+  },
+  "actual_large_record_bytes": 35228332,
+  "source_checkpoint": "outputs\\full_receding_paid_campaign_20261015\\actual\\checkpoints\\1",
+  "source_receipt": {
+    "manifest_sha256": "ca3cc9bbadd333d47626d7b691f8112bffc7162a72deb53b382173cc2dcc21eb",
+    "raw_sha256": "95cee24f18a63e5b856e62a042cfff8c7c9e187ef761c36c978ff956dcfd217e",
+    "state_fingerprint": "7b6b9ba0edfb473c02b7f1c8c3abd313aa484ab72409dd4112153aed861d367a",
+    "mode": "ACTUAL_PAID_PROTECTED_OPERATION_AWARE_RECEDING_LOOKAHEAD"
+  },
+  "new_checkpoint_receipt": {
+    "manifest_sha256": "b852a05580d39124079b1aa644e881903b69b4e2dde8afbcae41214da5d19547",
+    "raw_sha256": "7e16072b7b3de56ce8ab912a1b66619fb61e239ca038a9cd277dcfa8919c535c",
+    "state_fingerprint": "791ab1358191039a2a400f0b9a78e3eaa521199fd1b4a9f52d5292294a091336",
+    "mode": "ACTUAL_PAID_PROTECTED_CHUNKED_RECEDING_LOOKAHEAD_V2"
+  },
+  "all_original_deadlines_costs_actions_preserved": true,
+  "new_model_PF_optimizer_derivative_forecast_solve_calls": 0,
+  "workflow_seconds": 8.448833800000102,
+  "original_experiment_resumed_or_modified": false,
+  "limits": "Saved-state transport software engineering only, not actual following-query/controller factory integration or a new physical trajectory. Expired old budget stays expired; oldmissing26th state not recovered."
+}
