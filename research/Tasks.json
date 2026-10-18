@@ -1,5 +1,5 @@
 {
-  "at_utc": "2026-10-18T16:08:42.621499+00:00",
+  "at_utc": "2026-10-18T18:20:58.164280+00:00",
   "authority": "Latest direct human six-priority instruction, retained in exact order; execute evidence-led work and update records.",
   "goal_remains_active_unachieved": true,
   "tasks": [
@@ -8,7 +8,7 @@
       "target": "Find an LLM-assisted method aiming for zero UV on all severe federation cases and beat original deterministic DSE safely.",
       "status": "TWO_DEVELOPMENT_WORLDS_OBSERVED_ZERO_UV_FULL_DSE_LLM_ALLSEVERE_UNPROVEN",
       "done": "All141 recipe coverage indexed; historical severe starts61/60 leave21/15. Prior joint numerical component reached0/1 on two closed pairs, not an LLM or all-case result. New all30 current-mask diagnostic verified:10.78%MAE reduction,8/30UV mismatches unchanged; fixedgateFAIL, stopped. Fixed equal16-followup nonlinear screen verified2wins2ties0losses on4roots:21to16 with fewerops,7to5 sameops. No newLLM or fullDSE episode. All4 cold completequeryhistory/cursor/NETmask states passed; oldLOCALbroker blocked bothwinningfirstvariants. Family-v2 coverageall4/28checks; nativeguardv2 ASTfaithful/5checks. No fresh policy/LLM outcome. New durable paid engine independently reproduces all8 prior decisions/12872 receipts, exact cachedforecasts and fullcosts; realcold dependency componentPASS,0newscience. Fullruntime moduleimplemented, actualfulltrajectory NOT_STARTED. Newfull8branch prospective owner started; actualrealcoldcompletecheckpointPASS; finalphysical/independentauditgate pending. Readerfixtureall8/12872PASS and adverseoldsoftwarefailures preserved. Originalfullstudy stopped at35.23MB decision frame exceeding32MiB checkpoint verifier;2branch endpoints/26replayed commits/25fullcheckpoints source-reported,all4gateUNKNOWN. Originalactorsended. Additive0science preserved-frame independent reader nowlive; originalerrors/source/results retained. Additive history chunk component roundtrips actual35,228,332byte oldrecord exactly;12 fail-closed controls PASS,0newphysics/model. Old26th complete state unrecovered; fullcontrollercoldintegration not certified.18Octsaved-real118NET/allcursorcap/paidregistry/RNG/cost/expireddeadline cold transport +35MBchunkhistory12checksPASS,0science; factoryfollowingqueryintegration stillpending.18Octscopedall26commit auditPASS:17to0online35bothnumericalpolicies,11vs14addedops. NoLLMattribution/full4worldgate. Duplicate35.23MBhistory becomes1.323MBexactrefs/2580queries; referencedcontrollercoldfactory17checksPASS/futurequeriesblocked. Conservativefull-nativev2sizingonlyprepared. Latest actual v2 capacity cold factory17checks and futurequery rejectionPASS;60,377-key lineage attempt frontier independentlyPASS,15solverexceptions retained. No newscientificcalls or all141-case/fullpolicy/LLMclaim. All25 complete checkpoint prefixes independently PASS, actualengine predecision admission8valid/8rejectionsPASS;lazy60377source lookup7boundariesPASS. Fullrecordedpolicyzero-science additive readerlive; fullgateUNKNOWN. Fulloldpolicyreader ended7200sec/exit1:11decision24452query progress only, gateUNKNOWN. All37656primaryinputrefsPASS;1actualcausalperusereceipt saved-native-verifier/ACK+wrongaction/source checksPASS. Archival2580queryhistory9controlsPASS with liveantirollback unchanged.0newscience. New18Octsource-prefix independent audit:line36residual33UVto0,24/25operations,upperguardPASS; missing26thcheckpoint/closure retainedUNKNOWN. Cache/cold/source locks andwhole1576receiptdecisionPASS. All5unstartedgraphgaps explicit;1newcontext+1430forecasts independentlyPASS.",
-      "next": "Follow Physical_Input_Index_Continuation.json; component hits require full actualNET/kwargs comparison and currentguard revalidation; no duplicate PF from absentresourcekey.",
+      "next": "Freeze the next complete source-exact continuation and independent reader; reuse BOTH exact new receipts without repeating calls. No whole-policy claim from engineering.",
       "completed": false,
       "checklist_id": "G1",
       "completion_criteria": [
@@ -63,17 +63,17 @@
         },
         {
           "id": "G1.5",
-          "completed": false,
+          "completed": true,
           "description": "Finish the relevant-history and execution checks; freeze the exact next query protocol, warm/cold preservation and independent reader.",
-          "evidence": null,
-          "verified_at_save": null
+          "evidence": "outputs/exact_two_paid_query_engineering_20261018/Readiness.json",
+          "verified_at_save": "2026-10-18T18:20:58.164280+00:00"
         },
         {
           "id": "G1.6",
-          "completed": false,
+          "completed": true,
           "description": "Execute the justified next query test once; preserve every result, failure and cost, then assess its fixed gate.",
-          "evidence": null,
-          "verified_at_save": null
+          "evidence": "outputs/exact_two_paid_query_engineering_20261018/audit_source_claim_v2/Independent_Audit.json",
+          "verified_at_save": "2026-10-18T18:20:58.164280+00:00"
         },
         {
           "id": "G1.7",
@@ -89,7 +89,126 @@
           "evidence": null,
           "verified_at_save": null
         }
-      ]
+      ],
+      "latest_query_engineering": {
+        "at_utc": "2026-10-18T18:20:58.164280+00:00",
+        "status": "COMPLETE_FIXED_TWO_QUERY_ENGINEERING_INDEPENDENT_PASS",
+        "independent_audit": {
+          "status": "PASS_COMPLETE_FIXED_TWO_QUERY_WARM_COLD_AND_CHARGED_REPLAY_ENGINEERING",
+          "counts": {
+            "PF_attempts": 4,
+            "PF_returns": 4,
+            "PF_exceptions": 0,
+            "new_query_PF_attempts": 2,
+            "continuous_replay_PF_attempts": 2
+          },
+          "PF_seconds": 11.198982799993246,
+          "costs": {
+            "PF_attempts": 4,
+            "PF_returns": 4,
+            "PF_exceptions": 0,
+            "PF_seconds": 11.198982799993246,
+            "new_query_PF_attempts": 2,
+            "continuous_replay_PF_attempts": 2,
+            "preservation_seconds": 0.9258079999926849,
+            "new_model_calls": 0,
+            "new_optimizer_steps": 0,
+            "new_derivative_forecast_linear_solve_calls": 0
+          },
+          "query_outcomes": [
+            {
+              "row": {
+                "donor_bus": 32,
+                "donor_index": 16,
+                "kind": "equal_owned_reallocation",
+                "q": 100.0,
+                "receiver": 42,
+                "universe_index": 602
+              },
+              "verdict": {
+                "accepted": false,
+                "after": {
+                  "deficit_sum": 0.208687535231581,
+                  "ov_count": 1,
+                  "uv_count": 14,
+                  "vmax": 1.0554550647282228,
+                  "vmean": 0.9777059855334896,
+                  "vmin": 0.9031547027975366
+                },
+                "before": {
+                  "deficit_sum": 0.37733194380645085,
+                  "ov_count": 0,
+                  "uv_count": 17,
+                  "vmax": 1.05,
+                  "vmean": 0.9749132387756779,
+                  "vmin": 0.892167898232881
+                },
+                "converged": true,
+                "normal_upper_band_admissible": false,
+                "original_native_accepted": true,
+                "reason": "normal_upper_band_mediation"
+              },
+              "original_score": [
+                -999,
+                -999,
+                -999,
+                -999,
+                -999
+              ]
+            },
+            {
+              "row": {
+                "donor_bus": 0,
+                "donor_index": 14,
+                "kind": "equal_owned_reallocation",
+                "q": 25.0,
+                "receiver": 44,
+                "universe_index": 343
+              },
+              "verdict": {
+                "accepted": false,
+                "after": {
+                  "deficit_sum": 0.30520989211600524,
+                  "ov_count": 1,
+                  "uv_count": 18,
+                  "vmax": 1.0500403307298414,
+                  "vmean": 0.9758375480635458,
+                  "vmin": 0.8981737479990335
+                },
+                "before": {
+                  "deficit_sum": 0.37733194380645085,
+                  "ov_count": 0,
+                  "uv_count": 17,
+                  "vmax": 1.05,
+                  "vmean": 0.9749132387756779,
+                  "vmin": 0.892167898232881
+                },
+                "converged": true,
+                "normal_upper_band_admissible": false,
+                "original_native_accepted": false,
+                "reason": "uv_increased"
+              },
+              "original_score": [
+                -999,
+                -999,
+                -999,
+                -999,
+                -999
+              ]
+            }
+          ],
+          "cold_restore_verified": true,
+          "all118_replay_tolerance": 1e-10,
+          "failure_or_unstarted_phases": [],
+          "original_verifier_and_native_BEFORE_inputs_checked": true,
+          "query_only_no_actual_commits": true,
+          "new_model_PF_derivative_factor_solve_calls": 0,
+          "whole_policy_DSE_LLM_superiority": "NOT_TESTED",
+          "prior_source_costs": "Retained by source references; not imputed per call, waived or pooled into a deployment speed claim.",
+          "workflow_seconds": 1.6770726000031573
+        },
+        "not_a_policy_LLM_superiority_test": true
+      }
     },
     {
       "priority": 2,
@@ -294,5 +413,17 @@
   "latest_exact_execution_state": "outputs\\substantive_research_progress_20261018\\Exact_Next_Execution_State.json",
   "master_checklist": "RESEARCH_TASKS.md",
   "goal_completion_rule": "Check and strike through a top-level goal ONLY after all its evidence-bound acceptance criteria pass. An executed failed/partial experiment can be a completed reporting step, never a passed goal.",
-  "maintenance_rule": "At each continuation read RESEARCH_TASKS.md plus newest headers/exact resume. At each verified result update stable subtask IDs, status/current_result/evidence, reseacrh progress.txt and exact resume. Preserve earlier results/failures and never repeat completed or stopped experiments."
+  "maintenance_rule": "At each continuation read RESEARCH_TASKS.md plus newest headers/exact resume. At each verified result update stable subtask IDs, status/current_result/evidence, reseacrh progress.txt and exact resume. Preserve earlier results/failures and never repeat completed or stopped experiments.",
+  "scheduled_continuation": {
+    "automation_id": "hiergrid-9-06-pm-continuation",
+    "status": "SCHEDULED_ONE_START",
+    "start_UTC": "2026-10-18T18:06:00+00:00",
+    "start_Asia_Qatar": "2026-10-18 21:06",
+    "human_instruction": "Start at9:06PM and continue substantive authorized work while usage is available; preserve progress/checklist and exact resume before limits. Respect actual usageLimited; no promised reset or invented token-consuming work.",
+    "entry_task": "G1.5",
+    "master_checklist": "RESEARCH_TASKS.md",
+    "resume": "outputs/substantive_research_progress_20261018/Exact_Next_Execution_State.json",
+    "created_at_UTC": "2026-10-18T16:14:56.959207+00:00",
+    "scientific_jobs_started_before_scheduled_time": 0
+  }
 }

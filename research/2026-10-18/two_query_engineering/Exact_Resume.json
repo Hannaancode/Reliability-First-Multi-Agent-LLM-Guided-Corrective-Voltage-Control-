@@ -1,0 +1,473 @@
+{
+  "at_utc": "2026-10-18T18:26:20.629209+00:00",
+  "status": "ACTIVE_SUBSTANTIVE_RESEARCH_WITH_TWO_ZERO_UV_WORLDS_OBSERVED_STRICT_PUBLIC_BENCHMARK_FAILURES_RETAINED",
+  "human_instruction": "Continue until goals reached; no invented superiority, outcome-driven retunes, retries, quota evasion or weakened comparator",
+  "new_observed_physical_finding": {
+    "status": "PASS_INDEPENDENT_ACTUAL_OBSERVED_ZERO_UV_SOURCE_PREFIX_WITHOUT_BRANCH_CLOSURE",
+    "world": "fed_combined_load_1p5_line_36_MG1",
+    "method": "immediate1_followup16",
+    "source_start_residual_UV": 33,
+    "observed_latest_UV": 0,
+    "all118_fields_saved_replay_exact": true,
+    "vmin": 0.9513699986812731,
+    "vmax": 1.05,
+    "original_total_operation_allowance": 25,
+    "observed_total_operations_debited": 24,
+    "remaining_original_operations": 1,
+    "observed_added_numerical_commits": 12,
+    "observed_added_numerical_device_operations": 18,
+    "normal_upper_1p05plus1e8_protection_pass": true,
+    "cap450_no_refund_owned_stock_source_checks_pass": true,
+    "source_selected_receipt_independently_reverified": true,
+    "source_input_preparation_used_actual_selected_NET_not_replay_substitution": true,
+    "initial_input_is_archived_trained_LLM_prefix": true,
+    "fresh_LLM_calls": 0,
+    "LLM_causal_advantage": "NOT_ESTABLISHED",
+    "DSE_or_whole_policy_superiority": "NOT_ESTABLISHED",
+    "source_full_four_world_gate": "UNKNOWN",
+    "missing26th_complete_checkpoint_and_RNG": "NOT_RECOVERED_OR_INFERRED",
+    "branch_closure": "UNOBSERVED_NOT_INVENTED",
+    "engineering_queries_at_this_zero_UV_state": "NOT_JUSTIFIED_BY_LEGAL_RECEDING_STOP; DO_NOT_LAUNCH_FROM_THE_PREPARED_338_ABSENT_KEYS",
+    "new_model_PF_optimizer_derivative_forecast_solve_calls": 0,
+    "workflow_seconds": 2.5941972999971767
+  },
+  "public_benchmark": {
+    "status": "COMPLETE_ALL3_IDENTITIES_AVAILABLE_OUTPUTS_AND_COSTS_AUDITED",
+    "all3": [
+      {
+        "case": "outputs\\public_testbed_intake_20261014\\raw\\pglib_opf_case118_ieee.m",
+        "status": "FINAL_POINT_FAILS_NATIVE_FEASIBILITY_NOT_A_PROOF_OF_INFEASIBILITY",
+        "actual_costs": {
+          "status": "RETURNED_FINAL_ITERATE_NOT_YET_INDEPENDENTLY_CERTIFIED",
+          "optimizer_attempts": 1,
+          "optimizer_returns": 1,
+          "actual_profile_counts": {
+            "makeYbus": 1,
+            "constraint_requests": 406,
+            "opf_consfcn": 101,
+            "dSbus_dV": 101,
+            "dSbr_dV": 101,
+            "dAbr_dV": 101,
+            "objective_requests": 202,
+            "opf_costfcn": 101,
+            "iteration_callbacks": 100
+          },
+          "workflow_seconds": 27.22309590000077,
+          "CPU_seconds": 10.25,
+          "journal_final_sha256": "4feee6ccac73f7e446d8052699e1f955cf635df3133f2aae832fb477dbd624ba",
+          "new_LLM_standalone_PF_PIPS_calls": 0,
+          "internal_SLSQP_linear_algebra_and_recomputation_FLOPs": "NOT_SEPARATELY_INSTRUMENTED"
+        },
+        "journal_events": 506,
+        "native_physics": {
+          "all_native_constraints_and_saved_fields_pass": false,
+          "checks": {
+            "active_balance_pu": true,
+            "reactive_balance_pu": false,
+            "voltage_bounds_pu": true,
+            "P_bounds_pu": true,
+            "Q_bounds_pu": true,
+            "thermal_apparent_power_pu": true,
+            "angle_bounds_radians": true,
+            "reference_angle_radians": true,
+            "recorded_branch_flow_reconstruction_pu": true,
+            "generator_voltage_alignment_pu": true,
+            "objective_reconstruction": true
+          },
+          "maximum_violations": {
+            "active_balance_pu": 1.9519415526136896e-06,
+            "reactive_balance_pu": 1.026883306146087e-05,
+            "voltage_bounds_pu": 0.0,
+            "P_bounds_pu": 0.0,
+            "Q_bounds_pu": 0.0,
+            "thermal_apparent_power_pu": 1.3037628288081748e-07,
+            "angle_bounds_radians": 0.0,
+            "reference_angle_radians": 0.0,
+            "recorded_branch_flow_reconstruction_pu": 1.6273649094955546e-14,
+            "generator_voltage_alignment_pu": 0.0
+          },
+          "reconstructed_objective": 97298.1744820949,
+          "saved_objective": 97298.1744820949,
+          "objective_absolute_error": 0.0,
+          "voltage_min": 0.9901864932260029,
+          "voltage_max": 1.06,
+          "buses_below_original_0_95": 0,
+          "buses_above_original_1_05": 22,
+          "native_angle_rows": 186,
+          "generation_P_MW": 4379.680939411604,
+          "demand_P_MW": 4242.0,
+          "active_losses_and_shunt_MW": 137.68154322483946
+        },
+        "solver": {
+          "baseMVA": 100.0,
+          "f": 97298.1744820949,
+          "success": false,
+          "status": 9,
+          "message": "Iteration limit reached",
+          "nit": 100,
+          "nfev": 101,
+          "njev": 101,
+          "final_iterate_only": true,
+          "optimizer_seconds": 26.967198300000746
+        }
+      },
+      {
+        "case": "outputs\\public_testbed_intake_20261014\\raw\\pglib_opf_case118_ieee__api.m",
+        "status": "FINAL_POINT_FAILS_NATIVE_FEASIBILITY_NOT_A_PROOF_OF_INFEASIBILITY",
+        "actual_costs": {
+          "status": "RETURNED_FINAL_ITERATE_NOT_YET_INDEPENDENTLY_CERTIFIED",
+          "optimizer_attempts": 1,
+          "optimizer_returns": 1,
+          "actual_profile_counts": {
+            "makeYbus": 1,
+            "constraint_requests": 406,
+            "opf_consfcn": 101,
+            "dSbus_dV": 101,
+            "dSbr_dV": 101,
+            "dAbr_dV": 101,
+            "objective_requests": 202,
+            "opf_costfcn": 101,
+            "iteration_callbacks": 100
+          },
+          "workflow_seconds": 28.564671099997213,
+          "CPU_seconds": 10.9375,
+          "journal_final_sha256": "6735ce4dac052adec298abeed5635a9c8731b08618131f315a534cc044647189",
+          "new_LLM_standalone_PF_PIPS_calls": 0,
+          "internal_SLSQP_linear_algebra_and_recomputation_FLOPs": "NOT_SEPARATELY_INSTRUMENTED"
+        },
+        "journal_events": 506,
+        "native_physics": {
+          "all_native_constraints_and_saved_fields_pass": false,
+          "checks": {
+            "active_balance_pu": false,
+            "reactive_balance_pu": false,
+            "voltage_bounds_pu": true,
+            "P_bounds_pu": true,
+            "Q_bounds_pu": true,
+            "thermal_apparent_power_pu": true,
+            "angle_bounds_radians": true,
+            "reference_angle_radians": true,
+            "recorded_branch_flow_reconstruction_pu": true,
+            "generator_voltage_alignment_pu": true,
+            "objective_reconstruction": true
+          },
+          "maximum_violations": {
+            "active_balance_pu": 9.333367939845516e-06,
+            "reactive_balance_pu": 1.8465283661728282e-05,
+            "voltage_bounds_pu": 0.0,
+            "P_bounds_pu": 0.0,
+            "Q_bounds_pu": 1.7763568394002505e-17,
+            "thermal_apparent_power_pu": 1.7582150581008094e-06,
+            "angle_bounds_radians": 0.0,
+            "reference_angle_radians": 0.0,
+            "recorded_branch_flow_reconstruction_pu": 1.4210854715202004e-14,
+            "generator_voltage_alignment_pu": 0.0
+          },
+          "reconstructed_objective": 249663.44615572688,
+          "saved_objective": 249663.44615572685,
+          "objective_absolute_error": 2.9103830456733704e-11,
+          "voltage_min": 0.94,
+          "voltage_max": 1.06,
+          "buses_below_original_0_95": 8,
+          "buses_above_original_1_05": 19,
+          "native_angle_rows": 186,
+          "generation_P_MW": 7173.902032951832,
+          "demand_P_MW": 6874.82,
+          "active_losses_and_shunt_MW": 299.08277550520273
+        },
+        "solver": {
+          "baseMVA": 100.0,
+          "f": 249663.44615572685,
+          "success": false,
+          "status": 9,
+          "message": "Iteration limit reached",
+          "nit": 100,
+          "nfev": 101,
+          "njev": 101,
+          "final_iterate_only": true,
+          "optimizer_seconds": 28.21648070000083
+        }
+      },
+      {
+        "case": "outputs\\public_testbed_intake_20261014\\raw\\pglib_opf_case118_ieee__sad.m",
+        "status": "FINAL_POINT_FAILS_NATIVE_FEASIBILITY_NOT_A_PROOF_OF_INFEASIBILITY",
+        "actual_costs": {
+          "status": "RETURNED_FINAL_ITERATE_NOT_YET_INDEPENDENTLY_CERTIFIED",
+          "optimizer_attempts": 1,
+          "optimizer_returns": 1,
+          "actual_profile_counts": {
+            "makeYbus": 1,
+            "constraint_requests": 406,
+            "opf_consfcn": 101,
+            "dSbus_dV": 101,
+            "dSbr_dV": 101,
+            "dAbr_dV": 101,
+            "objective_requests": 202,
+            "opf_costfcn": 101,
+            "iteration_callbacks": 100
+          },
+          "workflow_seconds": 68.0102321000013,
+          "CPU_seconds": 11.921875,
+          "journal_final_sha256": "0ddf85d6720277098cab1c61669fc012ed92ce13d6712f1344d1077fbbffd6c4",
+          "new_LLM_standalone_PF_PIPS_calls": 0,
+          "internal_SLSQP_linear_algebra_and_recomputation_FLOPs": "NOT_SEPARATELY_INSTRUMENTED"
+        },
+        "journal_events": 506,
+        "native_physics": {
+          "all_native_constraints_and_saved_fields_pass": false,
+          "checks": {
+            "active_balance_pu": false,
+            "reactive_balance_pu": false,
+            "voltage_bounds_pu": true,
+            "P_bounds_pu": true,
+            "Q_bounds_pu": true,
+            "thermal_apparent_power_pu": true,
+            "angle_bounds_radians": true,
+            "reference_angle_radians": true,
+            "recorded_branch_flow_reconstruction_pu": true,
+            "generator_voltage_alignment_pu": true,
+            "objective_reconstruction": true
+          },
+          "maximum_violations": {
+            "active_balance_pu": 5.635104531998003e-06,
+            "reactive_balance_pu": 1.6011999175127856e-05,
+            "voltage_bounds_pu": 0.0,
+            "P_bounds_pu": 0.0,
+            "Q_bounds_pu": 1.4210854715202004e-16,
+            "thermal_apparent_power_pu": 2.8011762973623178e-06,
+            "angle_bounds_radians": 0.0,
+            "reference_angle_radians": 0.0,
+            "recorded_branch_flow_reconstruction_pu": 1.1937117960769683e-14,
+            "generator_voltage_alignment_pu": 0.0
+          },
+          "reconstructed_objective": 105199.93325227631,
+          "saved_objective": 105199.93325227633,
+          "objective_absolute_error": 1.4551915228366852e-11,
+          "voltage_min": 0.94,
+          "voltage_max": 1.06,
+          "buses_below_original_0_95": 3,
+          "buses_above_original_1_05": 23,
+          "native_angle_rows": 186,
+          "generation_P_MW": 4389.304764727507,
+          "demand_P_MW": 4242.0,
+          "active_losses_and_shunt_MW": 147.307201692187
+        },
+        "solver": {
+          "baseMVA": 100.0,
+          "f": 105199.93325227633,
+          "success": false,
+          "status": 9,
+          "message": "Iteration limit reached",
+          "nit": 100,
+          "nfev": 101,
+          "njev": 101,
+          "final_iterate_only": true,
+          "optimizer_seconds": 67.61121730000013
+        }
+      }
+    ],
+    "verified_native_feasible_final_points": 0,
+    "scientific_calls": 0,
+    "workflow_seconds": 0.636351500001183,
+    "global_optimality": "NOT_PROVEN",
+    "LLM_discrete_shunt_DSE_benchmark": "NOT_TESTED; native public all-generator ACOPF is a distinct benchmark/initialization role",
+    "native_voltage_limits_preserved": "Original0.95/1.05 counts are diagnostics only, not substituted native bounds."
+  },
+  "new_exact_numerical_measurement": {
+    "status": "PASS_SINGLE_EXACT_CURRENT_MASK_CONTEXT_AND_ALL_MENU_FORECAST_EQUATIONS_COSTS_SOURCE_MANIFEST",
+    "identity": "9c6c7bfdf030725c07dad214579c186f5ea7c8da20b02f3eca61007acfaf9602",
+    "forecasts": 1430,
+    "m_equation_maxdelta": 5.728578676879116e-14,
+    "a_equation_maxdelta": 6.355287432313019e-14,
+    "JXminusB_maxresidual": 1.83772268236293e-17,
+    "actual_numeric_costs": {
+      "public_derivative_attempts": 1,
+      "public_derivative_returns": 1,
+      "LU_factor_attempts": 1,
+      "LU_factor_returns": 1,
+      "LU_solve_attempts": 1,
+      "LU_solve_returns": 1,
+      "RHS_columns": 118,
+      "exact_context_reuses": 0,
+      "compile_seconds": 0.3087874999982887
+    },
+    "new_nonlinear_PF_model_optimizer_controller_commit_calls": 0,
+    "reader_scientific_calls": 0,
+    "workflow_seconds": 0.40102979999937816,
+    "limits": "Ordering data only. Nonlinear successor/complete-policy/LLM superiority not measured."
+  },
+  "actual_cache_binding_and_cold": "V1 and lockedV2 each5parent+6cold checks PASS; native per-use receipt validation and durable ACK before cache return;6OS source-lock boundaries PASS. No new PF/model calls.",
+  "complete_cache_path_decision": "1576 exact ordered paid receipts,4exact contexts,5947exact prior forecasts; full plan/menu/native verdict/cost match source.230.818CPUworkflow seconds. No new PF/model/forecasts.",
+  "closed_paid_graph_screen": "All5 originally unstarted suffixes inspected,418.447seconds. First missing numerical context now measured and independently certified; four other paths first require missing eligible physical receipt. All remain UNKNOWN, not negative.",
+  "current_task": {
+    "status": "COMPLETE_FIXED_TWO_QUERY_ENGINEERING_INDEPENDENT_PASS",
+    "output": "outputs\\exact_two_paid_query_engineering_20261018",
+    "fixed_deadline_utc": "2026-10-18T18:36:50.888170+00:00",
+    "independent_audit": {
+      "status": "PASS_COMPLETE_FIXED_TWO_QUERY_WARM_COLD_AND_CHARGED_REPLAY_ENGINEERING",
+      "counts": {
+        "PF_attempts": 4,
+        "PF_returns": 4,
+        "PF_exceptions": 0,
+        "new_query_PF_attempts": 2,
+        "continuous_replay_PF_attempts": 2
+      },
+      "PF_seconds": 11.198982799993246,
+      "costs": {
+        "PF_attempts": 4,
+        "PF_returns": 4,
+        "PF_exceptions": 0,
+        "PF_seconds": 11.198982799993246,
+        "new_query_PF_attempts": 2,
+        "continuous_replay_PF_attempts": 2,
+        "preservation_seconds": 0.9258079999926849,
+        "new_model_calls": 0,
+        "new_optimizer_steps": 0,
+        "new_derivative_forecast_linear_solve_calls": 0
+      },
+      "query_outcomes": [
+        {
+          "row": {
+            "donor_bus": 32,
+            "donor_index": 16,
+            "kind": "equal_owned_reallocation",
+            "q": 100.0,
+            "receiver": 42,
+            "universe_index": 602
+          },
+          "verdict": {
+            "accepted": false,
+            "after": {
+              "deficit_sum": 0.208687535231581,
+              "ov_count": 1,
+              "uv_count": 14,
+              "vmax": 1.0554550647282228,
+              "vmean": 0.9777059855334896,
+              "vmin": 0.9031547027975366
+            },
+            "before": {
+              "deficit_sum": 0.37733194380645085,
+              "ov_count": 0,
+              "uv_count": 17,
+              "vmax": 1.05,
+              "vmean": 0.9749132387756779,
+              "vmin": 0.892167898232881
+            },
+            "converged": true,
+            "normal_upper_band_admissible": false,
+            "original_native_accepted": true,
+            "reason": "normal_upper_band_mediation"
+          },
+          "original_score": [
+            -999,
+            -999,
+            -999,
+            -999,
+            -999
+          ]
+        },
+        {
+          "row": {
+            "donor_bus": 0,
+            "donor_index": 14,
+            "kind": "equal_owned_reallocation",
+            "q": 25.0,
+            "receiver": 44,
+            "universe_index": 343
+          },
+          "verdict": {
+            "accepted": false,
+            "after": {
+              "deficit_sum": 0.30520989211600524,
+              "ov_count": 1,
+              "uv_count": 18,
+              "vmax": 1.0500403307298414,
+              "vmean": 0.9758375480635458,
+              "vmin": 0.8981737479990335
+            },
+            "before": {
+              "deficit_sum": 0.37733194380645085,
+              "ov_count": 0,
+              "uv_count": 17,
+              "vmax": 1.05,
+              "vmean": 0.9749132387756779,
+              "vmin": 0.892167898232881
+            },
+            "converged": true,
+            "normal_upper_band_admissible": false,
+            "original_native_accepted": false,
+            "reason": "uv_increased"
+          },
+          "original_score": [
+            -999,
+            -999,
+            -999,
+            -999,
+            -999
+          ]
+        }
+      ],
+      "cold_restore_verified": true,
+      "all118_replay_tolerance": 1e-10,
+      "failure_or_unstarted_phases": [],
+      "original_verifier_and_native_BEFORE_inputs_checked": true,
+      "query_only_no_actual_commits": true,
+      "new_model_PF_derivative_factor_solve_calls": 0,
+      "whole_policy_DSE_LLM_superiority": "NOT_TESTED",
+      "prior_source_costs": "Retained by source references; not imputed per call, waived or pooled into a deployment speed claim.",
+      "workflow_seconds": 1.6770726000031573
+    },
+    "scope": "TWO new physical query identities plus at mostTWO explicitly charged replays; query-only cold preservation; no commits/LLM/GPU/full-policy claim"
+  },
+  "proposed_queries_at_previous_zero_state": "STOP_NOT_JUSTIFIED;338absent keys at observed zero-UVline36terminal must not enter physics",
+  "next_tasks": [
+    "Inspect the sole changed-evidence analysis after actual process ends. Preserve next exact missing input and all partial results; no automatic newPF from absent key.",
+    "Publish closed two-query code/proofs/checklist to existing branch with head lease/byte checks.",
+    "Design the next complete matched protected continuation only from actual supported causal states, strong controls/full costs/ownership/preservation/independent reader gates. All6finalgoalsopen."
+  ],
+  "all_six_final_goals": "UNACHIEVED",
+  "fresh_LLM_contribution": "NOT_ESTABLISHED",
+  "source_full_four_world_gate": "UNKNOWN",
+  "old_failed_partial_stopped_sources_and_frozen_assets": "PRESERVED",
+  "timers": "NONE; start-only automation deleted. Do not revive recurring monitors.",
+  "GPU_allocations": "NONE",
+  "prior_new_input_screen_terminal": "First missing context resolved. Fixed source-exact first-leg screen completed434.993seconds,2contexts/2860priorforecasts reused, first eligible physical receipt UNKNOWN.0newscience.",
+  "fresh_prior3418scope": "All3418actualreturnedinputs matched sourcehash;14or15shuntrows, versus18/23targetpriorfrontiers. ExactNETcardinality exclusion only, not aggregated physical-admittance equivalence or globalnewPFcertificate.",
+  "master_checklist": "RESEARCH_TASKS.md",
+  "structured_task_list": "outputs/research_tasks_20261014/Tasks.json",
+  "task_list_maintenance": "At each continuation read RESEARCH_TASKS.md plus newest headers/exact resume. At each verified result update stable subtask IDs, status/current_result/evidence, reseacrh progress.txt and exact resume. Preserve earlier results/failures and never repeat completed or stopped experiments.",
+  "active_owned_jobs": [
+    {
+      "kind": "CPU_READONLY_ANALYSIS_NOT_PHYSICS",
+      "actual_pid": 19344,
+      "shim_pid": 19460,
+      "source": "work\\replay_paid_suffix_new_receipts_v3_20261018.py",
+      "fixed_analysis_bound_seconds": 900,
+      "no_duplicate_or_restart": true
+    }
+  ],
+  "scheduled_continuation": {
+    "automation_id": "hiergrid-9-06-pm-continuation",
+    "status": "TRIGGERED_AFTER18_06UTC_START_AUTOMATION_DELETED",
+    "start_UTC": "2026-10-18T18:06:00+00:00",
+    "start_Asia_Qatar": "2026-10-18 21:06",
+    "human_instruction": "Start at9:06PM and continue substantive authorized work while usage is available; preserve progress/checklist and exact resume before limits. Respect actual usageLimited; no promised reset or invented token-consuming work.",
+    "entry_task": "G1.5",
+    "master_checklist": "RESEARCH_TASKS.md",
+    "resume": "outputs/substantive_research_progress_20261018/Exact_Next_Execution_State.json",
+    "created_at_UTC": "2026-10-18T16:14:56.959207+00:00",
+    "scientific_jobs_started_before_scheduled_time": 0,
+    "started_UTC": "2026-10-18T18:06:01+00:00"
+  },
+  "new_receipt_causal_screen": {
+    "at_utc": "2026-10-18T18:26:20.629209+00:00",
+    "actual_pid": 19344,
+    "shim_pid": 19460,
+    "source_sha256": "d77a2119aa1b87376d3055ecd080373d516eb7d07382849f74de7fb97da1dbfd",
+    "actual_command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/replay_paid_suffix_new_receipts_v3_20261018.py",
+    "actual_live": true,
+    "zero_new_science": true,
+    "source_claim_exact": true,
+    "closed_result": null
+  }
+}

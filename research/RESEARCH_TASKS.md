@@ -1,12 +1,10 @@
-> Persistent checklist mirror. Evidence paths refer to the saved workspace. Download the [source and evidence snapshot](2026-10-18/task_checklist/Task_Checklist_And_Verified_Evidence.zip) for the preserved reports. Large raw physics/model files remain local.
-
-# HierGrid â€” master research checklist
+# HierGrid — master research checklist
 
 Updated 2026-10-18T16:08:42.621499+00:00. Human priority order is preserved. **0 of 6 final goals verified complete.**
 
 Checked subtasks mean the stated work and report are complete. A failed experiment remains a failed result. A whole goal is checked and crossed out only when all of its acceptance criteria pass.
 
-Older operational notes are preserved in the archived task list (local: `outputs/research_tasks_20261014/Task_List_Before_Checklist_20261018.md`).
+Older operational notes are preserved in [the archived task list](outputs/research_tasks_20261014/Task_List_Before_Checklist_20261018.md).
 
 - [ ] **G1. Find an LLM-assisted method aiming for zero UV on all severe federation cases and beat original deterministic DSE safely.**
 - [ ] **G2. Find a published physical dataset/test set and test our model on it.**
@@ -21,14 +19,14 @@ Older operational notes are preserved in the archived task list (local: `outputs
 
 Two distinct development worlds have observed zero UV from archived trained-LLM prefixes plus numerical control. Line 36: 33 residual UV to zero, using 24/25 operations and passing the upper-voltage guard. Its final complete checkpoint and branch closure are missing; full-policy and all-severe-case results remain UNKNOWN.
 
-- [x] `G1.1` Index all 141 federation recipes; retain 68 historical results and 73 missing results as UNKNOWN. Evidence (local: `outputs/research_tasks_20261014/All141_Federation_Case_Status.json`)
-- [x] `G1.2` Verify recorded zero-UV transitions on line 35 within the preserved 26-commit audit. Evidence (local: `outputs/all_recorded_receding_commits_audit_20261018/Independent_Scoped_Audit.json`)
-- [x] `G1.3` Verify another world, line 36: 33 residual UV to zero; retain the missing closure/checkpoint limitations. Evidence (local: `outputs/observed_unclosed_zero_state_audit_20261018/Results.json`)
-- [x] `G1.4` Complete independent physical-component indexing of all 60,426 tracked prior PF inputs; both proposed actions have zero component matches. Evidence (local: `outputs/prior_physical_query_footprints_20261018/independent_audit/Independent_Audit.json`)
-- [x] `G1.4a` Check all 3,418 earlier fresh-root observations using two independent shunt-component equations; retain the observed-table scope limitation. Evidence (local: `outputs/fresh_observed_shunt_scope_20261018/Results.json`)
-- [x] `G1.4b` Pass exact cold native-input matching and mutation checks on samples from all ten source journals. Evidence (local: `outputs/strict_saved_native_input_match_v2_20261018/Results.json`)
-- [ ] `G1.5` Finish the relevant-history and execution checks; freeze the exact next query protocol, warm/cold preservation and independent reader.
-- [ ] `G1.6` Execute the justified next query test once; preserve every result, failure and cost, then assess its fixed gate.
+- [x] `G1.1` Index all 141 federation recipes; retain 68 historical results and 73 missing results as UNKNOWN. [Evidence](outputs/research_tasks_20261014/All141_Federation_Case_Status.json)
+- [x] `G1.2` Verify recorded zero-UV transitions on line 35 within the preserved 26-commit audit. [Evidence](outputs/all_recorded_receding_commits_audit_20261018/Independent_Scoped_Audit.json)
+- [x] `G1.3` Verify another world, line 36: 33 residual UV to zero; retain the missing closure/checkpoint limitations. [Evidence](outputs/observed_unclosed_zero_state_audit_20261018/Results.json)
+- [x] `G1.4` Complete independent physical-component indexing of all 60,426 tracked prior PF inputs; both proposed actions have zero component matches. [Evidence](outputs/prior_physical_query_footprints_20261018/independent_audit/Independent_Audit.json)
+- [x] `G1.4a` Check all 3,418 earlier fresh-root observations using two independent shunt-component equations; retain the observed-table scope limitation. [Evidence](outputs/fresh_observed_shunt_scope_20261018/Results.json)
+- [x] `G1.4b` Pass exact cold native-input matching and mutation checks on samples from all ten source journals. [Evidence](outputs/strict_saved_native_input_match_v2_20261018/Results.json)
+- [x] `G1.5` Finish the relevant-history and execution checks; freeze the exact next query protocol, warm/cold preservation and independent reader. [Evidence](outputs/exact_two_paid_query_engineering_20261018/Readiness.json)
+- [x] `G1.6` Execute the justified next query test once; preserve every result, failure and cost, then assess its fixed gate. [Evidence](outputs/exact_two_paid_query_engineering_20261018/audit_source_claim_v2/Independent_Audit.json)
 - [ ] `G1.7` Complete matched, protected hybrid/DFF/DFF-ALT/DSE and strong numerical trajectories across the entire declared severe-case roster.
 - [ ] `G1.8` Independently confirm zero UV across that roster and the prespecified improvement over deterministic control.
 
@@ -38,8 +36,8 @@ Acceptance: Audit all141 federation recipes and declare the full severe-case ros
 
 Three official PGLib 118-bus variants are pinned and audited. All three new SLSQP final points failed the fixed native feasibility threshold. Testing our model on a verified public initialization remains pending.
 
-- [x] `G2.1` Pin and audit the full native inputs and constraints of all three published cases. Evidence (local: `outputs/public118_native_acopf_reference_20261015/Protocol.json`)
-- [x] `G2.2` Complete and independently report all three fixed SLSQP trials, including their failed feasibility gates. Evidence (local: `outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json`)
+- [x] `G2.1` Pin and audit the full native inputs and constraints of all three published cases. [Evidence](outputs/public118_native_acopf_reference_20261015/Protocol.json)
+- [x] `G2.2` Complete and independently report all three fixed SLSQP trials, including their failed feasibility gates. [Evidence](outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json)
 - [ ] `G2.3` Establish a faithful verified public initialization/evaluation contract without rescuing stopped trials by retuning.
 - [ ] `G2.4` Test our actual model/hybrid and equally informed controls on every preregistered public test identity.
 
@@ -49,7 +47,7 @@ Acceptance: Preserve dataset license/version/native constraints and disclose any
 
 The native classical benchmark trials and their failures are recorded. No completed comparison with published systems establishes our superiority.
 
-- [x] `G3.1` Record the source-faithful all3native classical benchmark trial and independent outcomes. Evidence (local: `outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json`)
+- [x] `G3.1` Record the source-faithful all3native classical benchmark trial and independent outcomes. [Evidence](outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json)
 - [ ] `G3.2` Freeze comparable published-method reproduction/adaptation protocols and strong trained numerical controls.
 - [ ] `G3.3` Run matched benchmarks with all outcomes, total costs and independent physical replay.
 - [ ] `G3.4` Confirm any superiority claim on genuinely unused authorized cases.
@@ -60,8 +58,8 @@ Acceptance: Select relevant reproducible primary-source methods and document fid
 
 Matched 0.5B/1.5B teacher-action accuracy: 41.6667%/53.125%, with 100% schema validity; numerical control: 72.9167%. The fixed gate failed. The 3B partial-result upper bound is 59.375%; 7B failed its first backward pass with out-of-memory. These fixed interventions remain stopped.
 
-- [x] `G4.1` Complete the matched adapted 0.5B/1.5B comparison and preserve its failed numerical-control gate. Evidence (local: `outputs/matched_scale_20261011/verified_completion_handoff_20261012/Verified_Matched_Scale_Completion.json`)
-- [x] `G4.2` Audit the larger-model attempts: preserve the 3B partial result, 7B out-of-memory failure and all unknown outputs. Evidence (local: `outputs/higher_matched_scale_20261015/partial_evidence_audit_runtime_v2_20261018/Independent_Partial_Audit.json`)
+- [x] `G4.1` Complete the matched adapted 0.5B/1.5B comparison and preserve its failed numerical-control gate. [Evidence](outputs/matched_scale_20261011/verified_completion_handoff_20261012/Verified_Matched_Scale_Completion.json)
+- [x] `G4.2` Audit the larger-model attempts: preserve the 3B partial result, 7B out-of-memory failure and all unknown outputs. [Evidence](outputs/higher_matched_scale_20261015/partial_evidence_audit_runtime_v2_20261018/Independent_Partial_Audit.json)
 - [ ] `G4.3` If justified by a materially different mechanism, freeze and complete a fair higher-model comparison; do not repeat size-only failed imitation.
 
 Acceptance: Use the same serving role,data/context/split,training/final-checkpoint rules and evaluation identities; disclose architecture/FLOP/precision differences. Record complete outcomes and compute/training/failure costs. Partial/OOM stays partial and is never a successful larger-model result.
@@ -94,4 +92,8 @@ Acceptance: Freeze a causal threat model and matched attack/defence baselines. M
 - Preserve original frozen assets and literal DFF + DFF-ALT + unchanged DSE; report both branches and FULL BOTH-branch costs.
 - A result-wait timer is only for a confirmed live result that is the sole dependency. Remove it when terminal. Do useful parallel work when available.
 
-Structured tasks (local: `outputs/research_tasks_20261014/Tasks.json`) آ· Exact resume (local: `outputs/substantive_research_progress_20261018/Exact_Next_Execution_State.json`) آ· Progress log (local: `reseacrh%20progress.txt`)
+[Structured tasks](outputs/research_tasks_20261014/Tasks.json) · [Exact resume](outputs/substantive_research_progress_20261018/Exact_Next_Execution_State.json) · [Progress log](reseacrh%20progress.txt)
+
+Latest continuation: 2026-10-18T18:18:28.437507+00:00. TERMINAL_PRESERVE_PARTIAL_OR_FAILURE_NO_SCIENCE_RETRY. Start-only timer deleted after the requested21:06Qatar start. No GPU allocated. All six final goals remain open.
+
+Latest continuation: 2026-10-18T18:20:58.164280+00:00. COMPLETE_FIXED_TWO_QUERY_ENGINEERING_INDEPENDENT_PASS. Start-only timer deleted after the requested21:06Qatar start. No GPU allocated. All six final goals remain open.
