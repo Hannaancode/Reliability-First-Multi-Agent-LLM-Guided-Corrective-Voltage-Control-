@@ -1,0 +1,58 @@
+{
+  "at_utc": "2026-10-18T13:12:15.271233+00:00",
+  "status": "FULL_OLD_POLICY_READER_TERMINAL_RESOURCE_PARTIAL_PERUSE_RECEIPT_PATH_PASSES_ONE_ACTUAL_BOUNDARY",
+  "old_reader": {
+    "actual_pid": 11300,
+    "parent_pid": 15812,
+    "exec_session": 80819,
+    "actual_exit_code": 1,
+    "fixed_analysis_bound_seconds": 7200,
+    "terminal_reason": "Fixed reader resource bound; no extension or restart",
+    "progress_only": {
+      "checked_decisions": 11,
+      "checked_queries": 24452,
+      "workflow_seconds": 6969.390803,
+      "new_science": 0
+    },
+    "complete_report_produced": false,
+    "all_four_full_policy_gate": "UNKNOWN",
+    "failure_sha256": "4d252e69b272b1ad090c34f1e4358bd142b9ed49136f332dd1844ea283b876cd"
+  },
+  "independent_all25_complete_state_prefix_audit": "PASS; certificate outputs/receding_checkpoints_linear_audit_20261018/Independent_Checkpoint_Audit.json; no missing26th state inferred.",
+  "all4_roots_both_method_input_admission": "8positive/12negative standalone;8actualengine preentries/8preentry rejections; scientific body stubbed, no performance.",
+  "archival_history_prefix": "PASS actual2580 receipt references/9checks after append; live antirollback remains strict. This does not authorize historical controller rollback.",
+  "primary_input_reference_index": {
+    "status": "PASS_ALL37656_SOURCE_PRIMARY_INPUT_OUTPUT_REFERENCE_CLOSURE",
+    "keys": 37656,
+    "index_bytes": 14322439,
+    "index_sha256": "7fac6b49aa18e022c8f37d68a59e9205ef9a1caad2a74cd32bb8966798c7180d",
+    "scientific_journal_sha256": "7961c57411526eaf8f7d79620b91fd00fcbf53d91d3aaf95598997add2f16732",
+    "new_model_PF_optimizer_derivative_forecast_factor_solve_calls": 0,
+    "workflow_seconds": 94.79790010000215,
+    "limits": "Source/identity/byte-reference metadata only. Old full-policy audit remains incomplete; no physical receipt or new execution permission follows. Future per-use verifier must retain source/native guard/scope/score/cost checks and a durable ACK."
+  },
+  "per_use_receipt_certificate": {
+    "status": "PASS_ONE_ACTUAL_CAUSAL_RECEIPT_NATIVE_VERIFIER_AND_BOUNDARIES",
+    "actual_receipts": 1,
+    "checks": 3,
+    "ACK": "outputs/archived_receipt_on_use_20261018/Actual_Receipt_ACK.json",
+    "mechanism": "Exact current point/action, source input/closed-output byte references, actual actuation input and unchanged native saved-result verifier, original score/cost and fsynced keyed ACK BEFORE any receipt execution reuse.",
+    "selection_clarification": "First saved checkpoint; first serialized canonical-index key at its point (lexicographic hashed-action order). Earlier test wording source-order is imprecise; no reward/outcome filter or performance inference.",
+    "not_certified": "All old receipts, full old policy, future owner/policy/source-cost preservation or permission for any missing identity."
+  },
+  "new_model_PF_optimizer_derivative_forecast_factor_solve_calls": 0,
+  "owned_science_GPU_collector_reader_jobs": [],
+  "timers": [],
+  "known_physics": "Earlier scoped26commit audit:one17-residualUV world reaches0 in both closed numerical suffixes,11vs14addedops; noUVwin over immediate/no freshLLM/fullDSE/all-severe claim.",
+  "all_six_goals": "UNACHIEVED",
+  "old_partial_policy_gate": "UNKNOWN",
+  "next_tasks_in_order": [
+    "Bind independent per-use receipt verification and its durable ACK into lazy paid lookup BEFORE cache hits enter the actual decision engine. Warm receipts retain their prior independent source/physics certificate and all paid costs. Never gate science on an invented full-old-policy PASS.",
+    "Persist complete verified-use registry/ACK/source/input/cursor/history/RNG/cost state and exact journal prefixes; prove full actual cold-process restoration at the largest admitted supported state. Historical-prefix reader remains separate from live antirollback.",
+    "Establish all-attempt history coverage for proposed new identities, not merely absence from inspected60377-key lineage. Reserve exact genuinely unexecuted identities durably before any new PF; old attempts/missing outcomes block.",
+    "Freeze new finite owner/protocol and independently locked complete-vs-partial reader for ALL declared unfinished roots/BOTH fixed policies/common raw scopes/16followups/remaining25ops/450cap/no-refund/9Q/protection/full costs/continuous replay. Preserve old closed outcomes and never restart/extend old budgets.",
+    "Only after those gates launch genuinely unexecuted measurements. Then separately bind actual fresh LOCAL/family-broker inference and strong numerical/trained/architecture controls; all141case inventory,published benchmark,unused confirmation and security limitations remain."
+  ],
+  "prospective_design": "outputs/linear_audit_and_admission_handoff_20261018/Prospective_Unexecuted_Measurement_Design.md",
+  "no_one_time_timer_needed": "All owners are now terminal. The human waiting-timer condition is false; none created."
+}

@@ -1,0 +1,207 @@
+{
+  "status": "PASS_CRC_EVERY_MEMBER_SHA256_SECRET_SCREEN",
+  "archive": "Receipt_Verification_And_Terminal_Audit_Evidence_20261018.zip",
+  "bytes": 39023,
+  "sha256": "62a1692927bace7ce8c43a79c219c5ef45481f6edb4173f1f465d661a766844c",
+  "members": {
+    "outputs/archival_referenced_history_prefix_20261018/Protocol.json": {
+      "bytes": 414,
+      "sha256": "2f75720e53e1457b9ba9855aa7388ed66c147bba9dc253ca286818d3742268e4"
+    },
+    "outputs/archival_referenced_history_prefix_20261018/Results.json": {
+      "bytes": 1448,
+      "sha256": "efc0a7eb017866f241248bd9b752e1c80f9abaecceeaeff62c09e1c63cfcc929"
+    },
+    "outputs/archived_receipt_on_use_20261018/Actual_Receipt_ACK.json": {
+      "bytes": 1834,
+      "sha256": "f93fcc3e25dd7449079d07b8ae39a9e8026314cbae281593662e269db2c2bdc4"
+    },
+    "outputs/archived_receipt_on_use_20261018/Protocol.json": {
+      "bytes": 494,
+      "sha256": "d57f778da28d63856ead57fe9e8d8ea4960d6357a33333feddd2c75472ae68f1"
+    },
+    "outputs/archived_receipt_on_use_20261018/Results.json": {
+      "bytes": 663,
+      "sha256": "8388a9d6ecaa3f0d1c228b190d0fdd52800866e908d35131b8fda038420edcc0"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_10000.json": {
+      "bytes": 96,
+      "sha256": "971d5ee8e2ecdeae48a3ec01dcb82e7ab7573eb570402ee1e6353ba21b252d11"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_12000.json": {
+      "bytes": 95,
+      "sha256": "4668de2e6bfae80728b2cddba29b20589acf1a1d536c0ae806a546ceb3543683"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_14000.json": {
+      "bytes": 94,
+      "sha256": "2d5556d127769bc8e8fbd93e60443a99eca07d8e6339686e05d5513b49e8aae9"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_16000.json": {
+      "bytes": 95,
+      "sha256": "fcd9be3bf32674bd756ce4c09e7c96d0bf30f2fd9f0193705a8a87b095866684"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_18000.json": {
+      "bytes": 94,
+      "sha256": "056df94a950deb5c347f3cbd3511de771c626b0953c590630079fdac83180b08"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_2000.json": {
+      "bytes": 88,
+      "sha256": "50bcde3cfb49194338c3c13a95ae5104b3fc1de7055ce236c92be8906aca2767"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_20000.json": {
+      "bytes": 95,
+      "sha256": "52f75871193a29edf9c6d7182b39e538af8767db3d62737d91875ea12acfcca8"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_22000.json": {
+      "bytes": 95,
+      "sha256": "212efec8211c1394ba2f15dce4992c88ffc3c5b51111b0b18beebe31b4923bc4"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_24000.json": {
+      "bytes": 95,
+      "sha256": "f18d8567c952f108ad1ca866faf1358f033560435e8ad740b5113667b3f627f5"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_26000.json": {
+      "bytes": 95,
+      "sha256": "bdd79793dc424da01afa3d6e5ee1f48c8e7ed4c8819579b58d80828daa28df45"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_28000.json": {
+      "bytes": 90,
+      "sha256": "448c1310fdce8bcfa34bcca4318682362dbae98f4c5c953b9643e294d84e45ff"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_30000.json": {
+      "bytes": 96,
+      "sha256": "3bdf1d261f5b98a50366ad26c645988180f8fd81c54413ef20bfa649b84c9186"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_32000.json": {
+      "bytes": 96,
+      "sha256": "b6b5da1ded294a6c8cc46f644025dea67685e7d4b08edf53c7739fac1f34cbee"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_34000.json": {
+      "bytes": 96,
+      "sha256": "9d4e7f9b63f9ac8d17d9def1a629e5e6928d80d6f68eba2ad3e2a727b8194623"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_36000.json": {
+      "bytes": 96,
+      "sha256": "273ef6334070326e507b2b8c136fec133e3880cdd5a45f968c698145415b2a5c"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_4000.json": {
+      "bytes": 95,
+      "sha256": "fba65ac79383ba70860bc93cf3cc6989a0859dc542a95ef445776d6a9396b45b"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_6000.json": {
+      "bytes": 94,
+      "sha256": "214c7f02f0a580bca048c4fbbbec277a74325961854a33f2dbc8e728feeadf15"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Capsule_Progress_8000.json": {
+      "bytes": 95,
+      "sha256": "f099298743102636494574f2f01bc7edd7eb36e58d121bef99312bfa8974bd4b"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Decision_Progress_1.json": {
+      "bytes": 122,
+      "sha256": "99635f78a2b0e26992e862409b8bf0a87d0f76203e68af664856d5f835510875"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Decision_Progress_10.json": {
+      "bytes": 123,
+      "sha256": "809e06046dc70ce14ea79aa904fd689b3317f0281ceaea244ae24b72346fe585"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Decision_Progress_11.json": {
+      "bytes": 117,
+      "sha256": "1ba9f418ea17364f99c4a358f4e1efeb0982e07e43645c60f2e13b1189e62069"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Decision_Progress_2.json": {
+      "bytes": 122,
+      "sha256": "d67945779922a4af02b2d5e39ac26caeeca196502c8de5129394ca615728da8f"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Decision_Progress_3.json": {
+      "bytes": 115,
+      "sha256": "d78ec2faa662b2bd0fd79e25cb3138a97cf7506c1db81480f51d5989fce14160"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Decision_Progress_4.json": {
+      "bytes": 122,
+      "sha256": "8937240d95da9a13abc5eecf5859ca01c9fd5a252ed527f1131a5e9c961fba39"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Decision_Progress_5.json": {
+      "bytes": 123,
+      "sha256": "f0e4e72edb5a437ba948b6f586e825df1d6b041e53a55c5fd4a98da29a035ed1"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Decision_Progress_6.json": {
+      "bytes": 123,
+      "sha256": "07013766f550315fca3eeff16654bbe526d2589bd4eb676056830c7cddb89806"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Decision_Progress_7.json": {
+      "bytes": 123,
+      "sha256": "16819a357cff1aa8bf2a7d67655942c2a7ff6f7add307e50bfe78fe32438d498"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Decision_Progress_8.json": {
+      "bytes": 116,
+      "sha256": "f3d5493823a25566dd3e952a656cc567fe97a264329e56891ee8622215171992"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/Decision_Progress_9.json": {
+      "bytes": 122,
+      "sha256": "1bce3a5e6a880d476a9fe6567f9fe0765441b76f89e3872325302f4bb284152f"
+    },
+    "outputs/full_receding_paid_campaign_20261015/audit_linear_composed_v4_20261018/owner.claim": {
+      "bytes": 146,
+      "sha256": "1d45c80ff9e788fb09db447cd9e872aceb0596aee9ce93f202a6e37b6e1ec32a"
+    },
+    "outputs/linear_audit_and_admission_handoff_20261018/Prospective_Unexecuted_Measurement_Design.md": {
+      "bytes": 4826,
+      "sha256": "574336645006eb8f50cf3bc848de75955e4d25f788c6dbaad471a72e9705ee3e"
+    },
+    "outputs/primary_input_reference_index_20261018/Closed_Manifest.json": {
+      "bytes": 425,
+      "sha256": "cd347e2d499bf6d1a356353fabe1d11a5cc7dc02ff2c23f40c9b0296a0932f6d"
+    },
+    "outputs/primary_input_reference_index_20261018/Protocol.json": {
+      "bytes": 832,
+      "sha256": "af2c40274620f91ad92fd380ff8e2e14e779475dcee171a9309b3bfe3316de81"
+    },
+    "outputs/primary_input_reference_index_20261018/Results.json": {
+      "bytes": 685,
+      "sha256": "190a875183032b1da629d2351b56f31712495b39b5ab28292645d513aea8b281"
+    },
+    "outputs/receding_linear_composed_reader_console_20261018.log": {
+      "bytes": 2508,
+      "sha256": "4d252e69b272b1ad090c34f1e4358bd142b9ed49136f332dd1844ea283b876cd"
+    },
+    "outputs/receipt_verification_research_handoff_20261018/Exact_Next_Execution_State.json": {
+      "bytes": 5007,
+      "sha256": "15fad00cedee058a7c5e4db0b49b01c7cfd6d286716b581052ee511f8ee8c231"
+    },
+    "outputs/receipt_verification_research_handoff_20261018/Results_And_Next_Execution.md": {
+      "bytes": 1594,
+      "sha256": "c30f1c0cfd2e0c9ce54bbfb19094c6ef08854dcc3ba819ef595b15b68bb3e689"
+    },
+    "work/archival_referenced_history_prefix_v1_20261018.py": {
+      "bytes": 3460,
+      "sha256": "a51276d01f92b6d8c1f0f8b882d228c667057091bfa908e2bc85d92490125cfb"
+    },
+    "work/certify_archived_receipt_on_use_v1_20261018.py": {
+      "bytes": 4670,
+      "sha256": "ef137ebbef3ac32b40498d093d11b6ff014446a8e832eb749d831a9ee6c684de"
+    },
+    "work/check_archival_referenced_history_prefix_20261018.py": {
+      "bytes": 3713,
+      "sha256": "7194ff7f5b6ea6189308f9ba1999243d8f8bffc3a9a16d67a29d85a413e8a4a0"
+    },
+    "work/check_archived_receipt_on_use_20261018.py": {
+      "bytes": 3447,
+      "sha256": "33787f0f4767051147e2957a6d33eda82a91945196087372eaaa1d2cd7c9df1e"
+    },
+    "work/index_primary_input_references_20261018.py": {
+      "bytes": 5433,
+      "sha256": "6c3846534256d0a42fe9957577bc78bb262a9fd6cc2dd40efae44811aa14f715"
+    },
+    "work/save_receipt_verification_terminal_state_20261018.py": {
+      "bytes": 10791,
+      "sha256": "fb380ccd7f95b7f03243548a911f4471327ce9f0ed489312c80e19ca3805ff32"
+    }
+  },
+  "separate_primary_reference_index": {
+    "path": "outputs\\primary_input_reference_index_20261018\\All_Primary_Input_References.json.gz",
+    "bytes": 14322439,
+    "sha256": "7fac6b49aa18e022c8f37d68a59e9205ef9a1caad2a74cd32bb8966798c7180d",
+    "decoded_secret_screen": "PASS"
+  },
+  "raw_scientific_capsules_checkpoints_journals_stay_local": true
+}
