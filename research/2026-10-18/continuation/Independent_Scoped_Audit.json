@@ -1,0 +1,123 @@
+{
+  "status": "PASS_ALL_RECORDED_COMMITTED_TRANSITIONS_AND_CLOSED_ENDPOINTS_SCOPED_ONLY",
+  "journal_SHA256": "7961c57411526eaf8f7d79620b91fd00fcbf53d91d3aaf95598997add2f16732",
+  "initialized_branches": [
+    {
+      "world": "fed_combined_load_1p5_line_35_MG1",
+      "method": "immediate1_followup16",
+      "initial_metrics": {
+        "deficit_sum": 0.4701843599904735,
+        "ov_count": 0,
+        "uv_count": 17,
+        "vmax": 1.05,
+        "vmean": 0.9822959840246092,
+        "vmin": 0.8892233149405679
+      }
+    },
+    {
+      "world": "fed_combined_load_1p5_line_35_MG1",
+      "method": "breadth4_followup4",
+      "initial_metrics": {
+        "deficit_sum": 0.4701843599904735,
+        "ov_count": 0,
+        "uv_count": 17,
+        "vmax": 1.05,
+        "vmean": 0.9822959840246092,
+        "vmin": 0.8892233149405679
+      }
+    },
+    {
+      "world": "fed_combined_load_1p5_line_36_MG1",
+      "method": "immediate1_followup16",
+      "initial_metrics": {
+        "deficit_sum": 1.1512158586302768,
+        "ov_count": 0,
+        "uv_count": 33,
+        "vmax": 1.05,
+        "vmean": 0.9649335605945836,
+        "vmin": 0.8121653312345696
+      }
+    }
+  ],
+  "all_recorded_commits_checked": 26,
+  "all_recorded_closed_branches": [
+    {
+      "world": "fed_combined_load_1p5_line_35_MG1",
+      "method": "immediate1_followup16",
+      "initial_metrics": {
+        "deficit_sum": 0.4701843599904735,
+        "ov_count": 0,
+        "uv_count": 17,
+        "vmax": 1.05,
+        "vmean": 0.9822959840246092,
+        "vmin": 0.8892233149405679
+      },
+      "final_metrics": {
+        "deficit_sum": 0.0,
+        "ov_count": 0,
+        "uv_count": 0,
+        "vmax": 1.05,
+        "vmean": 0.9871332499338641,
+        "vmin": 0.9516416906598459
+      },
+      "new_device_operations": 11,
+      "remaining_original_operations": 5,
+      "commits": 6,
+      "scope": "Recorded closed branch, not full all-four comparison or fresh LLM attribution"
+    },
+    {
+      "world": "fed_combined_load_1p5_line_35_MG1",
+      "method": "breadth4_followup4",
+      "initial_metrics": {
+        "deficit_sum": 0.4701843599904735,
+        "ov_count": 0,
+        "uv_count": 17,
+        "vmax": 1.05,
+        "vmean": 0.9822959840246092,
+        "vmin": 0.8892233149405679
+      },
+      "final_metrics": {
+        "deficit_sum": 0.0,
+        "ov_count": 1,
+        "uv_count": 0,
+        "vmax": 1.0500000000000003,
+        "vmean": 0.9865773140296072,
+        "vmin": 0.9516075619061495
+      },
+      "new_device_operations": 14,
+      "remaining_original_operations": 2,
+      "commits": 8,
+      "scope": "Recorded closed branch, not full all-four comparison or fresh LLM attribution"
+    }
+  ],
+  "actual_full_study_costs_retained": {
+    "PF_attempts": 37682,
+    "PF_returns": 37667,
+    "PF_exceptions": 15,
+    "PF_seconds": 2194.0053872137796,
+    "new_query_PF_attempts": 37656,
+    "continuous_replay_PF_attempts": 26,
+    "preservation_seconds": 7300.278332174523,
+    "new_model_calls": 0,
+    "new_optimizer_steps": 0,
+    "new_derivative_forecast_linear_solve_calls": 0
+  },
+  "numerical_costs_source_reported_not_reaudited": {
+    "public_derivative_attempts": 29,
+    "public_derivative_returns": 29,
+    "LU_factor_attempts": 29,
+    "LU_factor_returns": 29,
+    "LU_solve_attempts": 29,
+    "LU_solve_returns": 29,
+    "RHS_columns": 3422,
+    "exact_context_reuses": 15,
+    "compile_seconds": 5.83860220015049,
+    "new_forecasts": 82276,
+    "exact_paid_forecast_reuses": 11937
+  },
+  "all_four_or_full_policy_gate": "UNKNOWN",
+  "fresh_LLM_contribution_or_fullDSE_superiority": "NOT_ESTABLISHED",
+  "workflow_seconds": 88.9822938999996,
+  "new_scientific_calls": 0,
+  "limits": "Full unchosen menus/ranking/forecast equations, every unselected PF capsule, full25 checkpoint state histories, missing26th full state, all-eight completion, fresh LLM/physical inference, attribution, deployment cost or unused confirmation."
+}

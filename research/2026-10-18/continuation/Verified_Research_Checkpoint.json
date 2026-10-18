@@ -1,0 +1,68 @@
+{
+  "at_utc": "2026-10-18T09:25:42.129073+00:00",
+  "status": "SCOPED_ALL26_COMMIT_AUDIT_PASS_ONE_WORLD_TWO_CLOSED_ZERO_UV_SUFFIXES",
+  "scientific_scope": "Saved actual physical commitments and closed endpoints after historical trained-LoRA prefix; numerical planning, no fresh LLM inference.",
+  "all_recorded_commits_verified": 26,
+  "all_closed_recorded_branches": [
+    {
+      "world": "fed_combined_load_1p5_line_35_MG1",
+      "method": "immediate1_followup16",
+      "initial_metrics": {
+        "deficit_sum": 0.4701843599904735,
+        "ov_count": 0,
+        "uv_count": 17,
+        "vmax": 1.05,
+        "vmean": 0.9822959840246092,
+        "vmin": 0.8892233149405679
+      },
+      "final_metrics": {
+        "deficit_sum": 0.0,
+        "ov_count": 0,
+        "uv_count": 0,
+        "vmax": 1.05,
+        "vmean": 0.9871332499338641,
+        "vmin": 0.9516416906598459
+      },
+      "new_device_operations": 11,
+      "remaining_original_operations": 5,
+      "commits": 6,
+      "scope": "Recorded closed branch, not full all-four comparison or fresh LLM attribution"
+    },
+    {
+      "world": "fed_combined_load_1p5_line_35_MG1",
+      "method": "breadth4_followup4",
+      "initial_metrics": {
+        "deficit_sum": 0.4701843599904735,
+        "ov_count": 0,
+        "uv_count": 17,
+        "vmax": 1.05,
+        "vmean": 0.9822959840246092,
+        "vmin": 0.8892233149405679
+      },
+      "final_metrics": {
+        "deficit_sum": 0.0,
+        "ov_count": 1,
+        "uv_count": 0,
+        "vmax": 1.0500000000000003,
+        "vmean": 0.9865773140296072,
+        "vmin": 0.9516075619061495
+      },
+      "new_device_operations": 14,
+      "remaining_original_operations": 2,
+      "commits": 8,
+      "scope": "Recorded closed branch, not full all-four comparison or fresh LLM attribution"
+    }
+  ],
+  "all_four_or_full_policy_gate": "UNKNOWN",
+  "full_unselected_policy_ranking_and_all_capsules_and_all_checkpoints": "NOT_REAUDITED",
+  "new_model_PF_optimizer_derivative_forecast_or_solve_calls": 0,
+  "factory_checks_passed": 17,
+  "original_oversize_record_bytes": 35228332,
+  "referenced_record_bytes": 1323285,
+  "all_2580_ordered_receipts_exact_in_cold_process": true,
+  "future_query_references_rejected_before_checkpoint_save": true,
+  "capacity_preflight": "outputs/referenced_history_capacity_preflight_20261018/Results.json; v2 wider full-native transport envelope PREPARED ONLY, not actual-data/factory/owner certified.",
+  "original_3B_7B_size_only_intervention": "STOPPED; no retry/checkpoint/seed/context/LR/Q/width outcome sweep",
+  "no_running_science_or_GPU_job": true,
+  "limitations": "One world, two numerical policies, inspected development. Both reach0: no UV superiority over immediate control; breadth used14 added operations versus11. Original full DSE baseline, fresh model attribution, all severe cases, published benchmark and unused confirmation remain unachieved."
+}

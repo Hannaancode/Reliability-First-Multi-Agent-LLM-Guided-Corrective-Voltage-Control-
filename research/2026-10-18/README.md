@@ -33,3 +33,11 @@ python verify_github_code_report_archives_20261018.py --archive-directory PATH
 Add `--extract-to NEW_DIRECTORY` to restore original relative paths after every archive and member hash passes. It refuses to overwrite an existing destination. Verification makes zero scientific/model calls.
 
 `All_Artifact_Coverage.jsonl.gz` inventories **54,167 research files totaling 69,664,948,199 bytes**. Each selected file points to its archive and exact member; all remaining files are explicitly local-only. Its pending labels record selection before publication; the branch commit and publication receipt establish the actual remote upload. This is **not a complete 69.7GB raw-data backup**. In particular, large full checkpoints, multi-GB capsules/journals and non-selected per-record arrays are not uploaded. Runtime environments, downloaded base caches and credentials are excluded. The direct core files and archives can overlap; do not add their counts as distinct research evidence.
+
+## New scoped physical and preservation verification
+
+The new independent scoped audit checked all26 recorded commits and all source attempt/cost identities. Both recorded closed numerical suffixes on `fed_combined_load_1p5_line_35_MG1` clear17 residual UV buses to0, within the original operation/cap/upper-band guard. Immediate uses11 extra device operations; breadth uses14. This is one inspected world after an archived trained-LoRA prefix, with no fresh LLM inference or UV advantage over the immediate numerical control. The all-four/full-policy gate remains UNKNOWN; unselected policy/ranking and full checkpoint histories were not reaudited.
+
+The exact35.23MB duplicated decision record now has a1.323MB journal-reference representation; all2,580 receipts restore exactly in a cold process. Referenced full saved controller-factory checks17/17 and causal-prefix rejection passed. Raw scientific journal remains required. The conservative full-native capacity variant is PREPARED ONLY, not live performance readiness.
+
+Read `continuation/Results_And_Next_Execution.md` and the52-member verified supplemental archive. Old source/setup failures are retained. These are scoped physical evidence and software improvements, not proof of LLM superiority, all-case zero UV or published-method superiority.
