@@ -1,0 +1,246 @@
+{
+  "status": "PASS_CRC_EVERY_MEMBER_SHA256_SECRET_SCREEN",
+  "archive": "Linear_Checkpoints_Admission_And_Reader_Source_20261018.zip",
+  "bytes": 75543,
+  "sha256": "ce06c687fabffaa833db886ad6d9e85192132c6e11be5405fbde925b8b8bda23",
+  "members": {
+    "outputs/admitted_referenced_runtime_binding_20261018/Protocol.json": {
+      "bytes": 361,
+      "sha256": "c94b92ecdc3908b85cc4b35a9fe67c63be0a7e7578d1b445fd9d1adec5fefd53"
+    },
+    "outputs/admitted_referenced_runtime_binding_20261018/Results.json": {
+      "bytes": 2353,
+      "sha256": "3b6601b413c6f6503adca82287e57a71476b80679be3f034a01ec5dc22e44ef5"
+    },
+    "outputs/exact_input_fingerprint_20261018/Protocol.json": {
+      "bytes": 611,
+      "sha256": "90722f6b6f70ef4a474986afcfc689048071d3568f29d342a3351ad46b7ac5ed"
+    },
+    "outputs/exact_input_fingerprint_20261018/Results.json": {
+      "bytes": 3279,
+      "sha256": "2bea11105bd204b510cbf698e0b90dc2980e2bb8a25fdb007da5dd019abca5fa"
+    },
+    "outputs/exact_input_pair_equality_20261018/Protocol.json": {
+      "bytes": 611,
+      "sha256": "62af5e07da9159f262f5ed9eeb8ab2c7f023c3637639e57b097d97b9dff303bb"
+    },
+    "outputs/exact_input_pair_equality_20261018/Results.json": {
+      "bytes": 3278,
+      "sha256": "61398cf2ce4edb806d9cf0dbc62d3d899795ed2702326ca7d3f8c08e0c4b78a8"
+    },
+    "outputs/lazy_paid_lineage_receipts_20261018/Protocol.json": {
+      "bytes": 476,
+      "sha256": "38b36eacd70b82392d601379e9ddd0bcfcfd6343335070684536f4df0e8ee57a"
+    },
+    "outputs/lazy_paid_lineage_receipts_20261018/Results.json": {
+      "bytes": 1029,
+      "sha256": "dd9e082c5781a678fd882ef9f9202defad98983bfb4eb82dccb853a142b95465"
+    },
+    "outputs/linear_audit_and_admission_handoff_20261018/Exact_Next_Execution_State.json": {
+      "bytes": 3834,
+      "sha256": "724a519f29e4ff2bfec8ae60752f3a2c232d5c4e3a76ec0397d40376e7763b40"
+    },
+    "outputs/linear_audit_and_admission_handoff_20261018/Results_And_Next_Execution.md": {
+      "bytes": 1535,
+      "sha256": "ace9b5fce9e575869e7fdf5736f258de049fb0116ae802777fd161a767a18c5d"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Closed_Manifest.json": {
+      "bytes": 2750,
+      "sha256": "45af7de1985601cf3ead2a188a3fd43816a514a2237f90e4e61aa528ac9bbd13"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Fresh_Frozen_Checks.json": {
+      "bytes": 422,
+      "sha256": "149bbb189497f1edf59af9d526c5ad3677c2485d6199d4ef17333c8fb0c82431"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Independent_Checkpoint_Audit.json": {
+      "bytes": 45787,
+      "sha256": "9f4b5712f1450e6021ad325756f0f7eef31558c92dca1b295f5a147e7aef7e4d"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_1.json": {
+      "bytes": 110,
+      "sha256": "d63fb0a228a06b1c98a627ef735551ad7d7a9054be43c8b437818bfa7503b03d"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_10.json": {
+      "bytes": 112,
+      "sha256": "9365101d8a79f0bf34376ac2a7fb994e788ebb1288c4c6da67c824554ff35e2a"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_11.json": {
+      "bytes": 113,
+      "sha256": "15a31c8940274fc554d8c2a29e7452d5821f5016286020f2933e6942b1a6bcc6"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_12.json": {
+      "bytes": 113,
+      "sha256": "896d381fff8876b9f132204feb9be769ad4f36e054f4a86d86d41a77fb3df2f3"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_13.json": {
+      "bytes": 113,
+      "sha256": "2e46ade521b652c35ad4f252f64f3349b7ad9400b7088a0685bdccf8f6b4cd9c"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_14.json": {
+      "bytes": 113,
+      "sha256": "662c13350e4a6841155968c9b630a6db659b1f2e0cc8e4e8545e9ca6fa37180d"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_15.json": {
+      "bytes": 113,
+      "sha256": "d9fdf9691a03a54ad7bd282227fee6f0e840bbc0c311a0ade39dc97b2b06d4ed"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_16.json": {
+      "bytes": 112,
+      "sha256": "ab71fa1a0a302c5111b1f706a9a1287956f97c16efa00eb6c7aa8c9ca770384f"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_17.json": {
+      "bytes": 113,
+      "sha256": "a1f7e5491ee73e81d1f0c9020c4d86acbfcc683aa1825a4ef8456b514a798958"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_18.json": {
+      "bytes": 106,
+      "sha256": "12fc79ca85da38716ac67fcc572bf4756a9d71e67612ffcf591a8ed4f54802fb"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_19.json": {
+      "bytes": 113,
+      "sha256": "52481d91a7add962661fc33199cb5d44c32f7be6f2ae6cc95e3c7c99eaf463a3"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_2.json": {
+      "bytes": 112,
+      "sha256": "688d175be4cafdac7b279109d4c791770d83e9265919ef3ae4c8df417b2a5def"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_20.json": {
+      "bytes": 113,
+      "sha256": "267983f89d674193277efd9469a8478739c8bfd6c510a61ea14de999fd14842d"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_21.json": {
+      "bytes": 112,
+      "sha256": "6cc8f789f5f00fd3e34b16a9286a694d3795c723a41c0ad25dd3140ef09bf96c"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_22.json": {
+      "bytes": 113,
+      "sha256": "6498b9456c3fe198813a0ed86cfffee5635103b6328013178eabe2308a5b9cdc"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_23.json": {
+      "bytes": 113,
+      "sha256": "1359162ed500d512f4e1da0de8d0d75a9bb1d83177b58ddc7e4759bb940bc822"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_24.json": {
+      "bytes": 113,
+      "sha256": "662c44d6738322e5d883c9af4f690766155fda3b2c322f6932e6825bbda95b47"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_25.json": {
+      "bytes": 113,
+      "sha256": "e4125080b96d11f1ee54aab0087009e5fccc3c5ec4f7de52ae6dcbc28d7c66b6"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_3.json": {
+      "bytes": 112,
+      "sha256": "76436d41155d83b26b68a3fc2d7a385089e9e99d1c9fdbe2906006f1eff256b4"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_4.json": {
+      "bytes": 111,
+      "sha256": "e8efbed9fe80c00cb8ed93958e8279efb53870a01ffe43281acd10577ac6415d"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_5.json": {
+      "bytes": 111,
+      "sha256": "03f4ef90828abc11b62026124eb6d1b02479fdf1327469d03dff8d9d9feae498"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_6.json": {
+      "bytes": 111,
+      "sha256": "f330f4eca2788e84b6132c471f15e738bd4e439c5ff81ac797558e129e6be607"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_7.json": {
+      "bytes": 112,
+      "sha256": "a55b6f31de8956121a4a1fd6140aae18c1561334e1daa6c748f7fde003952526"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_8.json": {
+      "bytes": 111,
+      "sha256": "4531291e379223f9e7447b210524fa2b529babec1d0c8aaa103ee5a7ed393dda"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Progress_9.json": {
+      "bytes": 111,
+      "sha256": "719d1add6f74cf771cbbdc001cdfbedde5637016ee2ba68d503d2bea217441a2"
+    },
+    "outputs/receding_checkpoints_linear_audit_20261018/Protocol.json": {
+      "bytes": 1016,
+      "sha256": "2dfea8c4ec1532d4c033cb45a4878b5bea3de734cb0ede9a5f9662e83cd3d73b"
+    },
+    "outputs/receding_linear_composed_reader_preparation_20261018/Independent_Reader_Lock.json": {
+      "bytes": 2153,
+      "sha256": "9102568c7ee97337647c028c4f264829f531dd9d115f15245d8dbef4b11605e8"
+    },
+    "outputs/receding_linear_composed_reader_preparation_20261018/Protocol.json": {
+      "bytes": 766,
+      "sha256": "0e9643d889890f5ade17c6c22ff82e0ba69c44a1b41311fc0c1718aa2b473933"
+    },
+    "outputs/receding_linear_composed_reader_preparation_20261018/Source_Equivalence.json": {
+      "bytes": 5748,
+      "sha256": "1cecfd6dacc00fa17527bb7b3e5305f92f05d64cbf7f3cd0782661c5ac2fa86e"
+    },
+    "outputs/referenced_runtime_input_admission_20261018/Protocol.json": {
+      "bytes": 409,
+      "sha256": "6295925afd43879d8f1e721b26d583b7bc6fb965270350e2d8a954fa86a04ef1"
+    },
+    "outputs/referenced_runtime_input_admission_20261018/Results.json": {
+      "bytes": 5248,
+      "sha256": "24a763acf7c215c71cc8159127408246ddecd984a67072bf59bc39b40d0e5e31"
+    },
+    "work/audit_full_receding_linear_composed_v4_20261018.py": {
+      "bytes": 26532,
+      "sha256": "8a48b86b6f8c2113c368dfb175cc6ab47553e5e9bcf63c0fcc229d3c5d669ad7"
+    },
+    "work/audit_receding_checkpoints_linear_20261018.py": {
+      "bytes": 15868,
+      "sha256": "290a32c411d2c8b195245dd0ad98e9935493829420839f07f0e69d18c990632e"
+    },
+    "work/check_admitted_referenced_runtime_binding_20261018.py": {
+      "bytes": 4561,
+      "sha256": "e83e4532a3ba15c24d4785f7eecedae5e15d44eff3752914314ac6ab9ad39d0b"
+    },
+    "work/check_exact_input_fingerprint_20261018.py": {
+      "bytes": 4753,
+      "sha256": "abdcbe5117b14f4bee205ef69447f7dab34c6a69f10f032343fdb6f2bd090791"
+    },
+    "work/check_exact_input_pair_equality_20261018.py": {
+      "bytes": 4793,
+      "sha256": "a3ea6c7ac9ea9fdb8053a6c75489cb8352f6c9fd475006713c1a5008ea2e87a3"
+    },
+    "work/check_lazy_paid_lineage_receipts_20261018.py": {
+      "bytes": 3836,
+      "sha256": "fd898c780cc238bd3bb5c41dc2d22ea51fe4f6796d1023c1222c52f610d90347"
+    },
+    "work/check_referenced_runtime_input_admission_20261018.py": {
+      "bytes": 4516,
+      "sha256": "9af817b18b521aab942162bb18733f73b2d663b835769837d6fdeb3cdbc25ef6"
+    },
+    "work/exact_input_fingerprint_v1_20261018.py": {
+      "bytes": 2294,
+      "sha256": "b98b749d122e0aff8b9e2a1857d05c066f7c057bddf564515e2a1bac92adfd00"
+    },
+    "work/exact_input_pair_equality_v1_20261018.py": {
+      "bytes": 1821,
+      "sha256": "3d987818dddc0ce59c252fbecc1f175dfdc0bbb8de4f86590d5c33bc8bc3c8af"
+    },
+    "work/lazy_paid_lineage_receipts_v1_20261018.py": {
+      "bytes": 6550,
+      "sha256": "7933114d08298598f62b921e022dc35dc7e838b992dfa6a83bfeb46980303445"
+    },
+    "work/lazy_paid_lineage_receipts_v2_20261018.py": {
+      "bytes": 1044,
+      "sha256": "fa1c3311fa38e2b014d8ee1588ce4002cc3fb9cdc96eebc422cf934482e279d1"
+    },
+    "work/prepare_receding_linear_composed_reader_20261018.py": {
+      "bytes": 8026,
+      "sha256": "100b6ce6557b04eecd684bce1cae4dd0ae389aaeb8aedf3473acf1d070ad13d5"
+    },
+    "work/receding_paid_admitted_referenced_runtime_v1_20261018.py": {
+      "bytes": 2273,
+      "sha256": "25a92059b4fbaba68f9d21a0b29016b902e873c3e999c1b2a3a41ef8888ac3d7"
+    },
+    "work/referenced_runtime_input_admission_v1_20261018.py": {
+      "bytes": 2817,
+      "sha256": "8767f23863da9c4a0125cf9da4dd081428f62f8c778eac3a58ee2af9fb0b1cc9"
+    },
+    "work/save_linear_audit_admission_progress_20261018.py": {
+      "bytes": 10588,
+      "sha256": "edda63dee3adea64aafee9d55b54f34203d50f2a7532d2fa39da8d188f3e53c2"
+    }
+  },
+  "raw_checkpoint_capsule_journal_data_stays_local": true,
+  "live_reader_result_not_claimed": true
+}

@@ -1,0 +1,44 @@
+{
+  "at_utc": "2026-10-18T11:10:29.826797+00:00",
+  "status": "ALL25_CHECKPOINT_AUDIT_PASS_ADMISSION_BOUND_FULL_RECORDED_POLICY_READER_RUNNING",
+  "verified_all25_checkpoint_prefixes": {
+    "certificate": "outputs\\receding_checkpoints_linear_audit_20261018\\Independent_Checkpoint_Audit.json",
+    "sha256": "9f4b5712f1450e6021ad325756f0f7eef31558c92dca1b295f5a147e7aef7e4d",
+    "workflow_seconds": 198.9838628999987,
+    "missing26th_state": "UNKNOWN_NOT_RECONSTRUCTED"
+  },
+  "predecision_admission": "ALL4 actual roots x BOTH fixed methods;8valid entries,8invalid/expired pre-entry rejections. Actual scientific decision body stubbed for this SOFTWARE gate.",
+  "full_native_input_schema": "8 actual input/method admissions and12negative controls; 118buses,9Q,25operations,27,628reference capacity; prospective future states readmitted.",
+  "lazy_source_lookup": {
+    "keys": 60377,
+    "boundary_checks": 7,
+    "science": 0,
+    "physical_execution_cache": "BLOCKED_PENDING_FULL_PHYSICAL_READER_PASS; absent keys UNKNOWN, not permission. Additivev2 fixes unique-primary versus all-query counter distinction."
+  },
+  "comparison_software_timing": "Fingerprint prototype41checksPASS but slower3.788s vs3.475s, NOT adopted. Direct41checksPASS measured4.074s vs6.029s in separate paired run; timing varies, no solver/deployment gain claimed.",
+  "active_reader": {
+    "source": "work/audit_full_receding_linear_composed_v4_20261018.py",
+    "actual_pid": 11300,
+    "parent_pid": 15812,
+    "source_sha256": "8a48b86b6f8c2113c368dfb175cc6ab47553e5e9bcf63c0fcc229d3c5d669ad7",
+    "exec_session": 80819,
+    "analysis_bound_seconds": 7200,
+    "output": "outputs\\full_receding_paid_campaign_20261015\\audit_linear_composed_v4_20261018",
+    "console": "outputs/receding_linear_composed_reader_console_20261018.log",
+    "scope": "ALL recorded policy decisions/closed queries/physical saved outputs/menus/forecasts/commits/full costs plus pinned ALL25 checkpoint audit. Zero new science. Original source/failures preserved.",
+    "never_restart_duplicate_or_extend": true
+  },
+  "new_model_PF_optimizer_derivative_forecast_factor_solve_calls": 0,
+  "GPU_jobs": [],
+  "known_physics": "Earlier scoped audit17to0 residualUV on both closed line35 numerical suffixes;11vs14 addedops, no advantage over immediate, no freshLLM/fullDSE/all-severe claim.",
+  "all_four_full_policy_gate": "UNKNOWN",
+  "all_six_goals": "UNACHIEVED",
+  "next_tasks_in_order": [
+    "When actual reader11300 and shim15812 end, inspect actual complete report/closed manifest or preserve console failure. No busy-polling/restart/scientific retry.",
+    "If readerPASS, bind lazy archived receipts/forecasts/contexts with exact old source references and costs to a new prospective owner. No missing/old attempt repeats; absence in inspected lineage is not global history closure.",
+    "Complete new referenced-format ARCHIVAL checkpoint-prefix reader separately from live antirollback restore. Preserve all future-query/reference bounds, original cursor/RNG/full costs/cold/source anchors.",
+    "Freeze genuinely unexecuted point/action measurement protocol for ALL previously declared unfinished roots and BOTH fixed methods/strong controls, exact source/ownership/budget/preservation/complete-vs-partial reader BEFORE new physics. No old budget/owner resume.",
+    "Only then bind genuine causal original LOCAL-model/family broker and numerical/trained-control ablations for matched complete trajectories; no further size-only imitation reruns. Published benchmark/security gates remain pending."
+  ],
+  "timer_policy": "No new timer yet; use a single estimated waiting check only if confirmed live result becomes sole dependency and no substantive parallel task remains. Prior recurring timers stay deleted."
+}
