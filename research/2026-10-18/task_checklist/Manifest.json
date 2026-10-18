@@ -1,0 +1,130 @@
+{
+  "files": [
+    {
+      "path": "outputs/all_recorded_receding_commits_audit_20261018/Independent_Scoped_Audit.json",
+      "bytes": 4079,
+      "sha256": "a491b09225739c9d04c5c33ade7648c7675b4bfeed8b3e057502b18b8b138ec3"
+    },
+    {
+      "path": "outputs/fresh_observed_shunt_scope_20261018/Closed_Manifest.json",
+      "bytes": 291,
+      "sha256": "b3359524a738d1436337bc83f087920310465176f01998224600302b1a835290"
+    },
+    {
+      "path": "outputs/fresh_observed_shunt_scope_20261018/Protocol.json",
+      "bytes": 8636,
+      "sha256": "fa3fc225985dc352e298cc3d41c4690e9a3b4a602bef19abdc5339817136c414"
+    },
+    {
+      "path": "outputs/fresh_observed_shunt_scope_20261018/Results.json",
+      "bytes": 1167,
+      "sha256": "bd079f6f2f5134982985ae9fe37d80c36e73c192e2d9a4135c4dea41052ee007"
+    },
+    {
+      "path": "outputs/higher_matched_scale_20261015/partial_evidence_audit_runtime_v2_20261018/Independent_Partial_Audit.json",
+      "bytes": 47877,
+      "sha256": "ea8491b8aec93d2403a123256b2ba683bb3b5eac670d4a1b3ab234bddc97f8cf"
+    },
+    {
+      "path": "outputs/matched_scale_20261011/verified_completion_handoff_20261012/Verified_Matched_Scale_Completion.json",
+      "bytes": 5093,
+      "sha256": "0b3a21a86e1447968b0d0fc0e763babfbf2fac38e9db14e1ccb8f0d484683914"
+    },
+    {
+      "path": "outputs/observed_unclosed_zero_state_audit_20261018/Results.json",
+      "bytes": 1421,
+      "sha256": "37c9ce5edc9d8124d5c458796e22df7f2f1337574938958f7f4a5a6b74575f78"
+    },
+    {
+      "path": "outputs/prior_physical_query_footprints_20261018/actual/Result.json",
+      "bytes": 3020,
+      "sha256": "e9971de50435519175e59c456798901d23071c662c8742e6767b24032a893e55"
+    },
+    {
+      "path": "outputs/prior_physical_query_footprints_20261018/Completion.json",
+      "bytes": 46,
+      "sha256": "790e49bb87c7265c0da2d298e2619b948242e1344378c298dfc013bfb7c4e774"
+    },
+    {
+      "path": "outputs/prior_physical_query_footprints_20261018/independent_audit/Closed_Manifest.json",
+      "bytes": 211,
+      "sha256": "f5f5863c935a1b216cd189d34ec4154feb4aa56c0ed87c504b8ed9af12b07dbf"
+    },
+    {
+      "path": "outputs/prior_physical_query_footprints_20261018/independent_audit/Independent_Audit.json",
+      "bytes": 777,
+      "sha256": "d1dab4cba6a05365b1518880519b29f48a077e81ca8947fc83f1f5749cb2ab9f"
+    },
+    {
+      "path": "outputs/public118_native_acopf_reference_20261015/Protocol.json",
+      "bytes": 25268,
+      "sha256": "547a4eb6166e7616ff4a6af9f9098c158cc022415ccce66dd799357d8a6ab987"
+    },
+    {
+      "path": "outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json",
+      "bytes": 9550,
+      "sha256": "b3906860044fc488214cf755b41f52a9fc58b969f4554a63cd3de7c3db92de42"
+    },
+    {
+      "path": "outputs/research_tasks_20261014/All141_Federation_Case_Status.json",
+      "bytes": 94804,
+      "sha256": "1a1df3ea5245e97254ffc168434bd56ee6835b3976a0b0e2ce7a470ec8a48e78"
+    },
+    {
+      "path": "outputs/research_tasks_20261014/Checklist_Update_20261018.json",
+      "bytes": 509,
+      "sha256": "d0f3e5aa9e4d7c98caa82e66bbca38a4954442f605e478b9904814a536c8579f"
+    },
+    {
+      "path": "outputs/research_tasks_20261014/Task_List_Before_Checklist_20261018.md",
+      "bytes": 8993,
+      "sha256": "06875c72ecf8945a5bca0e140cd209fd6a1bdc7081f8a9910ea3fd6ae29a8fa2"
+    },
+    {
+      "path": "outputs/research_tasks_20261014/Tasks.json",
+      "bytes": 23064,
+      "sha256": "078ac60bd82974a95225d464788711e23b56cc09e1e4d5ebb1f91c286e38815d"
+    },
+    {
+      "path": "outputs/strict_saved_native_input_match_v2_20261018/Results.json",
+      "bytes": 3029,
+      "sha256": "cd3af286ced8ba2b1e62ef463e818f01157e8c4ce37c0c1a6c87b1be3051805a"
+    },
+    {
+      "path": "outputs/substantive_research_progress_20261018/Exact_Next_Execution_State.json",
+      "bytes": 16325,
+      "sha256": "bb4aab14b2051cdcf913cc9e3b294df063c2e43f37c3f438278ec8cec24a14ae"
+    },
+    {
+      "path": "outputs/substantive_research_progress_20261018/Physical_Input_Index_Continuation.json",
+      "bytes": 4886,
+      "sha256": "e1d0b0d7fd348a43321467bda9165c7f767d49d182d4176c0a1734cf5c5e55eb"
+    },
+    {
+      "path": "reseacrh progress.txt",
+      "bytes": 261865,
+      "sha256": "d284e6961ce3fcad85e9926eda87b823b126db2bf09a5e0520452aae82279429"
+    },
+    {
+      "path": "RESEARCH_INDEX.md",
+      "bytes": 21089,
+      "sha256": "5dea74b0e44bb7707aa7a94a5f01c67f1073b8adf950be41372f1a251d7325a9"
+    },
+    {
+      "path": "RESEARCH_TASKS.md",
+      "bytes": 10193,
+      "sha256": "c494fcb97e063c8cabae37cfd03a332c0908e2458f34e1e2293aa54fab301ecd"
+    },
+    {
+      "path": "work/close_fresh_observed_shunt_scope_20261018.py",
+      "bytes": 4186,
+      "sha256": "ad6a1ae878472a3d20cc195fa0b92eb1eb90575305659d1835219251c5e033d2"
+    },
+    {
+      "path": "work/update_master_research_checklist_20261018.py",
+      "bytes": 15941,
+      "sha256": "f8b955f81e26809409a3d82f4807a50f9099cad44a89e11f451a1773985c1aa7"
+    }
+  ],
+  "scope": "Exact checklist/source/small evidence/progress snapshot; raw NETs/model states/capsules/full input index remain local. Not a full raw backup."
+}
