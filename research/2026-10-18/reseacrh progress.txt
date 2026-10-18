@@ -2584,3 +2584,11 @@ Read outputs/research_tasks_20261014/Verified_Research_Decision_20261018.json an
   "original_failures_kept": true,
   "no_owned_GPU_jobs": true
 }
+
+
+GITHUB RESEARCH SNAPSHOT VERIFIED 18OCT2026 2026-10-18T09:02:17.138677+00:00
+
+Human-authorized publication completed on research-progress-20261018; commit a56b82828827121537421bb4a0a3d2ffc881bc57. Repository: Hannaancode/Reliability-First-Multi-Agent-LLM-Guided-Corrective-Voltage-Control-. Remote Git tree/blob content addresses match exact local archives, and remote manifest/README readback passed. 11,771 screened exact files: 2,098 source, 505 documents, 9,168 reports; local ZIP CRC and every-member SHA256 PASS. Full inventory54,167 files/69,664,948,199 bytes;42,396 non-selected files/69,562,633,325 bytes stay local. This is not a full raw checkpoint/capsule/journal backup. No credentials/environments/base caches exported, no original artifact changed. Optional broad raw-small-file compression stopped only exact publisher PID12428 after complete selected publication; partial local packs retained and NOT represented as uploaded. No scientific/GPU/model/PF/optimizer job is running. No timers recreated.
+
+Science unchanged:3B170updates/81of96outputs42hits bounds43.75%-59.375% cannot exceed72.9167% numerical reference; fixed size-only imitation intervention STOPPED; full paired/reload gate UNKNOWN. 7B first backward OOM, no trained7B performance. Actual saved118-state/chunked cold transport12checksPASS is software only. Next: complete isolated controller factory/native paid-registry/history/cost/source/cold compatibility before any separately prospective unexecuted physics; original old owner/budget cannot resume. Joint numerical planning hybrid remains candidate: prior inspected four-root bounded study2UVwins2ties0losses was numerical, not fresh LLM superiority or all-severe success. All six human goals, original literal DSE both branches/FULLBOTH costs, frozen assets, adverse/partial/UNKNOWN evidence, strong controls and unused confirmation remain in force. Read outputs/research_tasks_20261014/Critical_Continuation_Plan_20261018.md; publication receipt outputs/github_publication_20261018/Publication_Receipt.json.
+

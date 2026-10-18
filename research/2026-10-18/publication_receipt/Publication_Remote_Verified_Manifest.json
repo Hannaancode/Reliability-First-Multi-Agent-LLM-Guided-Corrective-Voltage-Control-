@@ -1,0 +1,48 @@
+{
+  "at_utc": "2026-10-18T08:57:06.942251+00:00",
+  "status": "PUSHED_AND_REMOTE_READBACK_VERIFIED",
+  "selection": "All screened code and documentation extensions; all screened JSON reports with audit/result/decision/protocol/readiness/checkpoint/manifest/completion/cost/summary/stop/proof/status/resume/gate/inventory/lock/ack in filename and <=1MiB. Outcome-independent selection. Exact bytes; no scientific reruns.",
+  "inventoried_files": 54167,
+  "inventoried_bytes": 69664948199,
+  "selected_files": 11771,
+  "selected_original_bytes": 102314874,
+  "not_uploaded_files": 42396,
+  "not_uploaded_bytes": 69562633325,
+  "packs": [
+    {
+      "path": "source_exact_files.zip",
+      "bytes": 8368230,
+      "sha256": "9f4f1d1423e532f0570eab8d4533d1106e42532144d47e4b9fdfab38667d6b6b",
+      "files": 2098,
+      "original_bytes": 31448724
+    },
+    {
+      "path": "documents_exact_files.zip",
+      "bytes": 10188609,
+      "sha256": "cd3de9bf6d765120e653e99ae2e6df6f92b917d9424144f5092ddac8f5eb8cea",
+      "files": 505,
+      "original_bytes": 24815972
+    },
+    {
+      "path": "reports_exact_files.zip",
+      "bytes": 14082616,
+      "sha256": "e3b1fbec2594277915f607d1979bbb231338b0c13a552ea353d0a056db0a12d9",
+      "files": 9168,
+      "original_bytes": 46050178
+    }
+  ],
+  "limitations": "NOT a complete raw binary/checkpoint/capsule/journal backup. Large raw files, non-selected arrays and per-record files remain local. Credentials, environment directories and downloaded base caches excluded. Core snapshot files may also be directly available outside these archives.",
+  "archive_CRC_and_every_member_SHA256": "PASS",
+  "new_model_PF_solver_optimizer_calls": 0,
+  "git_blob_shas": {
+    "source": "837a3e9203321e9b89ccb06c6928d39f295c1d02",
+    "documents": "d6d3e98412546488d7b55e9e0e44f21837b542f7",
+    "reports": "d46acc42f7a13786730fdf05ee624b739f06e29e",
+    "coverage": "5c7a88976ca00c3508491b406e1f030ec192a654",
+    "file_map": "581949a7d2f1f9e91276b670c2afae516c490fbc"
+  },
+  "branch": "research-progress-20261018",
+  "archive_directory": "archives",
+  "inventory_phase_note": "Inventory labels were written before Git upload; the branch commit and local remote-readback receipt establish publication.",
+  "commit": "a56b82828827121537421bb4a0a3d2ffc881bc57"
+}

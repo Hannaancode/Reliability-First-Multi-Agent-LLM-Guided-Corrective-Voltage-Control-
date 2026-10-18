@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "branch": "research-progress-20261018",
+  "commit": "a56b82828827121537421bb4a0a3d2ffc881bc57",
+  "tree": "d1bfc18dec4b050a3ecc46293d87d10dbc3da06b",
+  "remote_tree_entries": 253,
+  "all_five_archives_exact_local_and_remote_Git_content_addresses": [
+    {
+      "path": "source_exact_files.zip",
+      "bytes": 8368230,
+      "sha256": "9f4f1d1423e532f0570eab8d4533d1106e42532144d47e4b9fdfab38667d6b6b",
+      "git_blob_sha1": "837a3e9203321e9b89ccb06c6928d39f295c1d02",
+      "remote_tree_match": true
+    },
+    {
+      "path": "documents_exact_files.zip",
+      "bytes": 10188609,
+      "sha256": "cd3de9bf6d765120e653e99ae2e6df6f92b917d9424144f5092ddac8f5eb8cea",
+      "git_blob_sha1": "d6d3e98412546488d7b55e9e0e44f21837b542f7",
+      "remote_tree_match": true
+    },
+    {
+      "path": "reports_exact_files.zip",
+      "bytes": 14082616,
+      "sha256": "e3b1fbec2594277915f607d1979bbb231338b0c13a552ea353d0a056db0a12d9",
+      "git_blob_sha1": "d46acc42f7a13786730fdf05ee624b739f06e29e",
+      "remote_tree_match": true
+    },
+    {
+      "path": "All_Artifact_Coverage.jsonl.gz",
+      "bytes": 2355753,
+      "sha256": "bee55282da0c1e920dd5d20530ab745afb65a5df87a9bfb694daaf2cb24045f9",
+      "git_blob_sha1": "5c7a88976ca00c3508491b406e1f030ec192a654",
+      "remote_tree_match": true
+    },
+    {
+      "path": "Published_File_Map.json.gz",
+      "bytes": 640362,
+      "sha256": "258ce707157125d7e99ef52ca4a1f687751ed8577565372535da3e33d3777a7b",
+      "git_blob_sha1": "581949a7d2f1f9e91276b670c2afae516c490fbc",
+      "remote_tree_match": true
+    }
+  ],
+  "main_modified": false,
+  "new_scientific_calls": 0
+}
