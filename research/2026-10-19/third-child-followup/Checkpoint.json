@@ -1,0 +1,83 @@
+{
+  "at_utc": "2026-10-19T14:06:19.857936+00:00",
+  "status": "ALL4_QUERY_PHYSICS_COMPLETE_PASS_SOLE_READONLY_POLICY_RUNNING",
+  "source": "work/resume16_with_unentered_third_child_receipts_v2_20261019.py",
+  "source_sha256": "b8c0f926adde8b868ad99f2f28e7b615fd637bcdf59de38b04714b482d05c14e",
+  "protocol_sha256": "f28ae1db3966a7c548bca12e827ce9ad332a5d8e2bbb47197e9154da251df304",
+  "coordinator_actual_pid": null,
+  "coordinator_parent_pid": null,
+  "exec_session": 46960,
+  "started_utc": "2026-10-19T14:05:15.3009400Z",
+  "absolute_bound_utc": "2026-10-19T14:20:15.3009400Z",
+  "output": "outputs/resumed16_unentered_third_child_receipts_v2_20261019",
+  "source_uv": 13,
+  "query_rows": [
+    {
+      "kind": "ordinary",
+      "receiver": 20,
+      "q": 100.0,
+      "donor_index": null,
+      "donor_bus": null,
+      "universe_index": 57
+    },
+    {
+      "kind": "ordinary",
+      "receiver": 19,
+      "q": 125.0,
+      "donor_index": null,
+      "donor_bus": null,
+      "universe_index": 49
+    },
+    {
+      "kind": "ordinary",
+      "receiver": 21,
+      "q": 75.0,
+      "donor_index": null,
+      "donor_bus": null,
+      "universe_index": 65
+    },
+    {
+      "kind": "ordinary",
+      "receiver": 20,
+      "q": 75.0,
+      "donor_index": null,
+      "donor_bus": null,
+      "universe_index": 56
+    }
+  ],
+  "selected_saved_prefix_uv": [
+    33,
+    23,
+    16
+  ],
+  "all_six_final_goals": "OPEN",
+  "model_GPU_actual_commit_calls": 0,
+  "prior_timer": "hiergrid-fifth-context-policy-result-check DELETED",
+  "last_verified_GitHub": "935f05a6e29ffd909501e328cc4f5dd0e507d937",
+  "next": "Sole readonly policy includes all12followup receipts (25recent total) with source/native/equation checks and prior paid costs; do not infer next selection before closed Results/Leg/manifest. New missingidentity remainsUNKNOWN/prospectivegates. All physical owners/readers ended; no new model/GPU/actualcommit.",
+  "original_stage": "outputs/third_child_fixed_four_followup_acquisition_20261019",
+  "original_physical_PF_attempts": 0,
+  "original_all4_outcomes": "UNKNOWN_UNENTERED",
+  "original_failure": "KeyError source_edge before reservation/evidence constructor",
+  "independent_zero_native_proof": "outputs/third_child_zero_native_diagnosis_20261019/Independent_Diagnosis.json",
+  "new_input_metadata_proof": "outputs/unentered_third_child_fixed_four_followup_input_v2_20261019/Source_And_Input_Binding.json",
+  "actual_warm_constructor_and_negative_control": "PASS",
+  "new_scientific_outcomes": {
+    "safe": 1,
+    "unsafe_rejected": 3,
+    "before_uv": 13,
+    "all4_after_uv": 9,
+    "safe_receiver": 21,
+    "safe_Q": 75,
+    "safe_max_voltage": 1.05,
+    "PF_attempts_returns": 8,
+    "PF_exceptions": 0,
+    "independent_replays": 4,
+    "all118_field_tolerance": 1e-10
+  },
+  "actual_pid": 8520,
+  "parent_pid": 10068,
+  "bound_seconds": 900,
+  "physics_output": "outputs/unentered_third_child_fixed_four_followup_acquisition_v2_20261019",
+  "physics_result": "outputs/third_child_followup_handoff_20261019/Verified_New_Physical_Completion.json"
+}
