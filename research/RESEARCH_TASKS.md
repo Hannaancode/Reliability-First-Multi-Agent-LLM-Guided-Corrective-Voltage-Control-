@@ -121,3 +121,9 @@ Next: independently certify the final saved support prefix, then prospectively j
 Latest verified GitHub head13847d40f5270665b2c3a980b70ad67a391903cf. Final closure/PFDelta intake are saved locally pending publication.
 Full exact resume: `outputs/research_execution_20261019_continued/Final_Resume_And_Closed_Results.json`.
 
+
+
+## Latest fixed follow-up physics 2026-10-19T12:57:32.539488+00:00
+
+ALL4original followup queries complete/independentPASS:3protected12->9,1upperguardunsafe12->9rejected;8PFreturns0exceptions/all118replays<=1e-10.0freshmodel. Original64MiBpre-admission failure had0nativecalls, independently diagnosed and retained, no oldowner/budget restarted. Sole new read-only policy actual13184/shim20308 source resume16_with_fixed_followup_receipts_v2_20261019.py fixed900sec/exec69528; no duplicated science. Last selected prefix33->23->16; new choice PENDING. Resume outputs/fixed_followup_physics_handoff_20261019/Checkpoint.json. All6goalsOPEN; fullDSE/LLM/allzero/security unachieved; unsafe/partial/UNKNOWN/frozenassets/FULLBOTHcosts preserved. NoGPU.
+

@@ -1,0 +1,7 @@
+{
+  "status": "PASS_CRC_EVERY_MEMBER_HASH_AND_CREDENTIAL_SCREEN",
+  "bytes": 263731,
+  "members": 191,
+  "sha256": "b0c21357dd0d7938d17fd905f3ee7640b51b27c44e06930b1e257471443198ce",
+  "raw_NET_model_checkpoint_dataset_arrays_not_exported": true
+}
