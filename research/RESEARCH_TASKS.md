@@ -1,6 +1,6 @@
 # HierGrid — master research checklist
 
-Updated 2026-10-18T18:38:26.433458+00:00. Human priority order preserved. **0 of6final goals verified complete;13verified subtasks complete.**
+Updated 2026-10-19T07:09:22.903012+00:00. All six final goals remain open; verified subtasks retain their original evidence.
 
 Checked subtasks mean the stated work and report are complete. A failed experiment remains a failed result. A whole goal is checked and crossed out only when all of its acceptance criteria pass.
 
@@ -99,3 +99,5 @@ Latest continuation: 2026-10-18T18:18:28.437507+00:00. TERMINAL_PRESERVE_PARTIAL
 Latest continuation: 2026-10-18T18:20:58.164280+00:00. COMPLETE_FIXED_TWO_QUERY_ENGINEERING_INDEPENDENT_PASS. Start-only timer deleted after the requested21:06Qatar start. No GPU allocated. All six final goals remain open.
 
 G1.7 readiness: exact141recipe bytes bound;8known initialUV>=50(2>=60),70unknown initials retained. Source-policy analysis with the new receipts preserves a next gap of3previously fixedK4queries; all prior scope component matches0, but newN=3worker/reader/ownership/preservation protocol remains required. [Exact next execution](outputs/continuation_2106_completion_20261018/Next_Execution.md). NoGPU/timers/livejobs.
+
+19October measured step towardG1.7: originalK4 remaining3queries COMPLETE/independentPASS. Each safely17to14UV, Vmmax<=1.05; all118replays exact. No actualcommit/completepolicy/LLMadvantage. [Evidence](outputs/remaining_three_fixed_queries_20261019/verified_completion/Verified_Completion.json).

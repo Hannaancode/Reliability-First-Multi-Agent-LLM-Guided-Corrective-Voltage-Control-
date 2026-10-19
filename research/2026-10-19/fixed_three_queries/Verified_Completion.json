@@ -1,0 +1,509 @@
+{
+  "at_utc": "2026-10-19T07:09:22.903012+00:00",
+  "status": "COMPLETE_THREE_FIXED_QUERIES_INDEPENDENT_PASS_SAFE_CONDITIONAL_17TO14_UV",
+  "all_science_reader_actors_ended": true,
+  "actors": [
+    {
+      "phase": "warm",
+      "claim": {
+        "actual_pid": 14048,
+        "actual_parent_pid": 12748,
+        "argv": [
+          "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_remaining_three_fixed_queries_20261019.py",
+          "--warm"
+        ],
+        "source_sha256": "374c286c59bcbe7cc1b6feb4497f5fd0ed870956cba9ce1074025d15a5a396f8",
+        "protocol_sha256": "89135e7a819f665ed3bd1e8750ed342e9f80d4eb27a534d9fd8699c39edcd547"
+      },
+      "End_ACK": {
+        "actual_pid": 14048,
+        "launcher_pid": 12748,
+        "exit_code": 0,
+        "closed_manifest_sha256": "4d1d4ce803025af2d397ed675efddc338fd76605ca08ef31a72a5e7f474aa07c",
+        "actual_owned_chain_ended": true
+      }
+    },
+    {
+      "phase": "cold_1",
+      "claim": {
+        "actual_pid": 13068,
+        "actual_parent_pid": 11676,
+        "argv": [
+          "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_remaining_three_fixed_queries_20261019.py",
+          "--cold_1"
+        ],
+        "source_sha256": "374c286c59bcbe7cc1b6feb4497f5fd0ed870956cba9ce1074025d15a5a396f8",
+        "protocol_sha256": "89135e7a819f665ed3bd1e8750ed342e9f80d4eb27a534d9fd8699c39edcd547"
+      },
+      "End_ACK": {
+        "actual_pid": 13068,
+        "launcher_pid": 11676,
+        "exit_code": 0,
+        "closed_manifest_sha256": "ede0ede21232cebf042e5c21d77b82f01b107bc394f0b976fb10c8014178b550",
+        "actual_owned_chain_ended": true
+      }
+    },
+    {
+      "phase": "cold_2",
+      "claim": {
+        "actual_pid": 17828,
+        "actual_parent_pid": 16888,
+        "argv": [
+          "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_remaining_three_fixed_queries_20261019.py",
+          "--cold_2"
+        ],
+        "source_sha256": "374c286c59bcbe7cc1b6feb4497f5fd0ed870956cba9ce1074025d15a5a396f8",
+        "protocol_sha256": "89135e7a819f665ed3bd1e8750ed342e9f80d4eb27a534d9fd8699c39edcd547"
+      },
+      "End_ACK": {
+        "actual_pid": 17828,
+        "launcher_pid": 16888,
+        "exit_code": 0,
+        "closed_manifest_sha256": "cb13f8bb703b4beeafc4cebb00cc4decd8caa772902e778bbf96844ff3560b9a",
+        "actual_owned_chain_ended": true
+      }
+    },
+    {
+      "phase": "audit",
+      "claim": {
+        "actual_pid": 17840,
+        "actual_parent_pid": 9712,
+        "argv": [
+          "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\audit_remaining_three_fixed_queries_20261019.py",
+          "--reader"
+        ],
+        "source_sha256": "b4a3981d202886c7a84a0391dbe863e2e73592ff4c1ad19c6014389431145b49",
+        "protocol_sha256": "89135e7a819f665ed3bd1e8750ed342e9f80d4eb27a534d9fd8699c39edcd547"
+      },
+      "End_ACK": {
+        "actual_pid": 17840,
+        "launcher_pid": 9712,
+        "exit_code": 0,
+        "closed_manifest_sha256": "769bf6df6a2aa86aa1826f86a2487110bc5b4973d864498718d81c2e3b5b24ba",
+        "actual_owned_chain_ended": true
+      }
+    }
+  ],
+  "audit": {
+    "status": "PASS_COMPLETE_FIXED_THREE_QUERY_ACQUISITION_COLD_AND_CHARGED_REPLAY",
+    "counts": {
+      "PF_attempts": 6,
+      "PF_returns": 6,
+      "PF_exceptions": 0,
+      "new_query_PF_attempts": 3,
+      "continuous_replay_PF_attempts": 3
+    },
+    "PF_seconds": 10.863348499988206,
+    "costs": {
+      "PF_attempts": 6,
+      "PF_returns": 6,
+      "PF_exceptions": 0,
+      "PF_seconds": 10.863348499988206,
+      "new_query_PF_attempts": 3,
+      "continuous_replay_PF_attempts": 3,
+      "preservation_seconds": 1.4248025999986567,
+      "new_model_calls": 0,
+      "new_optimizer_steps": 0,
+      "new_derivative_forecast_linear_solve_calls": 0
+    },
+    "query_outcomes": [
+      {
+        "row": {
+          "donor_bus": 14,
+          "donor_index": 15,
+          "kind": "equal_owned_reallocation",
+          "q": 100.0,
+          "receiver": 19,
+          "universe_index": 392
+        },
+        "verdict": {
+          "accepted": true,
+          "after": {
+            "deficit_sum": 0.3415791872804773,
+            "ov_count": 0,
+            "uv_count": 14,
+            "vmax": 1.05,
+            "vmean": 0.9767079880586516,
+            "vmin": 0.8924335098347993
+          },
+          "before": {
+            "deficit_sum": 0.37733194380645085,
+            "ov_count": 0,
+            "uv_count": 17,
+            "vmax": 1.05,
+            "vmean": 0.9749132387756779,
+            "vmin": 0.892167898232881
+          },
+          "converged": true,
+          "normal_upper_band_admissible": true,
+          "original_native_accepted": true,
+          "reason": "ACCEPTED"
+        },
+        "original_score": [
+          0,
+          3,
+          0.03575275652597354,
+          0.0002656116019182919,
+          -100.0
+        ]
+      },
+      {
+        "row": {
+          "donor_bus": 14,
+          "donor_index": 15,
+          "kind": "equal_owned_reallocation",
+          "q": 75.0,
+          "receiver": 19,
+          "universe_index": 391
+        },
+        "verdict": {
+          "accepted": true,
+          "after": {
+            "deficit_sum": 0.3404607896660804,
+            "ov_count": 0,
+            "uv_count": 14,
+            "vmax": 1.0499999999999998,
+            "vmean": 0.976209595422893,
+            "vmin": 0.8924810776464457
+          },
+          "before": {
+            "deficit_sum": 0.37733194380645085,
+            "ov_count": 0,
+            "uv_count": 17,
+            "vmax": 1.05,
+            "vmean": 0.9749132387756779,
+            "vmin": 0.892167898232881
+          },
+          "converged": true,
+          "normal_upper_band_admissible": true,
+          "original_native_accepted": true,
+          "reason": "ACCEPTED"
+        },
+        "original_score": [
+          0,
+          3,
+          0.036871154140370455,
+          0.00031317941356467927,
+          -75.0
+        ]
+      },
+      {
+        "row": {
+          "donor_bus": 14,
+          "donor_index": 15,
+          "kind": "equal_owned_reallocation",
+          "q": 50.0,
+          "receiver": 19,
+          "universe_index": 390
+        },
+        "verdict": {
+          "accepted": true,
+          "after": {
+            "deficit_sum": 0.34001645272563796,
+            "ov_count": 0,
+            "uv_count": 14,
+            "vmax": 1.05,
+            "vmean": 0.9757448486987433,
+            "vmin": 0.8924431429114555
+          },
+          "before": {
+            "deficit_sum": 0.37733194380645085,
+            "ov_count": 0,
+            "uv_count": 17,
+            "vmax": 1.05,
+            "vmean": 0.9749132387756779,
+            "vmin": 0.892167898232881
+          },
+          "converged": true,
+          "normal_upper_band_admissible": true,
+          "original_native_accepted": true,
+          "reason": "ACCEPTED"
+        },
+        "original_score": [
+          0,
+          3,
+          0.03731549108081289,
+          0.0002752446785745377,
+          -50.0
+        ]
+      }
+    ],
+    "cold_restore_verified": true,
+    "all118_replay_tolerance": 1e-10,
+    "failure_or_unstarted_phases": [],
+    "original_verifier_and_native_BEFORE_inputs_checked": true,
+    "query_only_no_actual_commits": true,
+    "new_model_PF_derivative_factor_solve_calls": 0,
+    "whole_policy_DSE_LLM_superiority": "NOT_TESTED",
+    "prior_source_costs": "Retained by source references; not imputed per call, waived or pooled into a deployment speed claim.",
+    "workflow_seconds": 2.2244258999999147
+  },
+  "all4_original_menu": {
+    "status": "COMPLETE_ALL4_PRE_EXISTING_CONDITIONAL_MENU_RECEIPTS_NOT_WHOLE_POLICY",
+    "point": "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44",
+    "current_UV": 17,
+    "all4_fixed_outcomes": [
+      {
+        "fixed_rank": 1,
+        "row": {
+          "kind": "equal_owned_reallocation",
+          "receiver": 42,
+          "q": 100.0,
+          "donor_index": 16,
+          "donor_bus": 32,
+          "universe_index": 602
+        },
+        "key": "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|751a40a21fd20e28c079b5c3059be1e059e432a737a596298ff9808b3d0e1d64",
+        "verdict": {
+          "accepted": false,
+          "reason": "normal_upper_band_mediation",
+          "before": {
+            "vmin": 0.892167898232881,
+            "vmax": 1.05,
+            "vmean": 0.9749132387756779,
+            "uv_count": 17,
+            "ov_count": 0,
+            "deficit_sum": 0.37733194380645085
+          },
+          "after": {
+            "vmin": 0.9031547027975366,
+            "vmax": 1.0554550647282228,
+            "vmean": 0.9777059855334896,
+            "uv_count": 14,
+            "ov_count": 1,
+            "deficit_sum": 0.208687535231581
+          },
+          "converged": true,
+          "original_native_accepted": true,
+          "normal_upper_band_admissible": false
+        },
+        "original_score": [
+          -999,
+          -999,
+          -999,
+          -999,
+          -999
+        ],
+        "attributed_primary_PF_calls": 1,
+        "attributed_primary_solver_seconds": 8.179764399996202,
+        "result_reference": "outputs\\exact_two_paid_query_engineering_20261018\\warm\\Result.json",
+        "result_sha256": "fa8ddee753cd096177308c4b8723f96336bb457b855848f7fa56f646b33aa3b0",
+        "new_commit": false
+      },
+      {
+        "fixed_rank": 2,
+        "row": {
+          "kind": "equal_owned_reallocation",
+          "receiver": 19,
+          "q": 100.0,
+          "donor_index": 15,
+          "donor_bus": 14,
+          "universe_index": 392
+        },
+        "key": "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|f02856a8072569ba72fe8e6e39a50a99c468651c09369723043561662b0cc5c4",
+        "verdict": {
+          "accepted": true,
+          "reason": "ACCEPTED",
+          "before": {
+            "vmin": 0.892167898232881,
+            "vmax": 1.05,
+            "vmean": 0.9749132387756779,
+            "uv_count": 17,
+            "ov_count": 0,
+            "deficit_sum": 0.37733194380645085
+          },
+          "after": {
+            "vmin": 0.8924335098347993,
+            "vmax": 1.05,
+            "vmean": 0.9767079880586516,
+            "uv_count": 14,
+            "ov_count": 0,
+            "deficit_sum": 0.3415791872804773
+          },
+          "converged": true,
+          "original_native_accepted": true,
+          "normal_upper_band_admissible": true
+        },
+        "original_score": [
+          0,
+          3,
+          0.03575275652597354,
+          0.0002656116019182919,
+          -100.0
+        ],
+        "attributed_primary_PF_calls": 1,
+        "attributed_primary_solver_seconds": 4.733138099996722,
+        "result_reference": "outputs\\remaining_three_fixed_queries_20261019\\warm\\Result.json",
+        "result_sha256": "619b9d9537476c1b60487412a6528591c4d7677dff473df79d26aedb2906bae9",
+        "new_commit": false
+      },
+      {
+        "fixed_rank": 3,
+        "row": {
+          "kind": "equal_owned_reallocation",
+          "receiver": 19,
+          "q": 75.0,
+          "donor_index": 15,
+          "donor_bus": 14,
+          "universe_index": 391
+        },
+        "key": "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|4795c96fdf13eb2d88fc55242bf5f3c5e87b81a2b320dfeea6785f892074742f",
+        "verdict": {
+          "accepted": true,
+          "reason": "ACCEPTED",
+          "before": {
+            "vmin": 0.892167898232881,
+            "vmax": 1.05,
+            "vmean": 0.9749132387756779,
+            "uv_count": 17,
+            "ov_count": 0,
+            "deficit_sum": 0.37733194380645085
+          },
+          "after": {
+            "vmin": 0.8924810776464457,
+            "vmax": 1.0499999999999998,
+            "vmean": 0.976209595422893,
+            "uv_count": 14,
+            "ov_count": 0,
+            "deficit_sum": 0.3404607896660804
+          },
+          "converged": true,
+          "original_native_accepted": true,
+          "normal_upper_band_admissible": true
+        },
+        "original_score": [
+          0,
+          3,
+          0.036871154140370455,
+          0.00031317941356467927,
+          -75.0
+        ],
+        "attributed_primary_PF_calls": 1,
+        "attributed_primary_solver_seconds": 2.941749699995853,
+        "result_reference": "outputs\\remaining_three_fixed_queries_20261019\\cold_1\\Result.json",
+        "result_sha256": "86bdc9e9d5790d6fbced30c55b0f0670e32c1b3dd987af9059f60adf4ac2fed4",
+        "new_commit": false
+      },
+      {
+        "fixed_rank": 4,
+        "row": {
+          "kind": "equal_owned_reallocation",
+          "receiver": 19,
+          "q": 50.0,
+          "donor_index": 15,
+          "donor_bus": 14,
+          "universe_index": 390
+        },
+        "key": "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|de2b758c4c31b4dcb9bbcdec03d3a53aa600abe074c2d3a801eba729bf8efaea",
+        "verdict": {
+          "accepted": true,
+          "reason": "ACCEPTED",
+          "before": {
+            "vmin": 0.892167898232881,
+            "vmax": 1.05,
+            "vmean": 0.9749132387756779,
+            "uv_count": 17,
+            "ov_count": 0,
+            "deficit_sum": 0.37733194380645085
+          },
+          "after": {
+            "vmin": 0.8924431429114555,
+            "vmax": 1.05,
+            "vmean": 0.9757448486987433,
+            "uv_count": 14,
+            "ov_count": 0,
+            "deficit_sum": 0.34001645272563796
+          },
+          "converged": true,
+          "original_native_accepted": true,
+          "normal_upper_band_admissible": true
+        },
+        "original_score": [
+          0,
+          3,
+          0.03731549108081289,
+          0.0002752446785745377,
+          -50.0
+        ],
+        "attributed_primary_PF_calls": 1,
+        "attributed_primary_solver_seconds": 2.9378603999939514,
+        "result_reference": "outputs\\remaining_three_fixed_queries_20261019\\cold_2\\Result.json",
+        "result_sha256": "32ebb40d0a9e4a83485de5e98fd39d83f5f875fb37d93895acc08188aa64f28e",
+        "new_commit": false
+      }
+    ],
+    "accepted_queries": 3,
+    "conditional_source_score_best": {
+      "fixed_rank": 4,
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 19,
+        "q": 50.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 390
+      },
+      "key": "b86a974e07747ef8ada3735c9eb42529cabd12382fc5dec146b106bcc2dfeb44|de2b758c4c31b4dcb9bbcdec03d3a53aa600abe074c2d3a801eba729bf8efaea",
+      "verdict": {
+        "accepted": true,
+        "reason": "ACCEPTED",
+        "before": {
+          "vmin": 0.892167898232881,
+          "vmax": 1.05,
+          "vmean": 0.9749132387756779,
+          "uv_count": 17,
+          "ov_count": 0,
+          "deficit_sum": 0.37733194380645085
+        },
+        "after": {
+          "vmin": 0.8924431429114555,
+          "vmax": 1.05,
+          "vmean": 0.9757448486987433,
+          "uv_count": 14,
+          "ov_count": 0,
+          "deficit_sum": 0.34001645272563796
+        },
+        "converged": true,
+        "original_native_accepted": true,
+        "normal_upper_band_admissible": true
+      },
+      "original_score": [
+        0,
+        3,
+        0.03731549108081289,
+        0.0002752446785745377,
+        -50.0
+      ],
+      "attributed_primary_PF_calls": 1,
+      "attributed_primary_solver_seconds": 2.9378603999939514,
+      "result_reference": "outputs\\remaining_three_fixed_queries_20261019\\cold_2\\Result.json",
+      "result_sha256": "32ebb40d0a9e4a83485de5e98fd39d83f5f875fb37d93895acc08188aa64f28e",
+      "new_commit": false
+    },
+    "safe_query_best_UV": 14,
+    "aggregate_paid_primary_PF": 4,
+    "aggregate_paid_primary_solver_seconds": 18.79251259998273,
+    "charged_replays": "ALL4 primaries have one independent replay retained in their respective studies; cost is separate and not waived.",
+    "no_actual_commit": true,
+    "whole_decision_selection": "NOT_COMPUTED_FROM_ONE_CONDITIONAL_MENU",
+    "whole_policy_DSE_LLM_superiority": "NOT_TESTED",
+    "non_menu_engineering_action": "Prior cold25MVAr bus0to44 query retained separately, rejected. Not used to replace an original menu member.",
+    "new_scientific_calls": 0
+  },
+  "active_readonly_analysis": {
+    "actual_pid": 17672,
+    "shim_pid": 10584,
+    "source": "work/replay_paid_suffix_with_fixed_three_20261019.py",
+    "actual_command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/replay_paid_suffix_with_fixed_three_20261019.py",
+    "source_sha256": "756994db5ce6b06370399f4776440fd46644b0f0f40c886f9e1bf66bf8fd3b6c",
+    "fixed_bound_seconds": 900,
+    "new_scientific_calls": 0,
+    "do_not_duplicate": true
+  },
+  "GPU_allocations": [],
+  "timers": [],
+  "actual_new_commit_model_derivative_forecast_solve_calls": 0,
+  "all6finalgoals": "OPEN",
+  "full_matched_policy_DSE_LLM_superiority": "UNACHIEVED",
+  "next": "Finish unchanged policy changed-evidence screen. Reuse ALL5newpaid receipts with costs and source-native verification. Missing next inputs stayUNKNOWN; no automatic newPF or simulation of unobserved AFTER."
+}
