@@ -1,0 +1,42 @@
+{
+  "at_utc": "2026-10-19T13:46:11.876461+00:00",
+  "status": "NUMERIC_COMPLETE_PASS_SOLE_READONLY_POLICY_RUNNING",
+  "previous_closed_policy": "outputs/resumed16_with_next_four_receipts_20261019",
+  "closed_policy_status": "UNKNOWN_MissingPaidNumericalContext",
+  "selected_saved_prefix_uv": [
+    33,
+    23,
+    16
+  ],
+  "missing_identity": "5ae0b6ddbfdeba9ae7bd0f9c2c0ec0a939d3d27f557e27c2d70250ec2df252cb",
+  "next_context": "outputs/fifth_required_numeric_context_20261019",
+  "source": "work/resume16_next_fifth_context_20261019.py",
+  "source_sha256": "90084fb750936749284a6c6fe5faccab21643fdb3bc1bf32521876b627b4aeba",
+  "reader": "work/audit_fifth_required_numeric_context_20261019.py",
+  "all_six_final_goals": "OPEN",
+  "waiting_timer": "hiergrid-next-four-policy-result-check DELETED",
+  "GPU_fresh_model_actual_commit_calls": 0,
+  "next": "Sole readonly owner adds checked5ae0table; wait for actualclosedResults/Leg/manifest and exactchainended before next justified dependency. No duplicate/restart/PF/model/GPU.",
+  "last_verified_GitHub": "dd75b2f3b9d4c18d23bad7c706bcc7b734f8c6ad",
+  "numeric_actual_pid": null,
+  "numeric_parent_pid": null,
+  "coordinator_actual_pid": null,
+  "coordinator_parent_pid": null,
+  "exec_session": 10915,
+  "protocol_sha256": "fe751f4d0e65bb4d20efc5f800b24cd0f774d6a84f39d29d5d84e4b88e642944",
+  "numeric_result": "outputs/fifth_numeric_dependency_handoff_20261019/Verified_Numeric_Completion.json",
+  "actual_pid": 4532,
+  "parent_pid": 14204,
+  "started_utc": "2026-10-19T13:45:15.7871020Z",
+  "bound_seconds": 900,
+  "absolute_bound_utc": "2026-10-19T14:00:15.7871020Z",
+  "new_context_forecasts": 1391,
+  "new_context_compile_calls": {
+    "dS": 1,
+    "LU_factor": 1,
+    "LU_solve": 1,
+    "RHS": 118
+  },
+  "new_context_PF_model_optimizer_actual_commit": 0,
+  "latest_readonly_output": "outputs/resumed16_next_fifth_context_20261019"
+}
