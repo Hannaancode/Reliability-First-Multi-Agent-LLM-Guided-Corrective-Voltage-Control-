@@ -1,0 +1,20 @@
+# Continued research execution —19October
+
+All six final goals remain open. This file indexes actual execution and preserves failures; software success is not an LLM/control win.
+
+|Work|Actual result|Code/evidence|
+|---|---|---|
+|Second missing numerical context|1391 full native forecasts; one derivative, one LU factor, one118-RHS solve; independent equations/menu and exact owner exits passed;0PF/model|`work/second_required_numeric_context_20261019.py`; `outputs/second_required_numeric_context_20261019/`|
+|Third18UV point, original4-query owner|One real query safely18→15, one exact charged replay; stopped after Windows sharing error at next claim, before next scientific body. Original partial retained|`work/run_third_point_four_queries_20261019.py`; `outputs/third_point_four_query_acquisition_20261019/`|
+|Independent preserved-prefix reader|Actual warm source/native inputs/all118replay/cursor/state/cost verified. Other3 remain UNKNOWN/unexecuted in that old study|`work/audit_third_point_preserved_prefix_20261019.py`|
+|Future handoff repair|Four real zero-science process cases passed: split JSON, atomic claim, nonzero exit7, exclusive Windows file-share lock; no old worker/source/settings changed|`work/prospective_query_custody_v3_20261019.py`; `outputs/prospective_query_custody_v3_20261019/`|
+|Three genuinely unentered original menu identities|All3 independently passed; each18→15,6PF including3exact charged replays,0exceptions. New exact protocol/owners, not a restart or repeated measured action|`work/run_third_point_remaining_three_20261019.py`; `outputs/third_point_remaining_three_query_acquisition_20261019/`|
+|Unchanged policy with all13paid receipts|Read-only support analysis;0newscience. No actual new commit or complete trajectory claim|`work/replay_all_thirteen_paid_receipts_20261019.py`; `outputs/all_thirteen_paid_receipts_policy_screen_20261019/`|
+|Published PGLearn118 data|Pinned one85,559,012-byte author shard; fixed first16provider test rows retained. Raw licensed data stay local|`work/intake_pglearn_fixed_test_prefix_20261019.py`|
+|Public semantic/physical audit|One repeated solved base reference, not16different reference states. Distinct sampled columns all retain fixed native residual failures; no substitution/filtering/tolerance change. Failed rounding assumption preserved|`work/check_pglearn_fixed16_semantics_native_v2_20261019.py`; `outputs/published_benchmark_contract_handoff_20261019/`|
+|Native public initialization bridge|The ONE publisher base reference matches the original ordinary PGLib static network/limits. Initial dispatch/voltage/flows pass the original independent native complex-equation/limits/objective checker at5e-6.0solvercalls. Already0UV: importer reference ONLY|`work/bridge_pglearn_base_to_native_public_ppc_20261019.py`; `outputs/pglearn_base_native_ppc_bridge_20261019/`|
+|Published model comparison source|PFDelta118/PFNet/CANOS code and dataset revisions/licensing pinned; prediction-vs-control task mismatch and reported loss-fix caveat recorded. No large PFDelta data/model/training run|`outputs/pfdelta_benchmark_source_review_20261019/`; `outputs/published_benchmark_contract_handoff_20261019/Results_And_Prospective_Benchmark_Contract.md`|
+
+The new physical measurements are alternatives at three saved states, not11solved cases or a sequential9UV reduction. Preserve original literalDFF+DFFALT+unchanged DSE, both individual branches and FULL BOTH costs, all failed/partial/UNKNOWN outcomes, severe-case roster and unused confirmation. Historical/inspected data are development.
+
+Next: finish only the exact live saved-policy support analysis, preserve the next exact unsupported identity/menu/context and source/cost proofs. New measurement requires prospective exact identity/native source/custody/persistence/independent reader/full costs. No automatic GPU, old-owner restart, repeated physics, budget extension or outcome retune. For public performance, build the actual causal serving/import/control-role contract across all declared cases; the single already-zero base is not a chosen hard-case benchmark.

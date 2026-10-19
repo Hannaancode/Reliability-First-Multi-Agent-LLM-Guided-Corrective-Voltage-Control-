@@ -1,0 +1,244 @@
+{
+  "at_utc": "2026-10-19T08:39:38.490595+00:00",
+  "status": "THIRD_POINT_ALL4_PHYSICAL_RECEIPTS_VERIFIED_SAVED_POLICY_ANALYSIS_RUNNING",
+  "third_point_outcomes": [
+    {
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 19,
+        "q": 100.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 382
+      },
+      "before": {
+        "vmin": 0.8940409883061549,
+        "vmax": 1.05,
+        "vmean": 0.9748029295842086,
+        "uv_count": 18,
+        "ov_count": 0,
+        "deficit_sum": 0.3704213098971817
+      },
+      "after": {
+        "vmin": 0.894304670718876,
+        "vmax": 1.05,
+        "vmean": 0.9765976412708804,
+        "uv_count": 15,
+        "ov_count": 0,
+        "deficit_sum": 0.33497218318371247
+      },
+      "accepted": true,
+      "replay_delta": 0.0,
+      "source": "outputs\\third_point_four_query_acquisition_20261019\\warm\\Result.json"
+    },
+    {
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 19,
+        "q": 75.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 381
+      },
+      "before": {
+        "vmin": 0.8940409883061549,
+        "vmax": 1.05,
+        "vmean": 0.9748029295842086,
+        "uv_count": 18,
+        "ov_count": 0,
+        "deficit_sum": 0.3704213098971817
+      },
+      "after": {
+        "vmin": 0.8943521297742485,
+        "vmax": 1.05,
+        "vmean": 0.9760991365634079,
+        "uv_count": 15,
+        "ov_count": 0,
+        "deficit_sum": 0.33384652919243163
+      },
+      "accepted": true,
+      "replay_delta": 0.0,
+      "source": "outputs\\third_point_remaining_three_query_acquisition_20261019\\warm\\Result.json"
+    },
+    {
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 19,
+        "q": 50.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 380
+      },
+      "before": {
+        "vmin": 0.8940409883061549,
+        "vmax": 1.05,
+        "vmean": 0.9748029295842086,
+        "uv_count": 18,
+        "ov_count": 0,
+        "deficit_sum": 0.3704213098971817
+      },
+      "after": {
+        "vmin": 0.8943145198024239,
+        "vmax": 1.05,
+        "vmean": 0.9756343664255523,
+        "uv_count": 15,
+        "ov_count": 0,
+        "deficit_sum": 0.3334048373975832
+      },
+      "accepted": true,
+      "replay_delta": 0.0,
+      "source": "outputs\\third_point_remaining_three_query_acquisition_20261019\\cold_1\\Result.json"
+    },
+    {
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 20,
+        "q": 25.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 384
+      },
+      "before": {
+        "vmin": 0.8940409883061549,
+        "vmax": 1.05,
+        "vmean": 0.9748029295842086,
+        "uv_count": 18,
+        "ov_count": 0,
+        "deficit_sum": 0.3704213098971817
+      },
+      "after": {
+        "vmin": 0.8940667415456053,
+        "vmax": 1.0500000000000003,
+        "vmean": 0.9752352360646805,
+        "uv_count": 15,
+        "ov_count": 1,
+        "deficit_sum": 0.334463209224083
+      },
+      "accepted": true,
+      "replay_delta": 0.0,
+      "source": "outputs\\third_point_remaining_three_query_acquisition_20261019\\cold_2\\Result.json"
+    }
+  ],
+  "third_original_four_owner": "TERMINAL_PARTIAL_PERMISSION_SHARING_FAILURE_AFTER_WARM",
+  "original_cold_1": "FAILED_BEFORE_ANY_SCIENTIFIC_BODY_NO_RESTART",
+  "remaining_three_new_exact_identities": "COMPLETE_INDEPENDENT_PASS",
+  "remaining_three_costs": {
+    "PF_attempts": 6,
+    "PF_returns": 6,
+    "PF_exceptions": 0,
+    "PF_seconds": 8.943685300007928,
+    "new_query_PF_attempts": 3,
+    "continuous_replay_PF_attempts": 3,
+    "preservation_seconds": 1.1377971999754664,
+    "new_model_calls": 0,
+    "new_optimizer_steps": 0,
+    "new_derivative_forecast_linear_solve_calls": 0
+  },
+  "all_today_new_queries": 11,
+  "all_today_PF_attempts_and_returns_including_replays": 22,
+  "all_today_PF_exceptions": 0,
+  "aggregation_limit": "Alternatives at THREE distinct saved states:17to14,17to14,18to15. Not11 sequential reductions or11 solved cases. One older originalK4 rejected action plus separate old engineering adverse action remain retained. No new actual commits.",
+  "second_required_context": {
+    "status": "PASS_SINGLE_EXACT_CURRENT_MASK_CONTEXT_AND_ALL_MENU_FORECAST_EQUATIONS_COSTS_SOURCE_MANIFEST",
+    "identity": "ae3254ce10a37732dc01af771f52c2eafae49db50f643e434f67b53a0eadcdf5",
+    "forecasts": 1391,
+    "m_equation_maxdelta": 6.355287432313019e-14,
+    "a_equation_maxdelta": 1.1457157353758233e-13,
+    "JXminusB_maxresidual": 1.6534083130403943e-17,
+    "actual_numeric_costs": {
+      "public_derivative_attempts": 1,
+      "public_derivative_returns": 1,
+      "LU_factor_attempts": 1,
+      "LU_factor_returns": 1,
+      "LU_solve_attempts": 1,
+      "LU_solve_returns": 1,
+      "RHS_columns": 118,
+      "exact_context_reuses": 0,
+      "compile_seconds": 0.1861410999990767
+    },
+    "new_nonlinear_PF_model_optimizer_controller_commit_calls": 0,
+    "reader_scientific_calls": 0,
+    "workflow_seconds": 1.778234600002179,
+    "limits": "Ordering data only. Nonlinear successor/complete-policy/LLM superiority not measured."
+  },
+  "public_test_prefix_intaken": 16,
+  "public_case_json_distinct_base_reference": 1,
+  "public_sampled_strict_native_passes": 0,
+  "public_base_native_PPC_bridge": {
+    "status": "PASS_SOURCE_FAITHFUL_PUBLISHED_BASE_NATIVE_INITIALIZATION",
+    "certificate": {
+      "all_native_constraints_and_saved_fields_pass": true,
+      "checks": {
+        "active_balance_pu": true,
+        "reactive_balance_pu": true,
+        "voltage_bounds_pu": true,
+        "P_bounds_pu": true,
+        "Q_bounds_pu": true,
+        "thermal_apparent_power_pu": true,
+        "angle_bounds_radians": true,
+        "reference_angle_radians": true,
+        "recorded_branch_flow_reconstruction_pu": true,
+        "generator_voltage_alignment_pu": true,
+        "objective_reconstruction": true
+      },
+      "maximum_violations": {
+        "active_balance_pu": 2.618945282861773e-09,
+        "reactive_balance_pu": 1.3630506584538793e-08,
+        "voltage_bounds_pu": 4.804183717510568e-09,
+        "P_bounds_pu": 5.7842865999191415e-08,
+        "Q_bounds_pu": 0.0,
+        "thermal_apparent_power_pu": 2.863527859275905e-09,
+        "angle_bounds_radians": 0.0,
+        "reference_angle_radians": 7.462790259540997e-32,
+        "recorded_branch_flow_reconstruction_pu": 9.667187019779533e-09,
+        "generator_voltage_alignment_pu": 0.0
+      },
+      "reconstructed_objective": 97213.60739438432,
+      "saved_objective": 97213.60739438434,
+      "objective_absolute_error": 1.4551915228366852e-11,
+      "voltage_min": 0.9843875250310118,
+      "voltage_max": 1.0600000048041838,
+      "buses_below_original_0_95": 0,
+      "buses_above_original_1_05": 28,
+      "native_angle_rows": 186,
+      "generation_P_MW": 4380.68534609257,
+      "demand_P_MW": 4242.0,
+      "active_losses_and_shunt_MW": 138.68534653883432
+    },
+    "workflow_seconds": 0.2509520000021439,
+    "new_PF_OPF_model_optimizer_derivative_forecast_solve_calls": 0,
+    "sample_test_rows_certified_by_this_bridge": 0,
+    "role": "One source-published zeroUV base integration reference, no hard-case/model/DSE win or global optimum."
+  },
+  "active_readonly_analysis": {
+    "actual_pid": 4836,
+    "parent_pid": 772,
+    "source": "work/replay_all_thirteen_paid_receipts_20261019.py",
+    "actual_command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/replay_all_thirteen_paid_receipts_20261019.py",
+    "source_sha256": "b6359d3ba14cfffbd31fc2a4b6c15b26bb4ba420cfe919cf5dfb0895ad1906ba",
+    "exec_session": 30257,
+    "fixed_bound_seconds": 900,
+    "new_scientific_calls": 0
+  },
+  "timers": [],
+  "GPU_allocations": [],
+  "all6goals": "OPEN",
+  "LLM_DSE_full_policy_superiority": "UNACHIEVED",
+  "old_four_second_point_last_process_exit": "UNKNOWN_RETAINED",
+  "frozen_original_assets": {
+    "audited_at_utc": "2026-10-19T08:39:40.206427+00:00",
+    "checks": {
+      "frozen_matched_protocol_sha256": true,
+      "frozen_controller_sources": true,
+      "all_62_scenario_files": true,
+      "locked_file_set": true,
+      "bank_manifest": true,
+      "bank_sanity_report": true,
+      "network": true,
+      "metadata": true,
+      "model_root_files": true
+    },
+    "all_passed": true,
+    "new_model_or_PF_calls": 0
+  }
+}

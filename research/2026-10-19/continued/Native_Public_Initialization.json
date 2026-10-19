@@ -1,0 +1,46 @@
+{
+  "status": "PASS_SOURCE_FAITHFUL_PUBLISHED_BASE_NATIVE_INITIALIZATION",
+  "certificate": {
+    "all_native_constraints_and_saved_fields_pass": true,
+    "checks": {
+      "active_balance_pu": true,
+      "reactive_balance_pu": true,
+      "voltage_bounds_pu": true,
+      "P_bounds_pu": true,
+      "Q_bounds_pu": true,
+      "thermal_apparent_power_pu": true,
+      "angle_bounds_radians": true,
+      "reference_angle_radians": true,
+      "recorded_branch_flow_reconstruction_pu": true,
+      "generator_voltage_alignment_pu": true,
+      "objective_reconstruction": true
+    },
+    "maximum_violations": {
+      "active_balance_pu": 2.618945282861773e-09,
+      "reactive_balance_pu": 1.3630506584538793e-08,
+      "voltage_bounds_pu": 4.804183717510568e-09,
+      "P_bounds_pu": 5.7842865999191415e-08,
+      "Q_bounds_pu": 0.0,
+      "thermal_apparent_power_pu": 2.863527859275905e-09,
+      "angle_bounds_radians": 0.0,
+      "reference_angle_radians": 7.462790259540997e-32,
+      "recorded_branch_flow_reconstruction_pu": 9.667187019779533e-09,
+      "generator_voltage_alignment_pu": 0.0
+    },
+    "reconstructed_objective": 97213.60739438432,
+    "saved_objective": 97213.60739438434,
+    "objective_absolute_error": 1.4551915228366852e-11,
+    "voltage_min": 0.9843875250310118,
+    "voltage_max": 1.0600000048041838,
+    "buses_below_original_0_95": 0,
+    "buses_above_original_1_05": 28,
+    "native_angle_rows": 186,
+    "generation_P_MW": 4380.68534609257,
+    "demand_P_MW": 4242.0,
+    "active_losses_and_shunt_MW": 138.68534653883432
+  },
+  "workflow_seconds": 0.2509520000021439,
+  "new_PF_OPF_model_optimizer_derivative_forecast_solve_calls": 0,
+  "sample_test_rows_certified_by_this_bridge": 0,
+  "role": "One source-published zeroUV base integration reference, no hard-case/model/DSE win or global optimum."
+}

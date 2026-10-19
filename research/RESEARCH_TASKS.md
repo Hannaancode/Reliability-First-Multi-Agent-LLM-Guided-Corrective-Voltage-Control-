@@ -1,6 +1,6 @@
 # HierGrid — master research checklist
 
-Updated 2026-10-19T07:48:16.017041+00:00. All six final goals remain open; verified subtasks retain their original evidence.
+Updated 2026-10-19T08:39:38.490595+00:00. All six final goals remain open; verified subtasks retain their original evidence.
 
 Checked subtasks mean the stated work and report are complete. A failed experiment remains a failed result. A whole goal is checked and crossed out only when all of its acceptance criteria pass.
 
@@ -103,3 +103,8 @@ G1.7 readiness: exact141recipe bytes bound;8known initialUV>=50(2>=60),70unknown
 19October measured step towardG1.7: originalK4 remaining3queries COMPLETE/independentPASS. Each safely17to14UV, Vmmax<=1.05; all118replays exact. No actualcommit/completepolicy/LLMadvantage. [Evidence](outputs/remaining_three_fixed_queries_20261019/verified_completion/Verified_Completion.json).
 
 19October second distinct17UV saved state: all4fixed alternative queries safely17to14UV;8chargedPF incl4exactreplays, source/physics/cold-state auditpassed. Original last child exit codeUNKNOWN leaves overall lifecycle gatePARTIAL. No actualcommit/DSE/LLMsuperiority. [Evidence](outputs/fixed_four_query_acquisition_20261019/verified_checkpoint/Verified_Research_Checkpoint.json).
+
+
+19October G2/G3 source readiness: official PGLearn118 first16 provider test rows pinned/retained; ONE distinct base reference native-feasible, all16 sampled column points retain strict reactive-flow residual failures. No test-row substitution/model-performance claim. PFDelta118/PFNet/CANOS source/benchmark role and loss-fix caveat pinned. [Evidence](outputs/published_benchmark_contract_handoff_20261019/Results_And_Prospective_Benchmark_Contract.md).
+
+Continued19October: all4alternatives at third18UVstate independently verified18to15, with old interrupted study retainedPARTIAL and3unentered identities acquired once under a separate exact protocol. One source-published base reference now bridges faithfully to original nativePGLibPPC, independent original constraints passed; already-zero reference is not a control win. [Execution/code index](outputs/research_execution_20261019_continued/Execution_Index.md).
