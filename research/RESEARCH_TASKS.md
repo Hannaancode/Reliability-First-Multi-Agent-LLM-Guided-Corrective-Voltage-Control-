@@ -1,6 +1,6 @@
 # HierGrid — master research checklist
 
-Updated 2026-10-19T08:39:38.490595+00:00. All six final goals remain open; verified subtasks retain their original evidence.
+Updated 2026-10-19T12:33:47.006426+00:00. All six final goals remain open; verified subtasks retain their original evidence.
 
 Checked subtasks mean the stated work and report are complete. A failed experiment remains a failed result. A whole goal is checked and crossed out only when all of its acceptance criteria pass.
 
@@ -34,7 +34,7 @@ Acceptance: Audit all141 federation recipes and declare the full severe-case ros
 
 ### G2. Find a published physical dataset/test set and test our model on it.
 
-Three official PGLib 118-bus variants are pinned and audited. All three new SLSQP final points failed the fixed native feasibility threshold. Testing our model on a verified public initialization remains pending.
+Three official PGLib118 variants and their failed fixed SLSQP trials are preserved. One source-faithful PGLearn base initialization passes native checks. All36predeclared PFDelta118 states now pass saved PF equation checks with independent polar/complex agreement; all36retain operating-limit failures and34conflict with the original upper guard if solved slack voltage stays fixed. Public corrective model testing remains pending a faithful common task contract.
 
 - [x] `G2.1` Pin and audit the full native inputs and constraints of all three published cases. [Evidence](outputs/public118_native_acopf_reference_20261015/Protocol.json)
 - [x] `G2.2` Complete and independently report all three fixed SLSQP trials, including their failed feasibility gates. [Evidence](outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json)
@@ -108,3 +108,16 @@ G1.7 readiness: exact141recipe bytes bound;8known initialUV>=50(2>=60),70unknown
 19October G2/G3 source readiness: official PGLearn118 first16 provider test rows pinned/retained; ONE distinct base reference native-feasible, all16 sampled column points retain strict reactive-flow residual failures. No test-row substitution/model-performance claim. PFDelta118/PFNet/CANOS source/benchmark role and loss-fix caveat pinned. [Evidence](outputs/published_benchmark_contract_handoff_20261019/Results_And_Prospective_Benchmark_Contract.md).
 
 Continued19October: all4alternatives at third18UVstate independently verified18to15, with old interrupted study retainedPARTIAL and3unentered identities acquired once under a separate exact protocol. One source-published base reference now bridges faithfully to original nativePGLibPPC, independent original constraints passed; already-zero reference is not a control win. [Execution/code index](outputs/research_execution_20261019_continued/Execution_Index.md).
+
+
+## Latest saved checkpoint 2026-10-19T09:00:09.007317+00:00
+
+Final saved state: no current owned work remains. All six final goals are open.
+
+Physical evidence: third saved state has four independently replayed alternatives18->15UV; alternatives are not a completed trajectory. Saved-policy support now33->23->16UV and stops UNKNOWN at exact missing context480be84ae430d692714f2951258d89cdba8cf22e88437d9fb628e259a4edf45b. No new actual commit or fresh LLM inference.
+
+Next: independently certify the final saved support prefix, then prospectively justify only the missing numerical context; separately validate all36 PFDelta nested network/solution inputs. No automatic PF/model/training launch. Preserve all original failures and costs.
+
+Latest verified GitHub head13847d40f5270665b2c3a980b70ad67a391903cf. Final closure/PFDelta intake are saved locally pending publication.
+Full exact resume: `outputs/research_execution_20261019_continued/Final_Resume_And_Closed_Results.json`.
+

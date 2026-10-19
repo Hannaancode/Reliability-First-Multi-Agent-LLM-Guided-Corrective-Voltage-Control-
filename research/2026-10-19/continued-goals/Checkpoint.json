@@ -1,0 +1,106 @@
+{
+  "at_utc": "2026-10-19T12:33:47.006426+00:00",
+  "status": "NEW_NUMERICAL_CONTEXT_AND_PUBLISHED_INPUT_AUDITS_COMPLETE_UNCHANGED_SUPPORT_CONTINUATION_LIVE",
+  "all6finalgoals": "OPEN",
+  "new_numeric": {
+    "status": "PASS_SINGLE_EXACT_CURRENT_MASK_CONTEXT_AND_ALL_MENU_FORECAST_EQUATIONS_COSTS_SOURCE_MANIFEST",
+    "identity": "480be84ae430d692714f2951258d89cdba8cf22e88437d9fb628e259a4edf45b",
+    "forecasts": 1430,
+    "m_equation_maxdelta": 3.552713678800501e-14,
+    "a_equation_maxdelta": 2.929642751054232e-14,
+    "JXminusB_maxresidual": 2.970713952610282e-17,
+    "actual_numeric_costs": {
+      "public_derivative_attempts": 1,
+      "public_derivative_returns": 1,
+      "LU_factor_attempts": 1,
+      "LU_factor_returns": 1,
+      "LU_solve_attempts": 1,
+      "LU_solve_returns": 1,
+      "RHS_columns": 118,
+      "exact_context_reuses": 0,
+      "compile_seconds": 0.1680285000038566
+    },
+    "new_nonlinear_PF_model_optimizer_controller_commit_calls": 0,
+    "reader_scientific_calls": 0,
+    "workflow_seconds": 1.8201033000077587,
+    "limits": "Ordering data only. Nonlinear successor/complete-policy/LLM superiority not measured."
+  },
+  "numeric_completed_exit_codes": {
+    "exit_codes": {
+      "actual": 0,
+      "independent_audit": 0
+    },
+    "no_science_retry": true,
+    "new_PF_model_calls": 0
+  },
+  "saved_prefix_audit": {
+    "status": "PASS_SAVED_SELECTED_METRICS_HASHES_BUDGET_AND_UNKNOWN_CONTEXT_IDENTITY",
+    "UV_trace": [
+      33,
+      23,
+      16
+    ],
+    "selected_after_metrics": [
+      {
+        "vmin": 0.8828685724876639,
+        "vmax": 1.05,
+        "vmean": 0.9738106709874119,
+        "uv_count": 23,
+        "ov_count": 0,
+        "deficit_sum": 0.5439297406339971
+      },
+      {
+        "vmin": 0.8966703879751059,
+        "vmax": 1.05,
+        "vmean": 0.975148018716297,
+        "uv_count": 16,
+        "ov_count": 0,
+        "deficit_sum": 0.36342043345753683
+      }
+    ],
+    "remaining_original_operations": 15,
+    "missing_identity": "480be84ae430d692714f2951258d89cdba8cf22e88437d9fb628e259a4edf45b",
+    "frontier_raw_sha256": "bc46a9f23c42a3436bff765594416ae48fc1ffa7d0b982a2c08a6780808f813d",
+    "new_scientific_calls": 0,
+    "workflow_seconds": 5.889846799997031,
+    "limitations": "Selected prefix/hash/metrics/accounting audit only. Original source receipts/policy-use verification remain separately paid evidence. No independent new solves, actual commits, full policy-selection rerun, complete protected trajectory or LLM/DSE superiority."
+  },
+  "published_validation": {
+    "source": "outputs/pfdelta_fixed36_native_schema_v2_20261019/Results.json",
+    "independent_status": "PASS_ALL36_COMPLETE_SCHEMA_IDENTITY_AND_UNCHANGED_NATIVE_EQUATION_CHECKS",
+    "all36_PF_equation_passes": 36,
+    "checked_native_operating_limit_passes": 0,
+    "fixed_solved_reference_guard_conflicts": 34,
+    "max_source_UV": 28,
+    "all36_retained": true,
+    "model_benchmark": "NOT_EXECUTED"
+  },
+  "sole_current_owner": {
+    "actual_pid": 4400,
+    "parent_shim_pid": 13328,
+    "source": "work/resume_verified16_paid_policy_support_20261019.py",
+    "claim": "outputs/resumed16_paid_policy_support_20261019/owner.claim",
+    "exec_session": 41207,
+    "fixed_readonly_bound_seconds": 900,
+    "no_new_scientific_calls": true,
+    "last_known_selected_prefix": [
+      33,
+      23,
+      16
+    ],
+    "outcome": "PENDING_ACTUAL_CLOSED_RESULTS"
+  },
+  "no_GPU": true,
+  "no_new_timer": true,
+  "preserved_failures": [
+    "outputs/closed_thirteen_support_prefix_audit_20261019/Failure.json",
+    "outputs/pfdelta_fixed36_native_validation_20261019/Results.json"
+  ],
+  "next_tasks": [
+    "Observe exact live support owner to closed results, no duplicate or rerun. Preserve its first new UNKNOWN dependency or supported next step.",
+    "No new PF/model/optimizer launch solely from this readiness. New exact dependency needs prospective source/action/ownership/preservation/reader/fullcost gates.",
+    "Public task/importer must preserve source fields and disclose34fixed-reference conflicts, all36operating-limit failures; no guard relaxation/clipping or favorable sample filtering.",
+    "Publish code, proof and task snapshot with GitHub lease and exact downloaded byte checks."
+  ],
+  "scientific_limits": "No new actual physical trajectory, fresh LLM effect, original full DSE superiority, all-severe zeroUV, unused confirmation or security completion follows."
+}

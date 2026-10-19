@@ -1,0 +1,8 @@
+{
+  "status": "PASS_CRC_EVERY_MEMBER_HASH_AND_CREDENTIAL_SCREEN",
+  "bytes": 147689,
+  "members": 110,
+  "sha256": "9d7aaf7af6b961df9f6476197862bb98d384bee528f6b6b3c3b2cd29bb407f9f",
+  "raw_network_models_dataset_archives_excluded": true,
+  "licenses_included": true
+}
