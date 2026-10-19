@@ -1,0 +1,49 @@
+{
+  "at_utc": "2026-10-19T13:31:56.238341+00:00",
+  "role": "sole read-only policy continuation after complete four physics queries",
+  "latest_closed_policy": "outputs/resumed16_next_context_ack_reuse_20261019",
+  "status": "RUNNING_READONLY_NO_NEW_SCIENCE",
+  "selected_saved_prefix_uv": [
+    33,
+    23,
+    16
+  ],
+  "remaining_actual_original_slots": 15,
+  "new_hypothetical_query_state_uv": 12,
+  "new_query_count": 4,
+  "exact_new_queries": [
+    {
+      "receiver": 18,
+      "q": 300
+    },
+    {
+      "receiver": 18,
+      "q": 250
+    },
+    {
+      "receiver": 18,
+      "q": 200
+    },
+    {
+      "receiver": 18,
+      "q": 150
+    }
+  ],
+  "new_query_state_point": "7e80ac53ab06707c7b07ea78f38667306ba43fea8fb8048c3a46ed4cc9db49ec",
+  "new_science_this_policy": 0,
+  "GPU_or_fresh_model_calls": 0,
+  "new_preparation": "outputs/next_fixed_four_followup_acquisition_20261019",
+  "old_waiting_timer": "DELETED",
+  "all_six_final_goals": "OPEN",
+  "last_verified_GitHub": "3022ab5e3bb98f7ed26402a417bfd695c29e4759",
+  "next": "Inspect sole readonly closed Results/Leg/manifest and exact owner terminal; all four new measurements unsafe and retained. Next missing state remains UNKNOWN pending exact protocol. No duplicate/restart/science/GPU.",
+  "coordinator_actual_pid": null,
+  "coordinator_parent_pid": null,
+  "exec_session": 82541,
+  "source": "work/resume16_with_next_four_receipts_20261019.py",
+  "source_sha256": "95218af836a9ab6a8275e1b0e2665f53f285fbe3b4f7128f128548872cfa0b81",
+  "protocol_sha256": "079b429dd8ed103b713ae0611d9d5aa3ce90e783860844b01e949768b9cf860d",
+  "actual_pid": 15168,
+  "parent_pid": 19612,
+  "physical_completion": "outputs/next_fixed_four_followup_handoff_20261019/Verified_Physical_Completion.json"
+}

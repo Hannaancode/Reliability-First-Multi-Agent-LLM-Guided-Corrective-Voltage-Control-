@@ -1,3 +1,5 @@
+Latest verified update (2026-10-19T13:32:48.809134+00:00): the next four fixed alternatives at a distinct12UV child all reached9UV but violated upper voltage protection; all four rejected. Independent audit passed8PF/4chargedreplays. Saved selected path remains33->23->16 until the sole read-only continuation closes. All six final goals remain OPEN; no fresh model/GPU/actualcommit. Exact resume: outputs/next_fixed_four_followup_handoff_20261019/Checkpoint.json.
+
 # HierGrid — master research checklist
 
 Updated 2026-10-19T12:33:47.006426+00:00. All six final goals remain open; verified subtasks retain their original evidence.
@@ -126,4 +128,10 @@ Full exact resume: `outputs/research_execution_20261019_continued/Final_Resume_A
 ## Latest fixed follow-up physics 2026-10-19T12:57:32.539488+00:00
 
 ALL4original followup queries complete/independentPASS:3protected12->9,1upperguardunsafe12->9rejected;8PFreturns0exceptions/all118replays<=1e-10.0freshmodel. Original64MiBpre-admission failure had0nativecalls, independently diagnosed and retained, no oldowner/budget restarted. Sole new read-only policy actual13184/shim20308 source resume16_with_fixed_followup_receipts_v2_20261019.py fixed900sec/exec69528; no duplicated science. Last selected prefix33->23->16; new choice PENDING. Resume outputs/fixed_followup_physics_handoff_20261019/Checkpoint.json. All6goalsOPEN; fullDSE/LLM/allzero/security unachieved; unsafe/partial/UNKNOWN/frozenassets/FULLBOTHcosts preserved. NoGPU.
+
+
+
+## Latest next-context continuation 2026-10-19T13:21:16.712562+00:00
+
+Prior17receipt policy CLOSED exit0/UNKNOWNmissingbfeba/selected33->23->16; oldwaiting timerDELETED. Required bfeba context COMPLETE/independentPASS1391forecasts/1derivative/1LUfactor/1solve118RHS,0PF/model. OldACKsharing fixture failed0science retained; actualsame-ACK read recovery/sourcefixturePASS before fresh math. Existing697source-bound ACK reuse and4adversarialmutations/immutableZIPsourcefixturePASS; all priorcosts retained. Sole new readonly source resume16_next_context_ack_reuse_20261019.py actual11300/shim14840 exec31293 fixed900sec; resultPENDING, no duplicate/restart/science/GPU. Resume outputs/next_numeric_dependency_bfeba_handoff_20261019/Checkpoint.json. All6goalsOPEN/literalDSEbothbranchesFULLBOTH/frozenassets/partialunsafeUNKNOWNretained.
 
