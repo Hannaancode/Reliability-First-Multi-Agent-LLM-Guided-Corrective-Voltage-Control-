@@ -1,0 +1,480 @@
+{
+  "status": "ALL4_PHYSICAL_QUERY_AND_REPLAY_EVIDENCE_VERIFIED_LIFECYCLE_GATE_PARTIAL",
+  "at_utc": "2026-10-19T07:48:16.017041+00:00",
+  "source_point": "43379c7f16a5e0ad3076225d5cfc7fcdcc5900e28123d7e2519b9e5e7bd10179",
+  "all4_original_order_results": [
+    {
+      "phase": "warm",
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 19,
+        "q": 100.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 423
+      },
+      "point_action_key": "43379c7f16a5e0ad3076225d5cfc7fcdcc5900e28123d7e2519b9e5e7bd10179|f02856a8072569ba72fe8e6e39a50a99c468651c09369723043561662b0cc5c4",
+      "accepted": true,
+      "before": {
+        "vmin": 0.8898125706088056,
+        "vmax": 1.0500000000000003,
+        "vmean": 0.9743146919899955,
+        "uv_count": 17,
+        "ov_count": 1,
+        "deficit_sum": 0.38899117625607604
+      },
+      "after": {
+        "vmin": 0.8900638800005872,
+        "vmax": 1.05,
+        "vmean": 0.9760681995186501,
+        "uv_count": 14,
+        "ov_count": 0,
+        "deficit_sum": 0.3534650771841066
+      },
+      "original_score": [
+        0,
+        3,
+        0.035526099071969464,
+        0.00025130939178164,
+        -100.0
+      ],
+      "replay_maximum_all118_field_delta": 0.0
+    },
+    {
+      "phase": "cold_1",
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 19,
+        "q": 75.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 422
+      },
+      "point_action_key": "43379c7f16a5e0ad3076225d5cfc7fcdcc5900e28123d7e2519b9e5e7bd10179|4795c96fdf13eb2d88fc55242bf5f3c5e87b81a2b320dfeea6785f892074742f",
+      "accepted": true,
+      "before": {
+        "vmin": 0.8898125706088056,
+        "vmax": 1.0500000000000003,
+        "vmean": 0.9743146919899955,
+        "uv_count": 17,
+        "ov_count": 1,
+        "deficit_sum": 0.38899117625607604
+      },
+      "after": {
+        "vmin": 0.8901151814900639,
+        "vmax": 1.05,
+        "vmean": 0.9755786836130295,
+        "uv_count": 14,
+        "ov_count": 0,
+        "deficit_sum": 0.35232295975355055
+      },
+      "original_score": [
+        0,
+        3,
+        0.0366682165025255,
+        0.0003026108812582695,
+        -75.0
+      ],
+      "replay_maximum_all118_field_delta": 0.0
+    },
+    {
+      "phase": "cold_2",
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 19,
+        "q": 50.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 421
+      },
+      "point_action_key": "43379c7f16a5e0ad3076225d5cfc7fcdcc5900e28123d7e2519b9e5e7bd10179|de2b758c4c31b4dcb9bbcdec03d3a53aa600abe074c2d3a801eba729bf8efaea",
+      "accepted": true,
+      "before": {
+        "vmin": 0.8898125706088056,
+        "vmax": 1.0500000000000003,
+        "vmean": 0.9743146919899955,
+        "uv_count": 17,
+        "ov_count": 1,
+        "deficit_sum": 0.38899117625607604
+      },
+      "after": {
+        "vmin": 0.8900808413724113,
+        "vmax": 1.05,
+        "vmean": 0.9751237899819447,
+        "uv_count": 14,
+        "ov_count": 0,
+        "deficit_sum": 0.35185580695161567
+      },
+      "original_score": [
+        0,
+        3,
+        0.037135369304460375,
+        0.0002682707636056936,
+        -50.0
+      ],
+      "replay_maximum_all118_field_delta": 0.0
+    },
+    {
+      "phase": "cold_3",
+      "row": {
+        "kind": "equal_owned_reallocation",
+        "receiver": 20,
+        "q": 25.0,
+        "donor_index": 15,
+        "donor_bus": 14,
+        "universe_index": 425
+      },
+      "point_action_key": "43379c7f16a5e0ad3076225d5cfc7fcdcc5900e28123d7e2519b9e5e7bd10179|e9069f31fdc192957d517fd00c5342e835ae17f86fbe478f5a023339820dea5e",
+      "accepted": true,
+      "before": {
+        "vmin": 0.8898125706088056,
+        "vmax": 1.0500000000000003,
+        "vmean": 0.9743146919899955,
+        "uv_count": 17,
+        "ov_count": 1,
+        "deficit_sum": 0.38899117625607604
+      },
+      "after": {
+        "vmin": 0.8898343281187407,
+        "vmax": 1.0500000000000003,
+        "vmean": 0.9747316707871644,
+        "uv_count": 14,
+        "ov_count": 1,
+        "deficit_sum": 0.35288785248057264
+      },
+      "original_score": [
+        0,
+        3,
+        0.036103323775503404,
+        2.175750993516079e-05,
+        -25.0
+      ],
+      "replay_maximum_all118_field_delta": 0.0
+    }
+  ],
+  "physical_source_replay_checks": "PASS_ALL8",
+  "overall_complete_gate": "UNKNOWN_LAST_PROCESS_EXIT",
+  "original_reader_result": {
+    "status": "PARTIAL_PRESERVED_OUTPUTS_NO_POLICY_GATE",
+    "counts": {
+      "PF_attempts": 8,
+      "PF_returns": 8,
+      "PF_exceptions": 0,
+      "new_query_PF_attempts": 4,
+      "continuous_replay_PF_attempts": 4
+    },
+    "PF_seconds": 11.995890799997142,
+    "costs": {
+      "PF_attempts": 8,
+      "PF_returns": 8,
+      "PF_exceptions": 0,
+      "PF_seconds": 11.995890799997142,
+      "new_query_PF_attempts": 4,
+      "continuous_replay_PF_attempts": 4,
+      "preservation_seconds": 1.458849700036808,
+      "new_model_calls": 0,
+      "new_optimizer_steps": 0,
+      "new_derivative_forecast_linear_solve_calls": 0
+    },
+    "query_outcomes": [
+      {
+        "row": {
+          "donor_bus": 14,
+          "donor_index": 15,
+          "kind": "equal_owned_reallocation",
+          "q": 100.0,
+          "receiver": 19,
+          "universe_index": 423
+        },
+        "verdict": {
+          "accepted": true,
+          "after": {
+            "deficit_sum": 0.3534650771841066,
+            "ov_count": 0,
+            "uv_count": 14,
+            "vmax": 1.05,
+            "vmean": 0.9760681995186501,
+            "vmin": 0.8900638800005872
+          },
+          "before": {
+            "deficit_sum": 0.38899117625607604,
+            "ov_count": 1,
+            "uv_count": 17,
+            "vmax": 1.0500000000000003,
+            "vmean": 0.9743146919899955,
+            "vmin": 0.8898125706088056
+          },
+          "converged": true,
+          "normal_upper_band_admissible": true,
+          "original_native_accepted": true,
+          "reason": "ACCEPTED"
+        },
+        "original_score": [
+          0,
+          3,
+          0.035526099071969464,
+          0.00025130939178164,
+          -100.0
+        ]
+      },
+      {
+        "row": {
+          "donor_bus": 14,
+          "donor_index": 15,
+          "kind": "equal_owned_reallocation",
+          "q": 75.0,
+          "receiver": 19,
+          "universe_index": 422
+        },
+        "verdict": {
+          "accepted": true,
+          "after": {
+            "deficit_sum": 0.35232295975355055,
+            "ov_count": 0,
+            "uv_count": 14,
+            "vmax": 1.05,
+            "vmean": 0.9755786836130295,
+            "vmin": 0.8901151814900639
+          },
+          "before": {
+            "deficit_sum": 0.38899117625607604,
+            "ov_count": 1,
+            "uv_count": 17,
+            "vmax": 1.0500000000000003,
+            "vmean": 0.9743146919899955,
+            "vmin": 0.8898125706088056
+          },
+          "converged": true,
+          "normal_upper_band_admissible": true,
+          "original_native_accepted": true,
+          "reason": "ACCEPTED"
+        },
+        "original_score": [
+          0,
+          3,
+          0.0366682165025255,
+          0.0003026108812582695,
+          -75.0
+        ]
+      },
+      {
+        "row": {
+          "donor_bus": 14,
+          "donor_index": 15,
+          "kind": "equal_owned_reallocation",
+          "q": 50.0,
+          "receiver": 19,
+          "universe_index": 421
+        },
+        "verdict": {
+          "accepted": true,
+          "after": {
+            "deficit_sum": 0.35185580695161567,
+            "ov_count": 0,
+            "uv_count": 14,
+            "vmax": 1.05,
+            "vmean": 0.9751237899819447,
+            "vmin": 0.8900808413724113
+          },
+          "before": {
+            "deficit_sum": 0.38899117625607604,
+            "ov_count": 1,
+            "uv_count": 17,
+            "vmax": 1.0500000000000003,
+            "vmean": 0.9743146919899955,
+            "vmin": 0.8898125706088056
+          },
+          "converged": true,
+          "normal_upper_band_admissible": true,
+          "original_native_accepted": true,
+          "reason": "ACCEPTED"
+        },
+        "original_score": [
+          0,
+          3,
+          0.037135369304460375,
+          0.0002682707636056936,
+          -50.0
+        ]
+      },
+      {
+        "row": {
+          "donor_bus": 14,
+          "donor_index": 15,
+          "kind": "equal_owned_reallocation",
+          "q": 25.0,
+          "receiver": 20,
+          "universe_index": 425
+        },
+        "verdict": {
+          "accepted": true,
+          "after": {
+            "deficit_sum": 0.35288785248057264,
+            "ov_count": 1,
+            "uv_count": 14,
+            "vmax": 1.0500000000000003,
+            "vmean": 0.9747316707871644,
+            "vmin": 0.8898343281187407
+          },
+          "before": {
+            "deficit_sum": 0.38899117625607604,
+            "ov_count": 1,
+            "uv_count": 17,
+            "vmax": 1.0500000000000003,
+            "vmean": 0.9743146919899955,
+            "vmin": 0.8898125706088056
+          },
+          "converged": true,
+          "normal_upper_band_admissible": true,
+          "original_native_accepted": true,
+          "reason": "ACCEPTED"
+        },
+        "original_score": [
+          0,
+          3,
+          0.036103323775503404,
+          2.175750993516079e-05,
+          -25.0
+        ]
+      }
+    ],
+    "cold_restore_verified": false,
+    "all118_replay_tolerance": 1e-10,
+    "failure_or_unstarted_phases": [
+      "cold_3_EXIT_NONZERO"
+    ],
+    "original_verifier_and_native_BEFORE_inputs_checked": true,
+    "query_only_no_actual_commits": true,
+    "new_model_PF_derivative_factor_solve_calls": 0,
+    "whole_policy_DSE_LLM_superiority": "NOT_TESTED",
+    "prior_source_costs": "Retained by source references; not imputed per call, waived or pooled into a deployment speed claim.",
+    "workflow_seconds": 2.934820700000273
+  },
+  "custody_repair": {
+    "reader_exit_code": 0,
+    "original_physical_evidence_checks_completed": true,
+    "original_overall_complete_gate": "UNKNOWN_LAST_PROCESS_EXIT",
+    "literal_original_failure_label": "cold_3_EXIT_NONZERO",
+    "actual_last_exit": "UNKNOWN_NOT_MEASURED_NONZERO",
+    "new_model_PF_derivative_forecast_solve_calls": 0,
+    "all_owners_ended": true
+  },
+  "actors": [
+    {
+      "phase": "warm",
+      "source_claim": {
+        "actual_pid": 14952,
+        "actual_parent_pid": 2272,
+        "argv": [
+          "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_fixed_four_queries_20261019.py",
+          "--warm"
+        ],
+        "source_sha256": "5fc01166c42676f9d573fa9728f7872f225863b727f9f4ac64f946561c884d83",
+        "protocol_sha256": "7a877ee7c7da4d3e977a47fdb6b0d1d25ff2a0dc518c0ecddc4916cbc7c0dd72"
+      },
+      "end": {
+        "actual_pid": 14952,
+        "launcher_pid": 2272,
+        "exit_code": 0,
+        "closed_manifest_sha256": "f3f46bd7f136132aa55b516ddd538b4d33692eb8df8ac34fca5002acc20133a7",
+        "actual_owned_chain_ended": true
+      }
+    },
+    {
+      "phase": "cold_1",
+      "source_claim": {
+        "actual_pid": 19672,
+        "actual_parent_pid": 20004,
+        "argv": [
+          "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_fixed_four_queries_20261019.py",
+          "--cold_1"
+        ],
+        "source_sha256": "5fc01166c42676f9d573fa9728f7872f225863b727f9f4ac64f946561c884d83",
+        "protocol_sha256": "7a877ee7c7da4d3e977a47fdb6b0d1d25ff2a0dc518c0ecddc4916cbc7c0dd72"
+      },
+      "end": {
+        "actual_pid": 19672,
+        "launcher_pid": 20004,
+        "exit_code": 0,
+        "closed_manifest_sha256": "a29de042c10063cbc9629f2f752573dfea9d3ac1e09f5718bbdea61bda61a2de",
+        "actual_owned_chain_ended": true
+      }
+    },
+    {
+      "phase": "cold_2",
+      "source_claim": {
+        "actual_pid": 8972,
+        "actual_parent_pid": 16464,
+        "argv": [
+          "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_fixed_four_queries_20261019.py",
+          "--cold_2"
+        ],
+        "source_sha256": "5fc01166c42676f9d573fa9728f7872f225863b727f9f4ac64f946561c884d83",
+        "protocol_sha256": "7a877ee7c7da4d3e977a47fdb6b0d1d25ff2a0dc518c0ecddc4916cbc7c0dd72"
+      },
+      "end": {
+        "actual_pid": 8972,
+        "launcher_pid": 16464,
+        "exit_code": 0,
+        "closed_manifest_sha256": "1eb399d481f16494e79a0a6b65e36e0d504ad88e7d3bcfb70ee98cd240ad2a06",
+        "actual_owned_chain_ended": true
+      }
+    },
+    {
+      "phase": "cold_3",
+      "source_claim": {
+        "actual_pid": 13960,
+        "actual_parent_pid": 3868,
+        "argv": [
+          "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_fixed_four_queries_20261019.py",
+          "--cold_3"
+        ],
+        "source_sha256": "5fc01166c42676f9d573fa9728f7872f225863b727f9f4ac64f946561c884d83",
+        "protocol_sha256": "7a877ee7c7da4d3e977a47fdb6b0d1d25ff2a0dc518c0ecddc4916cbc7c0dd72"
+      },
+      "end": {
+        "actual_pid": 13960,
+        "launcher_pid": 3868,
+        "exit_code": "UNKNOWN_ALREADY_ENDED",
+        "closed_manifest_sha256": "187408cf3f498f01bdb6be6784da3add5d259a93720cc7b21d4420702170ff27",
+        "actual_owned_chain_ended": true,
+        "not_exit0_claim": true
+      }
+    },
+    {
+      "phase": "audit",
+      "source_claim": {
+        "actual_pid": 3024,
+        "actual_parent_pid": 2440,
+        "argv": [
+          "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\audit_fixed_four_queries_20261019.py",
+          "--reader"
+        ],
+        "source_sha256": "7c007af7923bdd2e1a81aeb0fcbdb3643260623c2dcd318a375ab2dc0b368af3",
+        "protocol_sha256": "7a877ee7c7da4d3e977a47fdb6b0d1d25ff2a0dc518c0ecddc4916cbc7c0dd72"
+      },
+      "end": {
+        "actual_pid": 3024,
+        "launcher_pid": 2440,
+        "exit_code": 0,
+        "closed_manifest_sha256": "b15d00c4a580397eaf78414fb4b75a9f658da4b0b61b1e600fcdca6f0415efcc",
+        "actual_owned_chain_ended": true
+      }
+    }
+  ],
+  "no_actual_new_commit_or_LLM_DSE_claim": true,
+  "all6goals": "OPEN",
+  "active_readonly_analysis": {
+    "source": "work/replay_fixed_nine_preserved_receipts_v3_20261019.py",
+    "actual_pid": 15812,
+    "parent_pid": 13524,
+    "actual_command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/replay_fixed_nine_preserved_receipts_v3_20261019.py",
+    "source_sha256": "f94683172d3a1f38ff0a4d424a067e8d67b082d18d3d1c71d2732b52f417a4ea",
+    "new_scientific_calls": 0,
+    "fixed_bound_seconds": 900
+  },
+  "GPU_allocations": [],
+  "timers": [],
+  "new_today_PF_across_earlier3_and_these4": 14,
+  "limitations": "Seven safe alternative queries at TWO different saved17UVstates; not seven sequential reductions or seven solved cases. Last original child exit code was not captured; do not relabel complete. All original failed/adverse/UNKNOWN costs remain retained."
+}

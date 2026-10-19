@@ -1,6 +1,6 @@
 # HierGrid — master research checklist
 
-Updated 2026-10-19T07:09:22.903012+00:00. All six final goals remain open; verified subtasks retain their original evidence.
+Updated 2026-10-19T07:48:16.017041+00:00. All six final goals remain open; verified subtasks retain their original evidence.
 
 Checked subtasks mean the stated work and report are complete. A failed experiment remains a failed result. A whole goal is checked and crossed out only when all of its acceptance criteria pass.
 
@@ -101,3 +101,5 @@ Latest continuation: 2026-10-18T18:20:58.164280+00:00. COMPLETE_FIXED_TWO_QUERY_
 G1.7 readiness: exact141recipe bytes bound;8known initialUV>=50(2>=60),70unknown initials retained. Source-policy analysis with the new receipts preserves a next gap of3previously fixedK4queries; all prior scope component matches0, but newN=3worker/reader/ownership/preservation protocol remains required. [Exact next execution](outputs/continuation_2106_completion_20261018/Next_Execution.md). NoGPU/timers/livejobs.
 
 19October measured step towardG1.7: originalK4 remaining3queries COMPLETE/independentPASS. Each safely17to14UV, Vmmax<=1.05; all118replays exact. No actualcommit/completepolicy/LLMadvantage. [Evidence](outputs/remaining_three_fixed_queries_20261019/verified_completion/Verified_Completion.json).
+
+19October second distinct17UV saved state: all4fixed alternative queries safely17to14UV;8chargedPF incl4exactreplays, source/physics/cold-state auditpassed. Original last child exit codeUNKNOWN leaves overall lifecycle gatePARTIAL. No actualcommit/DSE/LLMsuperiority. [Evidence](outputs/fixed_four_query_acquisition_20261019/verified_checkpoint/Verified_Research_Checkpoint.json).
