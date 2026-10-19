@@ -1,0 +1,114 @@
+{
+  "at_utc": "2026-10-19T07:28:54.649290+00:00",
+  "status": "SAFE17TO14_PHYSICS_AND_SINGLE_NUMERIC_CONTEXT_VERIFIED_POLICY_ANALYSIS_PENDING",
+  "all6finalgoals": "OPEN",
+  "new_physics": "ALL3originalK4 remainingqueries accepted17to14UV/Vmmax<=1.05,6PF incl3chargedreplays,6returns0exceptions,all118fieldsreplayexact; noactualcommit/freshLLM/completepolicy result.",
+  "physical_completion_reference": "outputs\\remaining_three_fixed_queries_20261019\\verified_completion\\Verified_Completion.json",
+  "new_numeric_context": {
+    "status": "PASS_SINGLE_EXACT_CURRENT_MASK_CONTEXT_AND_ALL_MENU_FORECAST_EQUATIONS_COSTS_SOURCE_MANIFEST",
+    "identity": "7bfff3ca1d2310b06c9ea9611cb3069a410cf2637241a5c80ee0a5db8a769762",
+    "forecasts": 1430,
+    "m_equation_maxdelta": 5.955433342649105e-14,
+    "a_equation_maxdelta": 4.0194366942304644e-14,
+    "JXminusB_maxresidual": 1.4772254600114998e-17,
+    "actual_numeric_costs": {
+      "public_derivative_attempts": 1,
+      "public_derivative_returns": 1,
+      "LU_factor_attempts": 1,
+      "LU_factor_returns": 1,
+      "LU_solve_attempts": 1,
+      "LU_solve_returns": 1,
+      "RHS_columns": 118,
+      "exact_context_reuses": 0,
+      "compile_seconds": 0.28428530000383034
+    },
+    "new_nonlinear_PF_model_optimizer_controller_commit_calls": 0,
+    "reader_scientific_calls": 0,
+    "workflow_seconds": 1.7520272999972804,
+    "limits": "Ordering data only. Nonlinear successor/complete-policy/LLM superiority not measured."
+  },
+  "full_native_menu_proof": {
+    "status": "PASS_EXACT_COMPLETE_SOURCE_NATIVE_MENU_NOT_A_FAVORABLE_SUBSET",
+    "all_forecast_keys": 1430,
+    "source_frontier_sha256": "73e53646aeb779053b0342d26878ba018c32d1ff4e006e13af8f3f65e322e5dd",
+    "new_PF_model_calls": 0
+  },
+  "numeric_actual_result": {
+    "status": "COMPLETE_SINGLE_CURRENT_MASK_CONTEXT_ALL_DECLARED_MENU_FORECASTS",
+    "identity": "7bfff3ca1d2310b06c9ea9611cb3069a410cf2637241a5c80ee0a5db8a769762",
+    "numeric_costs": {
+      "public_derivative_attempts": 1,
+      "public_derivative_returns": 1,
+      "LU_factor_attempts": 1,
+      "LU_factor_returns": 1,
+      "LU_solve_attempts": 1,
+      "LU_solve_returns": 1,
+      "RHS_columns": 118,
+      "exact_context_reuses": 0,
+      "compile_seconds": 0.28428530000383034
+    },
+    "forecast_attempts": 1430,
+    "forecast_returns": 1430,
+    "before": {
+      "vmin": 0.8898125706088056,
+      "vmax": 1.0500000000000003,
+      "vmean": 0.9743146919899955,
+      "uv_count": 17,
+      "ov_count": 1,
+      "deficit_sum": 0.38899117625607604
+    },
+    "new_nonlinear_PF_LLM_optimizer_controller_commit_calls": 0,
+    "journal_last_sha256": "27059ea42ffe2bebd4a8b680ecce3253f3d9e552dacddc8f0410dc4e5063dd92",
+    "workflow_seconds": 85.73484550000285,
+    "CPU_seconds": 3.4375
+  },
+  "preserved_reader_failure": {
+    "original_completion": {
+      "exit_codes": {
+        "actual": 0,
+        "independent_audit": 1
+      },
+      "no_science_retry": true,
+      "new_PF_model_calls": 0
+    },
+    "original_stderr_sha256": "63b36532ba494527e16d48e76504b1a824448c2ff3f5fdd53651695e33ded164",
+    "additive_repair": {
+      "reader_exit_code": 0,
+      "new_scientific_calls": 0
+    },
+    "new_science_repeated": 0
+  },
+  "active_analysis": {
+    "actual_live": true,
+    "actual_pid": 2272,
+    "shim_pid": 13928,
+    "source": "work/replay_fixed_receipts_with_next_context_20261019.py",
+    "source_sha256": "11e786980e5d7eeed5c2bf42c7503922f119c952111936c566e32c49db32ae44",
+    "actual_command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/replay_fixed_receipts_with_next_context_20261019.py",
+    "execsession": 91672,
+    "fixed_bound_seconds": 900,
+    "new_scientific_calls": 0
+  },
+  "waiting_check": {
+    "automation_id": "hiergrid-next-context-result-check",
+    "status": "ACTIVE_ONE_TIME",
+    "due_Asia_Qatar": "2026-10-19 10:43",
+    "due_UTC": "2026-10-19T07:43:00+00:00",
+    "delete_at_terminal": true,
+    "rearm_only_if_exact_source_still_live": true,
+    "do_not_revive_recurring_monitors": true
+  },
+  "GPU_allocations": [],
+  "next_steps_in_order": [
+    "Read newest runbook/Next_Phase_Plan headers and this Current_Resume first. All six final goals remain OPEN;13earlier verified subtasks retained, no fake whole-goal completion.",
+    "Sole read-only policy analysis work/replay_fixed_receipts_with_next_context_20261019.py actualPID2272/shim13928, execsession91672, fixed900sec. Verify fresh exact actual PID/parent/command/claim before any intervention. No duplicate, old-source restart, in-flight edit or budget extension.",
+    "At the estimated10:43Asia/Qatar one-time check, inspect actual Results.json/Leg_1.json/Closed_Manifest only after owner truly ended. Delete waiting timer at terminal, rearm only if trulylive. Normal/unchanged progress staysquiet. No newmodel/PF/derivative/forecast/solve is permitted in this analysis.",
+    "Use exact next missing input from the completed screen. A complete observed-paid decision/projection is not a fresh actual commit, continuous replay, full protected physical trajectory or LLM/DSE superiority. Missing/partial states stayUNKNOWN.",
+    "Any next genuinely unexecuted measurement needs prospective exact causal input/identity/source/solver/native-mask/scope/Q/cap/stock/guard/full-cost/persistent-state/ownership/independent-reader gates; no automatic PF from absent key or software success. Reuse all paid receipts with their costs; never repeat today's5physical queries or their5chargedreplays.",
+    "New numerical context7bfff3... was computed ONCE,1dS/1factor/1solve118RHS and1430forecasts. Original full equation auditPASS, later menu-tail importerror preserved. Corrected menu join is additive_menu_join_v2/Full_Native_Menu_ACK.json with repairCompletion0. Do not rerun any old producer/reader/calculation or copy the known wrong action_key import into a new protocol.",
+    "Keep all141development recipes and all70unknowninitials in scope. Eightknown>=50 include highest61/60 cases; do not substitute the four inspected root studies or frozen62bank as all-cases evidence. Preserve stopped larger-model trials/public benchmark failures and all adverse/UNKNOWN provenance.",
+    "Update reseacrh progress.txt/checklist/exactresume and publish new code/proofs to research-progress-20261018 with current-head lease and exact remote-byte checks. No credentials/model/base cache/rawNET export or fullrawbackup claim.",
+    "Original literalDFF+DFFALT+unchangedDSE requires both individualbranches and fullBOTHcosts plusmodel/training/preparation/solver/failurecosts. Fresh matched protected trajectories, strong equally informed controls, attribution and unused authorized confirmation remain necessary. No purchases/quotaevasion/guaranteedwinner/usageLimitedoverride."
+  ],
+  "latest_verified_published_head": "c78d4285d6c79538944a92ebc4bf6719917dcc94"
+}

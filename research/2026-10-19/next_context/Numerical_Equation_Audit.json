@@ -1,0 +1,23 @@
+{
+  "status": "PASS_SINGLE_EXACT_CURRENT_MASK_CONTEXT_AND_ALL_MENU_FORECAST_EQUATIONS_COSTS_SOURCE_MANIFEST",
+  "identity": "7bfff3ca1d2310b06c9ea9611cb3069a410cf2637241a5c80ee0a5db8a769762",
+  "forecasts": 1430,
+  "m_equation_maxdelta": 5.955433342649105e-14,
+  "a_equation_maxdelta": 4.0194366942304644e-14,
+  "JXminusB_maxresidual": 1.4772254600114998e-17,
+  "actual_numeric_costs": {
+    "public_derivative_attempts": 1,
+    "public_derivative_returns": 1,
+    "LU_factor_attempts": 1,
+    "LU_factor_returns": 1,
+    "LU_solve_attempts": 1,
+    "LU_solve_returns": 1,
+    "RHS_columns": 118,
+    "exact_context_reuses": 0,
+    "compile_seconds": 0.28428530000383034
+  },
+  "new_nonlinear_PF_model_optimizer_controller_commit_calls": 0,
+  "reader_scientific_calls": 0,
+  "workflow_seconds": 1.7520272999972804,
+  "limits": "Ordering data only. Nonlinear successor/complete-policy/LLM superiority not measured."
+}
