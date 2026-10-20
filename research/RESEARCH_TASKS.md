@@ -1,3 +1,19 @@
+## Latest closed FIT/readout state — 2026-10-20T18:18:51.865432+00:00
+
+All64fixed FIT teacher episodes independently complete:1929decisions,35/64fullyrestored,94residualUV/0OV;574newPF including independent replay. All1706paid-cache links verified. This is development, not learned-model benefit.
+
+Both fixed numeric convex readouts fitted; no held/physical score. Fixed500epoch MLP stopped at900sec after5442updates;55fullstates through5400,final42weights unrecovered,performanceUNKNOWN. Never resume/select a partial checkpoint. Three frozen-feature allocation responses timed out before science; subsequent exact account/UUID GET-only probes found ZEROassignments.0newfeatureforwards;no replacement/fallback.
+
+No owned job/GPU/timer. AllsixfinalgoalsOPEN. All16DEV/32confirmation remain unentered. Exact resume: outputs/native_readout_progress_handoff_20261020/Current_Resume.json. Saved-state/readout/KCL independent audit nowPASS, original analysis failures retained; serving241/1929/11boundary softwarePASS. Teacher18zero-action horizon loops+11guard stops; no benefit from imitating its failures alone. Next requires complete actual policies, fixed fair physical/economic protocol and available exact resource; preserve frozen original assets/all failures/full DSE BOTH costs.
+
+## Latest closed FIT/readout state — 2026-10-20T18:07:06.579961+00:00
+
+All64fixed FIT teacher episodes independently complete:1929decisions,35/64fullyrestored,94residualUV/0OV;574newPF including independent replay. All1706paid-cache links verified. This is development, not learned-model benefit.
+
+Both fixed numeric convex readouts fitted; no held/physical score. Fixed500epoch MLP stopped at900sec after5442updates;55fullstates through5400,final42weights unrecovered,performanceUNKNOWN. Never resume/select a partial checkpoint. Three frozen-feature allocation responses timed out before science; subsequent exact account/UUID GET-only probes found ZEROassignments.0newfeatureforwards;no replacement/fallback.
+
+No owned job/GPU/timer. AllsixfinalgoalsOPEN. All16DEV/32confirmation remain unentered. Exact resume: outputs/native_readout_progress_handoff_20261020/Current_Resume.json. Continue independent saved-output audits and prospective scientifically justified work; preserve frozen original assets/all failures/full DSE BOTH costs.
+
 ## Latest native upgrade and FIT-data execution — 2026-10-20T13:57:08.581965+00:00
 
 Actual1.5B nativejoint-head integration independentlyCOMPLETE/PASS/T4released:3229tokens,4bodyforwards,2backwards,2AdamWupdates,394momentpaths,fullstateCPUACK/exactcoldactionloss;4,587,239,936Bpeak. Disposableweights,nolearnedphysicalwin.

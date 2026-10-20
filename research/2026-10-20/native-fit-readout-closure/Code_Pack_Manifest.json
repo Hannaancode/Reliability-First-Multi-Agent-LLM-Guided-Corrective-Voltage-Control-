@@ -1,0 +1,234 @@
+{
+  "files": {
+    "work/native_fit_teacher_math_20261020.py": {
+      "bytes": 4229,
+      "sha256": "ca9d582754f6b3f110af731f5a21f1442d1e8e197a73aabdd472ed7116b5d580"
+    },
+    "work/run_native_fit_teacher_20261020.py": {
+      "bytes": 9047,
+      "sha256": "c9406c471b7a07a6a7b9b6ac20c676ca9b95f8670523df5f120c164a0af7179e"
+    },
+    "work/audit_native_fit_teacher_20261020.py": {
+      "bytes": 7627,
+      "sha256": "e8409ab3c27c8afce9db2d2e3b0179cc4fea9ed04856824d33524b41e212ef29"
+    },
+    "work/prepare_native_fit_teacher_20261020.py": {
+      "bytes": 7250,
+      "sha256": "b0a516e3f810a288c7c638f75f969fd41103f7951de600576b91556045d1ec1c"
+    },
+    "work/continue_native_fit_teacher_audit_20261020.py": {
+      "bytes": 2813,
+      "sha256": "bd133501ff3b1101b0d49ffcc31d889144aa7795ef01702ce28d1064672d7d36"
+    },
+    "work/audit_native_fit_cached_response_links_20261020.py": {
+      "bytes": 4059,
+      "sha256": "ddbc92babf2fe5ae7b52ac7621ad8885024688b8d78fab94a23058eb5ecf4c99"
+    },
+    "work/compile_native_fit_training_inputs_20261020.py": {
+      "bytes": 6717,
+      "sha256": "716f2ffdcc35a7a68eaa1b64aa6bef2ad4829ed0d7dd9345d8fa61b283342027"
+    },
+    "work/native_same_information_MLP_20261020.py": {
+      "bytes": 796,
+      "sha256": "b792ce79f0269518cd62889a58260ee51e3c411b6c42f237d5f2000f27a49609"
+    },
+    "work/run_native_same_information_MLP_FIT_20261020.py": {
+      "bytes": 8105,
+      "sha256": "87a5d18161e239415aebb10242454d58d8a4c64bd6a1350caab27ef5f192b563"
+    },
+    "work/prepare_native_same_information_MLP_FIT_20261020.py": {
+      "bytes": 4233,
+      "sha256": "426820b319a5c1073edcd4f18efe7376da0b6168797e7f24ae0d11334a417799"
+    },
+    "work/audit_native_same_information_MLP_FIT_20261020.py": {
+      "bytes": 4449,
+      "sha256": "01503e0a1ea77063622a6903fdfee19bc5e88e52e30ff703bf71a177790803d2"
+    },
+    "work/native15_saved_command_physics_integration_20261020.py": {
+      "bytes": 4569,
+      "sha256": "ab8a472432f4e9113d7f4f15a1af30dc4bf734f3228bfaf6ca561f61b3cc0839"
+    },
+    "work/run_native15_saved_command_physics_20261020.py": {
+      "bytes": 107,
+      "sha256": "953cc9349c4e828cc713081ccd65de3259476c8be0e2322c04e0ea55e71abea4"
+    },
+    "work/audit_native15_saved_command_physics_20261020.py": {
+      "bytes": 111,
+      "sha256": "9844a5a4801c7bb4a58d91f220efe02280de6d8cf2806fa0780523be6137a5d0"
+    },
+    "work/prepare_native15_saved_command_physics_20261020.py": {
+      "bytes": 4229,
+      "sha256": "ee146ecfa9ba522d22e3df2388c225fd8c14999849537db278e260561bcb9057"
+    },
+    "work/prepare_native_stationary_feature_readout_20261020.py": {
+      "bytes": 7059,
+      "sha256": "5253fe6ffe681c87bcdb62c4c0be22074a5516af95edf7d369d3f16686e1c49f"
+    },
+    "work/fit_native_stationary_readout_20261020.py": {
+      "bytes": 5170,
+      "sha256": "cf3d5fc8c47995238df30821312bcf9debfa649e642c441ac6e5f84379dced4a"
+    },
+    "work/fit_native_stationary_readout_v2_20261020.py": {
+      "bytes": 5314,
+      "sha256": "a400ba283220e46bd61926e4a3a2ea7649dee9534eb403d8ed18c2f9487bee08"
+    },
+    "work/run_native_numeric_stationary_readout_v2_20261020.py": {
+      "bytes": 142,
+      "sha256": "f87646f75992747f87a62b6108aa33432051333ae1141aec21b7a480016bf713"
+    },
+    "work/prepare_unentered_numeric_readout_v2_20261020.py": {
+      "bytes": 2333,
+      "sha256": "a33157e17739c9c432e6148a6b47e8b75d612c5e7710a4951f3ce973124774ca"
+    },
+    "work/native_frozen_feature_remote_20261020.py": {
+      "bytes": 8246,
+      "sha256": "73c0aa7cbe3b3fef553874bbf9ce00f646d277690ddaa2a24200798746ca006d"
+    },
+    "work/native_frozen_feature_environment_20261020.py": {
+      "bytes": 1385,
+      "sha256": "1bc242362c7090584c23782a99de1af000bd4e7ea8832f70ec06ba36555bdbfc"
+    },
+    "work/native_frozen_feature_setup_20261020.py": {
+      "bytes": 1998,
+      "sha256": "223e5ae9adb5a862ae59ad395c16ee123f2975df0924c0e4a569b1027719343b"
+    },
+    "work/native_frozen_feature_guardian_20261020.py": {
+      "bytes": 2156,
+      "sha256": "2942cda7c4ed23bec8232b0ea7898f1ca32de082ffb425849c7e1b82815ef0b6"
+    },
+    "work/validate_native_feature_transfer_20261020.py": {
+      "bytes": 1648,
+      "sha256": "5d19a723a7f0c5d4ee4328aa4ae23b5a40fbd5df2637823f5349b385b869875b"
+    },
+    "work/audit_native_frozen_features_20261020.py": {
+      "bytes": 4658,
+      "sha256": "f4d6717815e2009f7676bbbe06eeb77ad0e77a0fe163d0aa52288a57426902ab"
+    },
+    "work/audit_native_closed_CPU_evidence_20261020.py": {
+      "bytes": 15576,
+      "sha256": "f058e79af643259b942efa03cb80778488a5f6b18b5b36adbefac7f4bb7c58b2"
+    },
+    "work/audit_native_closed_CPU_evidence_v2_20261020.py": {
+      "bytes": 16088,
+      "sha256": "e22880134b0fe2f637513613d5bdc05a81d222a0e93574c4e233b3809fbeda8f"
+    },
+    "work/audit_native_closed_CPU_evidence_v3_20261020.py": {
+      "bytes": 16548,
+      "sha256": "b216ca0b6f6bde5d728c35c54695744a5687205dabb7af2f271097d4f9cf4d94"
+    },
+    "work/prepare_closed_CPU_reader_repair_20261020.py": {
+      "bytes": 3975,
+      "sha256": "850f17414f5f24a7fc43ff6a422bced45f063c069d15d5cdc2c5e8597d7187c7"
+    },
+    "work/prepare_closed_CPU_reader_Y_repair_20261020.py": {
+      "bytes": 3949,
+      "sha256": "8a4e92f4ee5d60c2ac18c34e04a0c7f5ede8bfa179f89c2b03e5af6453c7b88c"
+    },
+    "work/analyse_saved_native_teacher_bottleneck_20261020.py": {
+      "bytes": 4001,
+      "sha256": "40f572217276bb8a602b9c15a0c2ca4197ffe7be0194ca503fed7caf1c1ea3d1"
+    },
+    "work/native_stationary_serving_contract_20261020.py": {
+      "bytes": 5451,
+      "sha256": "6df10599d35a29eca1c5a1ab4446dd5ded54d1e3b1fc31eecaec25bb5cddb568"
+    },
+    "work/check_native_stationary_serving_20261020.py": {
+      "bytes": 5393,
+      "sha256": "15d2785bde09f5d944cc5444559ac736bf18947452650249e5c23c9137a82528"
+    },
+    "work/save_native_readout_progress_20261020.py": {
+      "bytes": 12529,
+      "sha256": "9d236ed2c91b8e1795a4b88b9fb4aa224fcd4d8d98f45496f40acdf6d54643e2"
+    },
+    "work/package_native_readout_progress_20261020.py": {
+      "bytes": 8001,
+      "sha256": "fb40212f70bf83e230b3d4f19dea0e9da1a9a3deef7c0ff78c5a76be2e0f5aa1"
+    },
+    "outputs/native_fit_teacher_handoff_20261020/Completion.json": {
+      "bytes": 341,
+      "sha256": "ba0669565d0eb92a1b6147bb7366593493f35dc6497d9625c8d27c52ba8cf93c"
+    },
+    "outputs/native_fit_teacher_handoff_20261020/Saved_Only_Full64_Residual_Diagnostic.json": {
+      "bytes": 13708,
+      "sha256": "09a444f41af885f19ca17ecd737629aa22c259fecf21d0f396b1b39eae4b26c2"
+    },
+    "outputs/native_fit_training_inputs_20261020/Readiness.json": {
+      "bytes": 1397,
+      "sha256": "93aed0cd07bb2269690067784f10c29615c58f5018451d10704ad4b5c8ae13c9"
+    },
+    "outputs/native_same_information_MLP_FIT_20261020/Failure.json": {
+      "bytes": 1922,
+      "sha256": "3249ad80e7fc640144d6a358a37730e7125c404f95e669fadae781685fe2adb9"
+    },
+    "outputs/native_same_information_MLP_coordination_20261020/End_ACK.json": {
+      "bytes": 139,
+      "sha256": "c2df948fe302695f6bf0ca093f72533de6dcee80c003d5cc88bc52857f5ea88e"
+    },
+    "outputs/native_stationary_readout_fit_20261020/numeric_v2/Results.json": {
+      "bytes": 1404,
+      "sha256": "04ae6ec65ed542e353a98758a57b66b56696e6d2564e0562f3a3c7d1b4cece21"
+    },
+    "outputs/native_stationary_readout_preparation_20261020/Exact_Current_Input_Support_Proof.json": {
+      "bytes": 1065,
+      "sha256": "779c8a43a8a0bc6c94f950d60c087ee42a0ef9c24ddad6a37a15a3eada29a300"
+    },
+    "outputs/native_stationary_readout_preparation_20261020/Prospective_Readout_Protocol.json": {
+      "bytes": 2444,
+      "sha256": "48f9ca22d8d75feea73291ee2388f64f0f454ad2a36f8d68a900009481069cec"
+    },
+    "outputs/native_closed_CPU_evidence_audit_v3_20261020/Independent_Audit.json": {
+      "bytes": 3692,
+      "sha256": "54ba29b6b92c819a56ccc39152b6bd79ce66325c8c1c15e923df50c0ded208ef"
+    },
+    "outputs/native_closed_CPU_evidence_audit_v3_20261020/All55_Partial_MLP_State_Proofs.json": {
+      "bytes": 12031,
+      "sha256": "3d5a4a029123d1cff6393e2a317e1847ce3156323505f11614f513da30ef89f1"
+    },
+    "outputs/native_closed_CPU_evidence_audit_v3_20261020/Preserved_Partial_MLP_File_Manifest.json": {
+      "bytes": 8493,
+      "sha256": "0869cb9e8b5007a16b1f1685d637019669d1d02e16dcf543681c8581fbc70c51"
+    },
+    "outputs/native_closed_CPU_evidence_repair_preparation_20261020/Saved_Only_Arithmetic_Diagnosis.json": {
+      "bytes": 455,
+      "sha256": "366e624b77502b42728021fe7590605301a209fb8f979428421b5cf3fb6f4804"
+    },
+    "outputs/native_closed_CPU_evidence_repair_preparation_20261020/Static_Repair_Readiness.json": {
+      "bytes": 455,
+      "sha256": "1529124aa620bb9443380ea5ccff3400840f45b4561a3800c5bebef1d4c87579"
+    },
+    "outputs/native_closed_CPU_evidence_Y_repair_preparation_20261020/Static_Readiness.json": {
+      "bytes": 343,
+      "sha256": "f582479c908f7ebb8c3ea5068d2222dd24a282ad94b87a125de7c02689ba6722"
+    },
+    "outputs/native_closed_CPU_evidence_coordination_20261020/Owner.log": {
+      "bytes": 928,
+      "sha256": "6db775e4a73b8f4b73bed05a3a9370849b2a9f299893f5c271504b3506fa8566"
+    },
+    "outputs/native_closed_CPU_evidence_coordination_v2_20261020/Owner.log": {
+      "bytes": 952,
+      "sha256": "629423d3ee2630b96c0e4827ad877a0a449ead7af775cf942346cc864c4e8174"
+    },
+    "outputs/native_stationary_serving_boundary_20261020/Readiness.json": {
+      "bytes": 1330,
+      "sha256": "b9f010e870a9066c122644dbc4583f835d984e476e54498ced0c3ea868c3c3d7"
+    },
+    "outputs/native_stationary_serving_boundary_20261020/All241_Serving_Input_Proofs.json": {
+      "bytes": 51003,
+      "sha256": "5c096bc7202133ce193fe41d0e8b6115f741e44b2e07657de9cbbf18545b92f8"
+    },
+    "outputs/native_readout_progress_handoff_20261020/Saved_Only_Teacher_Learning_Bottleneck.json": {
+      "bytes": 11134,
+      "sha256": "b8a22cda6a20fbbb31d547c75004e0c1d9f91ed1dd3c6abdb865a356e224d2d6"
+    },
+    "outputs/native_readout_progress_handoff_20261020/Next_Matched_Benchmark_Contract.md": {
+      "bytes": 7731,
+      "sha256": "4a379febadf06c5194a345d2b0bbbf7c15a71973e79e8558043b0313d55de27a"
+    },
+    "proofs/Exact_Assignment_Probe_Public.json": {
+      "bytes": 2035,
+      "sha256": "faa6658838fd3effb68a6198c059f5c92c52aa3ec73e3ab8b5b504318849b3f8"
+    }
+  },
+  "scope": "Own scientific sources/compact proofs, including failures. No raw trained/base weights, checkpoints, native NETs, private adapter or credential contents.",
+  "all6finalgoals": "OPEN"
+}

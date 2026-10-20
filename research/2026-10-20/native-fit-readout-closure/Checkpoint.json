@@ -1,0 +1,540 @@
+{
+  "at_utc": "2026-10-20T18:18:51.865432+00:00",
+  "status": "FIT64_COMPLETE_CPU_READOUTS_COMPLETE_MLP_RESOURCE_PARTIAL_THREE_GPU_ATTEMPTS_UNENTERED_NO_ASSIGNMENTS",
+  "all6goals": "OPEN",
+  "priority_order": [
+    "G3",
+    "G2",
+    "G1",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "owned_jobs": [],
+  "GPU_assignments": [],
+  "timers": [],
+  "FIT64": {
+    "status": "COMPLETE_DECLARED64_NATIVE_FIT_TEACHER_EPISODES",
+    "independent": "PASS_INDEPENDENT_ALL_AVAILABLE_NATIVE64_FIT_SOURCE_DENSE_DERIVATIVE_LP_OPTIMALITY_NATIVE_ACTION_GUARD_CONTINUOUS_PHYSICS_CURSOR_COST_AUDIT",
+    "decisions": 1929,
+    "fully_restored": 35,
+    "worlds": 64,
+    "residual_UV": 94,
+    "residual_OV": 0,
+    "new_PF_primary_and_independent": 574,
+    "new_derivative_LU_RHS_LP": [
+      1929,
+      1929,
+      5787,
+      3858
+    ],
+    "cached_paid_responses": 1706,
+    "all_cached_response_links_independently_passed": true,
+    "evidence": "outputs/native_fit_teacher_handoff_20261020/Completion.json"
+  },
+  "numeric_readouts": {
+    "status": "COMPLETE_ALL_FIXED_LINEAR_AND_RBF_NATIVE_READOUTS_FIT_ONLY_NOT_PERFORMANCE",
+    "grouped_current_inputs": 241,
+    "all_weighted_rows": 1929,
+    "all_fixed_kernels": [
+      "linear",
+      "rbf"
+    ],
+    "new_Cholesky_threeRHS": [
+      2,
+      2
+    ],
+    "evidence": "outputs/native_stationary_readout_fit_20261020/numeric_v2/Results.json",
+    "held_physics_performance": "UNKNOWN_NOT_EXECUTED"
+  },
+  "MLP": {
+    "status": "TERMINAL_RESOURCE_PARTIAL_FIXED500_EPOCHS_NOT_ACHIEVED",
+    "actual_forward_backward_updates": [
+      5442,
+      5442,
+      5442
+    ],
+    "last_full_state_update": 5400,
+    "last42_update_weights": "UNRECOVERED_UNKNOWN",
+    "complete_saved_states": 55,
+    "no_partial_checkpoint_performance_selection": true,
+    "evidence": "outputs/native_same_information_MLP_FIT_20261020/Failure.json"
+  },
+  "three_GPU_attempts": {
+    "historical_allocation_requests": 3,
+    "science_started": false,
+    "cloud_input_transfers": 0,
+    "actual_new_model_forwards": 0,
+    "current_assignments": 0,
+    "exact_probe": "outputs/native_feature_exact_assignment_probe_20261020/All_Selected_Exact_Assignments.json",
+    "reason": "Allocation responses timed out; exact subsequent GET-only probes confirm zero assignments. Not an OAuth or quota-denial conclusion."
+  },
+  "saved_native15_command": {
+    "new_model_calls": 0,
+    "primary_and_independent_PF": 2,
+    "old_UV_OV": [
+      0,
+      0
+    ],
+    "candidate_UV_OV": [
+      0,
+      2
+    ],
+    "guard": "REJECTED",
+    "commits": 0,
+    "evidence": "outputs/native15_saved_command_physics_independent_20261020/Result.json"
+  },
+  "DEV16_and_confirmation32": "UNEXECUTED_UNKNOWN_LOCK_RETAINED",
+  "all_turn_new_PF_returns_before_supplements": 852,
+  "no_LLM_or_aggregate_published_benchmark_superiority": true,
+  "next_ordered_tasks": [
+    "Keep all three timed-out allocation attempts terminal and unentered. Exact read-only probes verified zero current assignments. No replacement request, account rotation, scientific retry or old budget extension.",
+    "Freeze a prospective full protected common-task comparison only for genuinely available complete policies. Frozen SLM features and all DEV16/confirmation32 inference/physics remain UNKNOWN/unentered; do not present CPU FIT loss as LLM advantage.",
+    "Publish new own code, compact proofs and exact task/resume state to research-progress-20261018 with lease and downloaded-byte checks; raw scientific assets remain local."
+  ],
+  "last_verified_GitHub": "e7fc00089296a54eb840be01ce91eb31e5cc0842",
+  "closed_CPU_evidence_audit": {
+    "status": "PASS_ADDITIVE_CLOSED_CPU_EVIDENCE_PARTIAL_STATE_FIXED_READOUT_SAVED_KCL_ONLY",
+    "evidence": "outputs/native_closed_CPU_evidence_audit_v3_20261020/Independent_Audit.json",
+    "source_failures_preserved": [
+      "Original saved-prediction symmetric-dot arithmetic mismatch4.16e-16",
+      "BFSW internalYbus cache absent; existing independently certified sourceY used with exact branch/shunt/base matches"
+    ],
+    "mechanical_repairs_only_zero_new_science": true,
+    "all9_original_frozen_checks_passed": true,
+    "KCL_all13_max_complex_pu_residual": 4.0431557211086485e-09
+  },
+  "serving_software_readiness": {
+    "at_utc": "2026-10-20T18:17:08.616620+00:00",
+    "status": "PASS_ACTUAL241_SERVING_TEXT_TOKEN_PROVENANCE_NUMERIC400_ALL1929_NATIVE_TRANSITIONS_GUARDS_AND11_NEGATIVE_BOUNDARIES",
+    "actual_current_inputs": 241,
+    "all_weighted_rows": 1929,
+    "all_current_text_bytes_and400_features_exact": true,
+    "cached_actual_paired_tokenIDs_reused_from_byte_identical_text": true,
+    "new_tokenizer_encodings": 0,
+    "native_float64Q_minus_float32u_checks": 1929,
+    "all_measured_guards_exact": 1929,
+    "rejected_guard_cases_retained": 11,
+    "negative_boundaries_rejected": [
+      "teacher_label_in_forward",
+      "teacher_label_nested",
+      "missing_current_P",
+      "nonfinite_VM",
+      "wrong_actuator_namespace",
+      "invented_Q_cap",
+      "wrong_native_units",
+      "duplicate_Y_entry",
+      "missing_Y_entry",
+      "changed_voltage_band",
+      "float32_Q_cursor_rejected"
+    ],
+    "new_model_PF_optimizer_derivative_factor_solve_GPU_calls": 0,
+    "readiness_scope": "Serving software only; no DEV/confirmation inference, feature extraction, physical result, novelty or LLM superiority.",
+    "serving_source_sha256": "6df10599d35a29eca1c5a1ab4446dd5ded54d1e3b1fc31eecaec25bb5cddb568",
+    "checker_source_sha256": "15d2785bde09f5d944cc5444559ac736bf18947452650249e5c23c9137a82528",
+    "workflow_seconds": 2.372105200018268
+  },
+  "teacher_target_bottleneck": {
+    "at_utc": "2026-10-20T18:14:39.944683+00:00",
+    "status": "SAVED_ONLY_CAUSAL_TEACHER_TARGET_LIMITATION_DIAGNOSTIC",
+    "source_sha256": "f10bbb962da8626a619d96b479d7110a818031e1b810d4b14b6234c1816c9f98",
+    "all_declared_worlds": 64,
+    "fully_restored": 35,
+    "failed_all_bus_restoration": 29,
+    "terminal_statuses": {
+      "COMPLETE_RESTORED": 35,
+      "COMPLETE_NATIVE100_HORIZON": 18,
+      "COMPLETE_GUARD_REJECTED_HOLD_STOP": 11
+    },
+    "all_original_decision_rows": 1929,
+    "exact_zero_target_rows": 1717,
+    "world_weighted_exact_zero_target_fraction": 0.34251366120218585,
+    "remaining_UV": 94,
+    "deficits_gt0_at_most_1e_8": 63,
+    "deficits_gt1e_8": 31,
+    "maximum_deficit_pu": 0.003003850956857179,
+    "all_failed_worlds": [
+      {
+        "world": 509,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 94,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          3,
+          0
+        ]
+      },
+      {
+        "world": 510,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 93,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          3,
+          0
+        ]
+      },
+      {
+        "world": 513,
+        "status": "COMPLETE_GUARD_REJECTED_HOLD_STOP",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 0,
+        "last_measured_proposal_accepted": false,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 514,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 94,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          3,
+          0
+        ]
+      },
+      {
+        "world": 519,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 95,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          3,
+          0
+        ]
+      },
+      {
+        "world": 520,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 5,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 94,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 521,
+        "status": "COMPLETE_GUARD_REJECTED_HOLD_STOP",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 0,
+        "last_measured_proposal_accepted": false,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 522,
+        "status": "COMPLETE_GUARD_REJECTED_HOLD_STOP",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 0,
+        "last_measured_proposal_accepted": false,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 523,
+        "status": "COMPLETE_GUARD_REJECTED_HOLD_STOP",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 0,
+        "last_measured_proposal_accepted": false,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 524,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 5,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 96,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 525,
+        "status": "COMPLETE_GUARD_REJECTED_HOLD_STOP",
+        "final_UV": 2,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 0,
+        "last_measured_proposal_accepted": false,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 527,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 94,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          3,
+          0
+        ]
+      },
+      {
+        "world": 528,
+        "status": "COMPLETE_GUARD_REJECTED_HOLD_STOP",
+        "final_UV": 2,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 0,
+        "last_measured_proposal_accepted": false,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 531,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 92,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          3,
+          0
+        ]
+      },
+      {
+        "world": 533,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 2,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 95,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          2,
+          0
+        ]
+      },
+      {
+        "world": 536,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 95,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          3,
+          0
+        ]
+      },
+      {
+        "world": 537,
+        "status": "COMPLETE_GUARD_REJECTED_HOLD_STOP",
+        "final_UV": 2,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 0,
+        "last_measured_proposal_accepted": false,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 539,
+        "status": "COMPLETE_GUARD_REJECTED_HOLD_STOP",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 0,
+        "last_measured_proposal_accepted": false,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 541,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 5,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 97,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 546,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 96,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          3,
+          0
+        ]
+      },
+      {
+        "world": 552,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 5,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 95,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 553,
+        "status": "COMPLETE_GUARD_REJECTED_HOLD_STOP",
+        "final_UV": 5,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 0,
+        "last_measured_proposal_accepted": false,
+        "last_proposal_UV_OV": [
+          7,
+          0
+        ]
+      },
+      {
+        "world": 555,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 2,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 96,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          2,
+          0
+        ]
+      },
+      {
+        "world": 557,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 2,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 95,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          2,
+          0
+        ]
+      },
+      {
+        "world": 563,
+        "status": "COMPLETE_GUARD_REJECTED_HOLD_STOP",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 0,
+        "last_measured_proposal_accepted": false,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 565,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 5,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 94,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 566,
+        "status": "COMPLETE_GUARD_REJECTED_HOLD_STOP",
+        "final_UV": 2,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 0,
+        "last_measured_proposal_accepted": false,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 567,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 5,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 94,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          5,
+          0
+        ]
+      },
+      {
+        "world": 569,
+        "status": "COMPLETE_NATIVE100_HORIZON",
+        "final_UV": 3,
+        "final_OV": 0,
+        "last_target_exact_zero": true,
+        "consecutive_accepted_exact_zero_tail": 97,
+        "last_measured_proposal_accepted": true,
+        "last_proposal_UV_OV": [
+          3,
+          0
+        ]
+      }
+    ],
+    "threshold_and_success_definition_unchanged": true,
+    "meaning": "Exact reproduction of this saved teacher under the same host rules reproduces its saved limitations. Lower imitation loss or a bigger body alone is not evidence of an improvement mechanism. This is not an upper bound on other controllers, an infeasibility certificate or a reason to drop difficult states.",
+    "next_hypothesis_gate": "Before expensive learning require a target/representation/decision mechanism that can address teacher failures, with prospectively fixed controls, safe full-system outcomes and unused confirmation. No observed-case Q/margin/objective retune is authorized by this diagnosis.",
+    "new_PF_model_forward_backward_optimizer_derivative_factor_solve_calls": 0
+  }
+}

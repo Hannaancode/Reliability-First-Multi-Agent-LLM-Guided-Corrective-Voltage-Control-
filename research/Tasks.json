@@ -1,5 +1,5 @@
 {
-  "at_utc": "2026-10-20T13:57:08.581965+00:00",
+  "at_utc": "2026-10-20T18:18:51.865432+00:00",
   "authority": "Latest direct human six-priority instruction, retained in exact order; execute evidence-led work and update records.",
   "goal_remains_active_unachieved": true,
   "tasks": [
@@ -8,7 +8,7 @@
       "target": "Compare against relevant published models/systems and benchmark whether ours is better.",
       "status": "ACTUAL_PUBLIC_NATIVE_LORA_SCREEN_COMPLETE_FAILED_3_PUBLISHED_NATIVE_BASELINES_ZERO_UV_ONE_SEED_ALL6GOALSOPEN",
       "done": "Published optimization/RL/hybrid method registry saved; differences in plants/actuators/software documented. NativepublishedACOPF fullmatrix/angle/thermal/gen/voltage/objective inputcontract independentlyprepared onall3, actualsolverbenchmarkpending. ActualnativeACOPF implementation trial acrossall3 terminated onlibrarycompatibility; originalcontrols/source/costs retained, nativefeasiblebenchmark stillUNKNOWN. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
-      "next": "Finish prospective executable native FIT teacher worker/independent source/equation/LP/continuousphysical/persistentstate/history/cost gates on locked64new FITidentities; DEV16/confirmation32 stayunopened.",
+      "next": "Independently preserve/audit all 5442 MLP caller/backward/update returns and 55 complete saved states through update5400 with zero model/optimizer/PF calls. Last42 updates have no saved weights; fixed500epoch outcome UNKNOWN, never resume/choose a partial checkpoint.",
       "completed": false,
       "checklist_id": "G3",
       "completion_criteria": [
@@ -16,7 +16,7 @@
         "Match plant,information,actions,protection,budgets,splits and costs; report all wins/ties/losses/failures.",
         "Claim superiority only if frozen comparison and independent unused confirmation support it."
       ],
-      "current_result": "Eight fixed NEWdevelopment roots/all24source branches independently complete; native globalaffine correction safely resolves13residualOVcontexts, nineunsafe rejected. Notmatchedwholepolicy/LLMsuperiority.",
+      "current_result": "Native1.5B integration passed; 64FIT teacher complete35/64restored,94residualUV. Two numeric convex readouts fitted. FixedMLP partial5442/30500updates, no performance result. Three frozen-feature allocations timed out before science; exact probes zero assignments. No LLM superiority.",
       "subtasks": [
         {
           "id": "G3.1",
@@ -101,6 +101,27 @@
           "description": "Complete all24frozen affine proposals and independent nonlinear replay retaining every rejection and full cost.",
           "evidence": "outputs\\native_affine_physics_independent_20261020\\Independent_Audit.json",
           "verified_at_save": "2026-10-20T13:18:50.095381+00:00"
+        },
+        {
+          "id": "G3.2i",
+          "completed": true,
+          "description": "Complete64fixedFIT numerical teacher trajectories, independent replay and all1706paid cache links; retain35/64success and all94residualUV.",
+          "evidence": "outputs/native_fit_teacher_handoff_20261020/Completion.json",
+          "verified_at_save": "2026-10-20T18:07:06.579961+00:00"
+        },
+        {
+          "id": "G3.2j",
+          "completed": true,
+          "description": "Compile all1929full causal FIT observations/labels with exact paired tokenizer IDs and no cropping; keep DEV/confirmation locked.",
+          "evidence": "outputs/native_fit_training_inputs_20261020/Readiness.json",
+          "verified_at_save": "2026-10-20T18:07:06.579961+00:00"
+        },
+        {
+          "id": "G3.2k",
+          "completed": true,
+          "description": "Independently preserve partialMLP5442cost/55fullstates and both complete fixed numeric readout equations; no partial checkpoint performance selection or new scientific calls.",
+          "evidence": "outputs/native_closed_CPU_evidence_audit_v3_20261020/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T18:18:51.865432+00:00"
         }
       ],
       "latest_published_baseline_source": "outputs\\pfdelta_benchmark_source_review_20261019\\Snapshot_Metadata.json",
@@ -113,14 +134,14 @@
       "target": "Find a published physical dataset/test set and test our model on it.",
       "status": "ACTUAL_PUBLIC_NATIVE_LORA_SCREEN_COMPLETE_FAILED_3_PUBLISHED_NATIVE_BASELINES_ZERO_UV_ONE_SEED_ALL6GOALSOPEN",
       "done": "Three official PGLib IEEE118 variants pinned to an exact commit, raw files/license retained, matrix references checked. No model/PF outcomes measured. Actual3NET imports and independent raw-matrix/bus/zone/load/limit auditPASS; no PF/model outputs yet. All3 rawfixed-nonslack initial dispatch roles analytically violate nativePmax necessary bound; independent exactdecimal shortfalls393.5/2465.32/393.5MW. GeneralOPF/physics/controller feasibility remainsUNKNOWN. NativefullPPC inputclosure all3 independentlyPASS including branchangle limits/objective. ConvertedNET alone notfaithful nativeangle-constrainedOPF sourcecontract. No publicsolver/modelcall. Newall3 nativeACOPF3attempts0returns3exceptions, first Hessian .H sparseAPI compatibilityfailure before Newtonupdate; cost/source/failedidentity audit and archivePASS. No modelbenchmark or physical infeasibility claim. Six exact conjugate-transpose software controls passed without modifying installed/frozen sources or rerunning solver. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
-      "next": "FornewPSCC2026reference,bind native13/56plant,sourcefirstidentity,current/topologyhistory,hardcodedMATpathrelocation,exactnativeaction/cost/protection/1000stepsemantics and actualgurobilicense/costrequirements. Originalreadonlyloaderreaderfailure0loadsretained. Freeze real causal warm/cold/persistent fullscope owner/reader/resource protocol before anynewscientificcall. Use officialsource,do notguessorstartglobaltest/train scripts.",
+      "next": "Freeze a prospective full protected common-task comparison only for genuinely available complete policies. Frozen SLM features and all DEV16/confirmation32 inference/physics remain UNKNOWN/unentered; do not present CPU FIT loss as LLM advantage.",
       "completed": false,
       "checklist_id": "G2",
       "completion_criteria": [
         "Preserve dataset license/version/native constraints and disclose any necessary role/actuator adaptation.",
         "Use verified common initialization and frozen model/control interface; run every declared identity with independent physics/full costs."
       ],
-      "current_result": "OriginalLoRAnewnativePIschema0/3valid;6generations/488forwards/coldexact/immutablePASS;fixedrouteSTOP. Otherauthorsfirst13buscontrollers5/5/3actionsto0UV,notours. Newonline13/56bus8actorloadgatecomplete,noinference/physics.",
+      "current_result": "Native1.5B integration passed; 64FIT teacher complete35/64restored,94residualUV. Two numeric convex readouts fitted. FixedMLP partial5442/30500updates, no performance result. Three frozen-feature allocations timed out before science; exact probes zero assignments. No LLM superiority.",
       "subtasks": [
         {
           "id": "G2.1",
@@ -381,14 +402,14 @@
       "target": "Try higher-parameter small language models and compare each fairly.",
       "status": "FIXED_3B_THRESHOLD_EXCLUDED_BY_ALL96_MISSING_EVIDENCE_UPPER_BOUND_7B_ENGINEERING_OOM_STOPPED",
       "done": "Adapted0.5B41.6667% and1.5B53.125% teacher-action accuracy, both100%schema; numerical72.9167%, fixed gateFAIL. Public3B/7B screens were different unadapted contracts, not matched scaling. New3B/7B pinnedmodels, exactsame436cached tokenpairs/340FIT96HELD/16kmultiplicities; allscientifictrainer/state/verifier sources byteunchanged, actualPEFTsourceguard added before engineering. TwoactualT4allocations, no fallback/thirdallocation. Final2epochs only; no performance yet.18Octindependentpartialaudit:3B170updates/finalfullstateverified/81outputs42hits81legal/full96upper.59375<numeric.7291667;7BfirstbackwardOOM. Fullpair/reloadunknown; neitherarmmayrestart.",
-      "next": "Finish prospective executable native FIT teacher worker/independent source/equation/LP/continuousphysical/persistentstate/history/cost gates on locked64new FITidentities; DEV16/confirmation32 stayunopened.",
+      "next": "Freeze a prospective full protected common-task comparison only for genuinely available complete policies. Frozen SLM features and all DEV16/confirmation32 inference/physics remain UNKNOWN/unentered; do not present CPU FIT loss as LLM advantage.",
       "completed": false,
       "checklist_id": "G4",
       "completion_criteria": [
         "Use the same serving role,data/context/split,training/final-checkpoint rules and evaluation identities; disclose architecture/FLOP/precision differences.",
         "Record complete outcomes and compute/training/failure costs. Partial/OOM stays partial and is never a successful larger-model result."
       ],
-      "current_result": "COMPLETE_INDEPENDENT_NATIVE15_FULL_CONTEXT_GRADIENT_MEMORY_COMPLETE_COLD_RESTORE_ENGINEERING_PASS",
+      "current_result": "Native1.5B integration passed; 64FIT teacher complete35/64restored,94residualUV. Two numeric convex readouts fitted. FixedMLP partial5442/30500updates, no performance result. Three frozen-feature allocations timed out before science; exact probes zero assignments. No LLM superiority.",
       "subtasks": [
         {
           "id": "G4.1",
@@ -424,6 +445,13 @@
           "description": "Complete actualpublic1.5B nativejoint-head full3229context/LoRAgradient/memory/completeAdamWscalerRNGcursorACK/freshmodelcold engineering, independentaudit and exactrelease. Two updates disposable,noperformanceclaim.",
           "evidence": "outputs/native_joint_15_engineering_independent_v2_20261020/Independent_Audit.json",
           "verified_at_save": "2026-10-20T13:38:55.113347+00:00"
+        },
+        {
+          "id": "G4.3c",
+          "completed": true,
+          "description": "Verify all241same-current serving text/400feature identities,1929native transitions/guards and11negative boundaries; software only, frozen-body extraction unentered.",
+          "evidence": "outputs/native_stationary_serving_boundary_20261020/Readiness.json",
+          "verified_at_save": "2026-10-20T18:18:51.865432+00:00"
         }
       ],
       "previous_priority": 4
@@ -433,7 +461,7 @@
       "target": "Establish incremental LLM superiority as the long-term main goal, after the preceding tasks.",
       "status": "UNACHIEVED",
       "done": "Physical numerical improvements and scoped language accuracy gains retained separately; no causal LLM advantage over full DSE demonstrated.",
-      "next": "Compare the completed hybrid with and without actual LLM under identical actions/information/protection/budgets; include architecture/pretraining controls and unused confirmation with fresh inference and complete trajectories/costs.",
+      "next": "Freeze a prospective full protected common-task comparison only for genuinely available complete policies. Frozen SLM features and all DEV16/confirmation32 inference/physics remain UNKNOWN/unentered; do not present CPU FIT loss as LLM advantage.",
       "completed": false,
       "checklist_id": "G5",
       "completion_criteria": [
@@ -441,7 +469,7 @@
         "With/without-LLM ablations under identical information/actions/protection/budgets, plus strong numerical and architecture/pretraining controls.",
         "Prespecified improvement after full model/training/preparation/solver/failure costs and independent unused confirmation."
       ],
-      "current_result": "Unachieved. Numerical improvements, format accuracy and larger-model teacher gains do not isolate an incremental LLM contribution.",
+      "current_result": "Native1.5B integration passed; 64FIT teacher complete35/64restored,94residualUV. Two numeric convex readouts fitted. FixedMLP partial5442/30500updates, no performance result. Three frozen-feature allocations timed out before science; exact probes zero assignments. No LLM superiority.",
       "subtasks": [
         {
           "id": "G5.1",
