@@ -1,0 +1,9 @@
+# Native public-controller benchmark progress
+
+Official Stable-DDPG source/checkpoints at fb6098c1aeb2bd4c42e04afbb0da372907aeb63c (other authors, MIT). The full first original 13-bus test episode is complete for Stable-DDPG, ordinary DDPG and the original linear module. All start with12undervoltage buses. They restore all13 buses to0UV/0OV in5,3,5actions respectively, without changing the original clipped-increment PI action or100-step horizon. Every new action and physical transition was independently replayed exactly. This is one development seed, not500episodes, not our LLM and not a cross-network superiority claim.
+
+The first root's successful BFSW solve followed by an empty-cached-Y checker failure is preserved. Saved-root admittance reconstruction and independent replay were separately charged; old primary science was not rerun. All500 original random input recipes have independent source-equation checks;499physical outcomes remain UNKNOWN. This CPU stage cost28PFreturns,87agentpolicy-module returns(54neural,33linear),81checkpointloads,0training. Cold/integration/failed/setup costs remain explicit in the pack.
+
+One new bounded original-profile T4 test is separately fixed for our preserved trained0.5BLoRA:3native-current-voltage prompts and3fresh-model cold replicas, strict new nativePI action schema, no repair or silent original shunt-unit rescaling, no automatic PF. Outputs were UNKNOWN when this snapshot was created. A format pass would not establish physical/model superiority. Historical original SFT base revision remains unrecovered; the new base revision is explicit.
+
+All six final goals remain open: G3 published comparison; G2 public datasets; G1 complete protected UV reduction; G4 model size; G5 incremental LLM contribution; G6 cybersecurity. Raw data/weights/native NETs remain local; this compact code/proof pack is not a complete raw backup.

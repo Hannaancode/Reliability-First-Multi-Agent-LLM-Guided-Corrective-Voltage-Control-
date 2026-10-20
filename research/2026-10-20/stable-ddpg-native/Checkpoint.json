@@ -1,0 +1,122 @@
+{
+  "at_utc": "2026-10-20T09:05:44.881567+00:00",
+  "status": "ALL3_OTHER_AUTHORS_NATIVE13_FIRST_EPISODE_COMPLETE_AND_INDEPENDENT_POLICY_PHYSICS_REPLAY_PASS",
+  "priority_order": [
+    "G3",
+    "G2",
+    "G1",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "all6finalgoals": "OPEN",
+  "root": {
+    "seed": 0,
+    "all13_UV": 12,
+    "all13_OV": 0,
+    "vmin": 0.8580932588200625
+  },
+  "endpoints": [
+    {
+      "algorithm": "safe-ddpg",
+      "step": 5,
+      "all_bus_UV": 0,
+      "all_bus_OV": 0,
+      "vmin": 0.9548907917729528,
+      "vmax": 1.0,
+      "native_controlled_done": true,
+      "all_bus_restored": true
+    },
+    {
+      "algorithm": "linear",
+      "step": 5,
+      "all_bus_UV": 0,
+      "all_bus_OV": 0,
+      "vmin": 0.9518565968654431,
+      "vmax": 1.0,
+      "native_controlled_done": true,
+      "all_bus_restored": true
+    },
+    {
+      "algorithm": "ddpg",
+      "step": 3,
+      "all_bus_UV": 0,
+      "all_bus_OV": 0,
+      "vmin": 0.9543694796518346,
+      "vmax": 1.0,
+      "native_controlled_done": true,
+      "all_bus_restored": true
+    }
+  ],
+  "whole_turn_costs_to_this_closed_CPU_stage": {
+    "new_PF_attempts": 28,
+    "new_PF_returns": 28,
+    "PF_exceptions": 0,
+    "agent_policy_module_returns": 87,
+    "neural_agent_returns": 54,
+    "linear_agent_module_returns": 33,
+    "checkpoint_load_returns": 81,
+    "public_admittance_builds": 1,
+    "separate_dense_Y_equation_proofs": 1,
+    "native_network_conversions_including_labelled_mock_input_preparations": 8,
+    "our_LLM_training_optimizer_calls_at_this_CPU_stage": 0
+  },
+  "independent_full_new_episode_steps": 10,
+  "maximum_all_numeric_replay_field_delta": 0.0,
+  "native_source": "https://github.com/JieFeng-cse/Stable-DDPG-for-voltage-control/tree/fb6098c1aeb2bd4c42e04afbb0da372907aeb63c",
+  "author_license": "MIT",
+  "native_PI": "Source float32 raw policy clipped +/-0.3Mvar then nextQ=lastQ-u; actual float32 cap0.30000001192092896 retained, source3controlleddone plus ALL13UV/OV reported. Original100step horizon includes reused paidstep1; no root/oldprimary repetition.",
+  "scope": "One first source seed0 development engineering episode; not all500 benchmark, not our original LLM, not whole-paper/current-DSE superiority. Sources/plant differ from federation case, no cross-network rank from headline endpoints.",
+  "all500_source_input_gate": {
+    "at_utc": "2026-10-20T08:39:16.552770+00:00",
+    "status": "PASS_ALL500_SOURCE_NATIVE_INPUT_RECIPES_INDEPENDENT_LITERAL_RNG_AND_PAID_SEED0_JOIN",
+    "all500retained": true,
+    "unique_physical_input_vectors": 500,
+    "source_low_branch_count": 249,
+    "source_high_branch_count": 251,
+    "actual_UV_OV_for_seeds1to499": "UNKNOWN;sourcebranchlabelsarenotmeasuredvoltages",
+    "source_AST_proof": {
+      "source_sha256": "3c0376aa6ea70f727002234e9d51d8853d58545a787b5d22c7b6d197bff0923a",
+      "exact_definition_ASTs": [
+        "IEEE13bus",
+        "create_13bus"
+      ],
+      "training_test_global_code_imported_or_run": false,
+      "function_or_class_body_changed": false
+    },
+    "native_network_conversion_calls": 1,
+    "mock_reset_callbacks": 500,
+    "new_model_PF_GPU_calls": 0,
+    "arrays_sha256": "01280a5194793ce52cc5438277361e6def96cb5b3c491b9caeb001c842023524",
+    "workflow_seconds": 7.812999999994645,
+    "limitations": "Authorrandomstressrecipeszeroallnative loads andusecontrollednegativegenerators aslow-voltageloads;highbranchhasuncontrolleddisturbances. Not a claim of realisticoperationaltraces or unusedconfirmation. Originalrealdata isseparate."
+  },
+  "first_original_failure": "BFSW returned solved root but empty cached Ybus failed old post-PF checker before policy. Original source/claim/failure preserved. Additive saved-root reconstruction/audit/one preplanned independent replay did not rerun old primary. Windows case-only protocol and validation stumbles made zero scientific calls.",
+  "actual_original_LoRA_test": {
+    "owner_pid": 23544,
+    "parent_pid": 22604,
+    "allocation_requests": 1,
+    "runtime_allocated": true,
+    "stage_at_save": "one_async_bounded_framework_setup",
+    "exact_source": "work/run_original_lora_native13_colab_20261020.py",
+    "fixed3primary_plus3cold_new_contract": "Outputs UNKNOWN until actual source-bound completion/preservation/release/independent reader. No automatic native PF or invalid-action fill. New nativePI serving role, not silent historical shunt rescaling.",
+    "resume": "outputs/original_lora_native13_transfer_execution_20261020/status.json"
+  },
+  "frozen_original_checks": {
+    "audited_at_utc": "2026-10-20T09:05:45.053907+00:00",
+    "checks": {
+      "frozen_matched_protocol_sha256": true,
+      "frozen_controller_sources": true,
+      "all_62_scenario_files": true,
+      "locked_file_set": true,
+      "bank_manifest": true,
+      "bank_sanity_report": true,
+      "network": true,
+      "metadata": true,
+      "model_root_files": true
+    },
+    "all_passed": true,
+    "new_model_or_PF_calls": 0
+  },
+  "no_active_timers": true
+}

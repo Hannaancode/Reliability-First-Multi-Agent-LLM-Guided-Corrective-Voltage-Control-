@@ -1,3 +1,18 @@
+## Latest public baseline execution — 2026-10-20T09:05:44.881567+00:00
+
+- [x] G3.2d: other authors Stable-DDPG/linear/DDPG each restore the first native13 case12→0UV in5/5/3actions; independent every-action/physical replay PASS, maximum full-fielddelta0. All13buses reported. One development seed, not ours/full500/comparative superiority.
+- [x] All500 original test input recipes retained and independently source-checked; seeds1–499 physics UNKNOWN.
+- [ ] Original trained LoRA finite nativePI transfer: one new original-profile T4 requested/allocated; all3primary+3cold outputs UNKNOWN until actual closed preservation/release/audit. No automatic PF from readiness or malformed outputs.
+
+All six final goals OPEN. Exact resume: outputs/stable_ddpg_native_complete_handoff_20261020/Current_Resume.json.
+
+## Expanded published benchmark roster — 2026-10-20T08:06:15.469018+00:00
+
+- [x] G3.2c: officialStable-DDPG/DDPG/linear artifacts/source joins independently verified(205files/183agentcheckpointcomponents). No policy inference or benchmark score yet.
+- [ ] G3.2/G3.3: native loaders/actuators and matched full-system comparison. All6finalgoalsOPEN.
+
+Resume outputs/expanded_published_benchmark_roster_20261020/Current_Resume.json.
+
 ## Latest verified native numerical milestone — 2026-10-20T07:53:55.423891+00:00
 
 - [x] G3.2b: one native public322 engineering point108→0UV/0OV with exact native Q caps; derivative/LP primal-dual/full physical replay independently PASS. TPA left77UV on that point. Centralized numerical and distributed temporal-model information differ; no LLM/same-information/aggregate superiority claim.
