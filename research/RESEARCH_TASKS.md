@@ -1,3 +1,19 @@
+## Latest verified native numerical milestone — 2026-10-20T07:53:55.423891+00:00
+
+- [x] G3.2b: one native public322 engineering point108→0UV/0OV with exact native Q caps; derivative/LP primal-dual/full physical replay independently PASS. TPA left77UV on that point. Centralized numerical and distributed temporal-model information differ; no LLM/same-information/aggregate superiority claim.
+- [x] All44 first-two-root native LLM current-input/token/unit packets independently checked. Six exceed4096+384, so that fixed interface launch stops; no model/GPU, no cropping or dropped zones.
+- [ ] Full comparable public benchmark with our actual LLM/hybrid, strong controls, full costs and unused confirmation.
+
+All six final goals OPEN. Exact continuation: outputs/native_benchmark_execution_handoff_20261020/Current_Resume.json. No owned jobs/GPU/timer.
+
+## Latest benchmark execution — 2026-10-20T07:38:24.584488+00:00
+
+- [x] G3.2a: official TPA native 322-bus one-step/cold-model/independent physics engineering complete.108→77UV,0OV, second ordered identity; first partial retained UNKNOWN.
+- [x] Finite native unit gate: all16000 original TRAIN rows checked; every nonnull25–150Mvar teacher command exceeds native inverter capacity on all3 public networks. This is not universal LLM impossibility.
+- [ ] G3.2/G3.3/G2.4: explicit HierGrid native inverter role, strong equally informed controls and matched full public benchmark remain open.
+
+All six final goals OPEN. Resume outputs/native_benchmark_execution_handoff_20261020/Current_Resume.json. No owned jobs/GPU/timer at this checkpoint.
+
 # HierGrid research tasks
 
 Updated 2026-10-20T05:29:10.448581+00:00. Human priority: published comparisons and public datasets first, then complete UV reduction. Stable task IDs and all verified/adverse evidence are retained. All six final goals remain open.

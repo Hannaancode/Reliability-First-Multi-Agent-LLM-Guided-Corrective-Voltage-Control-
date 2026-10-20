@@ -1,14 +1,14 @@
 {
-  "at_utc": "2026-10-20T05:58:21.034250+00:00",
+  "at_utc": "2026-10-20T07:53:55.423891+00:00",
   "authority": "Latest direct human six-priority instruction, retained in exact order; execute evidence-led work and update records.",
   "goal_remains_active_unachieved": true,
   "tasks": [
     {
       "priority": 1,
       "target": "Compare against relevant published models/systems and benchmark whether ours is better.",
-      "status": "ALL36_PUBLISHED_PFDELTA_INPUT_EQUATIONS_VERIFIED_COMMON_CONTROL_ROLE_PENDING",
+      "status": "TPA77_VS_CENTRALIZED_NUMERICAL0_UV_NATIVE_ENGINEERING_INDEPENDENT_PASS_OUR_LLM_INTERFACE_NOT_READY",
       "done": "Published optimization/RL/hybrid method registry saved; differences in plants/actuators/software documented. NativepublishedACOPF fullmatrix/angle/thermal/gen/voltage/objective inputcontract independentlyprepared onall3, actualsolverbenchmarkpending. ActualnativeACOPF implementation trial acrossall3 terminated onlibrarycompatibility; originalcontrols/source/costs retained, nativefeasiblebenchmark stillUNKNOWN. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
-      "next": "Audit/explicitly bind native positional and history semantics, preserving322prefix and all120author scheduleidentities. Nativeordinalreproduction and separatelyprospectivechronologicalgeneralization must be distinct. Prepare isolatedTPA/MAPDNactualCPU/GPUmodel loader and native observation/action/checkpointcoldgates, explicitHierGridsignedinverteradapter and equallyinformed numericalcontrols;originalshuntrole is unchanged.",
+      "next": "G3/G2 first: freeze a genuine common evaluation role before our model public performance. Native TPA reference and centralized numerical zero are engineering points, not an aggregate comparison. Retain all120author identities and first failed action UNKNOWN. Native current-only inverter contract has6/44 full-prefix+384 overflows at4096. Stop this fixed4096 interface launch. No trimming/dropped zones. A separately named full-length protocol may use the observed5390maximum total requirement to justify a sufficient context before any model outcome; must recheck actual full-context loader/memory/cold/preservation with all44 retained, not a prompt or performance sweep.",
       "completed": false,
       "checklist_id": "G3",
       "completion_criteria": [
@@ -16,7 +16,7 @@
         "Match plant,information,actions,protection,budgets,splits and costs; report all wins/ties/losses/failures.",
         "Claim superiority only if frozen comparison and independent unused confirmation support it."
       ],
-      "current_result": "All3MAPDNnativeinput/sourceauditPASS;complete3.76GBauthorarchiveSHA/16CRCsPASS;all9fullinputinventoriesfinite.322nativeprefixhas4repeatedtimestamps,nodeduplication.OfficialTPAKDD2024pretrained322checkpointand120authortestschedulepinned;notexecuted. No superiority result.",
+      "current_result": "Second ordered author322root108UV:publishedTPA77UV/0OV;centralizednative-capcurrent-JacobianLP0UV/0OV independentlyverified. FirstcasepartialretainedUNKNOWN. Not same-information/wholebenchmark/LLMsuperiority. ExplicitnativeLLMunit/parser/full44currentinputgatecomplete:6/44overflow4096+384;fixedinterface launchSTOPPEDbeforemodel.",
       "subtasks": [
         {
           "id": "G3.1",
@@ -45,6 +45,20 @@
           "description": "Confirm any superiority claim on genuinely unused authorized cases.",
           "evidence": null,
           "verified_at_save": null
+        },
+        {
+          "id": "G3.2a",
+          "completed": true,
+          "description": "Execute official pretrained TPA native observation/action/cold engineering and independent physics replay with failed first identity preserved.",
+          "evidence": "outputs/tpa_native_second_identity_engineering_20261020/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T07:38:24.584488+00:00"
+        },
+        {
+          "id": "G3.2b",
+          "completed": true,
+          "description": "Execute one source-bound native-cap/current-Jacobian LP reference from cached solved state with independent derivative/LP optimality/nonlinear replay; disclose information differences.",
+          "evidence": "outputs/native_inverter_linear_reference_20261020/independent_audit_v2/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T07:53:55.423891+00:00"
         }
       ],
       "latest_published_baseline_source": "outputs\\pfdelta_benchmark_source_review_20261019\\Snapshot_Metadata.json",
@@ -54,16 +68,16 @@
     {
       "priority": 2,
       "target": "Find a published physical dataset/test set and test our model on it.",
-      "status": "ALL36_PUBLISHED_PFDELTA_INPUT_EQUATIONS_VERIFIED_COMMON_CONTROL_ROLE_PENDING",
+      "status": "TPA77_VS_CENTRALIZED_NUMERICAL0_UV_NATIVE_ENGINEERING_INDEPENDENT_PASS_OUR_LLM_INTERFACE_NOT_READY",
       "done": "Three official PGLib IEEE118 variants pinned to an exact commit, raw files/license retained, matrix references checked. No model/PF outcomes measured. Actual3NET imports and independent raw-matrix/bus/zone/load/limit auditPASS; no PF/model outputs yet. All3 rawfixed-nonslack initial dispatch roles analytically violate nativePmax necessary bound; independent exactdecimal shortfalls393.5/2465.32/393.5MW. GeneralOPF/physics/controller feasibility remainsUNKNOWN. NativefullPPC inputclosure all3 independentlyPASS including branchangle limits/objective. ConvertedNET alone notfaithful nativeangle-constrainedOPF sourcecontract. No publicsolver/modelcall. Newall3 nativeACOPF3attempts0returns3exceptions, first Hessian .H sparseAPI compatibilityfailure before Newtonupdate; cost/source/failedidentity audit and archivePASS. No modelbenchmark or physical infeasibility claim. Six exact conjugate-transpose software controls passed without modifying installed/frozen sources or rerunning solver. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
-      "next": "Audit/explicitly bind native positional and history semantics, preserving322prefix and all120author scheduleidentities. Nativeordinalreproduction and separatelyprospectivechronologicalgeneralization must be distinct. Prepare isolatedTPA/MAPDNactualCPU/GPUmodel loader and native observation/action/checkpointcoldgates, explicitHierGridsignedinverteradapter and equallyinformed numericalcontrols;originalshuntrole is unchanged.",
+      "next": "G3/G2 first: freeze a genuine common evaluation role before our model public performance. Native TPA reference and centralized numerical zero are engineering points, not an aggregate comparison. Retain all120author identities and first failed action UNKNOWN. Native current-only inverter contract has6/44 full-prefix+384 overflows at4096. Stop this fixed4096 interface launch. No trimming/dropped zones. A separately named full-length protocol may use the observed5390maximum total requirement to justify a sufficient context before any model outcome; must recheck actual full-context loader/memory/cold/preservation with all44 retained, not a prompt or performance sweep.",
       "completed": false,
       "checklist_id": "G2",
       "completion_criteria": [
         "Preserve dataset license/version/native constraints and disclose any necessary role/actuator adaptation.",
         "Use verified common initialization and frozen model/control interface; run every declared identity with independent physics/full costs."
       ],
-      "current_result": "All3MAPDNnativeinput/sourceauditPASS;complete3.76GBauthorarchiveSHA/16CRCsPASS;all9fullinputinventoriesfinite.322nativeprefixhas4repeatedtimestamps,nodeduplication.OfficialTPAKDD2024pretrained322checkpointand120authortestschedulepinned;notexecuted. No superiority result.",
+      "current_result": "Second ordered author322root108UV:publishedTPA77UV/0OV;centralizednative-capcurrent-JacobianLP0UV/0OV independentlyverified. FirstcasepartialretainedUNKNOWN. Not same-information/wholebenchmark/LLMsuperiority. ExplicitnativeLLMunit/parser/full44currentinputgatecomplete:6/44overflow4096+384;fixedinterface launchSTOPPEDbeforemodel.",
       "subtasks": [
         {
           "id": "G2.1",

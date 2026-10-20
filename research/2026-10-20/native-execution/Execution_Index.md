@@ -1,0 +1,18 @@
+# Native published-method benchmark execution
+
+Saved 2026-10-20T07:53:55.423891+00:00. Goal order: G3 published comparisons, G2 public testing, G1 complete UV reduction, G4 scale, G5 LLM superiority, G6 security. All six final goals remain OPEN.
+
+| Fixed native engineering point: 322 buses, second author identity | Before UV | After UV | After OV | Evidence |
+| --- | ---: | ---: | ---: | --- |
+| Official pretrained TPA CPU compatibility reference |108|77|0|Fresh cold model exact; two primary plus two independent PF returns, every saved numeric replay delta0.|
+| Centralized current-Jacobian LP, same native inverter Q limits |108|0|0|One derivative, one LU,38RHS solves, one LP, one new primary plus one independent PF; cached root not solved again. LP primal/dual and all replay fields independently pass.|
+
+The numerical point reaches Vmin0.9657907025/Vmax1.0016155387, within the original voltage band. Its primary workflow10.609s and repaired independent reader9.437s include runtime/setup/solver/I/O; the original failed reader/setup and all preparation/old root costs remain separately paid. No intrinsic speed/whole-method efficiency or aggregate superiority claim. A numerical method with full Ybus/current state and a trained TPA with distributed temporal/seasonal input are different information roles. The new method has no LLM decision; these numbers do not prove LLM value.
+
+The first scheduled author identity remains partial: one rootPF returned66UV and one TPA forward attempt executed a learned projection before a missed hard-coded CUDA ordinal failed. No action returned, no retry, no case dropped. Its preserved-input/source partial audit is complete, independent root physics replay still unexecuted. All120 author identities remain in the intended benchmark roster.
+
+Before expensive LLM execution, two cheap gates now give concrete limits. All16000 original TRAIN rows were checked:12118 nonnull25–150Mvar shunt commands exceed all public native inverter caps, independently verified;3882 null commands remain legal. This is a finite-label unit mismatch, not universal LLM inability. A new explicit instantaneous signed-inverter contract was implemented. All44 first-two-root zonal packets/current fields/caps/token IDs were independently checked, prefix365–5006tokens. Six complete packets exceed4096 with384reserved output tokens. The fixed4096 launch therefore stops before model/GPU calls; no truncation or dropped zones. A separately justified full-length actual loader protocol is required.
+
+Failures are preserved: first CUDA policy partial, zero-science legacy/setup/import failures; original numerical reader metadata lookup failed before any replay and was additively corrected; native packet import and BatchEncoding serialization failures were corrected only in new software output directories. No executed scientific call repeated. This turn actual totals:7PFattempts/7returns/0exceptions;3TPApolicyattempts/2returns;1derivative/1LU/38RHS/1scientificLP;0LLM/optimizer/backward/training/GPUallocations. Three mock LP fixtures and tokenizer/readers are software costs, not physics/learning evidence. All owners ended; no timer.
+
+The next decisive requirement is a justified LLM mechanism and matched evaluation, not another ungrounded scale/format experiment. The known-model numerical zero leaves no UV headroom on this point. Preserve original DFF/DFF-ALT/unchanged DSE both individual branches/FULL BOTH costs on the original plant, all stopped/adverse/partial/UNKNOWN records and frozen assets. Full matched trajectories, full costs, attribution and unused confirmation remain necessary.

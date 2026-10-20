@@ -1,0 +1,144 @@
+{
+  "at_utc": "2026-10-20T07:53:55.423891+00:00",
+  "priority_order": [
+    "G3",
+    "G2",
+    "G1",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "all_six_final_goals": "OPEN",
+  "scientific_model_GPU_jobs": "NONE; all named new scientific/reader/coordinator chains ended, input preparation and reader also ended",
+  "timers_active": false,
+  "TPA_native_engineering": {
+    "identity": {
+      "year": "2013",
+      "month": "1",
+      "day": "20",
+      "day_id": "385",
+      "idx": "185262"
+    },
+    "status": "COMPLETE_INDEPENDENT_REPLAY_PASS",
+    "before_UV": 108,
+    "after_UV": 77,
+    "before_OV": 0,
+    "after_OV": 0,
+    "primary_PF_returns": 2,
+    "independent_PF_returns": 2,
+    "actual_TPA_policy_attempts": 2,
+    "actual_TPA_policy_returns": 2,
+    "cold_policy_exact": true,
+    "all_numeric_replay_field_delta": 0.0,
+    "primary_workflow_seconds": 14.812999999994645,
+    "reader_workflow_seconds": 13.85899999999674,
+    "evidence": "outputs/tpa_native_second_identity_engineering_20261020/independent_audit/Independent_Audit.json",
+    "interpretation": "Published comparator engineering on second ordered author identity; not our model or aggregate benchmark win. CPU device/schema compatibility port, not historical CUDA byte reproduction."
+  },
+  "first_author_identity": {
+    "status": "TERMINAL_PARTIAL_RETAINED_UNKNOWN_ACTION",
+    "root_UV": 66,
+    "actual_PF_attempts_returns": [
+      1,
+      1
+    ],
+    "actual_TPA_policy_attempts_returns": [
+      1,
+      0
+    ],
+    "learned_init_projection_executed": true,
+    "cause": "Missed encoder hard-coded CUDA ordinal after learned projection; no action returned.",
+    "root_independent_physics_replay": "NOT_YET_EXECUTED",
+    "zero_science_partial_audit": "outputs/tpa_native_one_step_engineering_v3_20261020/partial_audit/Independent_Partial_Audit.json",
+    "no_scientific_retry": true
+  },
+  "finite_original_teacher_native_unit_gate": {
+    "status": "COMPLETE_INDEPENDENT_PASS_FINITE_SUPPORT_MISMATCH",
+    "TRAIN_rows": 16000,
+    "nonnull_actions": 12118,
+    "null_actions": 3882,
+    "all_nonnull_Q_Mvar": [
+      25,
+      50,
+      75,
+      100,
+      150
+    ],
+    "all3_native_caps_smaller_than_minimum_nonnull_label": true,
+    "evidence": "outputs/original_teacher_native_action_units_20261020/independent_audit/Independent_Audit.json",
+    "interpretation": "Literal existing teacher commands are incompatible with native inverter units. Not a universal limit on unseen LLM outputs. New native-inverter serving adaptation must be explicitly named; no hidden rescale/clip/shunt reinterpretation."
+  },
+  "this_turn_actual_science_totals": {
+    "PF_attempts": 7,
+    "PF_returns": 7,
+    "PF_exceptions": 0,
+    "TPA_policy_attempts": 3,
+    "TPA_policy_returns": 2,
+    "LLM_optimizer_backward_training_GPU_allocation_calls": 0,
+    "setup_load_import_and_failure_costs": "All separate original outputs/claims/stderr retained; no zero-forward claim for first partial.",
+    "public_derivative_calls": 1,
+    "LU_factorizations": 1,
+    "RHS_solves": 38,
+    "LP_scientific_attempts_returns": [
+      1,
+      1
+    ],
+    "pure_mock_software_LP_solves": 3
+  },
+  "next": [
+    "G3/G2 first: freeze a genuine common evaluation role before our model public performance. Native TPA reference and centralized numerical zero are engineering points, not an aggregate comparison. Retain all120author identities and first failed action UNKNOWN.",
+    "Native current-only inverter contract has6/44 full-prefix+384 overflows at4096. Stop this fixed4096 interface launch. No trimming/dropped zones. A separately named full-length protocol may use the observed5390maximum total requirement to justify a sufficient context before any model outcome; must recheck actual full-context loader/memory/cold/preservation with all44 retained, not a prompt or performance sweep.",
+    "One first-root independent replay is still unexecuted. If those two input packets are used in new actual model engineering, prospectively bind this remaining reader/physics identity and charge it once; never repeat original root solve or failed model attempt.",
+    "Bind original private adapter/tokenizer to exact available pinned public base10413c288cb9629acdf60b3e0229f3ba75efe413,537657394byte local checkpoint if a new justified inference protocol needs it; original historical base revision remains unrecovered, so disclose new pinned reproduction identity. No silent claim of exact paper replication.",
+    "An LLM contribution hypothesis must explain value beyond the strong numerical zero and its measured costs. Full-known-model point has no UV headroom below zero. Equally informed numerical/architecture/pretraining ablations and genuinely unused confirmation remain required. No idle GPU allocation or automatic retraining.",
+    "Publish own code, aggregate proofs, failures/costs/tasks with byte/lease checks. Raw third-party TPA tree/checkpoint(no inspected license), private notebooks/adapter/manuscript/credentials and large raw data stay local."
+  ],
+  "current_GPU_access_evidence": "Three authenticated/T4eligible/zeroassignment profiles at05:38UTC; fourth not found. No current free-hours/reset/lifetime promise.",
+  "publication": {
+    "previous_verified_head": "c5db0b880aa81a702b73023267888d4349168db8",
+    "current_turn": "PENDING_COMPACT_CODE_AND_PROOFS_LEASED_PUBLICATION"
+  },
+  "limits": "Original DFF/DFF-ALT/unchanged DSE both branches and FULL BOTH plus model/training/preparation/failure costs remain required on original plant. No LLM/fullDSE/zero-all/security superiority achieved. All stopped/partial/UNKNOWN/frozen assets preserved.",
+  "native_numerical_reference": {
+    "status": "COMPLETE_INDEPENDENT_DERIVATIVE_LP_DUAL_AND_PHYSICS_PASS",
+    "root_UV": 108,
+    "actual_UV": 0,
+    "actual_OV": 0,
+    "vmin": 0.9657907025325758,
+    "vmax": 1.0016155386542254,
+    "native_L1_plus_q_cost": 0.00936195799330046,
+    "all_numeric_replay_delta": 0.0,
+    "same_native_inverter_caps": true,
+    "primary_workflow_seconds": 10.60899999999674,
+    "independent_reader_workflow_seconds": 9.437000000005355,
+    "new_PF_attempts_returns": [
+      2,
+      2
+    ],
+    "public_derivatives": 1,
+    "LU_factorizations": 1,
+    "RHS_solves": 38,
+    "LP_solves": 1,
+    "root_PF_repeated": false,
+    "original_reader_metadata_failure": "Ended before independentPF; preserved original claim/source/stderr. Additive reader uses physical root.sn_mva, asserts equals cached PPC baseMVA; all old science/checks unchanged. One previously unexecuted independent replay charged.",
+    "evidence": "outputs/native_inverter_linear_reference_20261020/independent_audit_v2/Independent_Audit.json",
+    "scope": "One source-bound native engineering point, centralized current-model numerical reference; TPA has distributed temporal/seasonal information. No equally informed aggregate method superiority, LLM benefit or unused confirmation claim."
+  },
+  "native_LLM_serving_input_gate": {
+    "status": "FULL44_PACKET_SOURCE_TOKEN_UNITS_AUDIT_COMPLETE_FIXED4096_PLUS384_GATE_FAIL",
+    "roots": 2,
+    "packets": 44,
+    "prefix_token_range": [
+      365,
+      5006
+    ],
+    "overflow_packets": 6,
+    "no_truncation_or_dropped_zones": true,
+    "model_PF_GPU_calls": 0,
+    "explicit_new_actuator": "Instantaneous absolute signed native inverter Q, strict exact bus keys/caps or explicit abstain. Original shunt controller unchanged.",
+    "evidence": "outputs/native_inverter_serving_preparation_v3_20261020/independent_audit/Independent_Audit.json",
+    "prior_software_failures": "v1missing local pandapower before packet; v2Transformers5.5BatchEncoding serialization before completed gate. Both original outputs/source/diagnoses preserved. v3same44complete current inputs extracts explicit integer input_ids; no scientific retry.",
+    "serving_model_not_launched": true,
+    "information_limit": "Current-only local interface lacks TPA temporal/global prototype inputs; not yet a full matched benchmark interface."
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "at_utc": "2026-10-20T07:53:55.423891+00:00",
+  "members": 116,
+  "bytes": 167878,
+  "sha256": "81d87ea6cf55541e669f85c4bf9102c6e1522c71a48aeff51149e62b519c6782",
+  "CRC_every_member_SHA256": "PASS",
+  "contents": {
+    "work/audit_native_inverter_linear_reference_20261020.py": {
+      "bytes": 8279,
+      "sha256": "fe9d760baa588d584877ca194fdbc1237ae3b7e1735c236e6498e81e9e67b6f4"
+    },
+    "work/audit_native_inverter_linear_reference_metadata_v2_20261020.py": {
+      "bytes": 8702,
+      "sha256": "b8c3d5113e713af3ce5c76b86edcdb41799e531a4232cebbffa612fe6fad41d9"
+    },
+    "work/audit_native_inverter_serving_packets_20261020.py": {
+      "bytes": 5740,
+      "sha256": "7a0c324d7e5368197a90667f38c8a876ffeb29635d027697ee998d9c7171ee1f"
+    },
+    "work/audit_original_teacher_native_action_units_20261020.py": {
+      "bytes": 4256,
+      "sha256": "cceab6aa99a187a64f68a99225207421cd8f3d149cdbbbb92e0323de30d587f8"
+    },
+    "work/audit_tpa_native_one_step_engineering_20261020.py": {
+      "bytes": 5486,
+      "sha256": "8fe1c8147ef4722d1458f50f11dec1b0656de4938e3c7a348713207a92b1a5b6"
+    },
+    "work/audit_tpa_native_one_step_engineering_v2_20261020.py": {
+      "bytes": 5545,
+      "sha256": "a2799fe6942415cd9d9a92593519e0441b8196f08121ee544727759967a6cf12"
+    },
+    "work/audit_tpa_native_one_step_engineering_v3_20261020.py": {
+      "bytes": 5545,
+      "sha256": "dbc312090cf7f6816a4fa8433a3eeca57eb672161cef8d81ceef6e6a27d22f87"
+    },
+    "work/audit_tpa_native_second_identity_engineering_20261020.py": {
+      "bytes": 5553,
+      "sha256": "c9d38bb200d110b9f40b1ffc1b01aa61ffd7a66455d7e548bfe93a1934c87cd6"
+    },
+    "work/check_tpa_checkpoint_loader_20261020.py": {
+      "bytes": 2384,
+      "sha256": "dead717ba8f6ec0654c6fb7736a3ee173406b5ec267cca3b814606523fe2a5ca"
+    },
+    "work/check_tpa_checkpoint_loader_v2_20261020.py": {
+      "bytes": 2518,
+      "sha256": "ac95ec1f71c1437b92c4bb9cb01f4acf81d925d98f04e940fe0ec7cd2581287a"
+    },
+    "work/check_tpa_checkpoint_loader_v3_20261020.py": {
+      "bytes": 2563,
+      "sha256": "ee7ae4f1193683e3b3f2537675f264602ddf6a5265fe2385a51d1261e86aefda"
+    },
+    "work/check_tpa_pure_initializer_20261020.py": {
+      "bytes": 2497,
+      "sha256": "dcc51bb58089814b63bb7e26e89ef314778c6f3bd5a0e6e2e06d1e40ce6cd6f0"
+    },
+    "work/check_tpa_pure_initializer_v2_20261020.py": {
+      "bytes": 2690,
+      "sha256": "f095924b1da570f24f807a53cc470067b2b23757a964f0ce86087569e4c14b07"
+    },
+    "work/coordinate_native_inverter_linear_reference_20261020.py": {
+      "bytes": 4300,
+      "sha256": "40c6607c598cb77dfb9945dbeae3353aa77baed65ea21062312d405cd1cb5975"
+    },
+    "work/coordinate_native_inverter_reader_metadata_v2_20261020.py": {
+      "bytes": 3448,
+      "sha256": "4bd5f0e1254c85f47278a102e338228ee7aa1677774b2475588424ac3a7fb366"
+    },
+    "work/coordinate_tpa_native_one_step_20261020.py": {
+      "bytes": 4236,
+      "sha256": "77472b74a6ca2ff9d63b42ee0476ddf38b12890a649652f399824ce2d4aed613"
+    },
+    "work/coordinate_tpa_native_one_step_v2_20261020.py": {
+      "bytes": 4296,
+      "sha256": "a50b082c5aa41a57146f81f14a7c2293c3667861b89c543e0703ed5cacb1bd76"
+    },
+    "work/coordinate_tpa_native_one_step_v3_20261020.py": {
+      "bytes": 4296,
+      "sha256": "87d0ae760113ed3cd0b5037e30aabfa77533b495a58a4c332ed95229bb2ab3db"
+    },
+    "work/coordinate_tpa_native_second_identity_20261020.py": {
+      "bytes": 4324,
+      "sha256": "a0c44e7bd6eca8094deccf7750da358976c3c6d94b8bac1d25b8deb391c02638"
+    },
+    "work/native_inverter_linear_reference_core_20261020.py": {
+      "bytes": 1281,
+      "sha256": "cc97cc55c66595f9c8abfb16fed2a3314e9583815f950e44e6244d82ec696e8c"
+    },
+    "work/native_inverter_serving_contract_v1_20261020.py": {
+      "bytes": 2263,
+      "sha256": "7f51824eab2a0d37bc719f04bc7f7c6c4fe90f01f74bad83162d518b889aabaa"
+    },
+    "work/prepare_native_inverter_linear_reference_20261020.py": {
+      "bytes": 4126,
+      "sha256": "46bf905a4208378c8dc504c269f0d785409b02f0c189f5e044b1085d5f27f42f"
+    },
+    "work/prepare_native_inverter_serving_packets_20261020.py": {
+      "bytes": 7545,
+      "sha256": "4a191809d00122202133eab4e85c06e26fa5a96bd2c2e8209abd129feb9038d4"
+    },
+    "work/prepare_native_inverter_serving_packets_v2_20261020.py": {
+      "bytes": 7691,
+      "sha256": "5d46e5dda1e151e867ed7b3e47722633a5cf4e5eadec9c72755ef63b10da3c83"
+    },
+    "work/prepare_native_inverter_serving_packets_v3_20261020.py": {
+      "bytes": 7856,
+      "sha256": "4c6609e74780a3f808c0592a3005a18f0a1c348b2ae9163f3790c97f396f3cf9"
+    },
+    "work/prepare_tpa_native_seasonal_input_20261020.py": {
+      "bytes": 2866,
+      "sha256": "3db65b748b688d415f8946087619e07d81285a43ebec14d96d77d36546ae14b6"
+    },
+    "work/run_native_inverter_linear_reference_20261020.py": {
+      "bytes": 9611,
+      "sha256": "6daefb2b8329e5b8d6a49d6b3949a84fe0c24ab86457c9064b3f8c2eb7b054b8"
+    },
+    "work/save_native_benchmark_checkpoint_20261020.py": {
+      "bytes": 12151,
+      "sha256": "92b0e133fac1733f213e4a005be08c3b1e0a60f5622a648afef051cdbad50349"
+    },
+    "work/seal_native_benchmark_execution_handoff_20261020.py": {
+      "bytes": 18432,
+      "sha256": "5a52102a1ef2a07b0d8ff6bbe248e18c15c6d69caab7777544b308c56600a69c"
+    },
+    "work/tpa_benchmark_bridge_20261020.py": {
+      "bytes": 3907,
+      "sha256": "82cbbf1f42d7ac96605abb60b40e078aabbe65a220255949ad470d851b8c71e8"
+    },
+    "work/tpa_native_legacy_import_20261020.py": {
+      "bytes": 2102,
+      "sha256": "8de7fe7bc4f5f3751036b046e8483292c2dc955a6714764b4190f9c2645bc2db"
+    },
+    "work/tpa_native_one_step_engineering_20261020.py": {
+      "bytes": 11200,
+      "sha256": "73fea79d8c084b3aa37efdb1f26be873de4538dc5f91e1c02ce922523d00dc71"
+    },
+    "work/tpa_native_one_step_engineering_v2_20261020.py": {
+      "bytes": 11545,
+      "sha256": "c58e8be294b8fcf58c9081e140956dea52b6568df2fcd6566af7a5abdb0fdb37"
+    },
+    "work/tpa_native_one_step_engineering_v3_20261020.py": {
+      "bytes": 11595,
+      "sha256": "1e6c1188b378a5d58fa092da7fa8c9a91869c5461bf61385443278d128033bfd"
+    },
+    "work/tpa_native_runtime_binding_20261020.py": {
+      "bytes": 787,
+      "sha256": "c92dc858a6a00b4d7f146838eac690819e841516a56668bdc19f2298f6782087"
+    },
+    "work/tpa_native_runtime_binding_v2_20261020.py": {
+      "bytes": 812,
+      "sha256": "494ae56d2acff6038a4e3a4273059002227c5c532c3c8e6187f3fab954f7b619"
+    },
+    "work/tpa_native_second_identity_engineering_20261020.py": {
+      "bytes": 11816,
+      "sha256": "7b12200d90f90c3096fe208bef376f560accfcffe107d2b82a041c222dc0c327"
+    },
+    "outputs/native_inverter_linear_reference_20261020/Frozen_After.json": {
+      "bytes": 422,
+      "sha256": "43e5b0b0f2b7f8da154aca4ae6accb9754289d2acb358b6c5ae13dfd18692c16"
+    },
+    "outputs/native_inverter_linear_reference_20261020/Frozen_Before.json": {
+      "bytes": 422,
+      "sha256": "078e286bdfe5e7ed24a3c8793d3407364d66481a739f3c73f10fd16fbdf886db"
+    },
+    "outputs/native_inverter_linear_reference_20261020/Launcher_ACK.json": {
+      "bytes": 726,
+      "sha256": "c506134e77003514b6ec911a501575a85bc84815db207f01324b744561dc0809"
+    },
+    "outputs/native_inverter_linear_reference_20261020/LP_Return.json": {
+      "bytes": 170,
+      "sha256": "bf5f686b39b390ee5238e51fdf3208dc8f6bbc0f1f2e68221a32f477194d3dac"
+    },
+    "outputs/native_inverter_linear_reference_20261020/Result.json": {
+      "bytes": 1721,
+      "sha256": "9ce573300b0d2600123023fc21736a03e5998a85e82b271e616712432563facf"
+    },
+    "outputs/native_inverter_linear_reference_20261020/independent_audit/Failure.json": {
+      "bytes": 735,
+      "sha256": "61bfbe9c7cc91aa86e4acdebd12b1e7d4c0951629d3d37d0f7e3f2aeacb6de3a"
+    },
+    "outputs/native_inverter_linear_reference_20261020/independent_audit/Launcher_ACK.json": {
+      "bytes": 730,
+      "sha256": "ab8f3b4fa5a024f5cf690a9bffa101b5f49f7176ecb6582bdad3eb54f5e9d5ce"
+    },
+    "outputs/native_inverter_linear_reference_20261020/independent_audit_v2/Frozen_After.json": {
+      "bytes": 422,
+      "sha256": "6c5fc63afff44a7ad2999e03eb4572320d22f9aed5e0044650c7cb87e53ad012"
+    },
+    "outputs/native_inverter_linear_reference_20261020/independent_audit_v2/Independent_Audit.json": {
+      "bytes": 1301,
+      "sha256": "36b4cfc6ab25980abe71cb4713cffdb932cddaea166354fdbc1263fc65897f4a"
+    },
+    "outputs/native_inverter_linear_reference_20261020/independent_audit_v2/Launcher_ACK.json": {
+      "bytes": 753,
+      "sha256": "a6edcf9fa83761264ab6feda45590e23d7fe91aaa901449e9cd73d38a031795c"
+    },
+    "outputs/native_inverter_linear_reference_coordination_20261020/Failure.json": {
+      "bytes": 571,
+      "sha256": "128a5b392851b64c2231c11d70f2f8b3547699e6cef5ff923d5c4b54d8b738f5"
+    },
+    "outputs/native_inverter_linear_reference_preparation_20261020/Protocol.json": {
+      "bytes": 4531,
+      "sha256": "d8631c21deebea2f6e927f51cfd80166a84cae4217330cd3f488cf17ae950f33"
+    },
+    "outputs/native_inverter_linear_reference_preparation_20261020/Reader_Metadata_Repair_Protocol.json": {
+      "bytes": 1636,
+      "sha256": "eedc3faa6d5b47d272702e85adaf8cc7688bb88292e5e997d16566da41643070"
+    },
+    "outputs/native_inverter_reader_metadata_coordination_v2_20261020/Completion.json": {
+      "bytes": 128,
+      "sha256": "c7aa6b6c89aa2e97dff19b45975bc01fa4fda0952793b1475dfd2662a1fd61ac"
+    },
+    "outputs/native_inverter_serving_preparation_20261020/Frozen_Before.json": {
+      "bytes": 422,
+      "sha256": "c80588116b2a14fd96475d31bf055acbfd299ade4f3bb68c1a0b3bb0cb362ad5"
+    },
+    "outputs/native_inverter_serving_preparation_20261020/Preparation_Diagnosis.json": {
+      "bytes": 579,
+      "sha256": "4f6852d322bb09b4f6c9260c240b7c756d852c4b79c5616cefd32ad52b8e7d0f"
+    },
+    "outputs/native_inverter_serving_preparation_20261020/Protocol.json": {
+      "bytes": 2046,
+      "sha256": "4b8f3c7f9f3bc951144f0fb10217cb954f1de03472d24d136248a9bfa6425db8"
+    },
+    "outputs/native_inverter_serving_preparation_v2_20261020/Frozen_Before.json": {
+      "bytes": 422,
+      "sha256": "4648610bfa3775f30b235e65f9fc7c929337cfe0a25f66e43b75d2e08f7ad22e"
+    },
+    "outputs/native_inverter_serving_preparation_v2_20261020/Preparation_Diagnosis.json": {
+      "bytes": 669,
+      "sha256": "38358b710d6e51e4bbe1ceaea4ef7bbd5902af721f56b877881679c24454b7f1"
+    },
+    "outputs/native_inverter_serving_preparation_v2_20261020/Protocol.json": {
+      "bytes": 2046,
+      "sha256": "e1c8c5300fdfaacdefc497e0265d59fbf8979a10f72c3638d9821a41bfd2b83f"
+    },
+    "outputs/native_inverter_serving_preparation_v3_20261020/Frozen_After.json": {
+      "bytes": 422,
+      "sha256": "9f95ac5b8b5a99e409f5f0b2738cc5e3147310579e55fe0a3d9bf6776d5863e4"
+    },
+    "outputs/native_inverter_serving_preparation_v3_20261020/Frozen_Before.json": {
+      "bytes": 422,
+      "sha256": "2c63c234976f8363e13109cf12d2f83c78ba8a7e4fe3c48669d814dfcc1b48d2"
+    },
+    "outputs/native_inverter_serving_preparation_v3_20261020/Input_Hashes.json": {
+      "bytes": 575,
+      "sha256": "5436da3c00b4b061e7e75c0c3c47d017720db88c16f5252f2089831722af9f6c"
+    },
+    "outputs/native_inverter_serving_preparation_v3_20261020/Protocol.json": {
+      "bytes": 2046,
+      "sha256": "6250fca22c1b9456eb806a4e291484e9330f15622c472ae284586d405fd80e1b"
+    },
+    "outputs/native_inverter_serving_preparation_v3_20261020/Results.json": {
+      "bytes": 2241,
+      "sha256": "c3d607e9d751c575528dd874da3ca557473ee83d36e070e2ef405c38d948161f"
+    },
+    "outputs/native_inverter_serving_preparation_v3_20261020/independent_audit/Frozen_After.json": {
+      "bytes": 422,
+      "sha256": "371726bd0d2699809780a4fdab729bd362fccc30f9d80ba1997131dc59316806"
+    },
+    "outputs/native_inverter_serving_preparation_v3_20261020/independent_audit/Independent_Audit.json": {
+      "bytes": 871,
+      "sha256": "6bea242492bf3671904c5f394d8401d93e84b1dacec6331d96b35238e087767f"
+    },
+    "outputs/original_teacher_native_action_units_20261020/Protocol.json": {
+      "bytes": 643,
+      "sha256": "cd0cc7d88e4a11e070f2c4a8743d44ea1533f47e345c179bc462c324909a1d2e"
+    },
+    "outputs/original_teacher_native_action_units_20261020/Results.json": {
+      "bytes": 2481,
+      "sha256": "7263b801e61fc89fcd037e2559200b6ca341b4d87ff4e9493db6322e73860545"
+    },
+    "outputs/original_teacher_native_action_units_20261020/independent_audit/Independent_Audit.json": {
+      "bytes": 1191,
+      "sha256": "31971ff9f31325f633f269bcd87d6f3bcae065c378145bf028fe5032e7908653"
+    },
+    "outputs/tpa_checkpoint_loader_engineering_20261020/Failure.json": {
+      "bytes": 872,
+      "sha256": "ce7e87aecffe4406677f89c376faef1a4fc8876fdaa0cb1e16d8faed8b54a292"
+    },
+    "outputs/tpa_checkpoint_loader_engineering_20261020/Protocol.json": {
+      "bytes": 474,
+      "sha256": "dec312e86b04c9e9d5e78cf31f58d41dbf7dc6a9952180055214222ffec2bbbd"
+    },
+    "outputs/tpa_checkpoint_loader_engineering_v2_20261020/Failure.json": {
+      "bytes": 662,
+      "sha256": "1338a2d6146ef5262389daf6b55fa58c412766b882fdab09ad8b50b1e7bf4b65"
+    },
+    "outputs/tpa_checkpoint_loader_engineering_v2_20261020/Protocol.json": {
+      "bytes": 474,
+      "sha256": "351fdc18ab888b3988c569e82b4d430219de7666d1b2c5e2f9d4155ee3280510"
+    },
+    "outputs/tpa_checkpoint_loader_engineering_v3_20261020/Protocol.json": {
+      "bytes": 474,
+      "sha256": "2654ef1b29c48ea26ffd72e00e3aae92cc5fb834e0b5e222b6a2788f9e2e348f"
+    },
+    "outputs/tpa_checkpoint_loader_engineering_v3_20261020/Result.json": {
+      "bytes": 63811,
+      "sha256": "167edce065c7b804a907da698288fef5dda4750fe2ae2befe78c4f3b8633d8cb"
+    },
+    "outputs/tpa_native_legacy_import_readiness_20261020/Failure.json": {
+      "bytes": 505,
+      "sha256": "5c2f58f7bc14d94515021ddb7985269b86c3c985ecd93b22c750737b77c9194c"
+    },
+    "outputs/tpa_native_legacy_import_readiness_v2_20261020/Failure.json": {
+      "bytes": 379,
+      "sha256": "5bae843320673ba0684b9b525b612ff0ea17c622750fbcabf2fcb531b89a83c9"
+    },
+    "outputs/tpa_native_legacy_import_readiness_v3_20261020/Result.json": {
+      "bytes": 11565,
+      "sha256": "f07de97d66afcf935e046e03abf825a01fda488bcecd0606673afb9ce4f93d83"
+    },
+    "outputs/tpa_native_one_step_coordination_20261020/Failure.json": {
+      "bytes": 510,
+      "sha256": "6843dc7fed5dc8f6c617afbdee1f210c1fbcf65db3d0083825a4dd2884550d5a"
+    },
+    "outputs/tpa_native_one_step_coordination_v2_20261020/Failure.json": {
+      "bytes": 513,
+      "sha256": "c9396877dee65af883c78712643276f9e802da1028188181bdbe6fb0748276d3"
+    },
+    "outputs/tpa_native_one_step_coordination_v3_20261020/Failure.json": {
+      "bytes": 513,
+      "sha256": "ce2f5ae990cccab2f2956ae2d78dfb8d22ee097edd126cf18b419ee959b64238"
+    },
+    "outputs/tpa_native_one_step_engineering_20261020/Failure.json": {
+      "bytes": 3113,
+      "sha256": "028da76918a0deaa680a6289c7ad715cd67a79a73d6ab12ecc28e1b548151ee4"
+    },
+    "outputs/tpa_native_one_step_engineering_20261020/Frozen_Before.json": {
+      "bytes": 422,
+      "sha256": "7b82ffa506904d242189e11431c701dc4a7a24bd6b8be4dad94a7019e06ca666"
+    },
+    "outputs/tpa_native_one_step_engineering_20261020/Launcher_ACK.json": {
+      "bytes": 719,
+      "sha256": "315fed4ea54601ed1f4ea6af8e3abc2114710aa4938ce92cd89a222aa08bb614"
+    },
+    "outputs/tpa_native_one_step_engineering_v2_20261020/Failure.json": {
+      "bytes": 1396,
+      "sha256": "0e3fdb8af0e6807dbec6d70e9b126aef28359c59fb433e40a70a5bf1d55d93fa"
+    },
+    "outputs/tpa_native_one_step_engineering_v2_20261020/Frozen_Before.json": {
+      "bytes": 422,
+      "sha256": "f1c19d362bc83b822aa1b4f263550c5bffbced8315767fb566793231a0dc2fad"
+    },
+    "outputs/tpa_native_one_step_engineering_v2_20261020/Launcher_ACK.json": {
+      "bytes": 726,
+      "sha256": "0e707a4ac0b96eeac6403f0d91d3b50c90deda5572c0340724ffc4cefcbd6144"
+    },
+    "outputs/tpa_native_one_step_engineering_v2_20261020/Legacy_Import_Proof.json": {
+      "bytes": 10586,
+      "sha256": "1ccddcdc9f36a8265b300eb5b71c2f9958ae2fb573d97204900943c28d1db469"
+    },
+    "outputs/tpa_native_one_step_engineering_v3_20261020/Failure.json": {
+      "bytes": 3709,
+      "sha256": "d192645b3757e9aead24e16c607077121e2123d2009e0ad65344bfee8e776585"
+    },
+    "outputs/tpa_native_one_step_engineering_v3_20261020/Frozen_Before.json": {
+      "bytes": 422,
+      "sha256": "b7533dd288d5fabee69d501d8b92232f370e06d8d4c067c31e280a0835a32bec"
+    },
+    "outputs/tpa_native_one_step_engineering_v3_20261020/Launcher_ACK.json": {
+      "bytes": 726,
+      "sha256": "52e6adcdedf78b1dcaeab6f732b4ad5eb3f301536f19dd95d2ca8bdd905be817"
+    },
+    "outputs/tpa_native_one_step_engineering_v3_20261020/Legacy_Import_Proof.json": {
+      "bytes": 10586,
+      "sha256": "1ccddcdc9f36a8265b300eb5b71c2f9958ae2fb573d97204900943c28d1db469"
+    },
+    "outputs/tpa_native_one_step_engineering_v3_20261020/partial_audit/Independent_Partial_Audit.json": {
+      "bytes": 1026,
+      "sha256": "3e6e067c7701bbe0cb2a08e6d3463e7261b02afd8088decebd53a99f56cef0a3"
+    },
+    "outputs/tpa_native_one_step_preparation_20261020/Execution_Protocol.json": {
+      "bytes": 3032,
+      "sha256": "7e65971fe8c3309d7610f094679b45bfb3e85bcfa4511cd9fe862e7540d2d701"
+    },
+    "outputs/tpa_native_one_step_preparation_20261020/Seasonal_Preparation_Diagnosis.json": {
+      "bytes": 622,
+      "sha256": "da51eab59c130930dcfd4e00ff6964fb58fc3cbc731b1f9f47095f0e8e3d8c6a"
+    },
+    "outputs/tpa_native_one_step_preparation_v2_20261020/Execution_Protocol.json": {
+      "bytes": 3393,
+      "sha256": "f7805df86955fbc9980bddc99f7688397a9f127446ed3fbb51ae2647a92b62c4"
+    },
+    "outputs/tpa_native_one_step_preparation_v3_20261020/Execution_Protocol.json": {
+      "bytes": 3630,
+      "sha256": "5af7c88facad5d722fd01f9666b166ff74653cadb88c55768e5fd492ca1d4051"
+    },
+    "outputs/tpa_native_second_identity_coordination_20261020/Completion.json": {
+      "bytes": 199,
+      "sha256": "0169acf3ea9ca6901a5d33bcbe65145cca11303d950f6225df3cb3ff9c7b13a1"
+    },
+    "outputs/tpa_native_second_identity_engineering_20261020/Frozen_After.json": {
+      "bytes": 422,
+      "sha256": "b9fc14ffb7645d871c66fb9d289118ab2f57281ce406cf869646d5f5722bbf6c"
+    },
+    "outputs/tpa_native_second_identity_engineering_20261020/Frozen_Before.json": {
+      "bytes": 422,
+      "sha256": "951f4c7bf02f6055432a93e2a2384d628342f413762bd70c83328788bd5ce2e0"
+    },
+    "outputs/tpa_native_second_identity_engineering_20261020/Launcher_ACK.json": {
+      "bytes": 734,
+      "sha256": "93bfab1bcb2e9157e073c9852ceb35d1affb90f2f827a54aafbecccae6c2eb11"
+    },
+    "outputs/tpa_native_second_identity_engineering_20261020/Legacy_Import_Proof.json": {
+      "bytes": 10586,
+      "sha256": "1ccddcdc9f36a8265b300eb5b71c2f9958ae2fb573d97204900943c28d1db469"
+    },
+    "outputs/tpa_native_second_identity_engineering_20261020/Result.json": {
+      "bytes": 1688,
+      "sha256": "75eaa9ad3c725fa8fea7ddb3abf38bdbe8ee41faaad90ceae5d0f3f2689eb62e"
+    },
+    "outputs/tpa_native_second_identity_engineering_20261020/independent_audit/Frozen_After.json": {
+      "bytes": 422,
+      "sha256": "01db2160ad1e4c6bb15512dd399f3fe4e5cffaacefcfb2ac92200570b04c89bb"
+    },
+    "outputs/tpa_native_second_identity_engineering_20261020/independent_audit/Independent_Audit.json": {
+      "bytes": 1163,
+      "sha256": "2a6338bdf917481ff2bf050becd2af38354b7f85505ee5761491d9168f086886"
+    },
+    "outputs/tpa_native_second_identity_engineering_20261020/independent_audit/Launcher_ACK.json": {
+      "bytes": 742,
+      "sha256": "eff0f2c7d8821d8111848d0ad1da38dba5dfa6abce2ec88608c6635b8fd3249e"
+    },
+    "outputs/tpa_native_second_identity_preparation_20261020/Complete_CPU_Device_Port.json": {
+      "bytes": 1005,
+      "sha256": "41aad0c237755d930204d0591b642b2b3939192c0f071c2c8d765ac46bcd432e"
+    },
+    "outputs/tpa_native_second_identity_preparation_20261020/Execution_Protocol.json": {
+      "bytes": 12068,
+      "sha256": "9ee4f9560704a154393e6135b70e176bdccfd13b49584b91b3452d8800e65669"
+    },
+    "outputs/tpa_native_wrapper_complete_readiness_20261020/Failure.json": {
+      "bytes": 506,
+      "sha256": "b1c8435d8dd0c4876b1233d75e0375211b943aacbf11cd8055297b6504a2d3e1"
+    },
+    "outputs/tpa_native_wrapper_complete_readiness_20261020/Frozen_Before.json": {
+      "bytes": 422,
+      "sha256": "052a48f01263dca59a0e29f0fc8dd9eb03c4f95af6bd8bb937e3afa9cf73dab1"
+    },
+    "outputs/tpa_native_wrapper_complete_readiness_v2_20261020/Failure.json": {
+      "bytes": 867,
+      "sha256": "52a7e4bc05f5788f8dd456956aab2a8a26594943b4a4766729914982a90f0b75"
+    },
+    "outputs/tpa_native_wrapper_complete_readiness_v2_20261020/Frozen_Before.json": {
+      "bytes": 422,
+      "sha256": "71c6d6ff5c195c9120069d8583e46f735bfd799d645238f366f95ae25dad503f"
+    },
+    "outputs/tpa_native_wrapper_complete_readiness_v2_20261020/Legacy_Import_Proof.json": {
+      "bytes": 10586,
+      "sha256": "1ccddcdc9f36a8265b300eb5b71c2f9958ae2fb573d97204900943c28d1db469"
+    },
+    "outputs/tpa_native_wrapper_complete_readiness_v3_20261020/Frozen_Before.json": {
+      "bytes": 422,
+      "sha256": "503b070751a4c0a8b6140ff6bc527422447700bdaf40fe276b13b3ed41188040"
+    },
+    "outputs/tpa_native_wrapper_complete_readiness_v3_20261020/Legacy_Import_Proof.json": {
+      "bytes": 10586,
+      "sha256": "1ccddcdc9f36a8265b300eb5b71c2f9958ae2fb573d97204900943c28d1db469"
+    },
+    "outputs/tpa_native_wrapper_complete_readiness_v3_20261020/Result.json": {
+      "bytes": 475,
+      "sha256": "c0437007987a394b7e75a1aa39e5d9c57e1a578bd3744fc5d47d8d28ee94aca5"
+    },
+    "handoff/Frozen_After.json": {
+      "bytes": 424,
+      "sha256": "613c9d361962616854043abd33dfcbc575ed967311aec10cf029ee52fa450815"
+    }
+  },
+  "raw_thirdparty_source_weight_private_notebook_model_credentials_exported": false,
+  "local_new_evidence_archive": {
+    "unique_members": 194,
+    "bytes": 2647011,
+    "sha256": "03614c839a5846eefc573f582d3fac54e18dc2b43759e43b2917f6a3032afaa1",
+    "CRC_and_every_member_hash_passed": true,
+    "local_only": true,
+    "private_export": false
+  }
+}
