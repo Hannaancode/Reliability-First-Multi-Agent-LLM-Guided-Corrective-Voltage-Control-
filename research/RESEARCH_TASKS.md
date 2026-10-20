@@ -1,3 +1,17 @@
+## Latest native1.5B engineering ownership — 2026-10-20T13:27:38.792030+00:00
+
+Single original-profileT4 owner23336/parent18252 freshlyverified; outputs/native_joint_15_engineering_execution_v2_20261020/status.json is actualstatus,exec77982. One longest3229-token current-only nativejoint-head integration,twoDISPOSABLEupdates/coldrestore planned,not completedcounts/performance. Original pre-entry wrongPython dependencyfailure retained with0allocation/forward. Neverrestart/duplicate/live-edit; fixed1800sec engineering+2100collector, exactclosedpreservation/releasebeforeone lockedreader. Noautomaticfulltraining/performance.
+
+Closedphysicalgain:all13residualOVcontexts/fivedevelopmentworlds safelyrestored by numericalcomponent,15/24accepted/9unsafe rejected,276newPFreturnsinclchargedreplay. Extra globalinfo/query; noLLM/wholepolicywin. All6goalsOPEN. Resume outputs/native_upgrade_verified_handoff_20261020/Current_Resume.json;notimers.
+
+## Latest verified native-control and model-upgrade progress — 2026-10-20T13:18:50.095381+00:00
+
+- [x] G3.2g: all24source-policy episodes on eight fixed NEWdevelopment roots independently complete; source3bus stopping removed allUV but full13restoration only3/8stable,3/8linear,5/8DDPG.
+- [x] G3.2h: frozen all24global-affine candidates independently replayed; safely corrected ALL13residualOVstates acrossfiveworlds.15accepted/9unsafe proposals rejected, no threshold/objective retuning. Extra globalinformation/query; notmatchedLLM/wholepolicy superiority.
+- [x] G4.3a: complete causal nativejointaction input/token/mask/float64cursor software gates passed;max3229tokens. Actual1.5B pretrained integration not yet launched.
+
+Newturn actual276PFreturns/0exceptions,708publishedagentforwards,24derivatives/24LU/72RHS/48LP;0newSLM/GPU/training. AllscientificactorsENDED,notimer. AllsixfinalgoalsOPEN. Resume outputs/native_upgrade_verified_handoff_20261020/Current_Resume.json. Preserve stoppedfreeformtransfer, originalfrozenassets/literalDFF+DFFALT/unchangedDSE/FULLBOTHcosts and alladversepartialUNKNOWN.
+
 ## Latest complete actual-model/public benchmark result — 2026-10-20T12:10:25.844553+00:00
 
 - [x] G3.2e/G2.4a: preserved original-trained0.5B newnativePItransfer actual3primary+3freshmodel outputs complete; independentcoldtokens/source/private/basevalues/fullcostauditPASS, fixedschema gateFAIL(0/3actuable).488directpretrainedforwards,0PF/training,actualT4released. STOPfixedroute;noformat/prompt/decoder/budgetrescue. Notoriginalpaperformatfailure/universalLLMinability.

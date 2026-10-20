@@ -1,5 +1,5 @@
 {
-  "at_utc": "2026-10-20T12:10:25.844553+00:00",
+  "at_utc": "2026-10-20T13:27:38.792030+00:00",
   "authority": "Latest direct human six-priority instruction, retained in exact order; execute evidence-led work and update records.",
   "goal_remains_active_unachieved": true,
   "tasks": [
@@ -16,7 +16,7 @@
         "Match plant,information,actions,protection,budgets,splits and costs; report all wins/ties/losses/failures.",
         "Claim superiority only if frozen comparison and independent unused confirmation support it."
       ],
-      "current_result": "OriginalLoRAnewnativePIschema0/3valid;6generations/488forwards/coldexact/immutablePASS;fixedrouteSTOP. Otherauthorsfirst13buscontrollers5/5/3actionsto0UV,notours. Newonline13/56bus8actorloadgatecomplete,noinference/physics.",
+      "current_result": "Eight fixed NEWdevelopment roots/all24source branches independently complete; native globalaffine correction safely resolves13residualOVcontexts, nineunsafe rejected. Notmatchedwholepolicy/LLMsuperiority.",
       "subtasks": [
         {
           "id": "G3.1",
@@ -87,6 +87,20 @@
           "description": "Pin additional official online-topology13/56bus code/data/checkpoints; strictly loadall8actorcomponents andcheckall5MATfinite,zero scientificforwards/PF. Performance remainsunexecuted.",
           "evidence": "outputs/online_topology_published_intake_20261020/native_loader_independent_audit_v2/Independent_Native_Loader_And_Input_Audit.json",
           "verified_at_save": "2026-10-20T12:10:25.844553+00:00"
+        },
+        {
+          "id": "G3.2g",
+          "completed": true,
+          "description": "Complete all24sourcefaithful baseline support episodes and independent physical/cold replay on eight newfixeddevelopmentroots.",
+          "evidence": "outputs\\native_action_upgrade_support_independent_20261020\\Independent_Audit.json",
+          "verified_at_save": "2026-10-20T13:18:50.095381+00:00"
+        },
+        {
+          "id": "G3.2h",
+          "completed": true,
+          "description": "Complete all24frozen affine proposals and independent nonlinear replay retaining every rejection and full cost.",
+          "evidence": "outputs\\native_affine_physics_independent_20261020\\Independent_Audit.json",
+          "verified_at_save": "2026-10-20T13:18:50.095381+00:00"
         }
       ],
       "latest_published_baseline_source": "outputs\\pfdelta_benchmark_source_review_20261019\\Snapshot_Metadata.json",
@@ -367,7 +381,7 @@
       "target": "Try higher-parameter small language models and compare each fairly.",
       "status": "FIXED_3B_THRESHOLD_EXCLUDED_BY_ALL96_MISSING_EVIDENCE_UPPER_BOUND_7B_ENGINEERING_OOM_STOPPED",
       "done": "Adapted0.5B41.6667% and1.5B53.125% teacher-action accuracy, both100%schema; numerical72.9167%, fixed gateFAIL. Public3B/7B screens were different unadapted contracts, not matched scaling. New3B/7B pinnedmodels, exactsame436cached tokenpairs/340FIT96HELD/16kmultiplicities; allscientifictrainer/state/verifier sources byteunchanged, actualPEFTsourceguard added before engineering. TwoactualT4allocations, no fallback/thirdallocation. Final2epochs only; no performance yet.18Octindependentpartialaudit:3B170updates/finalfullstateverified/81outputs42hits81legal/full96upper.59375<numeric.7291667;7BfirstbackwardOOM. Fullpair/reloadunknown; neitherarmmayrestart.",
-      "next": "No further size-only training on this imitation recipe. Retain all smaller/higher/cost/partial outcomes. Any materially different decision-aligned method needs prospective support/economic/strong-control/actual-memory gates.",
+      "next": "Freeze actual1.5B public-body native-joint-head integration protocol, sources, complete-state CPU validator, full costs and exact ownership gates. Execute one bounded disposable GPU engineering integration with longest full3229-token input, two updates, complete local moments/scaler/RNG/cursor ACK and exact fresh-model restoration.",
       "completed": false,
       "checklist_id": "G4",
       "completion_criteria": [
@@ -396,6 +410,13 @@
           "description": "If justified by a materially different mechanism, freeze and complete a fair higher-model comparison; do not repeat size-only failed imitation.",
           "evidence": null,
           "verified_at_save": null
+        },
+        {
+          "id": "G4.3a",
+          "completed": true,
+          "description": "Complete native causal full3229token jointhead software/context/pairing/cursor gates; no nativepretrainedcall yet.",
+          "evidence": "outputs/native_slm_joint_input_preparation_20261020/Readiness.json",
+          "verified_at_save": "2026-10-20T13:18:50.095381+00:00"
         }
       ],
       "previous_priority": 4
@@ -472,9 +493,17 @@
     }
   ],
   "process_ownership_at_save": {
-    "owned_jobs": [],
-    "GPU_assignments": [],
-    "timers": []
+    "actual_pid": 23336,
+    "parent_pid": 18252,
+    "source": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_native_joint_15_colab_v2_20261020.py",
+    "source_sha256": "52df26bdc561270e2d04390324bf3e32bd461bf73e59be6d638619a2af3cfa71",
+    "status": "outputs/native_joint_15_engineering_execution_v2_20261020/status.json",
+    "coordinator": "outputs/native_joint_15_engineering_coordination_v2_20261020",
+    "session": 77982,
+    "reader": "work/audit_native_joint_15_engineering_v2_20261020.py",
+    "reader_only_after_actual_end_release_closed_success": true,
+    "no_restart_duplicate_or_source_settings_change": true,
+    "actual_preentry_zero_science_failure_preserved": true
   },
   "scientific_limits": "ZeroUV and superiority are targets, not guaranteed attainability or90%winning confidence. Old stopped/partial studies and original frozen assets stay preserved.",
   "latest_verified_research": {
@@ -668,7 +697,7 @@
     "scientific_jobs_started_before_scheduled_time": 0
   },
   "latest_at_utc": "2026-10-20T05:58:21.034250+00:00",
-  "latest_resume": "outputs/original_lora_native13_transfer_completion_20261020/Current_Resume.json",
+  "latest_resume": "outputs\\native_upgrade_verified_handoff_20261020\\Current_Resume.json",
   "latest_human_instruction": "2026-10-20: published-model comparison and public-dataset benchmarks first, then complete undervoltage reduction; retain LLM superiority and security goals.",
   "priority_order": [
     "G3",

@@ -1,0 +1,128 @@
+{
+  "members": 37,
+  "bytes": 82970,
+  "sha256": "94e0d0700cd0222d07a57fdd9f1a4e03648527e1b3b3b62d45c688d58aff6d46",
+  "no_private_credentials_weights_network_raw_NETs_or_thirdparty_weight_export": true,
+  "source_files": {
+    "work/audit_native_affine_physics_support_20261020.py": {
+      "bytes": 5029,
+      "sha256": "d79cb7929804c30f029840d84cb7dead20e09f68273133ab57c4f5132183d5de"
+    },
+    "work/audit_native_full_grid_affine_gate_20261020.py": {
+      "bytes": 6644,
+      "sha256": "508bc38be153e39206b48db63031378274b5064aa267fc85690cd7401773ae96"
+    },
+    "work/audit_native_joint_15_engineering_20261020.py": {
+      "bytes": 4580,
+      "sha256": "d72135fff2954a70e6402df35b3b9fe94e4e2ed99bf7df9e415d9fba517fb7a0"
+    },
+    "work/audit_native_joint_15_engineering_v2_20261020.py": {
+      "bytes": 4624,
+      "sha256": "6b1b9f1468c64169ccbf8fdea010f43a3b86977f5ec8ba7a40a459c930c3bff7"
+    },
+    "work/audit_native_upgrade_support_20261020.py": {
+      "bytes": 1142,
+      "sha256": "6a3203c42b655ad232df5d4166d1dad2e3205f1dc4a07226156c11785b4faf04"
+    },
+    "work/native_full_grid_affine_core_20261020.py": {
+      "bytes": 1090,
+      "sha256": "f0c1b6507b4fb037b12e91fdc669b1161920f4e8f372b525e13a55bf574c7f38"
+    },
+    "work/native_joint_15_environment_check_20261020.py": {
+      "bytes": 1911,
+      "sha256": "673a9296b94c178147e1d6e9b4bf94be91103732c089c9ba66f53e8a51f1a5f0"
+    },
+    "work/native_joint_15_guardian_20261020.py": {
+      "bytes": 2176,
+      "sha256": "f903c36ff44958d4068046d2bbaa436106e3397c1e699af6d6e9efd18510bbeb"
+    },
+    "work/native_joint_15_setup_remote_20261020.py": {
+      "bytes": 1998,
+      "sha256": "16cd72bc3012092c4cb6403a2d7457f512fd401c2288cdfebe4ac1d4e5b541b9"
+    },
+    "work/native_joint_checkpoint_contract_20261020.py": {
+      "bytes": 2838,
+      "sha256": "65294405256c09fa6be185dee28f172c174486e5cbc8297b692442c64affae98"
+    },
+    "work/native_slm_action_head_v1_20261020.py": {
+      "bytes": 3348,
+      "sha256": "9cfe3fd78a7b05a7727261b194d9dc0f3a222a95cf31bba1e6bd8b60025d68f9"
+    },
+    "work/native_slm_causal_features_20261020.py": {
+      "bytes": 2508,
+      "sha256": "9341d6c69cb86c6e608622062d6818da81e1e0778d60669c750d89d0889371fb"
+    },
+    "work/native_slm_joint_head_20261020.py": {
+      "bytes": 931,
+      "sha256": "d11731b721a6cbf341bbeadd9a110965ede9fa0b2faa36fb2245d13162c57096"
+    },
+    "work/native_slm_joint_head_v2_20261020.py": {
+      "bytes": 1051,
+      "sha256": "0b6980f48c17f1a9ff5f82a70c5ab38f25090d7cc9d687d186a95f49e83920b7"
+    },
+    "work/native_upgrade_support_engine_20261020.py": {
+      "bytes": 13580,
+      "sha256": "0d6bbd3b1fecf49543c6727355cc924791e01668f08ad5f41d3431138053c5f9"
+    },
+    "work/prepare_native_action_upgrade_support_20261020.py": {
+      "bytes": 8560,
+      "sha256": "0f77ab306de5467aa018638b227de458acabe6a347d2b2c83a17b2764e93838b"
+    },
+    "work/prepare_native_affine_physics_support_20261020.py": {
+      "bytes": 7263,
+      "sha256": "8aa458d5e7af12f52dcc7a80b3c204afc46f3e76e920bd6c3a467b49f3d295eb"
+    },
+    "work/prepare_native_full_grid_affine_gate_20261020.py": {
+      "bytes": 5922,
+      "sha256": "d424dcda073bd3c6254e45e4001e367ea45f4a064febdce3f99161b65c380ae8"
+    },
+    "work/prepare_native_joint_15_engineering_20261020.py": {
+      "bytes": 10085,
+      "sha256": "f51e31853678547c7be79ac70228ab76f20cf33bfdaaf546a2e8876c8d974a4d"
+    },
+    "work/prepare_native_joint_inputs_20261020.py": {
+      "bytes": 5145,
+      "sha256": "c1f1a6c4cb2b4143d119c0dedd21f6b9014a0a12b7a88a88e0b7b4f6d39425db"
+    },
+    "work/prepare_native_joint_unentered_launcher_v2_20261020.py": {
+      "bytes": 3706,
+      "sha256": "c2023ce10ef6376e6d7779a1a4b2ff376a672fbbeee7b143784e7dce60a030fe"
+    },
+    "work/run_native_affine_physics_support_20261020.py": {
+      "bytes": 7948,
+      "sha256": "5438489b15022804f9f86d2fd834071f2d7e0f5d5af4b27364aae85d5535942d"
+    },
+    "work/run_native_full_grid_affine_gate_20261020.py": {
+      "bytes": 7146,
+      "sha256": "bb2b0fcd98c7392defc48e8f9fa9d0133a8f5f962ffe60717134acd80e099000"
+    },
+    "work/run_native_joint_15_colab_20261020.py": {
+      "bytes": 18169,
+      "sha256": "28ccd248e06d6a7bc9ca303de2c59cfbd140e551ab12e1d1beef5c3c6bd24d96"
+    },
+    "work/run_native_joint_15_colab_v2_20261020.py": {
+      "bytes": 18175,
+      "sha256": "52df26bdc561270e2d04390324bf3e32bd461bf73e59be6d638619a2af3cfa71"
+    },
+    "work/run_native_joint_15_engineering_remote_20261020.py": {
+      "bytes": 11260,
+      "sha256": "b8eadb63cf8fb3bebd5164acabe9ee3ea7b5f2dc711190ab073ea6ba5f1ca7b8"
+    },
+    "work/run_native_upgrade_support_20261020.py": {
+      "bytes": 153,
+      "sha256": "00e846c3c6a04a228e43cc04340dc37fef650ed75a8ec6fd86eb7f4b86b8f2bc"
+    },
+    "work/save_native_joint_live_and_publication_20261020.py": {
+      "bytes": 7337,
+      "sha256": "b21b85bd31a34d307a12e704415eaea270d675020ecd23e9ce2ba94093da7433"
+    },
+    "work/save_native_upgrade_verified_progress_20261020.py": {
+      "bytes": 8232,
+      "sha256": "fe9d447c9d7583913d902cb6a1e27b3e2a9dfedd7bf3bb570b4980695b761d66"
+    },
+    "work/validate_native_joint_checkpoint_20261020.py": {
+      "bytes": 2614,
+      "sha256": "e09d106aeeb3d64f1e51f6a1728e02f1c4866e345c8983f662d6ee4e46fa4ebf"
+    }
+  }
+}

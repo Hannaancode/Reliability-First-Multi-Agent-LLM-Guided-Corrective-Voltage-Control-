@@ -1,0 +1,99 @@
+{
+  "at_utc": "2026-10-20T13:27:38.792030+00:00",
+  "status": "CLOSED_PHYSICAL_PROGRESS_NATIVE15_DISPOSABLE_ENGINEERING_LIVE",
+  "all6goals": "OPEN",
+  "priority_order": [
+    "G3",
+    "G2",
+    "G1",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "published_native_support": {
+    "all8_development_seeds": [
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507
+    ],
+    "all24_branches_complete": true,
+    "all24_final_UV": 0,
+    "full13bus_restoration": {
+      "stable_DDPG": 3,
+      "linear": 3,
+      "DDPG": 5
+    },
+    "denominator_each": 8,
+    "source_done_only_checks_3_controlled_buses": true
+  },
+  "stronger_numerical_component": {
+    "all24_frozen_proposals_evaluated": true,
+    "accepted": 15,
+    "rejected_new_UV": 9,
+    "all13_residual_OV_contexts_safely_restored": true,
+    "independent_development_worlds": 5,
+    "full_field_replay_max_delta": 0.0,
+    "extra_global_Y_information_and_one_query_disclosed": true,
+    "no_matched_whole_policy_superiority": true
+  },
+  "new_actual_costs": {
+    "PF_returns": 276,
+    "PF_exceptions": 0,
+    "published_agent_module_forwards": 708,
+    "checkpoint_loads": 216,
+    "dSbus_dV_returns": 24,
+    "LU_factorizations": 24,
+    "RHS_solves": 72,
+    "LP_returns": 48,
+    "separate_mock_LP_returns": 5,
+    "pretrained_SLM_GPU_optimizer_calls": 0
+  },
+  "upgrade_stage": "Native bounded joint numerical action head and complete causal paired-token inputs software-ready; actual1.5B loader/gradient/memory/full-checkpoint engineering NOT YET LAUNCHED.",
+  "upgrade_inputs": {
+    "all24_current_states": true,
+    "max_complete_tokens": 3229,
+    "body_context": 4096,
+    "one_body_three_native_actuators": true,
+    "public05_15_token_ID_pairing_verified": true,
+    "no_future_labels_in_forward": true,
+    "native_float64_Q_cursor_fix_before_any_pretrained_call": true
+  },
+  "all_new_scientific_owners_and_readers": "Closedphysics actorsENDED;single NEWnative15engineering ownerLIVE",
+  "current_GPU_or_timer": "ONE_ORIGINAL_PROFILE_T4_NO_TIMER",
+  "audit_anchors": {
+    "outputs\\native_action_upgrade_support_independent_20261020\\Independent_Audit.json": "c43b469aa5a9f18973c5f57c179893a0ff2146ae46d600122943faaff508bb1f",
+    "outputs\\native_full_grid_affine_independent_20261020\\Independent_Audit.json": "8a410fe191c85b0541424ec40e2e62e53ce5d79834eda43b7b6d9b9c2bccedb0",
+    "outputs\\native_affine_physics_independent_20261020\\Independent_Audit.json": "a3c7a605f001e9d4f236fe16ebe48cc28dc70dd3429f9ed3ed6b7fd1bdf98080"
+  },
+  "previous_failed_freeform_transfer": "STOPPED;0/3valid,newnativecommandrole;do not prompt/decoder/budget repair/relabel as originalpaperfailure",
+  "next_ordered_tasks": [
+    "Freeze actual1.5B public-body native-joint-head integration protocol, sources, complete-state CPU validator, full costs and exact ownership gates.",
+    "Execute one bounded disposable GPU engineering integration with longest full3229-token input, two updates, complete local moments/scaler/RNG/cursor ACK and exact fresh-model restoration.",
+    "Only after actual integration evidence, specify paired public0.5/1.5 and same-information MLP/numerical controls, fixed training/test identities and complete protected trajectories before performance.",
+    "Extend relevant reproducible public benchmarks only through native-faithful prospective contracts; retain every failed/partial/unknown outcome."
+  ],
+  "claim_limits": [
+    "13 corrected contexts are five inspected development worlds, not13independent samples.",
+    "All UV was already removed by source policies on this cohort; new component fixes residual OV.",
+    "Centralized extra information/query/stopping semantics preclude matched superiority or LLM attribution.",
+    "All six final goals and original DSE/federation/severe-case/security targets remain open."
+  ],
+  "live_native15": {
+    "actual_pid": 23336,
+    "parent_pid": 18252,
+    "source": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_native_joint_15_colab_v2_20261020.py",
+    "source_sha256": "52df26bdc561270e2d04390324bf3e32bd461bf73e59be6d638619a2af3cfa71",
+    "status": "outputs/native_joint_15_engineering_execution_v2_20261020/status.json",
+    "coordinator": "outputs/native_joint_15_engineering_coordination_v2_20261020",
+    "session": 77982,
+    "reader": "work/audit_native_joint_15_engineering_v2_20261020.py",
+    "reader_only_after_actual_end_release_closed_success": true,
+    "no_restart_duplicate_or_source_settings_change": true,
+    "actual_preentry_zero_science_failure_preserved": true
+  }
+}
