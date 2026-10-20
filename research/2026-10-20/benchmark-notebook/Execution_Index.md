@@ -1,0 +1,11 @@
+# 20 October: benchmark-first research continuation
+
+Reviewed all six supplied earlier Colab notebooks without executing cells. Recovered original0.5Bultra512training recipe, compact-data transformation and saved2000step trainer-metadata consistency. Exact historical masking/base/runtime/run-to-weight identity remains unproved. Three profiles authenticated andT4eligible with zero allocations; no fourth configured profile found. No credentials or raw notebooks are published.
+
+All3nativeMAPDNnetwork structures and all71pinned author-source files were independently checked. Complete3.76GBauthor archive matches pinnedSHA and all16CRCs. All9inputtraces checked465,057,216numericvalues: allfinite.33/141each526080rows;322each526084rows, with one initial timestamp reversal in every322trace. Every native row remains; positional native reproduction and chronology-based new generalization are distinct. An earlier line-only inspector failure and Windows mutable-status transfer failure are retained with zero-science diagnoses; GET-only preservation fetched only missing source bytes.
+
+An officialKDD2024TPA-for-AVC322bus checkpoint(13,459,565bytes)and74source files are pinned/verified, with all120author evaluation-day identities retained before outcomes. No checkpoint/model inference or newPF was executed. Latest LLM/control literature leads are classified by actual role and artifact accessibility, rather than comparing incompatible headline numbers.
+
+The benchmark-first order is G3,G2,G1,G4,G5,G6; all finalgoalsOPEN. Next is exact nativehistory/model-loader/action-adapter engineering and strongcontrols before fixed performance. Original trainedshuntLOCAL role, frozen assets, DFF/DFFALT/unchangedDSE and FULLBOTH/fullmodel/training/preparation/failure costs remain preserved. No published-system superiority or new physical improvement is claimed.
+
+The ZIP contains our source and compact evidence. All raw notebooks, credentials, private adapters, unpublished manuscript, full public data and TPAcode/checkpoint remain local. This is a compact progress publication, not complete raw-artifact backup. Sources: https://github.com/Future-Power-Networks/MAPDN ; https://github.com/Canyizl/TPA-for-AVC ; https://github.com/siemens/powergym ; original paper metadata and further primary-source links are in the included registry.

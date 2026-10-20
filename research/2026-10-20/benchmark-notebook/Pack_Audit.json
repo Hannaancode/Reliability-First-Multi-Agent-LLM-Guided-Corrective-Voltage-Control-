@@ -1,0 +1,206 @@
+{
+  "at_utc": "2026-10-20T05:59:15.212984+00:00",
+  "status": "PASS_CRC_EVERY_INCLUDED_MEMBER_SHA256_AND_SECRET_SCREEN",
+  "members": [
+    {
+      "path": "work/review_supplied_notebooks_20261020.py",
+      "bytes": 6037,
+      "sha256": "ed0639bf63b9b186141e8973274e07ef7beb2531981461f5af045181d7d8edcb"
+    },
+    {
+      "path": "work/inspect_mapdn_static_tables_20261020.py",
+      "bytes": 8227,
+      "sha256": "7bdfca0d7c8649905a9aa576cf3b7a893dc90dd7b1591fcd96b1142e13c98030"
+    },
+    {
+      "path": "work/audit_mapdn_static_contract_20261020.py",
+      "bytes": 4129,
+      "sha256": "7f895cf1ec8f4890f427bb8269ac3d8398e1a704fba405d97b95c3555cb5f370"
+    },
+    {
+      "path": "work/inspect_mapdn_timeseries_headers_20261020.py",
+      "bytes": 3678,
+      "sha256": "6992bb0e9e3f27f1b0b11bfc79ef71dc4a4e568acec81b03f9cf1d367c2c560e"
+    },
+    {
+      "path": "work/download_mapdn_author_dataset_20261020.py",
+      "bytes": 4354,
+      "sha256": "8eb73d5fed53cfd3bd4af8cf5b3621d9e754b99196c191abd8062f7c31478b36"
+    },
+    {
+      "path": "work/preserve_remaining_mapdn_source_bytes_20261020.py",
+      "bytes": 4754,
+      "sha256": "d9f6f4cc4b9c75296c77396a9e39576cae70443a8ea4591953654648434f7145"
+    },
+    {
+      "path": "work/inventory_mapdn_full_trace_inputs_20261020.py",
+      "bytes": 4849,
+      "sha256": "fa79c381d438e6e47fb47dc57e72bdab4ec5e79d7e796abc49622c7473b08ac3"
+    },
+    {
+      "path": "work/diagnose_remaining_mapdn_trace_inputs_20261020.py",
+      "bytes": 5056,
+      "sha256": "95bb6a51fcd9fcd1f34804a760ddeb8027b02c0cc81112ded12abf0f51f18b38"
+    },
+    {
+      "path": "outputs/benchmark_priority_20261020/Benchmark_First_Execution_Plan.md",
+      "bytes": 4145,
+      "sha256": "d86272be8164a25e38e0add9d8ec6c10a360d10955bef9f41543edac22c2af4f"
+    },
+    {
+      "path": "outputs/benchmark_priority_20261020/Benchmark_Registry.json",
+      "bytes": 5899,
+      "sha256": "287c0d8b3dd797fdf7fc39aaa6f1e8f2b2aafba719d2a068bf4df42198b3e2bc"
+    },
+    {
+      "path": "outputs/benchmark_priority_20261020/Paper_Versus_Current_Evidence.json",
+      "bytes": 1319,
+      "sha256": "df1d74c71082d27f35e295ea122f5308d77e0b3f655f5ab6c455d591af74c5e2"
+    },
+    {
+      "path": "outputs/benchmark_priority_20261020/Author_Source_Byte_Proof.json",
+      "bytes": 9386,
+      "sha256": "c9deb03fa98515ddc6fbe9034667481059c8878d928e485c9de450872b124e80"
+    },
+    {
+      "path": "outputs/notebook_reference_review_20261020/Review_and_Research_Implications.md",
+      "bytes": 3377,
+      "sha256": "fa123553655d2361318f89937b012c36cc2dead16fd1bfa17a32d33389b6839d"
+    },
+    {
+      "path": "outputs/notebook_reference_review_20261020/Review_Checkpoint.json",
+      "bytes": 1309,
+      "sha256": "8a8bd2a95c32a338c080f40f21553a414ef6d5e419287baecd006565c1139c76"
+    },
+    {
+      "path": "outputs/notebook_reference_review_20261020/Original_Adapter_Metadata_Reconciliation.json",
+      "bytes": 1608,
+      "sha256": "67b32cd5f254e20636a392ac7625a4b1c5be413aaa6bae348c49ee32b7878d44"
+    },
+    {
+      "path": "outputs/mapdn_native_contract_20261020/Failed_Line_Only_Inspector.py",
+      "bytes": 7634,
+      "sha256": "15da98a1b4085a933ac6c55bfaeaa86129f7ac14eb3b3e22928945de2a7aa498"
+    },
+    {
+      "path": "outputs/mapdn_native_contract_20261020/Failure.json",
+      "bytes": 315,
+      "sha256": "ecef42c3857b16a5780d02af95ff4ec46f01a67a79a040281ee01967b3c8ec77"
+    },
+    {
+      "path": "outputs/mapdn_native_contract_20261020/Protocol.json",
+      "bytes": 927,
+      "sha256": "ff3a4af315a509546c952e3186e5bd1b2f1d136be01b1251c04382d88ed8b99d"
+    },
+    {
+      "path": "outputs/mapdn_native_contract_v2_20261020/Protocol.json",
+      "bytes": 1028,
+      "sha256": "963264ef80cf2ea6282a4a6abdb2748b7487688d74b9f80eabe92fe030435c73"
+    },
+    {
+      "path": "outputs/mapdn_native_contract_v2_20261020/Results.json",
+      "bytes": 16549,
+      "sha256": "f2ef4ad433721058ea3332ca3b39b2ad398c335e3fed48535312ced0b87e4765"
+    },
+    {
+      "path": "outputs/mapdn_native_contract_v2_20261020/All_Author_Source_Proof.json",
+      "bytes": 16598,
+      "sha256": "95e5a741b52999ea76bf04c1e1ac496c0c21bfd6763d4fe7beb93e522b093983"
+    },
+    {
+      "path": "outputs/mapdn_native_contract_v2_20261020/Native_Benchmark_Contract_and_Execution.md",
+      "bytes": 3641,
+      "sha256": "872f7e81cce7175f7efd7417ece40a8f15bc9aab8b1f5c52cff8b07ec1c4f62a"
+    },
+    {
+      "path": "outputs/mapdn_native_contract_v2_20261020/independent_audit/Independent_Audit.json",
+      "bytes": 2172,
+      "sha256": "4126f6e2bead7aa44eb09683ce6f6525530b43240b3226ad6fbf9855c91dd09c"
+    },
+    {
+      "path": "outputs/mapdn_native_contract_v2_20261020/timeseries_headers/Protocol.json",
+      "bytes": 2717,
+      "sha256": "1890659a92d00623c48cb5611da18c58b31b6f66d7aabf72e6d7aff6c858003d"
+    },
+    {
+      "path": "outputs/mapdn_native_contract_v2_20261020/timeseries_headers/Results.json",
+      "bytes": 19079,
+      "sha256": "b8203cad8f97084dcd6827906681d2dfe5a5bd988a15ce79c5240d0bb30f441d"
+    },
+    {
+      "path": "outputs/mapdn_author_dataset_full_20261020/Protocol.json",
+      "bytes": 612,
+      "sha256": "8c1f41a3b9768fc9b4defe7ebafe2be65d38524d029e43e49a7b4ef19926698d"
+    },
+    {
+      "path": "outputs/mapdn_author_dataset_full_20261020/Failure.json",
+      "bytes": 857,
+      "sha256": "17b2d3b2e03b6b0add975394cb2fb7599251b8bacddc11adedeb07bf769ae9e4"
+    },
+    {
+      "path": "outputs/mapdn_author_dataset_preservation_20261020/Protocol.json",
+      "bytes": 842,
+      "sha256": "f211cd41d95f5fb0498801767d5df1deef085c6251c2e9b520a165f26a39cb0c"
+    },
+    {
+      "path": "outputs/mapdn_author_dataset_preservation_20261020/Result.json",
+      "bytes": 1177,
+      "sha256": "de4ed0a1c41a1822b923382755eb769832ce07b378a99f9c3a08e23187b55730"
+    },
+    {
+      "path": "outputs/mapdn_full_trace_inventory_20261020/Protocol.json",
+      "bytes": 1290,
+      "sha256": "8258555ca6e4db42c03db28d4a1626c2a50e2b5521b959744b94a0ce3986f1ec"
+    },
+    {
+      "path": "outputs/mapdn_full_trace_inventory_20261020/Failure.json",
+      "bytes": 14475,
+      "sha256": "aa7b3f30c9cdee60b56ab467edfc9a6e2ae6186c0c853ee9b8dcafed3ed710a7"
+    },
+    {
+      "path": "outputs/mapdn_remaining_trace_diagnosis_20261020/Protocol.json",
+      "bytes": 744,
+      "sha256": "bf70a77f189b038d41783fe3cc5db9796b5537779c1873a52c70c0b2fbb6326d"
+    },
+    {
+      "path": "outputs/mapdn_remaining_trace_diagnosis_20261020/Results.json",
+      "bytes": 44063,
+      "sha256": "9a5b1c38e151910fa91ed4d463a117cf76f303dec929b82b6241d8523e09fd9c"
+    },
+    {
+      "path": "outputs/published_method_roster_addendum_20261020/Comparator_Roster_Addendum.json",
+      "bytes": 3953,
+      "sha256": "88007c50e7ef908c0dfde9e715986e2d5a5737e99358ffdd3a7eb6580adef395"
+    },
+    {
+      "path": "outputs/published_method_roster_addendum_20261020/TPA_Source_Metadata.json",
+      "bytes": 43650,
+      "sha256": "a17ff22efc30f07d476957234a22c3094111152fda70d54f77c3bbf00c7ca7cd"
+    },
+    {
+      "path": "outputs/published_method_roster_addendum_20261020/TPA_Actual_Checkpoint_And_Source_Intake.json",
+      "bytes": 17868,
+      "sha256": "7d16e8f8c0c74e1ac45283b92169cd272c3603e291c957256c06a9b231ccc462"
+    },
+    {
+      "path": "outputs/published_method_roster_addendum_20261020/TPA_Author_Evaluation_Schedule.json",
+      "bytes": 15550,
+      "sha256": "732313a10564ac1aa81d64e152beb2d5438eccc6e37c0f73637c6c3f1f504858"
+    },
+    {
+      "path": "outputs/selected_33_23_16_12_prefix_audit_v4_20261019/Independent_Selected_Prefix_Audit.json",
+      "bytes": 2836,
+      "sha256": "247e308b14bd3b3f97f0fd41fa5cf4a141ede9916d8cc57599cf45cd72df5423"
+    },
+    {
+      "path": "Notebook_File_Hashes_Without_Local_Paths.json",
+      "bytes": 2138,
+      "sha256": "67f3b6ec35a43fd99d9006abbdc4953f3503f73cb70243c80b9fafd90e0a8fb7"
+    }
+  ],
+  "ZIP_bytes": 83052,
+  "ZIP_sha256": "4cb5e331363e00d1b88040cba9a04409cd4140e56196257bd2c8a7990caa92b3",
+  "all6finalgoalsopen": true,
+  "raw_notebooks_credentials_manuscript_TPAcode_weights_and_full_data_excluded": true,
+  "no_complete_raw_binary_backup_claim": true
+}

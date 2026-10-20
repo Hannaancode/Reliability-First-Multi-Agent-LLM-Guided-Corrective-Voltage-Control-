@@ -1,0 +1,33 @@
+{
+  "at_utc": "2026-10-20T05:58:21.034250+00:00",
+  "priority_order": [
+    "G3",
+    "G2",
+    "G1",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "all_six_final_goals": "OPEN",
+  "notebook_review": "outputs/notebook_reference_review_20261020/Review_and_Research_Implications.md",
+  "current_access": "Three profiles authenticated,T4eligible,zeroallocations;fourthnotfound;hours/resetunknown",
+  "benchmark_inputs": "All3staticnetworkstructuralchecks/all71authorsourcefiles/all9headers independentlyPASS;complete3763536396bytearchiveSHAand16CRCsPASS",
+  "full_source_integrity": "outputs/mapdn_author_dataset_preservation_20261020/Result.json",
+  "original_transfer_failure": "originalwriterendedafter2701131776byteswithWindowsstatusreplacementPermissionError;prefixandfailurepreserved;distinctGET-onlypreservationfetchedonly1062404620remainingbytes",
+  "trace_issue": "ALL9inputinventoriescomplete: six33/141traces526080row,three322traces526084rows;allnumericfieldsfinite. All322traceshaveonereversal row3to4,00:12to00:03. Native rows unchanged. Chronological regularity gateFAIL, native positional interpretation retained.",
+  "trace_diagnosis": "outputs/mapdn_remaining_trace_diagnosis_20261020/Results.json",
+  "published_checkpoint": "TPAKDD2024one322checkpoint13,459,565bytesplus74sourcefilesverified,notexecuted",
+  "native_contract": "outputs/mapdn_native_contract_v2_20261020/Native_Benchmark_Contract_and_Execution.md",
+  "next": [
+    "Audit/explicitly bind native positional and history semantics, preserving322prefix and all120author scheduleidentities. Nativeordinalreproduction and separatelyprospectivechronologicalgeneralization must be distinct.",
+    "Prepare isolatedTPA/MAPDNactualCPU/GPUmodel loader and native observation/action/checkpointcoldgates, explicitHierGridsignedinverteradapter and equallyinformed numericalcontrols;originalshuntrole is unchanged.",
+    "Freeze first-only loader/observation/actuator engineering exact source/currentinput/noiseseed/budgets/ownership/preservation/reader before any newmodel/PF. No publicbenchmarkperformance completed;no oldscience resumed.",
+    "Publish compactsanitizednewcode/sourceproofs/checklist/resumewithlease/exactdownloadbyteverification."
+  ],
+  "scientific_model_GPU_jobs": "NONE",
+  "data_diagnostic_job": "ENDED",
+  "new_model_PF_optimizer_GPU_allocation_calls": 0,
+  "timers_active": false,
+  "full_input_numeric_values_checked": 465057216,
+  "author_schedule": "All120authorTPAevaluationdayidentitiesretainedbeforeanypolicyoutcome,seed53/hour23/interval2source;notunusedconfirmation"
+}

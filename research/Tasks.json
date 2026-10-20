@@ -1,14 +1,110 @@
 {
-  "at_utc": "2026-10-19T14:06:19.857936+00:00",
+  "at_utc": "2026-10-20T05:58:21.034250+00:00",
   "authority": "Latest direct human six-priority instruction, retained in exact order; execute evidence-led work and update records.",
   "goal_remains_active_unachieved": true,
   "tasks": [
     {
       "priority": 1,
+      "target": "Compare against relevant published models/systems and benchmark whether ours is better.",
+      "status": "ALL36_PUBLISHED_PFDELTA_INPUT_EQUATIONS_VERIFIED_COMMON_CONTROL_ROLE_PENDING",
+      "done": "Published optimization/RL/hybrid method registry saved; differences in plants/actuators/software documented. NativepublishedACOPF fullmatrix/angle/thermal/gen/voltage/objective inputcontract independentlyprepared onall3, actualsolverbenchmarkpending. ActualnativeACOPF implementation trial acrossall3 terminated onlibrarycompatibility; originalcontrols/source/costs retained, nativefeasiblebenchmark stillUNKNOWN. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
+      "next": "Audit/explicitly bind native positional and history semantics, preserving322prefix and all120author scheduleidentities. Nativeordinalreproduction and separatelyprospectivechronologicalgeneralization must be distinct. Prepare isolatedTPA/MAPDNactualCPU/GPUmodel loader and native observation/action/checkpointcoldgates, explicitHierGridsignedinverteradapter and equallyinformed numericalcontrols;originalshuntrole is unchanged.",
+      "completed": false,
+      "checklist_id": "G3",
+      "completion_criteria": [
+        "Select relevant reproducible primary-source methods and document fidelity and task differences.",
+        "Match plant,information,actions,protection,budgets,splits and costs; report all wins/ties/losses/failures.",
+        "Claim superiority only if frozen comparison and independent unused confirmation support it."
+      ],
+      "current_result": "All3MAPDNnativeinput/sourceauditPASS;complete3.76GBauthorarchiveSHA/16CRCsPASS;all9fullinputinventoriesfinite.322nativeprefixhas4repeatedtimestamps,nodeduplication.OfficialTPAKDD2024pretrained322checkpointand120authortestschedulepinned;notexecuted. No superiority result.",
+      "subtasks": [
+        {
+          "id": "G3.1",
+          "completed": true,
+          "description": "Record the source-faithful all3native classical benchmark trial and independent outcomes.",
+          "evidence": "outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
+        },
+        {
+          "id": "G3.2",
+          "completed": false,
+          "description": "Freeze comparable published-method reproduction/adaptation protocols and strong trained numerical controls.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G3.3",
+          "completed": false,
+          "description": "Run matched benchmarks with all outcomes, total costs and independent physical replay.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G3.4",
+          "completed": false,
+          "description": "Confirm any superiority claim on genuinely unused authorized cases.",
+          "evidence": null,
+          "verified_at_save": null
+        }
+      ],
+      "latest_published_baseline_source": "outputs\\pfdelta_benchmark_source_review_20261019\\Snapshot_Metadata.json",
+      "previous_priority": 3,
+      "benchmark_input_contract_evidence": "outputs\\mapdn_native_contract_v2_20261020\\independent_audit\\Independent_Audit.json"
+    },
+    {
+      "priority": 2,
+      "target": "Find a published physical dataset/test set and test our model on it.",
+      "status": "ALL36_PUBLISHED_PFDELTA_INPUT_EQUATIONS_VERIFIED_COMMON_CONTROL_ROLE_PENDING",
+      "done": "Three official PGLib IEEE118 variants pinned to an exact commit, raw files/license retained, matrix references checked. No model/PF outcomes measured. Actual3NET imports and independent raw-matrix/bus/zone/load/limit auditPASS; no PF/model outputs yet. All3 rawfixed-nonslack initial dispatch roles analytically violate nativePmax necessary bound; independent exactdecimal shortfalls393.5/2465.32/393.5MW. GeneralOPF/physics/controller feasibility remainsUNKNOWN. NativefullPPC inputclosure all3 independentlyPASS including branchangle limits/objective. ConvertedNET alone notfaithful nativeangle-constrainedOPF sourcecontract. No publicsolver/modelcall. Newall3 nativeACOPF3attempts0returns3exceptions, first Hessian .H sparseAPI compatibilityfailure before Newtonupdate; cost/source/failedidentity audit and archivePASS. No modelbenchmark or physical infeasibility claim. Six exact conjugate-transpose software controls passed without modifying installed/frozen sources or rerunning solver. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
+      "next": "Audit/explicitly bind native positional and history semantics, preserving322prefix and all120author scheduleidentities. Nativeordinalreproduction and separatelyprospectivechronologicalgeneralization must be distinct. Prepare isolatedTPA/MAPDNactualCPU/GPUmodel loader and native observation/action/checkpointcoldgates, explicitHierGridsignedinverteradapter and equallyinformed numericalcontrols;originalshuntrole is unchanged.",
+      "completed": false,
+      "checklist_id": "G2",
+      "completion_criteria": [
+        "Preserve dataset license/version/native constraints and disclose any necessary role/actuator adaptation.",
+        "Use verified common initialization and frozen model/control interface; run every declared identity with independent physics/full costs."
+      ],
+      "current_result": "All3MAPDNnativeinput/sourceauditPASS;complete3.76GBauthorarchiveSHA/16CRCsPASS;all9fullinputinventoriesfinite.322nativeprefixhas4repeatedtimestamps,nodeduplication.OfficialTPAKDD2024pretrained322checkpointand120authortestschedulepinned;notexecuted. No superiority result.",
+      "subtasks": [
+        {
+          "id": "G2.1",
+          "completed": true,
+          "description": "Pin and audit the full native inputs and constraints of all three published cases.",
+          "evidence": "outputs/public118_native_acopf_reference_20261015/Protocol.json",
+          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
+        },
+        {
+          "id": "G2.2",
+          "completed": true,
+          "description": "Complete and independently report all three fixed SLSQP trials, including their failed feasibility gates.",
+          "evidence": "outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
+        },
+        {
+          "id": "G2.3",
+          "completed": false,
+          "description": "Establish a faithful verified public initialization/evaluation contract without rescuing stopped trials by retuning.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G2.4",
+          "completed": false,
+          "description": "Test our actual model/hybrid and equally informed controls on every preregistered public test identity.",
+          "evidence": null,
+          "verified_at_save": null
+        }
+      ],
+      "latest_published_source_audit": "outputs\\published_benchmark_contract_handoff_20261019\\Verified_Source_Findings.json",
+      "latest_native_public_initialization": "outputs\\pglearn_base_native_ppc_bridge_20261019\\Result.json",
+      "previous_priority": 2,
+      "benchmark_input_contract_evidence": "outputs\\mapdn_native_contract_v2_20261020\\independent_audit\\Independent_Audit.json"
+    },
+    {
+      "priority": 3,
       "target": "Find an LLM-assisted method aiming for zero UV on all severe federation cases and beat original deterministic DSE safely.",
       "status": "TWO_DEVELOPMENT_WORLDS_OBSERVED_ZERO_UV_FULL_DSE_LLM_ALLSEVERE_UNPROVEN",
       "done": "All141 recipe coverage indexed; historical severe starts61/60 leave21/15. Prior joint numerical component reached0/1 on two closed pairs, not an LLM or all-case result. New all30 current-mask diagnostic verified:10.78%MAE reduction,8/30UV mismatches unchanged; fixedgateFAIL, stopped. Fixed equal16-followup nonlinear screen verified2wins2ties0losses on4roots:21to16 with fewerops,7to5 sameops. No newLLM or fullDSE episode. All4 cold completequeryhistory/cursor/NETmask states passed; oldLOCALbroker blocked bothwinningfirstvariants. Family-v2 coverageall4/28checks; nativeguardv2 ASTfaithful/5checks. No fresh policy/LLM outcome. New durable paid engine independently reproduces all8 prior decisions/12872 receipts, exact cachedforecasts and fullcosts; realcold dependency componentPASS,0newscience. Fullruntime moduleimplemented, actualfulltrajectory NOT_STARTED. Newfull8branch prospective owner started; actualrealcoldcompletecheckpointPASS; finalphysical/independentauditgate pending. Readerfixtureall8/12872PASS and adverseoldsoftwarefailures preserved. Originalfullstudy stopped at35.23MB decision frame exceeding32MiB checkpoint verifier;2branch endpoints/26replayed commits/25fullcheckpoints source-reported,all4gateUNKNOWN. Originalactorsended. Additive0science preserved-frame independent reader nowlive; originalerrors/source/results retained. Additive history chunk component roundtrips actual35,228,332byte oldrecord exactly;12 fail-closed controls PASS,0newphysics/model. Old26th complete state unrecovered; fullcontrollercoldintegration not certified.18Octsaved-real118NET/allcursorcap/paidregistry/RNG/cost/expireddeadline cold transport +35MBchunkhistory12checksPASS,0science; factoryfollowingqueryintegration stillpending.18Octscopedall26commit auditPASS:17to0online35bothnumericalpolicies,11vs14addedops. NoLLMattribution/full4worldgate. Duplicate35.23MBhistory becomes1.323MBexactrefs/2580queries; referencedcontrollercoldfactory17checksPASS/futurequeriesblocked. Conservativefull-nativev2sizingonlyprepared. Latest actual v2 capacity cold factory17checks and futurequery rejectionPASS;60,377-key lineage attempt frontier independentlyPASS,15solverexceptions retained. No newscientificcalls or all141-case/fullpolicy/LLMclaim. All25 complete checkpoint prefixes independently PASS, actualengine predecision admission8valid/8rejectionsPASS;lazy60377source lookup7boundariesPASS. Fullrecordedpolicyzero-science additive readerlive; fullgateUNKNOWN. Fulloldpolicyreader ended7200sec/exit1:11decision24452query progress only, gateUNKNOWN. All37656primaryinputrefsPASS;1actualcausalperusereceipt saved-native-verifier/ACK+wrongaction/source checksPASS. Archival2580queryhistory9controlsPASS with liveantirollback unchanged.0newscience. New18Octsource-prefix independent audit:line36residual33UVto0,24/25operations,upperguardPASS; missing26thcheckpoint/closure retainedUNKNOWN. Cache/cold/source locks andwhole1576receiptdecisionPASS. All5unstartedgraphgaps explicit;1newcontext+1430forecasts independentlyPASS.",
-      "next": "Sole readonly policy includes all12followup receipts (25recent total) with source/native/equation checks and prior paid costs; do not infer next selection before closed Results/Leg/manifest. New missingidentity remainsUNKNOWN/prospectivegates. All physical owners/readers ended; no new model/GPU/actualcommit.",
+      "next": "After primary benchmark milestones, resume completeUV reduction from independent selected33->23->16->12prefix. Last1430-row input inventory stopped at resource-ineligible row,0newscience; preserve failure, do not restart old job. New physical work needs prospective history/native/ownership/preservation gates.",
       "completed": false,
       "checklist_id": "G1",
       "completion_criteria": [
@@ -17,7 +113,7 @@
         "Show a prespecified improvement over original DFF,DFF-ALT and unchanged DSE, reporting each branch and FULL BOTH-branch plus model/training/preparation/failure costs.",
         "Independent source/physical/continuous replay/full-state/cost evidence and unused authorized confirmation."
       ],
-      "current_result": "Saved selected33->23->16UV. New third-child13UV alternatives:1safe13->9(maxVm1.05),3unsafe13->9rejected, all4independentchargedreplaysPASS/8PFreturns0exceptions. Original0native metadata failure preserved. Sole readonly support continuation running; no freshLLM/fulltrajectory/DSEsuperiority.",
+      "current_result": "Independent saved selected path33->23->16->12UV,13operationsremaining. Lasttransition nativeBEFORE/source/metric/resourcecursorPASS. Next1430-rowfullrootinput/history inventory underway,0newPF/model. G1.7/fulltrajectory/allsevere/DSE/LLM goals stillOPEN.",
       "subtasks": [
         {
           "id": "G1.1",
@@ -213,99 +309,8 @@
       "new_exact_followups": "outputs/remaining_fixed_followup_preparation_20261018/Exact_Remaining_Followups.json",
       "latest_20261019_query_acquisition": "outputs\\remaining_three_fixed_queries_20261019\\verified_completion\\Verified_Completion.json",
       "latest_20261019_four_query": "outputs\\fixed_four_query_acquisition_20261019\\verified_checkpoint\\Verified_Research_Checkpoint.json",
-      "latest_20261019_third_point": "outputs\\research_execution_20261019_continued\\Verified_Execution_Checkpoint.json"
-    },
-    {
-      "priority": 2,
-      "target": "Find a published physical dataset/test set and test our model on it.",
-      "status": "ALL36_PUBLISHED_PFDELTA_INPUT_EQUATIONS_VERIFIED_COMMON_CONTROL_ROLE_PENDING",
-      "done": "Three official PGLib IEEE118 variants pinned to an exact commit, raw files/license retained, matrix references checked. No model/PF outcomes measured. Actual3NET imports and independent raw-matrix/bus/zone/load/limit auditPASS; no PF/model outputs yet. All3 rawfixed-nonslack initial dispatch roles analytically violate nativePmax necessary bound; independent exactdecimal shortfalls393.5/2465.32/393.5MW. GeneralOPF/physics/controller feasibility remainsUNKNOWN. NativefullPPC inputclosure all3 independentlyPASS including branchangle limits/objective. ConvertedNET alone notfaithful nativeangle-constrainedOPF sourcecontract. No publicsolver/modelcall. Newall3 nativeACOPF3attempts0returns3exceptions, first Hessian .H sparseAPI compatibilityfailure before Newtonupdate; cost/source/failedidentity audit and archivePASS. No modelbenchmark or physical infeasibility claim. Six exact conjugate-transpose software controls passed without modifying installed/frozen sources or rerunning solver. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
-      "next": "Freeze a faithful common public corrective-control input/action/protection contract; retain all36source operating-limit failures and34fixed-solved-reference guard conflicts. No actual public model test yet.",
-      "completed": false,
-      "checklist_id": "G2",
-      "completion_criteria": [
-        "Preserve dataset license/version/native constraints and disclose any necessary role/actuator adaptation.",
-        "Use verified common initialization and frozen model/control interface; run every declared identity with independent physics/full costs."
-      ],
-      "current_result": "Pinned official PGLearn118 test prefix16 retained. ONE distinct repeated base reference independently native-feasible; sampled rows are different inputs/targets and all16 retain strict reactive-flow residual failures. No model test. Raw PGLib/SLSQP failures preserved.",
-      "subtasks": [
-        {
-          "id": "G2.1",
-          "completed": true,
-          "description": "Pin and audit the full native inputs and constraints of all three published cases.",
-          "evidence": "outputs/public118_native_acopf_reference_20261015/Protocol.json",
-          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
-        },
-        {
-          "id": "G2.2",
-          "completed": true,
-          "description": "Complete and independently report all three fixed SLSQP trials, including their failed feasibility gates.",
-          "evidence": "outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json",
-          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
-        },
-        {
-          "id": "G2.3",
-          "completed": false,
-          "description": "Establish a faithful verified public initialization/evaluation contract without rescuing stopped trials by retuning.",
-          "evidence": null,
-          "verified_at_save": null
-        },
-        {
-          "id": "G2.4",
-          "completed": false,
-          "description": "Test our actual model/hybrid and equally informed controls on every preregistered public test identity.",
-          "evidence": null,
-          "verified_at_save": null
-        }
-      ],
-      "latest_published_source_audit": "outputs\\published_benchmark_contract_handoff_20261019\\Verified_Source_Findings.json",
-      "latest_native_public_initialization": "outputs\\pglearn_base_native_ppc_bridge_20261019\\Result.json"
-    },
-    {
-      "priority": 3,
-      "target": "Compare against relevant published models/systems and benchmark whether ours is better.",
-      "status": "ALL36_PUBLISHED_PFDELTA_INPUT_EQUATIONS_VERIFIED_COMMON_CONTROL_ROLE_PENDING",
-      "done": "Published optimization/RL/hybrid method registry saved; differences in plants/actuators/software documented. NativepublishedACOPF fullmatrix/angle/thermal/gen/voltage/objective inputcontract independentlyprepared onall3, actualsolverbenchmarkpending. ActualnativeACOPF implementation trial acrossall3 terminated onlibrarycompatibility; originalcontrols/source/costs retained, nativefeasiblebenchmark stillUNKNOWN. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
-      "next": "Freeze a faithful common public corrective-control input/action/protection contract; retain all36source operating-limit failures and34fixed-solved-reference guard conflicts. No actual public model test yet.",
-      "completed": false,
-      "checklist_id": "G3",
-      "completion_criteria": [
-        "Select relevant reproducible primary-source methods and document fidelity and task differences.",
-        "Match plant,information,actions,protection,budgets,splits and costs; report all wins/ties/losses/failures.",
-        "Claim superiority only if frozen comparison and independent unused confirmation support it."
-      ],
-      "current_result": "The native classical benchmark trials and their failures are recorded. No completed comparison with published systems establishes our superiority.",
-      "subtasks": [
-        {
-          "id": "G3.1",
-          "completed": true,
-          "description": "Record the source-faithful all3native classical benchmark trial and independent outcomes.",
-          "evidence": "outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json",
-          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
-        },
-        {
-          "id": "G3.2",
-          "completed": false,
-          "description": "Freeze comparable published-method reproduction/adaptation protocols and strong trained numerical controls.",
-          "evidence": null,
-          "verified_at_save": null
-        },
-        {
-          "id": "G3.3",
-          "completed": false,
-          "description": "Run matched benchmarks with all outcomes, total costs and independent physical replay.",
-          "evidence": null,
-          "verified_at_save": null
-        },
-        {
-          "id": "G3.4",
-          "completed": false,
-          "description": "Confirm any superiority claim on genuinely unused authorized cases.",
-          "evidence": null,
-          "verified_at_save": null
-        }
-      ],
-      "latest_published_baseline_source": "outputs\\pfdelta_benchmark_source_review_20261019\\Snapshot_Metadata.json"
+      "latest_20261019_third_point": "outputs\\research_execution_20261019_continued\\Verified_Execution_Checkpoint.json",
+      "previous_priority": 1
     },
     {
       "priority": 4,
@@ -342,7 +347,8 @@
           "evidence": null,
           "verified_at_save": null
         }
-      ]
+      ],
+      "previous_priority": 4
     },
     {
       "priority": 5,
@@ -380,7 +386,8 @@
           "evidence": null,
           "verified_at_save": null
         }
-      ]
+      ],
+      "previous_priority": 5
     },
     {
       "priority": 6,
@@ -410,18 +417,14 @@
           "evidence": null,
           "verified_at_save": null
         }
-      ]
+      ],
+      "previous_priority": 6
     }
   ],
   "process_ownership_at_save": {
-    "actual_pid": 11300,
-    "parent_shim_pid": 14840,
-    "source": "work/resume16_next_context_ack_reuse_20261019.py",
-    "claim": "outputs/resumed16_next_context_ack_reuse_20261019/owner.claim",
-    "output": "outputs/resumed16_next_context_ack_reuse_20261019",
-    "exec_session": 31293,
-    "fixed_readonly_bound_seconds": 900,
-    "new_scientific_calls_allowed": 0
+    "actual_scientific_model_GPU_jobs": [],
+    "timers": [],
+    "data_only_owners": "allended"
   },
   "scientific_limits": "ZeroUV and superiority are targets, not guaranteed attainability or90%winning confidence. Old stopped/partial studies and original frozen assets stay preserved.",
   "latest_verified_research": {
@@ -614,6 +617,16 @@
     "created_at_UTC": "2026-10-18T16:14:56.959207+00:00",
     "scientific_jobs_started_before_scheduled_time": 0
   },
-  "latest_at_utc": "2026-10-19T13:28:59.162176+00:00",
-  "latest_resume": "outputs\\third_child_followup_handoff_20261019\\Checkpoint.json"
+  "latest_at_utc": "2026-10-20T05:58:21.034250+00:00",
+  "latest_resume": "outputs\\notebook_reference_review_20261020\\Current_Resume.json",
+  "latest_human_instruction": "2026-10-20: published-model comparison and public-dataset benchmarks first, then complete undervoltage reduction; retain LLM superiority and security goals.",
+  "priority_order": [
+    "G3",
+    "G2",
+    "G1",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "updated_at_utc": "2026-10-20T05:48:30.416955+00:00"
 }
