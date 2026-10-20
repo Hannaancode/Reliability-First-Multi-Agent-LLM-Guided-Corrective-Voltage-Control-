@@ -1,3 +1,15 @@
+## Latest complete actual-model/public benchmark result — 2026-10-20T12:10:25.844553+00:00
+
+- [x] G3.2e/G2.4a: preserved original-trained0.5B newnativePItransfer actual3primary+3freshmodel outputs complete; independentcoldtokens/source/private/basevalues/fullcostauditPASS, fixedschema gateFAIL(0/3actuable).488directpretrainedforwards,0PF/training,actualT4released. STOPfixedroute;noformat/prompt/decoder/budgetrescue. Notoriginalpaperformatfailure/universalLLMinability.
+- [x] G3.2d: otherauthorsStable-DDPG/linear/DDPG firstnative13episode12to0UV in5/5/3actions,independentall13fields/everynewstepPASS. One development seed,not500oroursuperiority.
+- [x] G3.2f: additionalofficial13/56busonline-topologycode/data16checkpointcomponentspinned;ALL8actorstrictload/all5MATfinitegatesPASS,0forward/PF. Native1000steprole/solver/path/owner/reader gatesstillneeded.
+
+AllsixfinalgoalsOPEN;noownedjob/GPU/timer. Exactresume outputs/original_lora_native13_transfer_completion_20261020/Current_Resume.json. Preservefrozenoriginalassets/literalDFF+DFFALT+unchangedDSE/BOTHfullcosts/alladversepartialUNKNOWN. Continuebenchmarkfirstwithonlyjustifiedprospectivegates;noidleallocation.
+
+## Latest actual original-LoRA transfer state — 2026-10-20T11:59:02.708948+00:00
+
+Published Stable-DDPG/linear/DDPG first native13episodes are independently complete:12to0UV in5/5/3actions. Our original0.5B transfer's first engineering owner ended/released after1quantizedmodel load and0generations/forwards; all six outputs UNKNOWN. ExactPEFTCPUstate-transition diagnosis: restoration enables336tensors,so final freeze followsrestoration; strictsource/weights/prompts/decoder unchanged. A distinct unentered source-bound owner 19292/parent19728 now owns one original-profile T4. Observe only actual status outputs/original_lora_native13_transfer_execution_v2_20261020/status.json; never restart/retune/repeat scientificcalls. Exactresume outputs/original_lora_native13_transfer_handoff_20261020/Current_Resume.json. All6goalsOPEN;0newPF/training from thismodeltest. GitHubnativeproofhead2cd8ff69d573aca44213571454ccbd6c614e4be3/all7downloadbytesPASS. No timers.
+
 ## Latest public baseline execution — 2026-10-20T09:05:44.881567+00:00
 
 - [x] G3.2d: other authors Stable-DDPG/linear/DDPG each restore the first native13 case12→0UV in5/5/3actions; independent every-action/physical replay PASS, maximum full-fielddelta0. All13buses reported. One development seed, not ours/full500/comparative superiority.

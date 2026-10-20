@@ -1,0 +1,101 @@
+{
+  "at_utc": "2026-10-20T12:10:25.844553+00:00",
+  "status": "ACTUAL_ORIGINAL_TRAINED_LORA_ALL6_GENERATIONS_COLD_SOURCE_COST_IMMUTABLE_VALUES_AUDIT_COMPLETE_FIXED_NATIVE_ROLE_GATE_FAILED_STOP",
+  "priority_order": [
+    "G3",
+    "G2",
+    "G1",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "all6finalgoals": "OPEN",
+  "our_original_LoRA_result": {
+    "strict_valid_primary": 0,
+    "actuable_proposals": 0,
+    "explicit_abstentions": 0,
+    "declared_primary": 3,
+    "fresh_model_cold_replications": 3,
+    "all3cold_rawtokenIDs_exact": true,
+    "primary_tokens": [
+      10,
+      121,
+      113
+    ],
+    "generation384cap_hit_in_any_return": false,
+    "native_PI_schema": "Exact u_mvar or explicitabstain;originalshuntcommands/numericcurrentQ/prose/doublefields/JSONrepairnotaccepted. No malformed outputactuated.",
+    "case0_output": "({\"current_q\":75.0})",
+    "source": "Pinnednewpublicbase10413c288cb9629acdf60b3e0229f3ba75efe413 plus unchanged human-trained private0.5B adapter336tensors8,798,208params and originaltokenizer. HistoricalSFTbaserevisionUNRECOVERED. NewnativePIzero-shotcontract,notunchangedoriginalpapercontroller.",
+    "stop": "STOP this fixed unadaptednativePItransfer. No prompt/format/decoder/seed/budget/modelcheckpoint rescue,invalidfill,normalbandweakening,automaticPF orclaimthatallLLMsareincapable. Originalpaperformatlearningremainsvalidinitsownrole.",
+    "audit": "outputs/original_lora_native13_transfer_execution_v2_20261020/independent_audit/Independent_Audit.json"
+  },
+  "actual_costs": {
+    "new_complete_LoRA_generations": 6,
+    "pretrained_direct_forward_attempts_returns": 488,
+    "generated_tokens": 488,
+    "complete_model_loads": 2,
+    "prior_failed_engineering_model_loads": 1,
+    "training_backward_optimizer_PF_calls_in_LoRA_study": 0,
+    "complete_science_workflow_seconds": 122.70696709099997,
+    "new_owner_workflow_seconds": 339.51600000000326,
+    "old_failed_engineering_owner_workflow_seconds": 221.70300000000861,
+    "both_owner_workflows_total_seconds": 561.2190000000119,
+    "peak_allocated_bytes_primary": 608161792,
+    "peak_allocated_bytes_fresh_model_cold": 1190699008,
+    "peak_reserved_bytes_fresh_model_cold": 1212153856,
+    "GPU_exactowned_runtime_seconds": "Not separately instrumented;do not substitute owner/setup workflow for deployment inference. Both actual T4assignmentsreleased.",
+    "CPU_random_fixture_constructions": 2,
+    "CPU_random_fixture_forwards": 0,
+    "new_PSCC_actor_checkpoint_loads": 8,
+    "new_PSCC_actor_forwards": 0,
+    "software_fixture_elapsed_seconds": "UNKNOWN_not_explicitly_timed"
+  },
+  "closed_published_baselines": {
+    "first_author13bus_root_UV": 12,
+    "Stable_DDPG_final_UV": 0,
+    "Stable_DDPG_actions": 5,
+    "linear_final_UV": 0,
+    "linear_actions": 5,
+    "ordinary_DDPG_final_UV": 0,
+    "ordinary_DDPG_actions": 3,
+    "all_final_OV": 0,
+    "all13bus_and_every_new_policy_physics_replay": "PASS_exact",
+    "scope": "Otherauthorssinglefirstdevelopmentseed,notall500oroursuperiority",
+    "full_checkpoint": "outputs/stable_ddpg_native_complete_handoff_20261020/Verified_Closed_CPU_Benchmark_Checkpoint.json",
+    "whole_CPU_stage_PF_returns": 28,
+    "whole_CPU_stage_policy_module_returns": 87,
+    "whole_CPU_stage_checkpoint_loads": 81
+  },
+  "new_comparator_source_gate": {
+    "official_repo": "https://github.com/JieFeng-cse/Online-Optimization-for-NN-Voltage-Control",
+    "commit": "3d11f41a711586a32f992d793bc1309405aba378",
+    "publication_status": "AuthorREADMEreportsacceptedPSCC2026;arXiv2602.10355primarypaperlink. Thisisnotanindependentproceedings-certificationclaim.",
+    "other_authors": true,
+    "native13_and56bus": true,
+    "actor_checkpoint_components_strict_loaded": 8,
+    "MAT_source_inputs_all_finite": 5,
+    "native_policy_forwards_PF_calls": 0,
+    "evidence": "outputs/online_topology_published_intake_20261020/native_loader_independent_audit_v2/Independent_Native_Loader_And_Input_Audit.json",
+    "limits": "Onlineunknown-topology1000stepcontrol,gurobi-dependentestimation;notthesameepisodeasthefirstStableDDPGtask. NoLICENSEfileinthecompleteinspectedtree,rawsource/checkpointsstayloadlocal;no solverlicense/purchaseassumed. Originalwrongreaderfunctionnamefailurepreservedbeforeanyload."
+  },
+  "frozen_original_checks": {
+    "audited_at_utc": "2026-10-20T12:10:26.441182+00:00",
+    "checks": {
+      "frozen_matched_protocol_sha256": true,
+      "frozen_controller_sources": true,
+      "all_62_scenario_files": true,
+      "locked_file_set": true,
+      "bank_manifest": true,
+      "bank_sanity_report": true,
+      "network": true,
+      "metadata": true,
+      "model_root_files": true
+    },
+    "all_passed": true,
+    "new_model_or_PF_calls": 0
+  },
+  "owned_jobs": [],
+  "actual_T4_assignments_released": 2,
+  "timers": [],
+  "no_LLMDSE_superiority_zeroall_or_security_claim": true
+}

@@ -1,14 +1,14 @@
 {
-  "at_utc": "2026-10-20T09:05:44.881567+00:00",
+  "at_utc": "2026-10-20T12:10:25.844553+00:00",
   "authority": "Latest direct human six-priority instruction, retained in exact order; execute evidence-led work and update records.",
   "goal_remains_active_unachieved": true,
   "tasks": [
     {
       "priority": 1,
       "target": "Compare against relevant published models/systems and benchmark whether ours is better.",
-      "status": "THREE_PUBLISHED_NATIVE13_FULL_FIRST_EPISODES_INDEPENDENT_PASS_OUR_LORA_NATIVE_TRANSFER_OWNER_STARTED",
+      "status": "ACTUAL_PUBLIC_NATIVE_LORA_SCREEN_COMPLETE_FAILED_3_PUBLISHED_NATIVE_BASELINES_ZERO_UV_ONE_SEED_ALL6GOALSOPEN",
       "done": "Published optimization/RL/hybrid method registry saved; differences in plants/actuators/software documented. NativepublishedACOPF fullmatrix/angle/thermal/gen/voltage/objective inputcontract independentlyprepared onall3, actualsolverbenchmarkpending. ActualnativeACOPF implementation trial acrossall3 terminated onlibrarycompatibility; originalcontrols/source/costs retained, nativefeasiblebenchmark stillUNKNOWN. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
-      "next": "Only observe the single new original-profile owner using actual claims/PID/source/parent; preserve every returned/failed output. Run one frozen local no-science reader only after actual owner ended, child ended, all actual artifacts locally hash-preserved and exact runtime released. No retry/account fallback/hidden rescale or physics from a malformed command. Continue published baseline matching and all500 unexecuted inventory; do not turn this one seed into an aggregate win.",
+      "next": "FornewPSCC2026reference,bind native13/56plant,sourcefirstidentity,current/topologyhistory,hardcodedMATpathrelocation,exactnativeaction/cost/protection/1000stepsemantics and actualgurobilicense/costrequirements. Originalreadonlyloaderreaderfailure0loadsretained. Freeze real causal warm/cold/persistent fullscope owner/reader/resource protocol before anynewscientificcall. Use officialsource,do notguessorstartglobaltest/train scripts.",
       "completed": false,
       "checklist_id": "G3",
       "completion_criteria": [
@@ -16,7 +16,7 @@
         "Match plant,information,actions,protection,budgets,splits and costs; report all wins/ties/losses/failures.",
         "Claim superiority only if frozen comparison and independent unused confirmation support it."
       ],
-      "current_result": "Other authors safeDDPG/linear/DDPG restore12to0UV in5/5/3nativeactions on firstsource13busseed0. All13states/fullnewsteps/policies/cold/replays exact. All500sourceinputrecipes verified,499physicsUNKNOWN. Our originaltrainedLLM transfer is a separately fixed new nativePI role, outcome UNKNOWN until preserved release/audit.",
+      "current_result": "OriginalLoRAnewnativePIschema0/3valid;6generations/488forwards/coldexact/immutablePASS;fixedrouteSTOP. Otherauthorsfirst13buscontrollers5/5/3actionsto0UV,notours. Newonline13/56bus8actorloadgatecomplete,noinference/physics.",
       "subtasks": [
         {
           "id": "G3.1",
@@ -73,6 +73,20 @@
           "description": "Complete all3 source-first native13 baseline episodes through native100step horizon using paidfirstactions; independent rawpolicy/cold/continuousphysical replay and costs. One development seed only.",
           "evidence": "outputs/stable_ddpg_native_episode_20261020/independent_audit/Independent_Audit.json",
           "verified_at_save": "2026-10-20T09:05:44.881567+00:00"
+        },
+        {
+          "id": "G3.2e",
+          "completed": true,
+          "description": "Execute all3actual original-trained LoRA nativePI proposals and3freshmodel cold outputs; preserve independently audited failedschema gate with0PF/invalidfill.",
+          "evidence": "outputs/original_lora_native13_transfer_execution_v2_20261020/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T12:10:25.844553+00:00"
+        },
+        {
+          "id": "G3.2f",
+          "completed": true,
+          "description": "Pin additional official online-topology13/56bus code/data/checkpoints; strictly loadall8actorcomponents andcheckall5MATfinite,zero scientificforwards/PF. Performance remainsunexecuted.",
+          "evidence": "outputs/online_topology_published_intake_20261020/native_loader_independent_audit_v2/Independent_Native_Loader_And_Input_Audit.json",
+          "verified_at_save": "2026-10-20T12:10:25.844553+00:00"
         }
       ],
       "latest_published_baseline_source": "outputs\\pfdelta_benchmark_source_review_20261019\\Snapshot_Metadata.json",
@@ -83,16 +97,16 @@
     {
       "priority": 2,
       "target": "Find a published physical dataset/test set and test our model on it.",
-      "status": "THREE_PUBLISHED_NATIVE13_FULL_FIRST_EPISODES_INDEPENDENT_PASS_OUR_LORA_NATIVE_TRANSFER_OWNER_STARTED",
+      "status": "ACTUAL_PUBLIC_NATIVE_LORA_SCREEN_COMPLETE_FAILED_3_PUBLISHED_NATIVE_BASELINES_ZERO_UV_ONE_SEED_ALL6GOALSOPEN",
       "done": "Three official PGLib IEEE118 variants pinned to an exact commit, raw files/license retained, matrix references checked. No model/PF outcomes measured. Actual3NET imports and independent raw-matrix/bus/zone/load/limit auditPASS; no PF/model outputs yet. All3 rawfixed-nonslack initial dispatch roles analytically violate nativePmax necessary bound; independent exactdecimal shortfalls393.5/2465.32/393.5MW. GeneralOPF/physics/controller feasibility remainsUNKNOWN. NativefullPPC inputclosure all3 independentlyPASS including branchangle limits/objective. ConvertedNET alone notfaithful nativeangle-constrainedOPF sourcecontract. No publicsolver/modelcall. Newall3 nativeACOPF3attempts0returns3exceptions, first Hessian .H sparseAPI compatibilityfailure before Newtonupdate; cost/source/failedidentity audit and archivePASS. No modelbenchmark or physical infeasibility claim. Six exact conjugate-transpose software controls passed without modifying installed/frozen sources or rerunning solver. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
-      "next": "Only observe the single new original-profile owner using actual claims/PID/source/parent; preserve every returned/failed output. Run one frozen local no-science reader only after actual owner ended, child ended, all actual artifacts locally hash-preserved and exact runtime released. No retry/account fallback/hidden rescale or physics from a malformed command. Continue published baseline matching and all500 unexecuted inventory; do not turn this one seed into an aggregate win.",
+      "next": "FornewPSCC2026reference,bind native13/56plant,sourcefirstidentity,current/topologyhistory,hardcodedMATpathrelocation,exactnativeaction/cost/protection/1000stepsemantics and actualgurobilicense/costrequirements. Originalreadonlyloaderreaderfailure0loadsretained. Freeze real causal warm/cold/persistent fullscope owner/reader/resource protocol before anynewscientificcall. Use officialsource,do notguessorstartglobaltest/train scripts.",
       "completed": false,
       "checklist_id": "G2",
       "completion_criteria": [
         "Preserve dataset license/version/native constraints and disclose any necessary role/actuator adaptation.",
         "Use verified common initialization and frozen model/control interface; run every declared identity with independent physics/full costs."
       ],
-      "current_result": "Other authors safeDDPG/linear/DDPG restore12to0UV in5/5/3nativeactions on firstsource13busseed0. All13states/fullnewsteps/policies/cold/replays exact. All500sourceinputrecipes verified,499physicsUNKNOWN. Our originaltrainedLLM transfer is a separately fixed new nativePI role, outcome UNKNOWN until preserved release/audit.",
+      "current_result": "OriginalLoRAnewnativePIschema0/3valid;6generations/488forwards/coldexact/immutablePASS;fixedrouteSTOP. Otherauthorsfirst13buscontrollers5/5/3actionsto0UV,notours. Newonline13/56bus8actorloadgatecomplete,noinference/physics.",
       "subtasks": [
         {
           "id": "G2.1",
@@ -121,6 +135,13 @@
           "description": "Test our actual model/hybrid and equally informed controls on every preregistered public test identity.",
           "evidence": null,
           "verified_at_save": null
+        },
+        {
+          "id": "G2.4a",
+          "completed": true,
+          "description": "Finite actualmodel outputscreen onALL3local observations of firstpublic13busroot,allcoldoutputs exact. Failednative-rolevalidity,notfull500physicalbenchmark.",
+          "evidence": "outputs/original_lora_native13_transfer_execution_v2_20261020/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T12:10:25.844553+00:00"
         }
       ],
       "latest_published_source_audit": "outputs\\published_benchmark_contract_handoff_20261019\\Verified_Source_Findings.json",
@@ -451,15 +472,9 @@
     }
   ],
   "process_ownership_at_save": {
-    "owner_pid": 23544,
-    "parent_pid": 22604,
-    "notebook_hash": "e1f089bc-9dc0-4389-927c-e812e4cec625",
-    "allocation_requests": 1,
-    "runtime_allocated": true,
-    "stage_at_save": "one_async_bounded_framework_setup",
-    "exact_source": "work/run_original_lora_native13_colab_20261020.py",
-    "fixed3primary_plus3cold_new_contract": "Outputs UNKNOWN until actual source-bound completion/preservation/release/independent reader. No automatic native PF or invalid-action fill. New nativePI serving role, not silent historical shunt rescaling.",
-    "resume": "outputs/original_lora_native13_transfer_execution_20261020/status.json"
+    "owned_jobs": [],
+    "GPU_assignments": [],
+    "timers": []
   },
   "scientific_limits": "ZeroUV and superiority are targets, not guaranteed attainability or90%winning confidence. Old stopped/partial studies and original frozen assets stay preserved.",
   "latest_verified_research": {
@@ -636,7 +651,7 @@
   },
   "latest_verified_resume": "outputs/next_numeric_dependency_bfeba_handoff_20261019/Checkpoint.json",
   "latest_public_native_benchmark_input": "outputs\\public118_native_benchmark_input_closure_20261015\\Verified_Input_Findings_And_Next_Benchmark.md",
-  "latest_exact_execution_state": "outputs/original_lora_native13_transfer_execution_20261020/status.json",
+  "latest_exact_execution_state": "outputs/original_lora_native13_transfer_completion_20261020/Verified_Completion_And_Stop_Decision.json",
   "master_checklist": "RESEARCH_TASKS.md",
   "goal_completion_rule": "Check and strike through a top-level goal ONLY after all its evidence-bound acceptance criteria pass. An executed failed/partial experiment can be a completed reporting step, never a passed goal.",
   "maintenance_rule": "At each continuation read RESEARCH_TASKS.md plus newest headers/exact resume. At each verified result update stable subtask IDs, status/current_result/evidence, reseacrh progress.txt and exact resume. Preserve earlier results/failures and never repeat completed or stopped experiments.",
@@ -653,7 +668,7 @@
     "scientific_jobs_started_before_scheduled_time": 0
   },
   "latest_at_utc": "2026-10-20T05:58:21.034250+00:00",
-  "latest_resume": "outputs/stable_ddpg_native_complete_handoff_20261020/Current_Resume.json",
+  "latest_resume": "outputs/original_lora_native13_transfer_completion_20261020/Current_Resume.json",
   "latest_human_instruction": "2026-10-20: published-model comparison and public-dataset benchmarks first, then complete undervoltage reduction; retain LLM superiority and security goals.",
   "priority_order": [
     "G3",
@@ -663,5 +678,5 @@
     "G5",
     "G6"
   ],
-  "updated_at_utc": "2026-10-20T09:05:44.881567+00:00"
+  "updated_at_utc": "2026-10-20T12:10:25.844553+00:00"
 }

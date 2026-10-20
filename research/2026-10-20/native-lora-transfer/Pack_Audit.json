@@ -1,0 +1,191 @@
+{
+  "archive": {
+    "unique_members": 45,
+    "bytes": 75892,
+    "sha256": "e43be3d3ad96687ab4dde5ef7c1677d25eb8f4dd9f468ab1cd6e699588f437dc",
+    "CRC_and_every_member_hash_passed": true,
+    "local_only": true,
+    "private_export": false
+  },
+  "members": {
+    "outputs/original_lora_native13_transfer_execution_20261020/staged/study/events.jsonl": {
+      "bytes": 502,
+      "sha256": "6c949e7f2507297ae4e8810990d3aa79101fdea1aebecb9216073eff98275cb2"
+    },
+    "outputs/original_lora_native13_transfer_execution_20261020/staged/study/Failure.json": {
+      "bytes": 1371,
+      "sha256": "523e2400ddb750cd913e14a3320943eebd33b0bbb6691bedb212d10d1e271ab9"
+    },
+    "outputs/original_lora_native13_transfer_execution_20261020/staged/study/Input_And_Loader_Preconditions.json": {
+      "bytes": 350,
+      "sha256": "922b77d9f81397281eeb55711f4bb8cf679c08edab52338ccf54b9d9c1e53c88"
+    },
+    "outputs/original_lora_native13_transfer_execution_20261020/independent_audit/Closed_Manifest.json": {
+      "bytes": 269,
+      "sha256": "db3b8a05fe03155cee7a08203b65c9f151d5172e11a42478ee9a8cf40b93bb85"
+    },
+    "outputs/original_lora_native13_transfer_execution_20261020/independent_audit/Independent_Audit.json": {
+      "bytes": 1612,
+      "sha256": "f63adb6f308d73cbc981b38b84d2b9559f21eefc6d000ed77734758eb7ff2de5"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/cold_Agent_0.json": {
+      "bytes": 393,
+      "sha256": "e4f1608cbf8b685d84fea006ccf9f905c90472cbb9eeded386b9c52ed64ac98d"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/cold_Agent_1.json": {
+      "bytes": 1722,
+      "sha256": "12b7ce5c3ea7299e03bd6e5a46886ea58d6f722f911e433e9519ffddfe06700c"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/cold_Agent_2.json": {
+      "bytes": 1590,
+      "sha256": "d6bf6449da8dc065bd56ae4c42a1ae671d6e2b359544082d7f388c1e3c965229"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/cold_Loader_Proof.json": {
+      "bytes": 414,
+      "sha256": "ded0ee65b16aad1f0557f58d42b6facef7a45db1ce9f56b4cbe359e48f450908"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/cold_Memory_And_Source_Proof.json": {
+      "bytes": 388,
+      "sha256": "eeaceaf6be7f570e141132f512f1f5874e5b95bfaab816e23bdf74e37ff2f1a6"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/Input_And_Loader_Preconditions.json": {
+      "bytes": 350,
+      "sha256": "922b77d9f81397281eeb55711f4bb8cf679c08edab52338ccf54b9d9c1e53c88"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/primary_Agent_0.json": {
+      "bytes": 394,
+      "sha256": "09312481688cc3ea4f8ed2a9cf0da5031a17af2359ce8bcf3d33bf1ccf720eed"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/primary_Agent_1.json": {
+      "bytes": 1723,
+      "sha256": "6674e8dfe0a54b0232dfb2153d61cdc813d1b8d049d85de1d4780dcd5507d777"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/primary_Agent_2.json": {
+      "bytes": 1591,
+      "sha256": "81738771c18e4ddad1f0c01ac7a92841226c7fbb0fb4924aa95150b0597d5517"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/primary_Loader_Proof.json": {
+      "bytes": 414,
+      "sha256": "0fb7862ac13aaa6ce8455b02745c1309d02fe67149d1c6432d528e27f6d4624d"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/primary_Memory_And_Source_Proof.json": {
+      "bytes": 386,
+      "sha256": "97ebb91e2befdb2f00096735f4786e6345a267f5209bedcf77d9354feae3c4bc"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/staged/study/Results.json": {
+      "bytes": 907,
+      "sha256": "c81e138993931828aab7de809b53ecb2863b3dac17d34a8fd91831cfa8d5baf9"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/independent_audit/Closed_Manifest.json": {
+      "bytes": 269,
+      "sha256": "1b0b70f3df6bafb3943fc05ca59e92c62d64885824793e979a4eb655790d7549"
+    },
+    "outputs/original_lora_native13_transfer_execution_v2_20261020/independent_audit/Independent_Audit.json": {
+      "bytes": 2617,
+      "sha256": "88f0c51299d060854a095faa85e181474e0706466ec770b343ed9f774b98de56"
+    },
+    "outputs/original_lora_native13_loader_order_repair_20261020/Actual_PEFT_BaseTunerLayer_set_adapter.py.txt": {
+      "bytes": 1893,
+      "sha256": "fa98519d5dbf9a7c2cf8bd7f4f1346f6f9999989e9966054b7d849317b696bcb"
+    },
+    "outputs/original_lora_native13_loader_order_repair_20261020/Independent_Causal_Software_Proof.json": {
+      "bytes": 1876,
+      "sha256": "e476a6377d5cc5cc11e68aa444634f3cca09a8ea2f32e652a21d4ace04c44b76"
+    },
+    "outputs/original_lora_native13_loader_order_repair_20261020/Independent_Unentered_Source_Equivalence.json": {
+      "bytes": 677,
+      "sha256": "b2c552520176572dbde7d5319a1c3b334040758943a879bce3f07751729bf131"
+    },
+    "outputs/online_topology_published_intake_20261020/native_loader_independent_audit/Failure.json": {
+      "bytes": 310,
+      "sha256": "d5e921a742274ecf2e2171f656554b41cfef228494fad1e39a25f70777eb5923"
+    },
+    "outputs/online_topology_published_intake_20261020/native_loader_independent_audit_v2/Independent_Native_Loader_And_Input_Audit.json": {
+      "bytes": 5138,
+      "sha256": "cbdbbb5914a85c01468e6d79fc2d2a5c1fea9fe5d9610a9486d17495c623fb9e"
+    },
+    "outputs/original_lora_native13_transfer_preparation_v2_20261020/Launch_Readiness_Audit.json": {
+      "bytes": 4559,
+      "sha256": "e8bea29b0cb3eff58a27a89dc63c4b5881951a4698ca0b0c62a6ea65ac82c58c"
+    },
+    "outputs/online_topology_published_intake_20261020/Pinned_Author_Git_Tree.json": {
+      "bytes": 27908,
+      "sha256": "4a4352d9abc0518cba92b7bd9a23cc90ef20f43a16f0f0b3689ea4d08a5e518b"
+    },
+    "outputs/online_topology_published_intake_20261020/Protocol.json": {
+      "bytes": 498,
+      "sha256": "6f99c2568318c3131cdb9278f360428799cc1f8c39086046e33c11becb550a67"
+    },
+    "outputs/online_topology_published_intake_20261020/Independent_Byte_And_Source_Intake_Audit.json": {
+      "bytes": 18752,
+      "sha256": "e27ae61b49730f0af0cc98c018c95c81f70dbebdd9210fc2ff3d531d68b5c539"
+    },
+    "outputs/stable_ddpg_native_complete_handoff_20261020/Next_Matched_Public_Benchmark_Contract.md": {
+      "bytes": 4117,
+      "sha256": "2fbafe167040c93860351577124f4dcc97850060a82ca84d06555be5bbd46856"
+    },
+    "work/run_original_lora_native13_colab_v2_20261020.py": {
+      "bytes": 17489,
+      "sha256": "46d7f7d8405296cda83e52cb45601523000e48a94b69a0e46f3e6a8c2f896c56"
+    },
+    "work/run_native13_lora_transfer_remote_v2_20261020.py": {
+      "bytes": 8308,
+      "sha256": "fe5a9266e7cf58c2ea909d12fe441221f9c0cb597d4d679213e5c1c3fc26c13a"
+    },
+    "work/native13_lora_environment_check_v2_20261020.py": {
+      "bytes": 1790,
+      "sha256": "2087d02c5cf6c3a98eeb78cf90cdae47e7a5d8ce6ef3b1a5f6ab00586387756a"
+    },
+    "work/native13_lora_guardian_v2_20261020.py": {
+      "bytes": 2172,
+      "sha256": "a4eb769b2bd09a8e1abe281f4c7da348d184ab95eda45ddc8b7d71a96c078536"
+    },
+    "work/native13_lora_setup_remote_v2_20261020.py": {
+      "bytes": 1999,
+      "sha256": "491eae959f9deccd873d929d7552c9b0c6edc9ef71ec6fca451bd48249f92caf"
+    },
+    "work/candidate_process_pretrained_loader_native13_v2_20261020.py": {
+      "bytes": 5473,
+      "sha256": "8e401bad5e0c59f634371ff65830d41475108edd7317685c0c41f0f3c3c8c7c2"
+    },
+    "work/audit_original_lora_native13_outputs_v2_20261020.py": {
+      "bytes": 5980,
+      "sha256": "fb9202dc15fec741f3e6cdc8d5b3c067bb944994f116d4b8ea1142b141e1e0bf"
+    },
+    "work/prepare_unentered_native13_lora_v2_20261020.py": {
+      "bytes": 9125,
+      "sha256": "b9b446ab5f80edcb5f40b1df3e36539a58972385df83e1b9bea2a0df6ac04ec4"
+    },
+    "work/verify_native13_loader_freeze_order_20261020.py": {
+      "bytes": 5053,
+      "sha256": "dbf1a47e18a79e9bd4e65bf4bea3332ec12e134754e0960e500ce6bd4894df8d"
+    },
+    "work/verify_native13_loader_freeze_order_v2_20261020.py": {
+      "bytes": 5622,
+      "sha256": "9bef0658cde3f7bef4715e969634946bce7d6a949cffcaafbf44ca4b8686e415"
+    },
+    "work/intake_online_topology_published_reference_20261020.py": {
+      "bytes": 3891,
+      "sha256": "12ae1beda2ae654cf3bf78a8b210bc0096fc335b68b57c9db105994071e12205"
+    },
+    "work/audit_online_topology_native_loader_20261020.py": {
+      "bytes": 5056,
+      "sha256": "b247965a0fdaf4c593eb597cd7f6f90bb2c74a85a498496719fc837787f6976a"
+    },
+    "work/audit_online_topology_native_loader_v2_20261020.py": {
+      "bytes": 5087,
+      "sha256": "215ecb8f2dc9124befd92e85a2487c56994f41384854475df763b952be7af310"
+    },
+    "work/save_native13_final_transfer_and_benchmark_progress_20261020.py": {
+      "bytes": 14906,
+      "sha256": "7a33828c19afba05f3acc7f783579977cc5c7df6f0e6111b90f390b2ec96a289"
+    },
+    "Public_Production_Protocol.json": {
+      "bytes": 4819,
+      "sha256": "5972c61025ac88a52aaaa4a3a80e2e03f20e4b207b6214ce792dfb2ae91a420b"
+    }
+  },
+  "secret_screen": "PASS",
+  "raw_private_adapter_tokenizer_credentials_NETWORK_bank_or_thirdparty_weights": false,
+  "compact_evidence_not_complete_raw_backup": true
+}
