@@ -1,3 +1,16 @@
+## Latest native upgrade and FIT-data execution — 2026-10-20T13:57:08.581965+00:00
+
+Actual1.5B nativejoint-head integration independentlyCOMPLETE/PASS/T4released:3229tokens,4bodyforwards,2backwards,2AdamWupdates,394momentpaths,fullstateCPUACK/exactcoldactionloss;4,587,239,936Bpeak. Disposableweights,nolearnedphysicalwin.
+
+Newfixed64FITworlds508..571 only: actualCPUowner12056/parent10996,exec10092,900secabsoluteoriginalbound. Solehandoff22196/parent13228,exec23588,ownslockedindependentpartial-aware readerAFTERactualend. Neverduplicate/restart/extend/source-edit. Inspect outputs/native_fit_teacher_execution_20261020/Result.json,Closed_Manifest,coordinationEnd_ACK andindependent/Independent_Audit.json whenactualterminal. ALL16DEV/32confirmationUNKNOWN/unentered. NoautomaticGPU/nativelearning;complete-onlyinputcompilerandfixedsameinfoMLPsourceprepared,unexecuted. All6goalsOPEN;0currentGPU/timers. Exactresume outputs/native_joint_15_engineering_completion_20261020/Current_Resume.json.
+
+## Latest independently complete native1.5B upgrade integration — 2026-10-20T13:38:55.113347+00:00
+
+- [x] G4.3b: public1.5B full3229token nativejoint3actionhead engineering independentlyPASS:4actualbodyforwards/2backwards/2AdamWupdates/2freshloads,394finitegrad/momentpaths; fullCPUcheckpointACK and exactcoldnativeaction/loss/RNG/cursor/frozenquantizedstate. Peakallocated4,587,239,936B. T4released,allactorsENDED. DISPOSABLEengineering,noperformancewin.
+- [x] All106paidpredecisioninputs paired05/15tokenexact,max3233,23UV/83OVrows/eightinspectedworlds; no newmodel/PF.112newFIT64/DEV16/lockedconfirmation32inputrecipes prospectivelyfixed,allphysicsUNEXECUTED.
+
+Closednumericalgain/all24proposals:13residualOVcontexts/fiveworlds restored,15accepted/9unsafe rejected; separate276PFreturns. Extra globalinformation/query,notLLMattribution/fullbenchmark. AllsixgoalsOPEN. Exactresume outputs/native_joint_15_engineering_completion_20261020/Current_Resume.json. Nojobs/GPU/timers. PriorfreeformnativefailureSTOPPED/originalassetsandDSEFULLBOTHcostspreserved.
+
 ## Latest native1.5B engineering ownership — 2026-10-20T13:27:38.792030+00:00
 
 Single original-profileT4 owner23336/parent18252 freshlyverified; outputs/native_joint_15_engineering_execution_v2_20261020/status.json is actualstatus,exec77982. One longest3229-token current-only nativejoint-head integration,twoDISPOSABLEupdates/coldrestore planned,not completedcounts/performance. Original pre-entry wrongPython dependencyfailure retained with0allocation/forward. Neverrestart/duplicate/live-edit; fixed1800sec engineering+2100collector, exactclosedpreservation/releasebeforeone lockedreader. Noautomaticfulltraining/performance.

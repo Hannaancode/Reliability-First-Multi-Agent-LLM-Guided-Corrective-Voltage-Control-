@@ -1,0 +1,152 @@
+{
+  "members": 37,
+  "bytes": 84285,
+  "sha256": "286f5c5174f2f5e02e47324a9b029e677f083fa1495ee19485bd098ac009abd6",
+  "all_members": {
+    "work/audit_native_fit_teacher_20261020.py": {
+      "bytes": 7627,
+      "sha256": "e8409ab3c27c8afce9db2d2e3b0179cc4fea9ed04856824d33524b41e212ef29"
+    },
+    "work/audit_native_joint_15_engineering_20261020.py": {
+      "bytes": 4580,
+      "sha256": "d72135fff2954a70e6402df35b3b9fe94e4e2ed99bf7df9e415d9fba517fb7a0"
+    },
+    "work/audit_native_joint_15_engineering_v2_20261020.py": {
+      "bytes": 4624,
+      "sha256": "6b1b9f1468c64169ccbf8fdea010f43a3b86977f5ec8ba7a40a459c930c3bff7"
+    },
+    "work/audit_online_topology_native_contract_static_20261020.py": {
+      "bytes": 4162,
+      "sha256": "ad406603e172dbdbf48fe4e3c4684fe4a1b99efcaf74b5b74b81c199e5ae57d2"
+    },
+    "work/compile_native_fit_training_inputs_20261020.py": {
+      "bytes": 6487,
+      "sha256": "728eb12f7776ee54205508de7f305a883ff6d3e41b004c0bb46fded9d2899ca8"
+    },
+    "work/continue_native_fit_teacher_audit_20261020.py": {
+      "bytes": 2813,
+      "sha256": "bd133501ff3b1101b0d49ffcc31d889144aa7795ef01702ce28d1064672d7d36"
+    },
+    "work/native_fit_teacher_math_20261020.py": {
+      "bytes": 4229,
+      "sha256": "ca9d582754f6b3f110af731f5a21f1442d1e8e197a73aabdd472ed7116b5d580"
+    },
+    "work/native_joint_15_environment_check_20261020.py": {
+      "bytes": 1911,
+      "sha256": "673a9296b94c178147e1d6e9b4bf94be91103732c089c9ba66f53e8a51f1a5f0"
+    },
+    "work/native_joint_15_guardian_20261020.py": {
+      "bytes": 2176,
+      "sha256": "f903c36ff44958d4068046d2bbaa436106e3397c1e699af6d6e9efd18510bbeb"
+    },
+    "work/native_joint_15_setup_remote_20261020.py": {
+      "bytes": 1998,
+      "sha256": "16cd72bc3012092c4cb6403a2d7457f512fd401c2288cdfebe4ac1d4e5b541b9"
+    },
+    "work/native_joint_checkpoint_contract_20261020.py": {
+      "bytes": 2838,
+      "sha256": "65294405256c09fa6be185dee28f172c174486e5cbc8297b692442c64affae98"
+    },
+    "work/native_same_information_MLP_20261020.py": {
+      "bytes": 796,
+      "sha256": "b792ce79f0269518cd62889a58260ee51e3c411b6c42f237d5f2000f27a49609"
+    },
+    "work/native_slm_action_head_v1_20261020.py": {
+      "bytes": 3348,
+      "sha256": "9cfe3fd78a7b05a7727261b194d9dc0f3a222a95cf31bba1e6bd8b60025d68f9"
+    },
+    "work/native_slm_causal_features_20261020.py": {
+      "bytes": 2508,
+      "sha256": "9341d6c69cb86c6e608622062d6818da81e1e0778d60669c750d89d0889371fb"
+    },
+    "work/native_slm_joint_head_20261020.py": {
+      "bytes": 931,
+      "sha256": "d11731b721a6cbf341bbeadd9a110965ede9fa0b2faa36fb2245d13162c57096"
+    },
+    "work/native_slm_joint_head_v2_20261020.py": {
+      "bytes": 1051,
+      "sha256": "0b6980f48c17f1a9ff5f82a70c5ab38f25090d7cc9d687d186a95f49e83920b7"
+    },
+    "work/prepare_native_fit_teacher_20261020.py": {
+      "bytes": 7250,
+      "sha256": "b0a516e3f810a288c7c638f75f969fd41103f7951de600576b91556045d1ec1c"
+    },
+    "work/prepare_native_joint_15_engineering_20261020.py": {
+      "bytes": 10085,
+      "sha256": "f51e31853678547c7be79ac70228ab76f20cf33bfdaaf546a2e8876c8d974a4d"
+    },
+    "work/prepare_native_joint_inputs_20261020.py": {
+      "bytes": 5145,
+      "sha256": "c1f1a6c4cb2b4143d119c0dedd21f6b9014a0a12b7a88a88e0b7b4f6d39425db"
+    },
+    "work/prepare_native_joint_unentered_launcher_v2_20261020.py": {
+      "bytes": 3706,
+      "sha256": "c2023ce10ef6376e6d7779a1a4b2ff376a672fbbeee7b143784e7dce60a030fe"
+    },
+    "work/run_native_fit_teacher_20261020.py": {
+      "bytes": 9047,
+      "sha256": "c9406c471b7a07a6a7b9b6ac20c676ca9b95f8670523df5f120c164a0af7179e"
+    },
+    "work/run_native_joint_15_colab_20261020.py": {
+      "bytes": 18169,
+      "sha256": "28ccd248e06d6a7bc9ca303de2c59cfbd140e551ab12e1d1beef5c3c6bd24d96"
+    },
+    "work/run_native_joint_15_colab_v2_20261020.py": {
+      "bytes": 18175,
+      "sha256": "52df26bdc561270e2d04390324bf3e32bd461bf73e59be6d638619a2af3cfa71"
+    },
+    "work/run_native_joint_15_engineering_remote_20261020.py": {
+      "bytes": 11260,
+      "sha256": "b8eadb63cf8fb3bebd5164acabe9ee3ea7b5f2dc711190ab073ea6ba5f1ca7b8"
+    },
+    "work/run_native_same_information_MLP_FIT_20261020.py": {
+      "bytes": 6742,
+      "sha256": "441d66764f51da1094298839df0de861c0ba1182e9795d1afbb1fb62f5bb8a5d"
+    },
+    "work/save_native_fit_live_and_upgrade_publication_20261020.py": {
+      "bytes": 8239,
+      "sha256": "a98d0246cc67b3d5cdc622829c7960ea16bb30149f2a6a8cb3bb6f1da606fad9"
+    },
+    "work/save_native_joint_live_and_publication_20261020.py": {
+      "bytes": 7337,
+      "sha256": "b21b85bd31a34d307a12e704415eaea270d675020ecd23e9ce2ba94093da7433"
+    },
+    "work/save_native_joint_verified_completion_20261020.py": {
+      "bytes": 8884,
+      "sha256": "3c58f628b121720b9a411c7028578bb68d3fa796c7a30d6d6f8583133b184597"
+    },
+    "work/validate_native_joint_checkpoint_20261020.py": {
+      "bytes": 2614,
+      "sha256": "e09d106aeeb3d64f1e51f6a1728e02f1c4866e345c8983f662d6ee4e46fa4ebf"
+    },
+    "outputs/native_joint_15_engineering_completion_20261020/Verified_Completion.json": {
+      "bytes": 2010,
+      "sha256": "d36e19ab1acb696c7e5e4c779acf11b4f0e670163150648d9676cbde43fa2664"
+    },
+    "outputs/native_joint_15_engineering_completion_20261020/Local_Archive_Audit.json": {
+      "bytes": 225,
+      "sha256": "36f9e663ded63c63b492996cf5adb4c6cf78ffc7bc661fb588f48e39a824cc2c"
+    },
+    "outputs/native_joint_15_engineering_independent_v2_20261020/Independent_Audit.json": {
+      "bytes": 2173,
+      "sha256": "1d6795cbf9b7a719d5d939071e77de42c0a942804856cf87e54bd6e881ed4a48"
+    },
+    "outputs/all_paid_native_decision_input_preparation_20261020/Causal_Support_Readiness.json": {
+      "bytes": 1568,
+      "sha256": "ff75b76327827372de590f4b329dd6831796ba283a62444476c842940076e16b"
+    },
+    "outputs/native_fit_teacher_preparation_20261020/Protocol.json": {
+      "bytes": 4915,
+      "sha256": "9c99198149f326a7dff6081f960866418a7c34c33a351c2feade9aa706b5ca30"
+    },
+    "outputs/native_fit_teacher_preparation_20261020/Readiness.json": {
+      "bytes": 740,
+      "sha256": "f49f66a11d11c69114d7d6f30ee34ec876268ee0ded59612214575f0819b0a6c"
+    },
+    "outputs/online_topology_native_contract_static_20261020/Source_Fidelity_And_Execution_Gates.json": {
+      "bytes": 4101,
+      "sha256": "40c74b02d062c733e97a7cd6a1746888bd19ee7529942271a4c39ba6eedb4a9e"
+    }
+  },
+  "raw_private_weights_original_network_bank_credentials_fullcheckpoints_not_exported": true
+}

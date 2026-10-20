@@ -1,0 +1,40 @@
+{
+  "at_utc": "2026-10-20T13:38:55.113347+00:00",
+  "status": "COMPLETE_INDEPENDENT_NATIVE15_FULL_CONTEXT_GRADIENT_MEMORY_COMPLETE_COLD_RESTORE_ENGINEERING_PASS",
+  "all6goals": "OPEN",
+  "actual_engineering_costs": {
+    "model_load_attempts": 2,
+    "model_load_returns": 2,
+    "body_forward_attempts": 4,
+    "body_forward_returns": 4,
+    "backward_attempts": 2,
+    "backward_returns": 2,
+    "optimizer_attempts": 2,
+    "optimizer_returns": 2,
+    "PF_generation_controller_calls": 0
+  },
+  "native15_trainable_parameters": 18469379,
+  "trainable_tensors": 394,
+  "full_tokens": 3229,
+  "all394_finite_gradients_and_nonzero_by_update2": true,
+  "complete_AdamW_step2_moments_scaler_RNG_cursor_cpu_ACK": true,
+  "fresh_model_native_action_loss_bit_exact": true,
+  "peak_allocated_bytes": 4587239936,
+  "peak_reserved_bytes": 5268045824,
+  "workflow_seconds_including_preservation": 356.038323643,
+  "allocation_owned_seconds": 584.2970000000205,
+  "setup_seconds": 158.65206851699998,
+  "transfer_control_requests": 217,
+  "transfer_seconds_sum": 357.6593199004419,
+  "preentry_launcher_failure_zero_GPU_model_PF_calls_preserved": true,
+  "all_actual_artifacts_preserved_and_exact_T4_released": true,
+  "model_engineering_is_not_learning_performance": "Two updates disposable; not a trained benchmarkpolicy, not better UV or LLM superiority. No automaticfulltraining.",
+  "body_application_counter_scope": "Four direct complete bodyapplications; internal gradientcheckpoint recomputation FLOPs and intrinsic kernelcosts unknown.",
+  "closed_science_archive": {
+    "bytes": 202978871,
+    "sha256": "8ef5705a578ef2dfe307da9ab792b8a7108e61f6410ff9b012a1ffc1fdb22048"
+  },
+  "source_and_physics_progress": "Separate276newPFreturns/0exceptions;13residualOVstates corrected by strong numericalcomponent/fiveworlds, not LLMgain.",
+  "audit_sha256": "1d6795cbf9b7a719d5d939071e77de42c0a942804856cf87e54bd6e881ed4a48",
+  "all_jobs_GPU_timers": "NONE_AT_THIS_CHECKPOINT"
+}
