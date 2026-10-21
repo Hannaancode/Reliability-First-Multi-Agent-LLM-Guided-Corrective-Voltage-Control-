@@ -1,0 +1,89 @@
+{
+  "at_utc": "2026-10-21T21:44:15.718637+00:00",
+  "status": "FRESH128_ACTUAL_PRIMARY_LIVE_PARALLEL_DIAGNOSES_CLOSED",
+  "owners": {
+    "scientist": {
+      "claim": {
+        "actual_pid": 8288,
+        "parent_pid": 1232,
+        "source_sha256": "a627071b9cab85eaec8fb84a5ad0bda961d130459c444d059ea441fbf420afd0",
+        "at_utc": "2026-10-21T21:24:54.193868+00:00"
+      },
+      "actual_process": {
+        "ProcessId": 8288,
+        "ParentProcessId": 1232,
+        "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_public13_fresh_router_20261022.py"
+      },
+      "parent_process": {
+        "ProcessId": 1232,
+        "ParentProcessId": 26980,
+        "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_public13_fresh_router_20261022.py"
+      },
+      "source": "work/run_public13_fresh_router_20261022.py"
+    },
+    "coordinator": {
+      "claim": {
+        "actual_pid": 21020,
+        "parent_pid": 17208,
+        "source_sha256": "2f3197cf0b0aa1d7f135543cfb55257217f534b0d04ebf6d32ae44558058385f",
+        "at_utc": "2026-10-21T21:24:53.521913+00:00"
+      },
+      "actual_process": {
+        "ProcessId": 21020,
+        "ParentProcessId": 17208,
+        "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/coordinate_public13_fresh_router_20261022.py"
+      },
+      "parent_process": {
+        "ProcessId": 17208,
+        "ParentProcessId": 13752,
+        "CommandLine": "\"C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe\" -X utf8 work/coordinate_public13_fresh_router_20261022.py"
+      },
+      "source": "work/coordinate_public13_fresh_router_20261022.py"
+    }
+  },
+  "exec_session": 8529,
+  "protocol_sha256": "45664a9d47c0eb3756b9f5ed2d2337af3de08166e5987dfa6fa78a7121f07028",
+  "fixed_science_seconds": 7200,
+  "fixed_first_reader_seconds": 7200,
+  "observed_case_files_PROGRESS_ONLY_NOT_VERIFIED_COMPLETION": 27,
+  "current_GPU": null,
+  "all6finalgoals": "OPEN",
+  "saved_NUM_diagnosis": {
+    "all500_complete_source": true,
+    "accepted_zero_action_no_physical_change_decisions": 14387,
+    "near_boundary_100round_failures": 151,
+    "strict_failure_not_reclassified": true,
+    "nonzero_actions_lost_in_Q_accumulation": 0,
+    "new_scientific_calls": 0
+  },
+  "all4_adverse_feasibility_diagnostic": {
+    "seeds": [
+      167,
+      236,
+      238,
+      418
+    ],
+    "actual_new_phase1_LP_attempts": 4,
+    "actual_new_phase1_LP_returns": 4,
+    "new_model_PF_derivative_LU_training_calls": 0,
+    "independent_exact_certificate_checker": "PASS",
+    "certified_infeasible": 0,
+    "UNKNOWN": 4,
+    "no_feasibility_or_impossibility_claim": true,
+    "original_import_preparation_failure_preserved": true,
+    "original_nonatomic_claim_launcher_failure_preserved": true,
+    "original_owner_OSexit_UNRECOVERED": true,
+    "all4_LP_identities_were_unentered_before_distinct_atomic_launch": true
+  },
+  "last_verified_GitHub": "834eefcbc6a66902f7ff4b5f51bed3284a5de7f7",
+  "last_publication_all7_downloaded_bytes": true,
+  "new_parallel_diagnosis_publication": "PENDING",
+  "next": [
+    "Current sole scientist and coordinator own the new128 stream; never duplicate/restart/source-edit/extend. First reader is exclusively coordinator-owned after realend/exit0/closedmanifest.",
+    "All128complete independent source/physical/policy/state/cost gates are required for the frozen comparison; partial remainsUNKNOWN. Do not treat current file counts as completion.",
+    "All four adverse feasibility checks are UNKNOWN. Do not retune cuts/solver/Q/band to obtain an impossibility or favorable feasibility result.",
+    "Old numerical policy has14,387savedzero-action decisions; old failed primary gate remainsFAILED. No change to its math/guard/rounding/stopping while current study islive.",
+    "Original privateLLM0/6newnativeinterface and disabledbase0/6 remain stopped; neither replaces original137paperperformance. No newGPU/training campaign ready.",
+    "Finish compact diagnosis publication with lease/bytechecks. If no useful parallel work remains, schedule ONE estimated result check and rearm only for confirmed actual live ownership; delete at terminal. No recurring monitor."
+  ]
+}
