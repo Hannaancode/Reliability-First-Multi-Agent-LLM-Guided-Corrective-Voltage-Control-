@@ -1,0 +1,70 @@
+{
+  "at_utc": "2026-10-21T16:55:21.048732+00:00",
+  "status": "COMPLETE_500_CASE_1500_EPISODE_EXTERNAL_NATIVE_BASELINE_WITH_INDEPENDENT_AUDITS",
+  "external_publication_families": 1,
+  "policies": [
+    "safe-ddpg",
+    "linear",
+    "ddpg"
+  ],
+  "methods": {
+    "safe-ddpg": {
+      "registered_denominator": 500,
+      "complete": 500,
+      "unknown": 0,
+      "full13_band_restored_on_complete": 262,
+      "sum_UV_on_complete": 0,
+      "sum_OV_on_complete": 324,
+      "source3done_on_complete": 500,
+      "actions_on_complete": 2237,
+      "full500_band_restoration_fraction": 0.524,
+      "missing_evidence_success_fraction_bounds_NOT_CI": [
+        0.524,
+        0.524
+      ]
+    },
+    "linear": {
+      "registered_denominator": 500,
+      "complete": 500,
+      "unknown": 0,
+      "full13_band_restored_on_complete": 258,
+      "sum_UV_on_complete": 0,
+      "sum_OV_on_complete": 345,
+      "source3done_on_complete": 500,
+      "actions_on_complete": 2657,
+      "full500_band_restoration_fraction": 0.516,
+      "missing_evidence_success_fraction_bounds_NOT_CI": [
+        0.516,
+        0.516
+      ]
+    },
+    "ddpg": {
+      "registered_denominator": 500,
+      "complete": 500,
+      "unknown": 0,
+      "full13_band_restored_on_complete": 363,
+      "sum_UV_on_complete": 59,
+      "sum_OV_on_complete": 121,
+      "source3done_on_complete": 478,
+      "actions_on_complete": 3306,
+      "full500_band_restoration_fraction": 0.726,
+      "missing_evidence_success_fraction_bounds_NOT_CI": [
+        0.726,
+        0.726
+      ]
+    }
+  },
+  "latest_primary_new_PF_returns": 5878,
+  "latest_independent_PF_returns": 5878,
+  "latest_primary_new_policy_forwards": 16665,
+  "latest_independent_policy_forwards": 16665,
+  "full_fields_max_delta": 0.0,
+  "all9_frozen_checks": true,
+  "all_owners_readers_coordinator_ended": true,
+  "timer_deleted": "hiergrid-missing-only-benchmark-result-check",
+  "ours_model_or_numerical_comparison": "NOT_YET_EXECUTED_ON_THIS500_COHORT",
+  "information_and_scope": "External native one-local-VM-per-agent role; source3bus strict stop; all13voltage-band score. Not full AC thermal/gen feasibility.",
+  "original_snapshot_limit": "Old actual final parameters unrecovered; independently reconstructed continuation and separate case0 checkpoint boundary disclosed.",
+  "cohort_artifact": "outputs/public13_native_cohort_assembly_20261021/Native_Cohort_Results.json",
+  "all6goals": "OPEN"
+}

@@ -1,0 +1,174 @@
+{
+  "at_utc": "2026-10-21T17:13:16.340857+00:00",
+  "status": "PASS_SCOPED_ACTION_SUPPORT_AND_EXISTING_PORT_ADMISSION_PROOF_ZERO_INFERENCE",
+  "cases": 500,
+  "initial_violation_classes": {
+    "UV_only": 232,
+    "OV_only": 251,
+    "mixed": 0,
+    "within_band": 17
+  },
+  "literal_original_positive_nonzero_command_lower_bound_Mvar": 25.0,
+  "native_one_step_delta_Q_cap_Mvar": 0.30000001192092896,
+  "legal_original_literal_nonzero_increment_exists_in_this_native_role": false,
+  "proof": "Original source rounds/clamps each accepted positive Q to25..300Mvar, while source-native13 action increments are bounded byfloat32(0.3). Therefore no unchanged literal nonzero positive paper command can satisfy this benchmark step capability. Null is not a substitute for a nonzero corrective action.",
+  "negative_reactive_absorption": "Original normalizer rejects the supplied legal negative absorption request; the original capacitive-shunt role is not a bidirectional inverter role. This alone does not prove every OV state physically needs absorption or that every adapted language method fails.",
+  "existing_V3_software_port": "Explicit named literal-subMvar parser adaptation exists for322bus/38PV. Its current partition contract rejects fewer than4PV; native13has3actuators. No complete13bus paper-policy port follows from its prior software certificate.",
+  "implication": "Do not allocate a larger model or score the unchanged paper as an ordinary native13 competitor under this incompatible control contract. Prepare an explicitly named fully bound physical-role/partition/parser/causal serving adaptation, controls and real integration before performance. Do not relabel the old0/3u-interface test or original137paper success.",
+  "not_proved": [
+    "No universal LLM inability or future-improvement impossibility",
+    "No adapted-model, original-federation, public322 or full-system performance conclusion",
+    "No global AC feasibility or superiority claim"
+  ],
+  "tests": [
+    {
+      "bus": 2,
+      "positive_input": 0.0001,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 2,
+      "positive_input": 0.01,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 2,
+      "positive_input": 0.1,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 2,
+      "positive_input": 0.30000001192092896,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 2,
+      "positive_input": 25.0,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 2,
+      "positive_input": 300.0,
+      "original_normalized_Mvar": 300.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 2,
+      "negative_input": -0.1,
+      "original_normalized_action": null,
+      "native_absorption_represented": false
+    },
+    {
+      "bus": 7,
+      "positive_input": 0.0001,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 7,
+      "positive_input": 0.01,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 7,
+      "positive_input": 0.1,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 7,
+      "positive_input": 0.30000001192092896,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 7,
+      "positive_input": 25.0,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 7,
+      "positive_input": 300.0,
+      "original_normalized_Mvar": 300.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 7,
+      "negative_input": -0.1,
+      "original_normalized_action": null,
+      "native_absorption_represented": false
+    },
+    {
+      "bus": 9,
+      "positive_input": 0.0001,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 9,
+      "positive_input": 0.01,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 9,
+      "positive_input": 0.1,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 9,
+      "positive_input": 0.30000001192092896,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 9,
+      "positive_input": 25.0,
+      "original_normalized_Mvar": 25.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 9,
+      "positive_input": 300.0,
+      "original_normalized_Mvar": 300.0,
+      "native_step_cap": 0.30000001192092896,
+      "legal_native_increment": false
+    },
+    {
+      "bus": 9,
+      "negative_input": -0.1,
+      "original_normalized_action": null,
+      "native_absorption_represented": false
+    }
+  ],
+  "source_sha256": "6e2f33faf63c3e6d314680455f478e63102f6361453b43c9a454022a832b84ed",
+  "normalizer_AST_sha256": "2a6e4a56dc72859e51d3806622a1680f605abf30b64fd4a18a2aa11103c6b596",
+  "existing_port_source_sha256": "11ffa1681131598b60125eb3736773fd03c24867f4d003b72d2d07d62601d089",
+  "new_model_PF_converter_derivative_optimizer_GPU_calls": 0,
+  "all6goals": "OPEN"
+}

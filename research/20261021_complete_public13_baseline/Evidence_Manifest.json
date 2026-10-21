@@ -1,0 +1,16 @@
+{
+  "status": "COMPACT_OWN_CODE_VERIFIED_NATIVE500_RESULTS_AND_LIVE_FIXED_NUMERICAL_PROTOCOL",
+  "archive": {
+    "unique_members": 38,
+    "bytes": 773001,
+    "sha256": "1cc5801eae24b6437b375636eed2c879a2c79375da175e05c8602d26dec2938e",
+    "CRC_and_every_member_hash_passed": true,
+    "local_only": true,
+    "private_export": false
+  },
+  "source_external_repository": "https://github.com/JieFeng-cse/Stable-DDPG-for-voltage-control",
+  "source_external_commit": "fb6098c1aeb2bd4c42e04afbb0da372907aeb63c",
+  "raw_private_weights_NETs_checkpoints_and_third_party_sources_included": false,
+  "raw_scientific_backup_complete": false,
+  "new_model_PF_optimizer_calls_by_publication": 0
+}
