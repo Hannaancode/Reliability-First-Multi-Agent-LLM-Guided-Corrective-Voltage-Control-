@@ -1,0 +1,13 @@
+# Full-system comparison: execution and limits
+
+The paper system is the trained0.5B four-agent verified/refined/fallback/router/reflection controller with its full25-step safety envelope. New numerical LP, internal ExtraTrees imitation accuracy, fresh0.5/1.5B imitation studies and native ports are separate methods. They do not replace its result.
+
+Registered cohorts: all141 existing federation recipes plus the separate inspected62bank; all120 official TPA schedule rows (119unique date/index tuples, all rows kept); all500 official13-bus initial recipes. Eighteen software boundaries reject unequal cases, plant/state, actuators, information, protection, horizon/resources, missing inference/replay/cost, dropped failures, and UV-only success with overvoltage. No new full matched HierGrid benchmark score is available.
+
+The original parser rounds positive requests onto25Mvar steps and clamps25..300Mvar. All38 native322 inverter caps are below0.177Mvar. Therefore the original shunt controller cannot be called an unchanged native inverter policy. A separately named parser-unit port passed literal-cap/input software checks; all8 current packets retained, maximum5406tokens,8192new-port context. Its V1/V2 software failures remain recorded. This is not learned or physical improvement, and is not a rescue of the stopped prior u_mvar model study.
+
+A new source-locked CPU study executes all499 remaining official13-bus cases across the three official frozen policies, reusing already verifiedcase0. All566 scoped old attempt inputs/73regimes were checked: the499new regimes are disjoint. Exact source-native actions/stopping and100-step limit stay unchanged; all13-bus UV/OV and native3controlledbus done are both reported. A sole locked reader independently replays new physics and continuous decisions after the actual scientist ends. Fixed1800second science and1800second reader bounds;4GiB binary preservation bound; failed/partial/unentered remain UNKNOWN. No GPU/LLM/training in this baseline stage.
+
+Next: finish full policies and native/adapted/common-task joins, execute ours against the exact saved case states, retain all outcomes/full costs and unused confirmation. Published methods with unavailable artifacts are listed, never scored as beaten. Superiority and acceptance are conclusions to test, not promised outcomes.
+
+IMPORTANT CORRECTION: Supplied main manuscript uses137primary cases, DFF290/HG-VF291/HG-SE193 residualUV;20better/117equal/0worse selected vs singleDFF. Older25-case main-paper references above are superseded. See Provided_Paper_Primary_Cohort_Correction.json in proofpack. These are reported historical results, not new independently audited external superiority.

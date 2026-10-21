@@ -1,0 +1,164 @@
+{
+  "at_utc": "2026-10-21T08:30:30.930611+00:00",
+  "scope": "Own code and compact source/case/software/protocol proofs; external native baseline live. No raw-binary backup or complete benchmark/superiority claim.",
+  "files": [
+    {
+      "path": "work/prepare_full_system_comparison_20261021.py",
+      "bytes": 18888,
+      "sha256": "541c6761cadca42f6a1e91da491b9a02ab96108597cd21eacbc321f22197166a"
+    },
+    {
+      "path": "work/close_public_comparison_cohorts_20261021.py",
+      "bytes": 3861,
+      "sha256": "8bab1fe548d3bd088a92f2cdca1cf824876559db65d8857dbfad54a151211c99"
+    },
+    {
+      "path": "work/common_case_comparison_contract_20261021.py",
+      "bytes": 2890,
+      "sha256": "c434f78e5bb3986e5e63d1dcddbf5f6888fef56b0ebe46204258ea590ba9bab4"
+    },
+    {
+      "path": "work/audit_full_system_comparison_registration_20261021.py",
+      "bytes": 4603,
+      "sha256": "2a01c5dd1e1f2a839b3d55bf009930ee8d489149268056e874d5553e78eec649"
+    },
+    {
+      "path": "work/paper_framework_native_PV_port_20261021.py",
+      "bytes": 8418,
+      "sha256": "11ffa1681131598b60125eb3736773fd03c24867f4d003b72d2d07d62601d089"
+    },
+    {
+      "path": "work/check_paper_framework_native_PV_port_20261021.py",
+      "bytes": 6532,
+      "sha256": "9c92d79eb332127a1dcaeacc7067f05075cd9e09b186d37e34f97bf818bf012b"
+    },
+    {
+      "path": "work/check_native_parser_contract_v2_20261021.py",
+      "bytes": 7115,
+      "sha256": "b29b917dd4c5435f78676587087f68ccdd8fdeacca19a306bcd9fd7a6be97f59"
+    },
+    {
+      "path": "work/check_native_parser_contract_v3_20261021.py",
+      "bytes": 7265,
+      "sha256": "c224ee7ced56eddfaf47785ee956fee5e5f3571db84945c8ad860ccdc68c70a8"
+    },
+    {
+      "path": "work/run_public13_remaining_published_cohort_20261021.py",
+      "bytes": 13470,
+      "sha256": "e9d51cebb67151d4964848d613156b2ee0e4c71e5705b00a75a4248de245a448"
+    },
+    {
+      "path": "work/audit_public13_remaining_published_cohort_20261021.py",
+      "bytes": 10503,
+      "sha256": "cd72f6c5ed2acdcc46f53b163ec756a8fa44737e0271ec18f364a327e28b6652"
+    },
+    {
+      "path": "work/coordinate_public13_cohort_20261021.py",
+      "bytes": 1506,
+      "sha256": "b9be3cd4e6e6eed44c4d9c2c1e4cf6747705aaae50b720a9c6380ba2d672d4f9"
+    },
+    {
+      "path": "work/prepare_public13_remaining_cohort_20261021.py",
+      "bytes": 8861,
+      "sha256": "09beec1a93bba841bdc9a279c91d0f5abb17680aa01ab529630cc973a9709df3"
+    },
+    {
+      "path": "work/save_full_comparison_progress_20261021.py",
+      "bytes": 11299,
+      "sha256": "9251faf1a07c5ff5fd04b273c6cd309d1c1808c1514ca1c423632dcd9dcaefbc"
+    },
+    {
+      "path": "work/record_provided_paper_primary_cohort_20261021.py",
+      "bytes": 6064,
+      "sha256": "ba4b78b91c78783e82e8296d31304104494a90e3293ae9a6c9b9d46613ee172b"
+    },
+    {
+      "path": "work/prepare_full_comparison_publication_20261021.py",
+      "bytes": 4771,
+      "sha256": "c2b5f4dc2a0ff745164556a55b63a40621ac21f16e302eff006cdae7d16217df"
+    },
+    {
+      "path": "outputs/full_system_comparison_20261021/Original_Paper_System_Source_Map.json",
+      "bytes": 7608,
+      "sha256": "0cc2db7a4f7e3c9084dc70e98b63f1bf7aab7b53314696b3388f61b4f65a9a53"
+    },
+    {
+      "path": "outputs/full_system_comparison_20261021/All203_Existing_Federation_Input_Cases.json",
+      "bytes": 122048,
+      "sha256": "db78c2f78b1b17518ab1710afadfa230a6f6fd5ef78ccb3ae71c6258824524b3"
+    },
+    {
+      "path": "outputs/full_system_comparison_20261021/Public_Case_Tracks.json",
+      "bytes": 1268,
+      "sha256": "e923ecd66e9816eb0fd31028853af32cb7d986219e772d89ce55e90b8f5ae713"
+    },
+    {
+      "path": "outputs/full_system_comparison_20261021/Controller_Identity_And_Readiness.json",
+      "bytes": 3539,
+      "sha256": "d38f155c19b2ee25cb4274cfeda40a960967fabb509a940084408b3b139df23d"
+    },
+    {
+      "path": "outputs/full_system_comparison_20261021/Protocol.json",
+      "bytes": 6096,
+      "sha256": "c1111e2da045106a88eebc8f7688fc01376da2a406f527527368f6ab4920f4ee"
+    },
+    {
+      "path": "outputs/full_system_comparison_20261021/Unchanged_Paper_To_Public_Actuator_Eligibility.json",
+      "bytes": 1368,
+      "sha256": "250890605543e20e39507ec2b3dd037547bc07b917ba41021a23240fa9acd2af"
+    },
+    {
+      "path": "outputs/full_system_comparison_20261021/All120_TPA_Source_Ordered_Rows.json",
+      "bytes": 75958,
+      "sha256": "d471bb39bca0ef4eaee3d333c2fc0774b749c8ba8b4acb11ce4e469f3bde192a"
+    },
+    {
+      "path": "outputs/full_system_comparison_20261021/All500_Public13_Source_Input_Identities.json",
+      "bytes": 113915,
+      "sha256": "6496d1b9030713e7adeb9ded1777794350b70281abfbc039233e27abba74c609"
+    },
+    {
+      "path": "outputs/full_system_comparison_20261021/Public_Cohort_Closure.json",
+      "bytes": 1516,
+      "sha256": "4dd2ef948f616395ba0fef64155c031c98d4b70236d43cc7ee215918399acc2d"
+    },
+    {
+      "path": "outputs/full_system_comparison_20261021/Independent_Registration_Audit.json",
+      "bytes": 1898,
+      "sha256": "d163b504dba97137d7c0498c29ab672f43f34b29c44df47b9dfa86dea990597a"
+    },
+    {
+      "path": "outputs/full_system_comparison_20261021/Provided_Paper_Primary_Cohort_Correction.json",
+      "bytes": 3175,
+      "sha256": "f1268a503f8dbfd78f4e5f1b046c52189ec6e24989e670cca5828680df9c07b6"
+    },
+    {
+      "path": "outputs/public13_full_cohort_preparation_20261021/Protocol.json",
+      "bytes": 62476,
+      "sha256": "288183b41cde77c71e22bd3b7612ec81783e87ee59ad75fa14707da73ed112a1"
+    },
+    {
+      "path": "outputs/public13_full_cohort_preparation_20261021/Readiness.json",
+      "bytes": 466,
+      "sha256": "b88f96187a3250e0f1f72a6c58fc8fdac74644caa749950de4f252215e4a4407"
+    },
+    {
+      "path": "outputs/public13_full_cohort_preparation_20261021/Primary_Owner_Protocol.json",
+      "bytes": 427,
+      "sha256": "47bf67ba5f17ffa90f15adc8d5b37bcd854568330c917482879435e90bd83c26"
+    },
+    {
+      "path": "outputs/public13_full_cohort_preparation_20261021/Reader_Owner_Protocol.json",
+      "bytes": 428,
+      "sha256": "db0c4a8a73848677f79079693f81854124d75679242b98d677e948262189363c"
+    },
+    {
+      "path": "outputs/paper_framework_native_PV_port_v3_20261021/Software_Readiness.json",
+      "bytes": 9496,
+      "sha256": "40a86231024fd19a95155fbd65a2c961d22cc9593880d0c879b97571d1d19769"
+    }
+  ],
+  "archive_bytes": 136952,
+  "archive_sha256": "f115d4d3935363c51a9def2515c8ed4b8a8fc7978106e35371ccf0d75399348c",
+  "archive_members": 32
+}

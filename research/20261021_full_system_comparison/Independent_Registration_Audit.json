@@ -1,0 +1,41 @@
+{
+  "at_utc": "2026-10-21T07:53:53.096369+00:00",
+  "status": "PASS_COMMON_CASE_REGISTRATION_AND_INCOMPARABILITY_REJECTION_SOFTWARE_ONLY",
+  "exact_federation_case_count": 203,
+  "paired_empty_slots": 1624,
+  "all_methods_same_case_sets": true,
+  "all120_public_schedule_rows_and500_native13_recipes_retained": true,
+  "labelled_software_positive_fixture_count": 1,
+  "labelled_software_negative_rejections": [
+    "mismatch_cohort",
+    "mismatch_case_id",
+    "mismatch_physical_initial_state_sha256",
+    "mismatch_solver_initialization_sha256",
+    "mismatch_plant_source_sha256",
+    "mismatch_legal_actuator_contract_sha256",
+    "mismatch_available_causal_information_sha256",
+    "mismatch_common_safety_contract_sha256",
+    "mismatch_commitment_horizon",
+    "mismatch_online_resource_allowance_sha256",
+    "partial_cannot_be_win",
+    "missing_inference",
+    "no_replay",
+    "hidden_costs",
+    "dropped_failures",
+    "UVonly_softOV_not_full_restoration",
+    "UNKNOWN_voltage_not_filled",
+    "same_seed_pending_full_state_not_enough"
+  ],
+  "benchmark_trajectories_newly_completed": 0,
+  "superiority_established": false,
+  "not_ready_reasons": [
+    "Original unmodified shunt controller is not a native inverter controller",
+    "New numerical controller is ours; new hybrid is not yet a complete benchmark-ready policy",
+    "Original25case paper-table exact cohort/source join still required for numerical replication",
+    "Some published baselines have no certified trained artifact",
+    "Yesterday frozen-feature allocation attempts terminal; no automatic retry/fallback"
+  ],
+  "new_PF_model_GPU_optimizer_forecast_derivative_solve_calls": 0,
+  "contract_source_sha256": "c434f78e5bb3986e5e63d1dcddbf5f6888fef56b0ebe46204258ea590ba9bab4",
+  "audit_source_sha256": "2a01c5dd1e1f2a839b3d55bf009930ee8d489149268056e874d5553e78eec649"
+}

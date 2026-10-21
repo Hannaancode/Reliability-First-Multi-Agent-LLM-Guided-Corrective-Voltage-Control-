@@ -1,0 +1,75 @@
+{
+  "at_utc": "2026-10-21T08:29:34.808669+00:00",
+  "status": "PROVIDED_MANUSCRIPT_PRIMARY_COHORT_CORRECTION_NOT_NEW_PHYSICAL_AUDIT",
+  "paper": {
+    "path": "C:\\Users\\HOME\\Downloads\\Multi_agentic_llm_paper_elsevier.pdf",
+    "sha256": "6e9a4b01ee27602b072b14305994b5764a95c06e2c65517fa3ce4b0f59243f15",
+    "title": "HierGrid: A Reliability-First Multi-Agent LLM Framework for Physics-Verified Corrective Undervoltage",
+    "supplied_copy_PDF_pages": 22,
+    "primary_result_PDF_pages": [
+      13,
+      14
+    ],
+    "paper_printed_pages": [
+      12,
+      13
+    ],
+    "visually_verified_table9_page": 13
+  },
+  "primary_reported_cohort": 137,
+  "reported_common_initial_UV": 2715,
+  "reported_table9": {
+    "DFF": {
+      "final_UV": 290,
+      "UV_zero_cases": 108,
+      "cumulative_abs_Q_Mvar": 89050,
+      "accepted_actions": 617
+    },
+    "HG_VF": {
+      "final_UV": 291,
+      "UV_zero_cases": 103,
+      "cumulative_abs_Q_Mvar": 140975,
+      "accepted_actions": 1680
+    },
+    "HG_SE": {
+      "final_UV": 193,
+      "UV_zero_cases": 110,
+      "cumulative_abs_Q_Mvar": 102250,
+      "accepted_actions": 911
+    }
+  },
+  "reported_table10": {
+    "HG_VF_vs_DFF_better_equal_worse": [
+      20,
+      102,
+      15
+    ],
+    "HG_SE_vs_DFF_better_equal_worse": [
+      20,
+      117,
+      0
+    ],
+    "HG_SE_vs_DFF_removed_residual_UV": 97,
+    "relative_residual_reduction_percent": 33.44827586206897,
+    "restoration_paired_p": 0.5
+  },
+  "interpretation": "The supplied manuscript already reports useful LLM-guided alternative trajectories retained by the hybrid safety envelope versus single DFF. Standalone HG-VF is not better in aggregateUV; selection non-regression is an architectural property; 18of20UVwins use moreQ. This is not superiority to equal-cost two-branch D-SE, external published systems, optimization, or unused confirmation.",
+  "reported_candidate_tests": {
+    "DFF": 109521,
+    "HG_VF": 65448,
+    "HG_SE_full_both": 174969
+  },
+  "cost_scope": "Selected trajectoryQ/actions are not total two-branch computation. Both branches/model/training/preparation/failure costs must still be charged in new comparisons. Manuscript says wallclock sessions not uniform.",
+  "data_limit": "Manuscript acknowledges proposer records and closed-loop evaluation originate from same physical replay population. Not unused confirmation.",
+  "raw_data_join_status": {
+    "local_inspected_handoff_master_rows": 67,
+    "main137_complete_raw_trajectory_join": "NOT_YET_CERTIFIED_IN_THIS_NEW_AUDIT",
+    "first25_handoff_base_UV": 227.0,
+    "first25_handoff_final_UV": 0.0,
+    "first25_handoff_UV_zero": 25,
+    "first25_not_claimed_paper_primary_cohort": true
+  },
+  "explicit_correction": "Earlier current-task notes describing227to3/22of25 as the supplied multi-agent paper primary result were incorrect for this PDF. Preserve those notes as history; this source-bound137-scenario correction supersedes them. Matching an aggregate227 alone cannot identify a cohort.",
+  "new_model_PF_optimizer_converter_forecast_derivative_solve_calls": 0,
+  "all6goals": "OPEN"
+}

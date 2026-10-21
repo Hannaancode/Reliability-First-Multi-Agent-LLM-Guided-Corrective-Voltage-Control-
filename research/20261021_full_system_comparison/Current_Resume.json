@@ -1,0 +1,93 @@
+{
+  "at_utc": "2026-10-21T08:29:34.808669+00:00",
+  "status": "FULL_SYSTEM_COMPARISON_REGISTERED_PUBLIC_EXTERNAL_COHORT_RUNNING",
+  "all6goals": "OPEN",
+  "priority_order": [
+    "G3",
+    "G2",
+    "G1",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "human_scope": "Compare complete original paper system, new controller/hybrid and reproducible external published methods on identical physical cases. Report every outcome. No guaranteed superiority.",
+  "registration": {
+    "federation_inputs": 203,
+    "existing141_strata": {
+      "combined_stress": 96,
+      "der_drop": 5,
+      "load_scaling": 8,
+      "n_minus_1_tieline_outage": 32
+    },
+    "public_TPA_rows": 120,
+    "unique_TPA_calendar_tuples": 119,
+    "public13_inputs": 500,
+    "audit": "PASS_COMMON_CASE_REGISTRATION_AND_INCOMPARABILITY_REJECTION_SOFTWARE_ONLY",
+    "software_negative_boundaries": 18,
+    "completed_new_matched_our_fullsystem_rows": 0
+  },
+  "original_system": "Original trained0.5B shared LoRA, four local agents, compact/nested parser, physics verification, same-receiver Q refinement, numerical fallback, router, reflection and full25step two-branch safety-envelope. Source-map and notebook training recipe/provenance saved. All original assets unchanged.",
+  "parser_finding": {
+    "original_parser_snaps_to25Mvar_and_minimum25": true,
+    "native322_max_device_cap_Mvar": 0.17681847168833856,
+    "unchanged_paper_is_not_native_inverter_policy": true,
+    "named_native_unit_adapter": "Software only, explicitly removes only round/grid minimummaximum assignments; neither original source nor model weights changed. New full policy/memory/cold/physical readiness still missing.",
+    "full_current_packets": 8,
+    "max_actual_input_tokens": 5406,
+    "context": 8192,
+    "new_model_or_PF_calls": 0,
+    "preserved_failures": [
+      "V1 original-parser valid-native assertion failed before any tokenizer/model/PF",
+      "V2 BatchEncoding serialization failure; its len2/context claim inadmissible and superseded by V3 typed actual5406token check"
+    ]
+  },
+  "current_single_scientific_owner": {
+    "source": "work/run_public13_remaining_published_cohort_20261021.py",
+    "actual_pid": 13544,
+    "actual_parent_pid": 8484,
+    "source_sha256": "e9d51cebb67151d4964848d613156b2ee0e4c71e5705b00a75a4248de245a448",
+    "command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_public13_remaining_published_cohort_20261021.py",
+    "exec_session": 61910,
+    "science_fixed_seconds": 1800,
+    "binary_preservation_cap_bytes": 4294967296,
+    "output": "outputs/public13_remaining_published_cohort_20261021",
+    "coordinator": "outputs/public13_full_cohort_handoff_20261021",
+    "sole_reader": "work/audit_public13_remaining_published_cohort_20261021.py",
+    "reader_output": "outputs/public13_published_cohort_independent_20261021",
+    "automatic_reader_only_after_actual_primary_chain_ended_exit0_closedmanifest": true
+  },
+  "external_campaign": "All499 previously unentered author cases1..499, safeDDPG/linear/DDPG native100step task; oldcase0 retained from verified closed run, never repeated. All13 voltages retained separately from native3controlledbus done. This is baseline stage, not a full HierGrid comparison or same-information claim.",
+  "no_repeat_gate": {
+    "prior_actual_before_inputs": 566,
+    "prior_distinct_regimes": 73,
+    "new499_noncontrolled_regimes_disjoint": true,
+    "evidence": "outputs/public13_full_cohort_preparation_20261021/Prior_Actual_Attempt_Regime_Closure.json"
+  },
+  "current_GPU": "No GPU requested or owned by this turn. Yesterday three exact allocation response timeouts remain terminal; no retry/fallback. Current global availability/freehours/reset UNKNOWN, no idle allocation.",
+  "next_ordered_tasks": [
+    "Observe this exact owner only at useful checkpoints; never restart/source-edit/extend. Sole locked partial-aware independent reader follows after real end. Retain failed/unentered denominators.",
+    "Join exact supplied137-case primary manuscript source/raw trajectories. Older25-case statements are not the primary result of suppliedPDF and are superseded by the correction. Do not confuse local67partialhandoff with full137.",
+    "Finish complete causal original-paper inverter-port and new hybrid policies including all agent/model/parser/refinement/fallback/router/reflection/SE paths, exact noLLM controls, serving/context/memory/cold/persistent journals and prospective equal-case/info/guard/horizon/fullcost/source/reader gates BEFORE new model or physical performance.",
+    "After full baseline manifest/reader closes, compare our fixed numerical policy on the exact saved roots under explicitly common protection/action/horizon resources; reuse every already-paid physical input, no partial-checkpoint or outcome retune.",
+    "Execute remaining relevant public native tracks only under exact source-compatible controller/data roles. Record absent code/weights/solver prerequisites as unavailable, not beaten. All literature/all datasets is an inventory goal, not a finite universal superiority claim.",
+    "Publish compact own code/proofs/case ledgers/progress to existing research-progress-20261018 with fresh lease and byte checks. Do not export raw private weights/NET/credentials or unlicensed third-party source."
+  ],
+  "timers": [],
+  "no_final_LLM_fullDSE_public_aggregate_superiority": true,
+  "last_verified_GitHub": "aa497cda7d20ddb0e0730a340ffc5db0bcec4697",
+  "provided_manuscript_primary_cohort_correction": "outputs/full_system_comparison_20261021/Provided_Paper_Primary_Cohort_Correction.json",
+  "primary_paper_result_reported_not_newly_audited": {
+    "cohort": 137,
+    "DFF_HG_VF_HG_SE_final_UV": [
+      290,
+      291,
+      193
+    ],
+    "HG_SE_vs_DFF_better_equal_worse": [
+      20,
+      117,
+      0
+    ],
+    "remaining_claim": "Equal-costDSE/external/fullcost/unusedconfirmation"
+  }
+}
