@@ -1,0 +1,264 @@
+{
+  "at_utc": "2026-10-21T21:08:34.204425+00:00",
+  "status": "NUMERICAL500_AND_BOTH_MODEL_TESTS_CLOSED_ALL_GATES_REPORTED_NO_ACTIVE_OWNERS",
+  "numeric": {
+    "fixed_gate": "FAIL_FIXED_NUMERICAL_PRIMARY_SUPERIORITY_GATE_NO_RETUNING",
+    "summaries": {
+      "our_numerical": {
+        "cases": 500,
+        "full13band": 264,
+        "rate": 0.528,
+        "sum_residual_UV": 765,
+        "sum_residual_OV": 5,
+        "accepted_decisions": 16059,
+        "strict_failures_within1e_minus8_NOT_reclassified": 151
+      },
+      "safe-ddpg": {
+        "registered_denominator": 500,
+        "complete": 500,
+        "unknown": 0,
+        "full13_band_restored_on_complete": 262,
+        "sum_UV_on_complete": 0,
+        "sum_OV_on_complete": 324,
+        "source3done_on_complete": 500,
+        "actions_on_complete": 2237,
+        "full500_band_restoration_fraction": 0.524,
+        "missing_evidence_success_fraction_bounds_NOT_CI": [
+          0.524,
+          0.524
+        ]
+      },
+      "linear": {
+        "registered_denominator": 500,
+        "complete": 500,
+        "unknown": 0,
+        "full13_band_restored_on_complete": 258,
+        "sum_UV_on_complete": 0,
+        "sum_OV_on_complete": 345,
+        "source3done_on_complete": 500,
+        "actions_on_complete": 2657,
+        "full500_band_restoration_fraction": 0.516,
+        "missing_evidence_success_fraction_bounds_NOT_CI": [
+          0.516,
+          0.516
+        ]
+      },
+      "ddpg": {
+        "registered_denominator": 500,
+        "complete": 500,
+        "unknown": 0,
+        "full13_band_restored_on_complete": 363,
+        "sum_UV_on_complete": 59,
+        "sum_OV_on_complete": 121,
+        "source3done_on_complete": 478,
+        "actions_on_complete": 3306,
+        "full500_band_restoration_fraction": 0.726,
+        "missing_evidence_success_fraction_bounds_NOT_CI": [
+          0.726,
+          0.726
+        ]
+      }
+    },
+    "paired_tests": [
+      {
+        "comparator": "safe-ddpg",
+        "ours_only_restored": 234,
+        "other_only_restored": 232,
+        "both_same": 34,
+        "restoration_rate_difference": 0.004,
+        "case_root_bootstrap95_percentile_interval": [
+          -0.08,
+          0.088
+        ],
+        "two_sided_exact_discordant_binomial_p": 0.9630585351437541,
+        "Holm_adjusted_family3_p": 1.0
+      },
+      {
+        "comparator": "linear",
+        "ours_only_restored": 238,
+        "other_only_restored": 232,
+        "both_same": 30,
+        "restoration_rate_difference": 0.012,
+        "case_root_bootstrap95_percentile_interval": [
+          -0.074,
+          0.096
+        ],
+        "two_sided_exact_discordant_binomial_p": 0.8176302604448225,
+        "Holm_adjusted_family3_p": 1.0
+      },
+      {
+        "comparator": "ddpg",
+        "ours_only_restored": 115,
+        "other_only_restored": 214,
+        "both_same": 171,
+        "restoration_rate_difference": -0.198,
+        "case_root_bootstrap95_percentile_interval": [
+          -0.266,
+          -0.13
+        ],
+        "two_sided_exact_discordant_binomial_p": 5.2452215817724785e-08,
+        "Holm_adjusted_family3_p": 1.5735664745317437e-07
+      }
+    ],
+    "strata": {
+      "UV_only": {
+        "all_registered_cases": 232,
+        "our_fullband": 0,
+        "native_fullband": {
+          "safe-ddpg": 232,
+          "linear": 232,
+          "ddpg": 214
+        }
+      },
+      "OV_only": {
+        "all_registered_cases": 251,
+        "our_fullband": 247,
+        "native_fullband": {
+          "safe-ddpg": 13,
+          "linear": 9,
+          "ddpg": 132
+        }
+      },
+      "mixed": {
+        "all_registered_cases": 0,
+        "our_fullband": 0,
+        "native_fullband": {
+          "safe-ddpg": 0,
+          "linear": 0,
+          "ddpg": 0
+        }
+      },
+      "within_band": {
+        "all_registered_cases": 17,
+        "our_fullband": 17,
+        "native_fullband": {
+          "safe-ddpg": 17,
+          "linear": 17,
+          "ddpg": 17
+        }
+      }
+    },
+    "primary_costs": {
+      "PF_attempts": 1071,
+      "PF_returns": 1071,
+      "PF_exceptions": 0,
+      "old_paid_physics_reuses": 686,
+      "current_campaign_physics_reuses": 14387,
+      "derivative_attempts": 1908,
+      "derivative_returns": 1908,
+      "LU_returns": 1908,
+      "RHS_returns": 5724,
+      "LP_attempts": 3816,
+      "LP_returns": 3816,
+      "paid_math_reuses": 14236,
+      "independent_dense_equation_checks": 0,
+      "actual_control_decisions": 16144,
+      "accepted_commits": 16059,
+      "rejected_candidates": 85,
+      "LLM_GPU_optimizer_training_converter_calls": 0
+    },
+    "independent_costs": {
+      "PF_attempts": 1071,
+      "PF_returns": 1071,
+      "PF_exceptions": 0,
+      "old_paid_physics_reuses": 686,
+      "current_campaign_physics_reuses": 15458,
+      "derivative_attempts": 0,
+      "derivative_returns": 0,
+      "LU_returns": 0,
+      "RHS_returns": 0,
+      "LP_attempts": 0,
+      "LP_returns": 0,
+      "paid_math_reuses": 16144,
+      "independent_dense_equation_checks": 1908,
+      "actual_control_decisions": 16144,
+      "accepted_commits": 16059,
+      "rejected_candidates": 85,
+      "LLM_GPU_optimizer_training_converter_calls": 0
+    },
+    "full_fields_max_delta": 0.0
+  },
+  "original_private_adapter_native_role_test": {
+    "physical_input_states": 2,
+    "primary_zone_prompts": 6,
+    "fresh_load_repetitions": 6,
+    "strict_legal_or_null": 0,
+    "fixed_gate": "FAIL_FIXED_FULLBAND_ORIGINAL_ADAPTER_INTERFACE_STOP_NO_RETUNING",
+    "costs": {
+      "model_load_attempts": 2,
+      "model_load_returns": 2,
+      "generation_attempts": 12,
+      "generation_returns": 12,
+      "pretrained_forward_attempts": 204,
+      "pretrained_forward_returns": 204,
+      "generated_token_count": 204,
+      "PF_optimizer_backward_training_calls": 0
+    },
+    "new_PF": 0,
+    "weights_unchanged_and_cold_exact": true,
+    "reader_OS_exit_UNRECOVERED_preserved": true,
+    "closed_source_bound_artifact_certification": "outputs/native13_fullband_model_terminal_artifact_certification_v2_20261021/Terminal_Artifact_Certification.json",
+    "not_original_federation_paper_performance": true
+  },
+  "adapter_disabled_diagnostic": {
+    "same6_input_SHA256": "cb679415558d5d2dbe8b6fbf3ab2e14f60397304627a7b400136dc0c0b59cb98",
+    "strict_legal_or_null": 0,
+    "gate": "CONTROL_BASE_NATIVE_SUPPORT_ABSENT_NOT_UNIVERSAL_INABILITY",
+    "costs": {
+      "model_load_attempts": 2,
+      "model_load_returns": 2,
+      "generation_attempts": 12,
+      "generation_returns": 12,
+      "pretrained_forward_attempts": 4608,
+      "pretrained_forward_returns": 4608,
+      "generated_token_count": 4608,
+      "PF_optimizer_backward_training_calls": 0
+    },
+    "all12_hit384_token_limit": true,
+    "new_PF": 0,
+    "all6_cold_sequences_exact": true,
+    "original_reader_path_failure_retained": "outputs/native13_adapter_disabled_diagnostic_handoff_20261021/Reader_Owner_Protocol.json.log",
+    "additive_path_only_first_output_reader": "outputs/native13_adapter_disabled_diagnostic_independent_v2_20261021/Independent_Functional_Audit.json",
+    "interpretation": "Disabling LoRA did not restore native instruction/command validity. No uniquely LoRA-specific cause, universal small-model inability or model replacement success is established."
+  },
+  "conditional_UV_only_stop_ceiling": {
+    "value": 249,
+    "denominator": 500,
+    "proof": "outputs/paper_uv_stop_public13_ceiling_20261021/Independent_Conditional_Bound_Audit.json",
+    "conditional_not_observed_model_score": true
+  },
+  "posthoc_complementarity": {
+    "status": "POST_HOC_DEVELOPMENT_SAVED_EXPERT_COMPLEMENTARITY_NOT_EXECUTED_ROUTER_OR_CONFIRMATION",
+    "saved_route_fullband": 496,
+    "saved_route_remaining_UV": 0,
+    "saved_route_remaining_OV": 5,
+    "published_only_input_router_saved_fullband": 381,
+    "all3_published_available_trajectory_envelope_fullband": 383
+  },
+  "fresh_router_preparation": {
+    "at_utc": "2026-10-21T21:05:36.837057+00:00",
+    "status": "PASS_INDEPENDENT_ALL128_SOURCE_RESET_ARITHMETIC_ID_ORDER_AND_SCOPED_NO_REPEAT_INPUT_AUDIT",
+    "all128_exact_arrays": true,
+    "new128_vs_closed_prior_regime_intersections": 0,
+    "actual_new_model_PF_optimizer_derivative_calls": 0,
+    "reader_source_sha256": "ea927bba0ecee145d7b9fe8daee12592f5ebd42edac39ee35d86557d848f7482",
+    "original_external_checkpoint_training_seed_overlap": "UNKNOWN_NOT_CERTIFIED_UNSEEN_BY_PUBLISHED_WEIGHTS",
+    "case_interpretation": "Prospectively selected source-generated physical recipes, previously unexecuted in this closed local research stream. Not a separately published measured dataset or certified external training holdout.",
+    "physics_worker_and_reader_launch_admission": "NOT_READY"
+  },
+  "current_owned_jobs": [],
+  "current_owned_GPUs": [],
+  "waiting_timers": [],
+  "deleted_old_waiting_timer": "hiergrid-matched-numerical-benchmark-result-check",
+  "all6finalgoals": "OPEN",
+  "last_verified_GitHub": "b7e0e6404ac6d22ebfcd503a968662d2e5128b86",
+  "new_work_not_yet_published": true,
+  "next_ordered_tasks": [
+    "Complete and freeze the fresh128 router worker, partial-aware independent reader, causal initial route plans, separate mutable SafeDDPG model states, native controls, paid history, source/cost/persistent warm-cold/ownership fixtures. No source or budget changes to old studies.",
+    "Only when all actual gates pass, execute the source-order new128 comparison once, including every control and unknown/adverse outcome. Fresh128 recipes and arithmetic/no-repeat input audit are complete, but physics has not started.",
+    "Publish verified closed benchmark/model results, source proofs, tasks and code to existing GitHub branch with fresh lease and byte checks; private weights/NET/checkpoints stay local.",
+    "Do not retune the failed private interface or its decoder, switch in a diagnostic control as a repaired primary, or train from software success. Any future LLM mechanism requires justified target/information/support/economic/strong-numerical-control gates.",
+    "Original literal DFF+DFFALT+unchanged selector and FULL BOTH costs remain primary original-domain references. Original137paper benefit and all frozen/failed/partial/unknown evidence stay intact."
+  ],
+  "claim_scope": "Native public13 benchmark differs from federation118highUV cases. Saved496/500 route is post-hoc, not an executed controller, LLM benefit, calibrated confidence, novelty or unused confirmation."
+}

@@ -1,0 +1,376 @@
+{
+  "at_utc": "2026-10-21T21:27:11.009169+00:00",
+  "status": "LOCAL_PACKAGE_CRC_EVERY_MEMBER_HASH_PASS_NOT_YET_PUBLISHED",
+  "members": 92,
+  "archive_bytes": 771045,
+  "archive_sha256": "7927170040da62c8f4a55f517550c95a4d911174dd4001dc8fc690431fed25e5",
+  "members_manifest": {
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/cold_Agent_0.json": {
+      "bytes": 3832,
+      "sha256": "4aa9483419295ec92acaf7cfc9e940b9901e1849e693141d449bf5e2fed7b668"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/cold_Agent_1.json": {
+      "bytes": 3838,
+      "sha256": "56e3a3ce44efa348c6578a1d535d83d22f626ea88899dfe4a8d6344e09f999dd"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/cold_Agent_2.json": {
+      "bytes": 3838,
+      "sha256": "c55c9da85a4b41af090e1d080e62e1d02d24679450a3e6058e3d907b6a43e2e5"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/cold_Agent_3.json": {
+      "bytes": 3837,
+      "sha256": "b115e07727df95d20f6b795395f60830870ecbb2b9e0af63f6e0ff3aef1d8791"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/cold_Agent_4.json": {
+      "bytes": 3837,
+      "sha256": "129c3e574d462d696fa489d5ab96a019c285615a8fc7a0e457d28fd36a00bfb9"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/cold_Agent_5.json": {
+      "bytes": 3837,
+      "sha256": "9517eb9a327394acd2668764aa4c964ff7db053ef26a476935ce5cbb02af455c"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/primary_Agent_0.json": {
+      "bytes": 3838,
+      "sha256": "9f197e719601d60cf3631da355fdb398b859710369bbc8cdea335388f06de1ec"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/primary_Agent_1.json": {
+      "bytes": 3838,
+      "sha256": "47e48b2a1cfeefb423615e235c5d32291c7333b425181cf6b7c3099fbef6f5f3"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/primary_Agent_2.json": {
+      "bytes": 3833,
+      "sha256": "92d2877ae176891cb374843062357982d3702ba4f0e41625691ddab6915b0f4d"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/primary_Agent_3.json": {
+      "bytes": 3839,
+      "sha256": "cf13a49eeab24aa73be7df0f059d8598daefa3f5771fbd9523f4e24fa6eba070"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/primary_Agent_4.json": {
+      "bytes": 3839,
+      "sha256": "2086b47955e90a75bd09c8bb5aaf2d89c803ff795f0530b96873bbc292dc73e2"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_execution_20261021/staged/study/primary_Agent_5.json": {
+      "bytes": 3839,
+      "sha256": "c60c38dd6bdc2ceee86646ae2c8fb74cefa2b95aa0b2f65de25a7b2225ac1905"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_independent_v2_20261021/Closed_Manifest.json": {
+      "bytes": 546,
+      "sha256": "ecb6b645f0634009551fd536052bb6d172e916200e77982f0a787a02d07fa6c8"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_independent_v2_20261021/Frozen_After.json": {
+      "bytes": 422,
+      "sha256": "ce9c110d5624e365ad846d4b93e36eee498dd289fddd9ec4b698fbb6daa397ee"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_independent_v2_20261021/Independent_Functional_Audit.json": {
+      "bytes": 5711,
+      "sha256": "819f74566225aae025f83db3d1a37eb745376eca9ab09f1e69055024e94c5cfa"
+    },
+    "outputs/native13_adapter_disabled_diagnostic_independent_v2_20261021/Launcher_ACK.json": {
+      "bytes": 747,
+      "sha256": "b911019637d596e1de22799e98121b6fe78dd2a5cc34c34574a372e9ef0eaa03"
+    },
+    "outputs/native13_fullband_model_terminal_artifact_certification_v2_20261021/Terminal_Artifact_Certification.json": {
+      "bytes": 2121,
+      "sha256": "46beba61ca1d790d8a3bd11d113aa34f82d220283af1cfbdd6a119d8a5c485d0"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/cold_Agent_0.json": {
+      "bytes": 491,
+      "sha256": "64ce5fc0b7d59daf3ddab41d0e5e2e83c212a2b1576d09ab6e25bffe9b6cbd8e"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/cold_Agent_1.json": {
+      "bytes": 491,
+      "sha256": "b9334e119cc705e99a5c53f53a582cd8c0243b94d44937c657076fbd5e31de94"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/cold_Agent_2.json": {
+      "bytes": 569,
+      "sha256": "b368a9e9af67d7797b94f182eba9a7a0113a0c7808b266014b8c364c20c50437"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/cold_Agent_3.json": {
+      "bytes": 491,
+      "sha256": "959c7e0e62f58b831f106637cd4783660ec60a170655992b2fd7e0039d9fcd9e"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/cold_Agent_4.json": {
+      "bytes": 490,
+      "sha256": "5cbc09f6a605284a145d0f9eba110f57992809665eb19ae327e6fe380b240d4d"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/cold_Agent_5.json": {
+      "bytes": 491,
+      "sha256": "0827d7e1d78787f34ebdb4032bcd1d6641112bbba2c8315db62c90cc8d724adf"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/primary_Agent_0.json": {
+      "bytes": 492,
+      "sha256": "1e1c94f2c84b3248d90fe454b8876ef6ab9096edc66c18edfa8117a62c0ca371"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/primary_Agent_1.json": {
+      "bytes": 492,
+      "sha256": "a0aab532a3b437ab9945a60140feee23ef5a35a5c972c698a26cc5e08ee31c59"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/primary_Agent_2.json": {
+      "bytes": 570,
+      "sha256": "912111205b5443082fe7a072733fced7ed4edb57b18f9cf329941613bd1e764e"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/primary_Agent_3.json": {
+      "bytes": 492,
+      "sha256": "65f38c4142fa188ebad0fbfdb8ca69a03d4463725ad78589c6ee492c928242df"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/primary_Agent_4.json": {
+      "bytes": 492,
+      "sha256": "f04a63e50ed21aabc82ea0031c3250319f0d4efb5c957a104894c19917b0ec8b"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_execution_20261021/staged/study/primary_Agent_5.json": {
+      "bytes": 492,
+      "sha256": "69f8b4f38d22ea801b61769ff8d7c5f203e29e7e9c4d58dfa36a0ab413be2423"
+    },
+    "outputs/native13_fullband_original_adapter_engineering_independent_20261021/Independent_Functional_Audit.json": {
+      "bytes": 3409,
+      "sha256": "3fe666138ba089444fcaf07d4d9068db2fb85579ae14c788ee2e1376264cc0da"
+    },
+    "outputs/paper_uv_stop_public13_ceiling_20261021/All500_Input_Indicators.json": {
+      "bytes": 88696,
+      "sha256": "dd116cf69dc1fa303a80368fe2b9e693f3571c119827d27117038abc83cff4ef"
+    },
+    "outputs/paper_uv_stop_public13_ceiling_20261021/Conditional_Source_And_Cohort_Ceiling.json": {
+      "bytes": 3484,
+      "sha256": "55e03e549e76d74cafcaccb9356390502bf94e01a52cc7e2bac7fdb0c1ced7d2"
+    },
+    "outputs/paper_uv_stop_public13_ceiling_20261021/Independent_Conditional_Bound_Audit.json": {
+      "bytes": 536,
+      "sha256": "738f8bf76fb5355c4c9d8a674737a6eefab34b40725a76c09f5f8bb02ddf1025"
+    },
+    "outputs/public13_expert_complementarity_development_20261021/Findings_And_Next_Test.md": {
+      "bytes": 1249,
+      "sha256": "515c9a38148b4c19b47e2a5a4916518e30b3fbaa1b19189cb26453a5ae643a60"
+    },
+    "outputs/public13_expert_complementarity_development_20261021/Saved_Expert_Complementarity_And_Prospective_Question.json": {
+      "bytes": 248613,
+      "sha256": "43e520f090bddfb1c8d8b90f05608b9cb4c19fe9af482ea8925a443dc357670b"
+    },
+    "outputs/public13_fresh_input_router_preparation_v2_20261021/All128_Prospective_Identities.json": {
+      "bytes": 26499,
+      "sha256": "6ef84de944096dcbfa96ea4140d14d138d77f1bf0bfd73695f6b82d50eda9462"
+    },
+    "outputs/public13_fresh_input_router_preparation_v2_20261021/Independent_Input_Audit.json": {
+      "bytes": 797,
+      "sha256": "b585ce3fd105a215bc942ff692cd8cc9d295c011891d5d500425c81c382ac0f7"
+    },
+    "outputs/public13_fresh_input_router_preparation_v2_20261021/No_Repeat_And_Source_Input_Readiness.json": {
+      "bytes": 587,
+      "sha256": "0f7fbdebf57d85467d85d5b2a9df86bdb0b331f063c805951097b91f54be7143"
+    },
+    "outputs/public13_fresh_input_router_preparation_v2_20261021/Prospective_Router_Protocol.json": {
+      "bytes": 6476,
+      "sha256": "d1f00ee79d8ca4855c3a3a6a9acb787431c402c3a3eb7c6a70bc9f5aa7b2ccf7"
+    },
+    "outputs/public13_fresh_router_execution_preparation_20261022/Actual_No_Forward_State_Readiness.json": {
+      "bytes": 4703,
+      "sha256": "735fee77ddb1f5510118b003619e2b39ca1448a467f853d5ed5d106d04cc231d"
+    },
+    "outputs/public13_fresh_router_execution_preparation_20261022/Historical_Physical_Attempt_Anchors.json": {
+      "bytes": 713060,
+      "sha256": "35774cc494d057efd29c6584323c6590a975feb79d1f2792ccc3d09728e44981"
+    },
+    "outputs/public13_fresh_router_execution_preparation_20261022/Independent_Launch_Review.json": {
+      "bytes": 1951,
+      "sha256": "5526807ddf0367b381c4e03b1e5a4c3f48c02e561fcb13b530d3db02a3675646"
+    },
+    "outputs/public13_fresh_router_execution_preparation_20261022/Independent_Reader_Lock.json": {
+      "bytes": 330,
+      "sha256": "48a31c7bca8dbb646ce4a2d85293932095c862f6319362b0148fe482576a0dea"
+    },
+    "outputs/public13_fresh_router_execution_preparation_20261022/Preparation_Readiness.json": {
+      "bytes": 355,
+      "sha256": "6b32ac89ef435ba7035fdba4764cf23728cc944140e09787b4fc3514b452e0bd"
+    },
+    "outputs/public13_fresh_router_execution_preparation_20261022/Primary_Owner_Protocol.json": {
+      "bytes": 402,
+      "sha256": "fa91e2665c0081ba3ab900485e26a0359956fc30aeb0a2bb221a308e94a10e00"
+    },
+    "outputs/public13_fresh_router_execution_preparation_20261022/Protocol.json": {
+      "bytes": 16453,
+      "sha256": "45664a9d47c0eb3756b9f5ed2d2337af3de08166e5987dfa6fa78a7121f07028"
+    },
+    "outputs/public13_fresh_router_execution_preparation_20261022/Reader_Owner_Protocol.json": {
+      "bytes": 413,
+      "sha256": "cff6ebb1c4f62c5a244c27b5fd3ff530312e18e3bc320a5ad9caae9b4595213b"
+    },
+    "outputs/public13_fresh_router_live_handoff_20261022/Verified_Actual_Live_Checkpoint.json": {
+      "bytes": 3647,
+      "sha256": "40fda0f539aacc97ae4ff822f1d807788e46eb0c13ce2c05491c15be92b22c32"
+    },
+    "outputs/public13_fresh_router_software_checks_v2_20261022/Software_Checks.json": {
+      "bytes": 1264,
+      "sha256": "c5ce2b50024c64d91883df9f8a438ba4d21f84a46dbff962d349776672c936bd"
+    },
+    "outputs/public13_matched_numeric_comparison_20261021/Matched_Comparison_And_Fixed_Decision.json": {
+      "bytes": 1602264,
+      "sha256": "7f18244866463e3f09ced4922db8f8fb45ae813804fa886547442ab27bef5428"
+    },
+    "outputs/public13_matched_numeric_comparison_20261021/Results_And_Next_Decision.md": {
+      "bytes": 1140,
+      "sha256": "116d231a02e4e246be834421c9d5d3492a465b100d22eec0292722155f6b6875"
+    },
+    "outputs/public13_matched_numeric_independent_20261021/Independent_Audit.json": {
+      "bytes": 1584,
+      "sha256": "b0465429400e6a3528077d6cbf8843d78fa075bf44cf0b2c2a9aed910ef5cbed"
+    },
+    "outputs/verified_benchmark_model_and_router_state_20261022/Figure_Source_And_Scope.json": {
+      "bytes": 604,
+      "sha256": "255c965d5b02c2371e2afa566b9ea7f0afe53182a3f6b5655a7f0d7ca4649bd7"
+    },
+    "outputs/verified_benchmark_model_and_router_state_20261022/Results_And_Next_Execution.md": {
+      "bytes": 3641,
+      "sha256": "4c21e7081aa5870e8377114ea1364de6591b1f7d4fef16c104f2c41dc9b82cd2"
+    },
+    "outputs/verified_benchmark_model_and_router_state_20261022/Verified_Closed_Results_And_Exact_Resume.json": {
+      "bytes": 10747,
+      "sha256": "39f84a56392fc64dadbb3fca3601a9bc2de85493edc8a167b1cad5bb4375d56f"
+    },
+    "outputs/verified_benchmark_model_and_router_state_20261022/Verified_Public13_Comparison.png": {
+      "bytes": 120697,
+      "sha256": "7e88a2f77531dab65a8ae3f8ed50c045781913c50918078b705cf83d7d24959f"
+    },
+    "outputs/verified_benchmark_model_and_router_state_20261022/Verified_Public13_Comparison.svg": {
+      "bytes": 94260,
+      "sha256": "78a360f55104c846994d896461ad6f4b74394e9885743cb4ac249e3760e6425f"
+    },
+    "work/analyze_closed_public13_expert_complementarity_20261021.py": {
+      "bytes": 7300,
+      "sha256": "22d7394b90eb74537f0559fa851bf03fa4bb0e80ce5c54c190c2a114a80be9cd"
+    },
+    "work/audit_native13_adapter_disabled_diagnostic_20261021.py": {
+      "bytes": 7457,
+      "sha256": "c29d8394120c29734e03f04c7ef619b7769891688727f268332c8c5f23ec2589"
+    },
+    "work/audit_native13_adapter_disabled_diagnostic_v2_20261021.py": {
+      "bytes": 7468,
+      "sha256": "a1ea2f06bcc74aed1c40d0d95da33d38a3bf4a82138f62ad533e5ed7346d1e02"
+    },
+    "work/audit_native13_adapter_disabled_launch_20261021.py": {
+      "bytes": 5139,
+      "sha256": "5e0f144ae43882c2208fc09800771550a2541b83c33003376cdcc991320d1956"
+    },
+    "work/audit_native13_fullband_engineering_launch_20261021.py": {
+      "bytes": 4371,
+      "sha256": "043b2f8601d24c4862b340f59c77ca79b938c1636498e54b5ca879a82bec823c"
+    },
+    "work/audit_native13_fullband_original_adapter_engineering_20261021.py": {
+      "bytes": 6921,
+      "sha256": "ab04fb7cafcf65a6f45289a6f9dfaf14efc85024b67c2a6ed98e174a802a16c7"
+    },
+    "work/audit_paper_uv_stop_public13_ceiling_20261021.py": {
+      "bytes": 3453,
+      "sha256": "4ad925cd890de6b861c6f2d911a0c9b820105295a12a7d89ec50a544639f3b98"
+    },
+    "work/audit_public13_fresh_router_20261022.py": {
+      "bytes": 97,
+      "sha256": "d4cc5e7211bb5068d7c063d0062d63a923c5912fbfe68465821e8c9ac3c8ee91"
+    },
+    "work/audit_public13_fresh_router_input_recipes_20261021.py": {
+      "bytes": 3457,
+      "sha256": "ea927bba0ecee145d7b9fe8daee12592f5ebd42edac39ee35d86557d848f7482"
+    },
+    "work/certify_closed_fullband_model_reader_artifacts_v2_20261021.py": {
+      "bytes": 5886,
+      "sha256": "1b272e04e458a025c4a466d2958940ef907ebc9a0744bc0ba05e1eebf61c5b4d"
+    },
+    "work/compare_public13_fresh_router_20261022.py": {
+      "bytes": 5452,
+      "sha256": "08f27e3fa6ccc3828a90580506d010068a069f8a9d6c9b313322ce7b235aaac4"
+    },
+    "work/coordinate_native13_adapter_disabled_diagnostic_20261021.py": {
+      "bytes": 1640,
+      "sha256": "0cd69aff4aca40da55d38fde2d8a7196ed11a68f6d1860ab899b88eada76b30c"
+    },
+    "work/coordinate_native13_fullband_original_adapter_engineering_20261021.py": {
+      "bytes": 1660,
+      "sha256": "f2222d43d0fc30ff34e3f7e0f1fff5c9f60b770cbb5b26c3da986f34cdb9e444"
+    },
+    "work/coordinate_public13_fresh_router_20261022.py": {
+      "bytes": 1920,
+      "sha256": "2f3197cf0b0aa1d7f135543cfb55257217f534b0d04ebf6d32ae44558058385f"
+    },
+    "work/freeze_native13_fullband_original_adapter_engineering_20261021.py": {
+      "bytes": 12831,
+      "sha256": "36d4cb9daf01adb851a6d53e4fe18b474ebdb498a9abfd821741630727b5189f"
+    },
+    "work/native13_adapter_disabled_guardian_20261021.py": {
+      "bytes": 2172,
+      "sha256": "ee1b34b90b8e90305bf2120be80001697d2371747f7f3e77b257922f236245ae"
+    },
+    "work/native13_fullband_hybrid_contract_20261021.py": {
+      "bytes": 9102,
+      "sha256": "fbd5c5ed200d8ddd969cb6b7f1545e9ea208470b08a640d978879c91af2338cf"
+    },
+    "work/native13_fullband_lora_guardian_20261021.py": {
+      "bytes": 2166,
+      "sha256": "d778ae326fedb5745fb09121415591db32dc5cd1e3f9cb31f09b6b67cafd6d31"
+    },
+    "work/plot_verified_public13_comparison_20261022.py": {
+      "bytes": 3338,
+      "sha256": "bbf5ae13a2d38cd1c7c4cecd02820adacf70b9f46ec1062f1ee2adbfe01d35df"
+    },
+    "work/prepare_native13_adapter_disabled_diagnostic_20261021.py": {
+      "bytes": 13535,
+      "sha256": "b4c5551fe74f684717672337fd5ee501e7c3d4cfdd8c1c38a7a9d40e42eb04c6"
+    },
+    "work/prepare_native13_fullband_original_adapter_engineering_20261021.py": {
+      "bytes": 10318,
+      "sha256": "7eb3359b791310abafc238a50213cc4ed5976127a6c6b34e61a21a0e1ebbc6ed"
+    },
+    "work/prepare_public13_fresh_input_router_v2_20261021.py": {
+      "bytes": 10044,
+      "sha256": "f938b9828047899bb33ae757324d5909a164c90a27910d5299c3d0a8a810ce2b"
+    },
+    "work/prepare_public13_fresh_router_execution_20261022.py": {
+      "bytes": 11079,
+      "sha256": "85cc0fb7d3f03ab872a7f17273e5cf21fc945c8b39134122b1389f67646bc1e8"
+    },
+    "work/prove_paper_uv_stop_public13_ceiling_20261021.py": {
+      "bytes": 7536,
+      "sha256": "74599e7cf988b8b67fb1cba055187c495e5e849c609d2322d27d2a13c569c436"
+    },
+    "work/public13_fresh_router_engine_20261022.py": {
+      "bytes": 30517,
+      "sha256": "f2d32eb90177c6e065ea649659450af23226c87aca726e6ccd51e4949fd3ec83"
+    },
+    "work/review_public13_fresh_router_launch_20261022.py": {
+      "bytes": 4261,
+      "sha256": "7bc640ae85e46239abdbb95017966829f5112f6ceea5fb3b488c17332f031ea6"
+    },
+    "work/run_native13_adapter_disabled_colab_20261021.py": {
+      "bytes": 17510,
+      "sha256": "1c67d8704f3de17f2d99ae4d2c1569ba0da3e4eac27831f581fb446ceab60377"
+    },
+    "work/run_native13_adapter_disabled_remote_20261021.py": {
+      "bytes": 8639,
+      "sha256": "ef43b97131e8a681b957c6dfbc4937de8a7897f3cae65779c0e0827a980c7170"
+    },
+    "work/run_native13_fullband_lora_remote_20261021.py": {
+      "bytes": 8362,
+      "sha256": "62093b25d5fca5c7f07ecddc1fcf72b9ecc6a6ff6bd958fb5156ef33d4e1b790"
+    },
+    "work/run_native13_fullband_original_adapter_colab_20261021.py": {
+      "bytes": 17527,
+      "sha256": "3b7114087a5881a8d16a82edcb01c64e7ebe5dd18cd2ff12eecdc16613126398"
+    },
+    "work/run_public13_fresh_router_20261022.py": {
+      "bytes": 93,
+      "sha256": "a627071b9cab85eaec8fb84a5ad0bda961d130459c444d059ea441fbf420afd0"
+    },
+    "work/save_and_pack_fresh_router_launch_20261022.py": {
+      "bytes": 14082,
+      "sha256": "933018d3e6e39c6a94c513ae3a0219a9d550f1e49965bf332932860631bb5422"
+    },
+    "work/save_closed_benchmark_model_and_router_state_20261022.py": {
+      "bytes": 16836,
+      "sha256": "a0b83f26d99ebb7ae078c46b718651e15615677795b188c3ba12fb91e9651e96"
+    },
+    "work/test_public13_fresh_router_software_20261022.py": {
+      "bytes": 8037,
+      "sha256": "b8ec91933b7319002efa11c1e26f16f2c2def1a3565d99b27dff6e03663a0b60"
+    }
+  },
+  "private_weights_NET_checkpoints_thirdparty_source_excluded": true,
+  "not_complete_raw_backup": true,
+  "new_scientific_calls_from_packaging": 0
+}
