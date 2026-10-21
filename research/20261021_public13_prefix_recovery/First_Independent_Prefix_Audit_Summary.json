@@ -1,0 +1,36 @@
+{
+  "status": "PASS_FIRST_INDEPENDENT_PRESERVED_PARTIAL_PREFIX_NATIVE_SOURCE_PROJECTION_POLICY_PHYSICS_AND_COST_VALIDATION",
+  "scientific_status": "TERMINAL_RESOURCE_PARTIAL_WITH_PRESERVED_FINALIZATION_FAILURE",
+  "continuous_policy_steps_verified": 2632,
+  "full_fields_max_delta": 0.0,
+  "actual_independent_costs": {
+    "PF_attempts": 2787,
+    "PF_returns": 2787,
+    "PF_exceptions": 0,
+    "agent_forward_attempts": 7896,
+    "agent_forward_returns": 7896,
+    "checkpoint_loads": 9,
+    "native_conversions": 1,
+    "control_transition_paid_replay_lookups": 2632,
+    "new_LLM_training_optimizer_GPU_calls": 0
+  },
+  "primary_costs_retained": {
+    "native_conversion_returns": 1,
+    "checkpoint_load_attempts": 9,
+    "checkpoint_load_returns": 9,
+    "agent_forward_attempts": 7896,
+    "agent_forward_returns": 7896,
+    "PF_attempts": 2787,
+    "PF_returns": 2787,
+    "PF_exceptions": 0,
+    "paid_exact_cache_uses": 7,
+    "LLM_GPU_optimizer_training_calls": 0
+  },
+  "workflow_seconds": 852.5149999999558,
+  "primary_actual_final_state_UNRECOVERED": true,
+  "original_primary_cold_policy_checkpoint_complete": false,
+  "source_projection_checked_each_reader_forward": true,
+  "completed_branch_count": 484,
+  "completed_all3_worlds": 161,
+  "full500_complete": false
+}

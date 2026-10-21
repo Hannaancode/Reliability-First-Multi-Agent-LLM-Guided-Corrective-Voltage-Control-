@@ -1,0 +1,40 @@
+{
+  "at_utc": "2026-10-21T13:44:41.910324+00:00",
+  "status": "DESCRIPTIVE_COMPLETE_EXECUTION_PREFIX_ONLY_NOT_FULL500",
+  "fixed_registered_author_cases": 500,
+  "same_complete_available_prefix_seeds": [
+    1,
+    161
+  ],
+  "methods": {
+    "safe-ddpg": {
+      "complete_source_ordered_prefix_cases": 161,
+      "sum_final_all13_UV": 0,
+      "sum_final_all13_OV": 106,
+      "all13_fullband_restored_cases": 84,
+      "source3controlled_strict_done_cases": 161,
+      "total_control_actions": 716
+    },
+    "linear": {
+      "complete_source_ordered_prefix_cases": 161,
+      "sum_final_all13_UV": 0,
+      "sum_final_all13_OV": 114,
+      "all13_fullband_restored_cases": 83,
+      "source3controlled_strict_done_cases": 161,
+      "total_control_actions": 841
+    },
+    "ddpg": {
+      "complete_source_ordered_prefix_cases": 161,
+      "sum_final_all13_UV": 16,
+      "sum_final_all13_OV": 44,
+      "all13_fullband_restored_cases": 115,
+      "source3controlled_strict_done_cases": 154,
+      "total_control_actions": 1066
+    }
+  },
+  "extra_completed_safe_ddpg_seed162_reported_separately_not_added_to_matched_prefix": true,
+  "case0_reused_from_prior_closed_study_not_in_this_prefix_summary": true,
+  "unexecuted_method_case_pairs": 1013,
+  "full500_and_HierGrid_superiority": "UNKNOWN_NOT_MEASURED",
+  "scope": "All first161 completed cases, not chosen for voltage or method success. Incomplete source-order prefix cannot be generalized to full500. No statistical interval, selected winner, LLM attribution or our-system score."
+}

@@ -1,0 +1,42 @@
+{
+  "at_utc": "2026-10-21T13:21:09.564530+00:00",
+  "status": "PASS_SAVED_PREFIX_SOURCE_JOURNAL_NATIVE_EQUATION_AND_CONTINUITY_AUDIT_ONLY",
+  "scientific_study": "TERMINAL_RESOURCE_PARTIAL_WITH_FINALIZATION_ASSERTION_FAILURE",
+  "complete_original500": false,
+  "source_normalization_explanation": "Only b/c have source-defined in-forward data normalization; original universal immutability assertion invalid for author policy. Actual final-state snapshot was not saved and stays UNKNOWN.",
+  "old_scientist_and_handoff_ended": true,
+  "original_reader_started": false,
+  "entered_worlds": 162,
+  "complete_all3_worlds": 161,
+  "completed_branches": 484,
+  "saved_control_steps": 2632,
+  "saved_equation_states": 2787,
+  "maximum_KCL_pu": 1.4002212723073614e-08,
+  "maximum_complex_branch_power_MVA": 1.5642670909259203e-13,
+  "primary_costs_retained": {
+    "native_conversion_returns": 1,
+    "checkpoint_load_attempts": 9,
+    "checkpoint_load_returns": 9,
+    "agent_forward_attempts": 7896,
+    "agent_forward_returns": 7896,
+    "PF_attempts": 2787,
+    "PF_returns": 2787,
+    "PF_exceptions": 0,
+    "paid_exact_cache_uses": 7,
+    "LLM_GPU_optimizer_training_calls": 0
+  },
+  "new_analysis_costs": {
+    "new_policy_forward_calls": 0,
+    "new_PF_calls": 0,
+    "new_optimizer_backward_training_calls": 0,
+    "new_converter_derivative_factor_solve_calls": 0,
+    "saved_b_c_projection_vector_operations": 0,
+    "saved_equation_states_checked": 0,
+    "reused_completed_saved_equation_checks": 2787,
+    "inherited_source_state_projection_vector_operations": 4350
+  },
+  "full_independent_rebuilt_solver_policy_replay": "NOT_EXECUTED_NOT_CERTIFIED",
+  "actual_primary_final_parameter_bytes": "UNRECOVERED",
+  "superiority_result": "UNKNOWN_NO_OURS_ROWS",
+  "workflow_seconds": 286.875
+}
