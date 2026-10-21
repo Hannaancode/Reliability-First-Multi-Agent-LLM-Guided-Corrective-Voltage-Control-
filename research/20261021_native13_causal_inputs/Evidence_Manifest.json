@@ -1,0 +1,69 @@
+{
+  "at_utc": "2026-10-21T19:37:00.751538+00:00",
+  "files": [
+    {
+      "path": "work/paper_native13_causal_contract_20261021.py",
+      "bytes": 8622,
+      "sha256": "9699d821014786d75bc86a15c095c39e6ee8e647eab8039ebd1360fad3b9bf3e"
+    },
+    {
+      "path": "work/paper_native13_causal_contract_v2_20261021.py",
+      "bytes": 8958,
+      "sha256": "03f716293ceeaae11fbf2c93269cdedc96754d1f396a91a1f1eabe44b9348a9c"
+    },
+    {
+      "path": "work/prepare_paper_native13_causal_contract_20261021.py",
+      "bytes": 9427,
+      "sha256": "fb218ef686dc85846134309b116dc62d9e56852bef1cdbc91d5b7c55f5965c56"
+    },
+    {
+      "path": "work/prepare_paper_native13_causal_contract_v2_20261021.py",
+      "bytes": 10568,
+      "sha256": "340993949fa02105410402e120afefbe74987797340dd887875e4a1180b3474f"
+    },
+    {
+      "path": "work/prepare_paper_native13_causal_contract_v3_20261021.py",
+      "bytes": 11167,
+      "sha256": "9a3875cbefca43601f619dbad4975385e97c68ad6e13416fe87d7bb0d7a933f6"
+    },
+    {
+      "path": "work/audit_paper_native13_causal_contract_v3_20261021.py",
+      "bytes": 7096,
+      "sha256": "59094a479cb82a1f6edd675bacdf552cd3660cf6ec6520602243f73990a1c428"
+    },
+    {
+      "path": "work/save_public13_audit_wait_and_causal_inputs_20261021.py",
+      "bytes": 12310,
+      "sha256": "d3701f5c499e71ad742902aed16fd0b1bb63603c364666009915dd50648ca400"
+    },
+    {
+      "path": "outputs/paper_native13_causal_contract_v3_20261021/Software_Input_Admission.json",
+      "bytes": 4513,
+      "sha256": "b0e8fab0785e9b5d0a444db987c98790dfba186407bb36014b92be1f3f03c089"
+    },
+    {
+      "path": "outputs/paper_native13_causal_contract_v3_20261021/independent_input_audit/Independent_Input_Audit.json",
+      "bytes": 1181,
+      "sha256": "a187e6a2a373775eba4636bb82623f05c94b83650fbfad663a46a4773f966906"
+    },
+    {
+      "path": "outputs/paper_native13_causal_contract_20261021/Failure.json",
+      "bytes": 735,
+      "sha256": "add447561469bc375b06cd1fb59c3880046cafc1d84bfdb16b85dac6ac6a97fb"
+    },
+    {
+      "path": "outputs/paper_native13_causal_contract_v2_20261021/Failure.json",
+      "bytes": 1082,
+      "sha256": "1594af07d0c6c68eaa300fdea2975b15a8e3b146791203f01c7a358ed37ab038"
+    }
+  ],
+  "archive": {
+    "members": 11,
+    "bytes": 31647,
+    "sha256": "53aa1a1e330a28a7f340fbd898e4ca019cf06bd29e80937bef5b4c4df8c4711b",
+    "CRC_and_all_member_hashes": "PASS"
+  },
+  "actual_all500_inputs_local_only": "d03664ebe9fd79aea1620ff58a1ab09462825403db3de5000064698e6b77abb2",
+  "new_scientific_calls": 0,
+  "not_complete_raw_backup": true
+}

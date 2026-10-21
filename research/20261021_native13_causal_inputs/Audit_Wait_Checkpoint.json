@@ -1,0 +1,62 @@
+{
+  "at_utc": "2026-10-21T19:37:00.751538+00:00",
+  "status": "PRIMARY_ALL500_COMPLETE_SOLE_INDEPENDENT_READER_LIVE_COMPARISON_PENDING",
+  "actors": [
+    {
+      "output": "outputs/public13_matched_numeric_execution_20261021",
+      "actual_pid": 24572,
+      "parent_pid": 25000,
+      "source_sha256": "7b82834affe6149795bd08a1badad30fbd85a1b4e552ef1f2dc7d9c30692f103",
+      "at_utc": "2026-10-21T17:10:54.444330+00:00",
+      "matching_owned_source_live_at_last_observation": false,
+      "exact_PID_parent_command_source_verified_at_UTC": "2026-10-21T19:34:37+00:00"
+    },
+    {
+      "output": "outputs/public13_matched_numeric_independent_20261021",
+      "actual_pid": 24388,
+      "parent_pid": 18264,
+      "source_sha256": "629eab36154adad03280c05072717ed21f5c61111b5a3c826688b6412c051ebd",
+      "at_utc": "2026-10-21T18:48:09.888978+00:00",
+      "matching_owned_source_live_at_last_observation": true,
+      "exact_PID_parent_command_source_verified_at_UTC": "2026-10-21T19:34:37+00:00"
+    },
+    {
+      "output": "outputs/public13_matched_numeric_handoff_20261021",
+      "actual_pid": 27116,
+      "parent_pid": 25120,
+      "source_sha256": "6992fefbf5d335a2d061562758b16cb4ff9d6884905867de49f2b93901100182",
+      "at_utc": "2026-10-21T17:10:53.700372+00:00",
+      "matching_owned_source_live_at_last_observation": true,
+      "exact_PID_parent_command_source_verified_at_UTC": "2026-10-21T19:34:37+00:00"
+    }
+  ],
+  "primary_End_ACK": {
+    "actual_pid": 24572,
+    "launcher_pid": 25000,
+    "exit_code": 0,
+    "actual_owned_chain_ended": true,
+    "elapsed_seconds": 5834.046999999962
+  },
+  "exec_session": 39727,
+  "reader_fixed_science_seconds": 7200,
+  "reader_fixed_process_seconds": 7500,
+  "reader_started_at_utc": "2026-10-21T18:48:09.888978+00:00",
+  "last_observed_reader_progress": {
+    "seed": 249,
+    "step": 73,
+    "elapsed_seconds": 2787.7179999999935
+  },
+  "progress_is_not_independent_completion": true,
+  "next_check_Asia_Qatar": "2026-10-21 23:10",
+  "waiting_automation_id": "hiergrid-matched-numerical-benchmark-result-check",
+  "waiting_policy": "One estimated check only; rearm if exact owned actor is live; delete at actual terminal. No recurring monitor.",
+  "comparison_lock": "outputs/public13_matched_numeric_preparation_20261021/Comparison_Analysis_Lock.json",
+  "comparison_source": "work/compare_closed_public13_numeric_and_published_20261021.py",
+  "comparison_source_sha256": "8e6adeeea2f105e4a2127cca1df0c2831df0dddfa17ae3c1fc966bc3ace130cc",
+  "comparison_output": "outputs/public13_matched_numeric_comparison_20261021",
+  "next": "Only after actual primary/reader/coordinator end, exit0, independentPASS, Result and closed manifests, run locked comparison once if absent. Strict near-boundary failures remain failures. No outcome rescue.",
+  "new_input_contract": "outputs/paper_native13_causal_contract_v3_20261021",
+  "new_input_contract_scope": "All500 causal initial inputs/action support software only; no actual inference/full paper policy/physics admission.",
+  "all6goals": "OPEN",
+  "no_new_GPU_model_PF_training_call_by_this_continuation": true
+}

@@ -1,0 +1,135 @@
+{
+  "software_admission": {
+    "at_utc": "2026-10-21T19:33:47.299227+00:00",
+    "status": "PASS_ALL500_CAUSAL_INITIAL_INPUT_AND_POSITIVE_LITERAL_NATIVE_ROLE_SOFTWARE_ONLY",
+    "port": "PAPER_NATIVE13_POSITIVE_LITERAL_FOUR_ZONE_INPUT_CONTRACT_V2_SAVED_Y_BINDING",
+    "source_roots_sha256": "bca4b08d0ce45f31808c09ed20f2ea73a693f22e6d666f3893b4c8a8d191988f",
+    "saved_Y_anchor": {
+      "path": "outputs/stable_ddpg_native_engineering_20261020/preserved_root_independent_audit/Verified_Admittance_And_State.npz",
+      "sha256": "0da9a3953ac24e9e7e0857ad781c94eb8d686c9ac788d665099b1be1ba793052",
+      "all500_branch_bus_baseMVA_binding": true
+    },
+    "original_empty_Y_software_failure_preserved": "outputs/paper_native13_causal_contract_20261021/Failure.json",
+    "all_registered_cases": 500,
+    "all_zone_frames": 2000,
+    "input_dispositions": {
+      "MODEL_INPUT_AVAILABLE": 696,
+      "EMPTY_ACTUATOR_ZONE_NO_MODEL_CALL": 232,
+      "PAPER_UV_STOP_NO_MODEL_CALL": 1072
+    },
+    "one_outcome_independent_topology_partition": true,
+    "maximum_actual_input_tokens": 566,
+    "input_plus384_within8192": true,
+    "original_training_context512_not_silently_replicated": true,
+    "boundary_checks": [
+      "literal_increment_0.0001_above_nonzero_currentQ",
+      "literal_increment_0.1_above_nonzero_currentQ",
+      "literal_increment_0.30000001192092896_above_nonzero_currentQ",
+      "null",
+      "empty",
+      "bare_list",
+      "malformed_bus",
+      "negative_absorption_not_silently_enabled",
+      "old25Mvar_not_scaled",
+      "above_native_increment_not_clipped",
+      "nan",
+      "infinity",
+      "uncontrolled_recipient",
+      "foreign_zone_recipient",
+      "float32_underflow",
+      "original_first_valid_recipient_semantics_preserved_and_disclosed",
+      "past_feedback_preserved",
+      "future_feedback_rejected",
+      "teacher_coverage_key_rejected",
+      "packet_JSON_cold_roundtrip",
+      "zero_new_forbidden_science_calls"
+    ],
+    "parser_AST_adaptation": {
+      "original_AST_sha256": "2a6e4a56dc72859e51d3806622a1680f605abf30b64fd4a18a2aa11103c6b596",
+      "adapted_AST_sha256": "02d1db9a19aaff66621224b7b63649ffc789d335217bc63d94e14f24e6018e76",
+      "only_removed_assignments": [
+        "q = round(q / 25.0) * 25.0",
+        "q = max(25.0, min(300.0, q))"
+      ],
+      "original_source_modified": false
+    },
+    "source_hashes": {
+      "work/paper_native13_causal_contract_v2_20261021.py": "03f716293ceeaae11fbf2c93269cdedc96754d1f396a91a1f1eabe44b9348a9c",
+      "work/prepare_paper_native13_causal_contract_v3_20261021.py": "9a3875cbefca43601f619dbad4975385e97c68ad6e13416fe87d7bb0d7a933f6",
+      "work/check_native_parser_contract_v3_20261021.py": "c224ee7ced56eddfaf47785ee956fee5e5f3571db84945c8ad860ccdc68c70a8",
+      "work/e/audit/phase2g_rescue_runner.py": "6e2f33faf63c3e6d314680455f478e63102f6361453b43c9a454022a832b84ed"
+    },
+    "actual_tokenizer_file_hashes": {
+      "tokenizer.json": "bd5948af71b4f56cf697f7580814c7ce8b80595ef985544efcacf716126a2e31",
+      "tokenizer_config.json": "ecb8c112cb1632122a76aec9f5bb3250b10c59cbbee94a0e1b03f2d94e1bebf8"
+    },
+    "new_model_PF_conversion_derivative_LP_training_optimizer_GPU_calls": 0,
+    "preparation_seconds": 22.89100000000326,
+    "NOT_READY": [
+      "Complete router/refinement/fallback/reflection/two-branch native policy",
+      "Prospective inference/physics and equally informed trained noLLM controls",
+      "Actual original adapter/base/context/cold integration and full persistent runtime",
+      "Scientific independent owner/reader/cost/unused-confirmation gates"
+    ],
+    "lost_earlier_software_encoding_calls_separately_paid": 696,
+    "v2_expectation_failure_preserved": "outputs/paper_native13_causal_contract_v2_20261021/Failure.json",
+    "original_normalizer_multi_recipient_semantics": "First valid recipient only, preserving source break. Raw and normalized model outputs must both be retained by eventual runtime.",
+    "limitations": [
+      "Named positive-only unit/hardware/partition/prompt port, not unchanged paper.",
+      "Original UV-only stop leaves OV-only inputs with no original-branch model call; they remain in full-grid denominators.",
+      "Negative absorption remains unsupported, never repaired using a numerical action labelled as LLM.",
+      "Packet JSON cold roundtrip is not controller/process recovery or physical trajectory validation.",
+      "Past verdict values still require real receipt anchoring by the eventual runtime.",
+      "All500 roots are inspected development; this is not performance or learning evidence."
+    ]
+  },
+  "independent_saved_input_audit": {
+    "at_utc": "2026-10-21T19:33:48.734688+00:00",
+    "status": "PASS_SAVED_ALL500_INPUT_SOURCE_ANCHORS_CAUSAL_SCOPE_NAMESPACE_AND_DISPOSITIONS_ONLY",
+    "cases": 500,
+    "zone_frames": 2000,
+    "dispositions": {
+      "MODEL_INPUT_AVAILABLE": 696,
+      "EMPTY_ACTUATOR_ZONE_NO_MODEL_CALL": 232,
+      "PAPER_UV_STOP_NO_MODEL_CALL": 1072
+    },
+    "retained_input_token_ID_count": 337484,
+    "maximum_actual_input_tokens": 566,
+    "source_parser_only_two_declared_assignments_removed": true,
+    "admission_sha256": "b0e8fab0785e9b5d0a444db987c98790dfba186407bb36014b92be1f3f03c089",
+    "all500_frames_sha256": "d03664ebe9fd79aea1620ff58a1ab09462825403db3de5000064698e6b77abb2",
+    "all500_contracts_sha256": "2c10a16e596bc157e921f4a98ec0731c87f0d73c49f0fcfded0e32f1ac04f3cb",
+    "reader_source_sha256": "59094a479cb82a1f6edd675bacdf552cd3660cf6ec6520602243f73990a1c428",
+    "new_model_PF_conversion_derivative_LP_optimizer_GPU_calls": 0,
+    "audit_seconds": 0.15700000000651926,
+    "scope_limit": "Saved inputs and literal action contract, not full controller, model behavior, independently retokenized sequences, persistent process recovery, physical performance, or superiority."
+  },
+  "scope": "Not independently retokenized, complete controller, process recovery, model performance or physics.",
+  "old_software_failures": [
+    {
+      "status": "TERMINAL_SOFTWARE_PREPARATION_FAILURE_BEFORE_ANY_PACKET_ENCODING_OR_SCIENCE",
+      "exception": "AttributeError: numpy.ndarray object has no attribute toarray at saved BFSW internal.Ybus",
+      "source_hashes": {
+        "paper_native13_causal_contract_20261021.py": "9699d821014786d75bc86a15c095c39e6ee8e647eab8039ebd1360fad3b9bf3e",
+        "prepare_paper_native13_causal_contract_20261021.py": "fb218ef686dc85846134309b116dc62d9e56852bef1cdbc91d5b7c55f5965c56"
+      },
+      "all500_packet_encodings_unexecuted": true,
+      "new_model_PF_conversion_derivative_LP_optimizer_GPU_calls": 0,
+      "repair": "Use already independently certified saved current-Y matrix and prove unchanged branch/bus/baseMVA, never regenerate Y or solve."
+    },
+    {
+      "status": "TERMINAL_SOFTWARE_EXPECTATION_FAILURE_NOT_PHYSICAL_OR_MODEL_FAILURE",
+      "exception": "AssertionError multiple_recipients",
+      "exact_source_cause": "Original normalize_action deliberately keeps the first valid recipient then breaks. The new boundary test incorrectly expected rejection; original behavior must remain disclosed and unchanged.",
+      "all500_initial_frames_computed_but_not_preserved": true,
+      "encoded_sequences_lost_not_recoverable": true,
+      "exact_lost_encoding_calls_from_all232UVcontexts_three_active_zones": 696,
+      "new_model_PF_conversion_derivative_LP_optimizer_GPU_calls": 0,
+      "source_hashes": {
+        "paper_native13_causal_contract_v2_20261021.py": "03f716293ceeaae11fbf2c93269cdedc96754d1f396a91a1f1eabe44b9348a9c",
+        "prepare_paper_native13_causal_contract_v2_20261021.py": "340993949fa02105410402e120afefbe74987797340dd887875e4a1180b3474f"
+      },
+      "repair_scope": "Correct test to source first-recipient semantics, preserve packets before boundary assertions. Tokenization is software preparation; no scientific call repeated."
+    }
+  ]
+}
