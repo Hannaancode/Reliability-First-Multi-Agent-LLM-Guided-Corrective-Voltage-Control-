@@ -1,0 +1,85 @@
+{
+  "status": "PASS_ALL4_ACTUAL_FRESH_PROCESS_SOURCE_CURSOR_AND_NEXT_CHOICE",
+  "rows": [
+    {
+      "case_id": "fed_combined_load_1p5_line_35_MG1",
+      "cursor_sha256": "383f433291c08a875c6d93bc4d4ec3416f0cbfcc7685b79b680ab0a76b9660cb",
+      "next_action": {
+        "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+        "bus": 73,
+        "vm_pu": 1.05,
+        "devices": [
+          {
+            "table": "gen",
+            "index": 32
+          }
+        ]
+      },
+      "next_action_exact": true,
+      "source_native_action_cap": 136,
+      "new_PF_model_commit_calls": 0
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_36_MG1",
+      "cursor_sha256": "ed2d396d5ca25afe7603af2f5e0de9883dde8d7c196f2a4903a0fbf8d9bb0443",
+      "next_action": {
+        "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+        "bus": 73,
+        "vm_pu": 1.05,
+        "devices": [
+          {
+            "table": "gen",
+            "index": 32
+          }
+        ]
+      },
+      "next_action_exact": true,
+      "source_native_action_cap": 136,
+      "new_PF_model_commit_calls": 0
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "cursor_sha256": "e6a5c75d1e5bf206cf7c8ce30f4e22125cad9d955ec707a89f915f466d0609df",
+      "next_action": {
+        "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+        "bus": 73,
+        "vm_pu": 1.05,
+        "devices": [
+          {
+            "table": "gen",
+            "index": 32
+          }
+        ]
+      },
+      "next_action_exact": true,
+      "source_native_action_cap": 136,
+      "new_PF_model_commit_calls": 0
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_127_MG3",
+      "cursor_sha256": "a47c18c0c7b7a4f28f8f4ccbf8b6d153d5dffddcc7f52772bec80219ac45b32e",
+      "next_action": {
+        "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+        "bus": 73,
+        "vm_pu": 1.05,
+        "devices": [
+          {
+            "table": "gen",
+            "index": 32
+          }
+        ]
+      },
+      "next_action_exact": true,
+      "source_native_action_cap": 136,
+      "new_PF_model_commit_calls": 0
+    }
+  ],
+  "actual_pid": 26436,
+  "parent_pid": 24028,
+  "actual_process_was_launcher_bound": true,
+  "source_sha256": "8ab6b30e45b7d27e650a7938b6782bf26d38ece90958ad58885df2669a88ff6f",
+  "not_an_actual_physical_trajectory_or_new_commit": true,
+  "full_rollout_ownership_history_cost_reader_protocol_still_required": true,
+  "all_new_PF_model_optimizer_training_calls": 0,
+  "workflow_seconds": 6.4060000000172295
+}

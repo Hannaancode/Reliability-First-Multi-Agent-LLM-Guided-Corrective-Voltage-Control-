@@ -1,0 +1,91 @@
+{
+  "at_utc": "2026-10-22T20:24:02.462136+00:00",
+  "status": "PRIMARY_ALL_DECLARED_IDENTITIES_CLOSED_FIRST_NEW_RETURN_READER_LIVE",
+  "exec_session": 55532,
+  "actual_reader": {
+    "actual_pid": 23372,
+    "parent_pid": 19908,
+    "source_sha256": "c4315c2e6322ff0cecda1a0eb0552fb164e8f05a7115b99205136cb26787e3c6"
+  },
+  "actual_coordinator": {
+    "actual_pid": 25924,
+    "parent_pid": 12800,
+    "source_sha256": "254094366fb05e0f91d9f9c2983ca59e3588baec031994b9f92e2ccc72ee3920"
+  },
+  "fresh_exact_processes": [
+    {
+      "ProcessId": 12800,
+      "ParentProcessId": 12280,
+      "CommandLine": "\"C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe\" -X utf8 work/coordinate_r118_first_round_missing_only_20261022.py"
+    },
+    {
+      "ProcessId": 25924,
+      "ParentProcessId": 12800,
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/coordinate_r118_first_round_missing_only_20261022.py"
+    },
+    {
+      "ProcessId": 19908,
+      "ParentProcessId": 27928,
+      "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\audit_r118_first_round_missing_only_20261022.py"
+    },
+    {
+      "ProcessId": 23372,
+      "ParentProcessId": 19908,
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\audit_r118_first_round_missing_only_20261022.py"
+    }
+  ],
+  "primary_costs": {
+    "new_PF_attempts": 1989,
+    "new_PF_returns": 1988,
+    "new_PF_exceptions": 1,
+    "new_PF_seconds": 116.18790260131937,
+    "paid_native80_reused": 42,
+    "known_unknown_skipped": 3,
+    "new_model_training_optimizer_calls": 0,
+    "actual_commits": 0
+  },
+  "primary_workflow_seconds": 805.8899999999558,
+  "primary_ended_exit0": true,
+  "declared_queries": 2034,
+  "old_native80_reuses": 42,
+  "prior_contract_unknowns_no_call": 3,
+  "actual_reader_started_utc": "2026-10-22T20:15:20.417242+00:00",
+  "reader_bound_seconds": 1800,
+  "one_time_result_check": {
+    "id": "hiergrid-first-menu-audit-result-check",
+    "at_local": "2026-10-22T23:40:00+03:00",
+    "one_occurrence": true,
+    "quiet_for_normal_progress": true,
+    "delete_at_actual_terminal": true,
+    "rearm_only_if_exact_reader_live_and_sole_ready_dependency": true
+  },
+  "original_three_GPU_study": "COMPLETE_AUDITED_FIXED_PRIMARY_GATE_FAIL_ALL_RELEASED",
+  "current_GPU_assignments": 0,
+  "external_graph_progress": {
+    "source_and_serialized_cursors": "ALL4_PASS",
+    "fresh_process_cursors": "ALL4_PASS_ZERO_NEW_PF_MODEL_OR_COMMITS",
+    "native_action_cap": 136,
+    "source_semantics": "Compatible archived author env pinned; historical dependency revision unknown; author experiment truncate_voltages=False. Preserve native/common role and horizon differences.",
+    "current_no_full_graph_policy_or_training_campaign_ready": true
+  },
+  "next_after_closure": [
+    "Verify fresh actual reader/coordinator ended and actual End_ACK/Independent_Audit/manifest/Completion. Never infer completion from counts.",
+    "If independent PASS, verify Analysis_Lock and run summarize_verified_r118_first_round_20261022.py once only when report output is absent. Report every query/cost/exception/unknown; missing-evidence choices stay unknown, no first-menu-as-episode claim.",
+    "Save verified results/tasks/reseacrh progress.txt and publish generated all-query CSV/own proofs with fresh lease and exact downloaded bytes.",
+    "A subsequent full original DFF or external native/shared-role policy requires its own exact prospective source/ownership/persistent/fullcost/first-new-replay protocol. No automatic continuation of an ended budget, old science or failed readout."
+  ],
+  "all6_final_goals": "OPEN",
+  "no_guaranteed_winner": true,
+  "last_verified_GitHub": "16c5f4bd18526a8adc0b8fe0b0fc5481981e3418",
+  "GitHub_receipt": "outputs/r118_native_frontier_publication_20261022/Verified_GitHub_Receipt.json",
+  "new_fresh_process_graph_proof_pending_publication": true,
+  "original_frozen_assets_literal_DSE_both_branches_full_BOTH_and_all_adverse_unknown_costs_preserved": true,
+  "forbid": [
+    "Duplicate/restart/live edits/resource extension",
+    "Repeat old/failed PF or executed independent replays",
+    "Outcome-selected Q/menu/root/guard/model/seed/checkpoint rescue",
+    "Purchases/quota evasion/account fallback",
+    "Treat historical development as unused confirmation"
+  ],
+  "usage_note": "Latest usage read allowed ordinary work; scheduled time does not establish a reset or override actual lifecycle."
+}
