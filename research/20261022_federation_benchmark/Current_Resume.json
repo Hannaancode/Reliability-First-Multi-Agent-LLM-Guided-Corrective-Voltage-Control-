@@ -1,0 +1,56 @@
+{
+  "at_utc": "2026-10-22T02:36:57.186447+00:00",
+  "status": "FEDERATION_PRIORITY_RECHECK_AND_ADMISSION_COMPLETE_PERFORMANCE_PENDING",
+  "all6goals": "OPEN",
+  "current_owner": null,
+  "GPU_assignments": 0,
+  "timers": [],
+  "tasks": [
+    {
+      "id": "F118.1",
+      "status": "COMPLETE_SAVED_SUMMARY_ONLY",
+      "task": "Recover actual Reflection-v4 source and independently reconcile67 saved cases and134 candidate branch summaries; preserve missing deficits and70 missing cases."
+    },
+    {
+      "id": "F118.2",
+      "status": "COMPLETE_REPORTED_TABLE_RECHECK",
+      "task": "Verify final manuscript Table9:137cases,2715initialUV,DFF290/HGVF291/HGSE193. Keep61/67/5case tables distinct; do not assert193 is the best ever."
+    },
+    {
+      "id": "F118.3",
+      "status": "COMPLETE_SOURCE_DISCOVERY_ONLY",
+      "task": "Register relevant published118 studies and authentic data/code/weights/action gaps; unavailable methods remainUNKNOWN."
+    },
+    {
+      "id": "F118.4",
+      "status": "SOFTWARE_COMPLETE_EVIDENCE_BINDING_PENDING",
+      "task": "Common-case gate passes25 labelled boundaries and rejects all203 unresolved solved-root registrations before execution. Bind exact paid physical roots/cursors rather than repeating initialization."
+    },
+    {
+      "id": "F118.5",
+      "status": "PENDING",
+      "task": "Select source-compatible external adaptation(s), pin source/code/checkpoint/training split/objective/budget before outcomes. Unchanged foreign-grid weights cannot substitute for trained118 adaptation."
+    },
+    {
+      "id": "F118.6",
+      "status": "PENDING",
+      "task": "Complete original full Reflection-v4 and adapted-baseline actual loader/context/parser/cold preservation, persistent receipt/cost/RNG cursor, ownership and independent partial-aware continuous reader."
+    },
+    {
+      "id": "F118.7",
+      "status": "PENDING_NOT_READY_TO_ALLOCATE",
+      "task": "Once gates pass, execute prospective common118 campaign. Separate GPU workers for independent real model arms; CPU workers for independent cases, never split one stateful policy bank across uncontrolled workers. Same roots/order/information/legal actions/protection/horizon, all failures and full costs."
+    },
+    {
+      "id": "F118.8",
+      "status": "PENDING",
+      "task": "Full registered denominators, paired per-root uncertainty, all wins/ties/losses and independent unused confirmation before a superiority claim."
+    }
+  ],
+  "latest_actual_v4_saved_summary_audit": "outputs/reflection_v4_federation_reconciliation_v3_20261022/Independent_Saved_Summary_Audit.json",
+  "latest_GPU_read_only_snapshot": "outputs\\resource_checks\\20261022_022553.json",
+  "new_scientific_calls": 0,
+  "original_full137_raw_join": "UNKNOWN",
+  "matched_external_118_results": "NOT_EXECUTED",
+  "no_false_promise_to_beat_every_published_method": true
+}

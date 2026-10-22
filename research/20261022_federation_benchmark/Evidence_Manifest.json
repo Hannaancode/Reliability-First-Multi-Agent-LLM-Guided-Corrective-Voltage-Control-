@@ -1,0 +1,154 @@
+{
+  "archive": "Own_Code_And_Proofs.zip",
+  "bytes": 79054,
+  "sha256": "f89abed97865498d9f2e9ef0529f0f404c777d442974481eacdf0fefe77394e0",
+  "CRC_and_every_member": "PASS",
+  "members": [
+    {
+      "path": "outputs/federation_matched_benchmark_20261022/Actual203_Pending_Root_Rejections.json",
+      "bytes": 59141,
+      "sha256": "6237d48f83a634878413d2d47002eb9040232b695ff1a15514ced6afc5065b6f"
+    },
+    {
+      "path": "outputs/federation_matched_benchmark_20261022/Current_Resume.json",
+      "bytes": 2868,
+      "sha256": "83dffffda30a43405456671e0fa639f316642031dfb5ea64ea52d36e7d13aee2"
+    },
+    {
+      "path": "outputs/federation_matched_benchmark_20261022/Federation_First_Execution_Design.json",
+      "bytes": 5542,
+      "sha256": "a5e6349bacb420f77cbc7da83f396f513d830652507c9e822aa3e904c9d775cd"
+    },
+    {
+      "path": "outputs/federation_matched_benchmark_20261022/Published118_Method_Registry_Addendum.json",
+      "bytes": 3154,
+      "sha256": "ca1a5e4f8a96c2e718b40ad15ccb66393c1282851a0bb908618cb1c99016fe26"
+    },
+    {
+      "path": "outputs/federation_matched_benchmark_20261022/Research_Progress_Entry.md",
+      "bytes": 2576,
+      "sha256": "7ca924746fafd5f5be3f8ce50a1a7af301e187299a73cbd9cd0817f4b13000fb"
+    },
+    {
+      "path": "outputs/federation_matched_benchmark_20261022/Software_Admission_Readiness.json",
+      "bytes": 2204,
+      "sha256": "3f900ac4474e326e0f7b72aea9fd8daac1be4401c735ca308ba63d1b2c1615b1"
+    },
+    {
+      "path": "outputs/federation_matched_benchmark_20261022/Three_Profile_Current_Read_Only_Access.json",
+      "bytes": 2110,
+      "sha256": "e044b07337d4c2eff30882522c6f3570825170b6c48e1d4cdf0dde0b0bdb9937"
+    },
+    {
+      "path": "outputs/fresh128_terminal_partial_handoff_20261022/Common54_Descriptive_Prefix_NOT_Full128.json",
+      "bytes": 769,
+      "sha256": "a9d495cb5230dc143545d3e05b496e513fdf96c5cd4de6aea6763d8cb242d4f8"
+    },
+    {
+      "path": "outputs/fresh128_terminal_partial_handoff_20261022/Requested_Common54_Table.json",
+      "bytes": 1161,
+      "sha256": "e4a9ef93696b9264a609065ec141d15aae71275d79c22b219c88c66fa8885bd9"
+    },
+    {
+      "path": "outputs/fresh128_terminal_partial_handoff_20261022/Results_And_Next_Decision.md",
+      "bytes": 1320,
+      "sha256": "3b9a3a7f170595f6c112e4469e88ec1f3c1a48ac7b3de67306de15e6880c994e"
+    },
+    {
+      "path": "outputs/fresh128_terminal_partial_handoff_20261022/Verified_Terminal_Partial_And_Missing_Scope.json",
+      "bytes": 302364,
+      "sha256": "b747d57ea70719de4b0bea60e3f29077a17008a80c7b723d3e394125039efc24"
+    },
+    {
+      "path": "outputs/reflection_v4_federation_reconciliation_20261022/Failure.json",
+      "bytes": 397,
+      "sha256": "78b6364c76c2f4112ee814cad842ef16bc4279ed091097995cbf787c55f87ab3"
+    },
+    {
+      "path": "outputs/reflection_v4_federation_reconciliation_v2_20261022/Failure.json",
+      "bytes": 295,
+      "sha256": "b187e2ed9d8263dc1e2390e940d0eccfe9a60ec1dba2d422800a1c223f910ba8"
+    },
+    {
+      "path": "outputs/reflection_v4_federation_reconciliation_v3_20261022/All67_Joined_Branch_Summary_Results.json",
+      "bytes": 20506,
+      "sha256": "535cef8b032c433e3471a829ddaddcd2d9edde00e773b53f74e35aeced959ac4"
+    },
+    {
+      "path": "outputs/reflection_v4_federation_reconciliation_v3_20261022/Closed_Manifest.json",
+      "bytes": 820,
+      "sha256": "1e8620d0d98b712e9b7dd3755efbccce668c72cf6e4a681e1ae5080c7704e1dd"
+    },
+    {
+      "path": "outputs/reflection_v4_federation_reconciliation_v3_20261022/Distinct_Cohorts_Not_Rankable_Across_Denominators.json",
+      "bytes": 1141,
+      "sha256": "ce48fe5fb32ef446d1be12bc8f854b89340b7dc1f0ce69692eebaa4e4a5e50c4"
+    },
+    {
+      "path": "outputs/reflection_v4_federation_reconciliation_v3_20261022/Independent_Saved_Summary_Audit.json",
+      "bytes": 976,
+      "sha256": "94e526f8f0169d25bbbd46eed24c59f966f3090a684f842a14675192031882d9"
+    },
+    {
+      "path": "outputs/reflection_v4_federation_reconciliation_v3_20261022/Reconciliation.json",
+      "bytes": 38014,
+      "sha256": "d1078a1de7a8fb8dd1567112bdacdc6226701aa48307a272242cfe61d2901511"
+    },
+    {
+      "path": "outputs/reflection_v4_federation_reconciliation_v3_20261022/Results_And_Exact_Next_Step.md",
+      "bytes": 1872,
+      "sha256": "9293332627e0ca7ad98b96a65a0247fea6479363381730fac75aaee8f9df8a99"
+    },
+    {
+      "path": "outputs/typed_state_cas_engineering_v2_20261022/Engineering_Readiness.json",
+      "bytes": 1982,
+      "sha256": "41c82ea1334efe9d2578a513eb4bd4e142b38b1cb2efcbc61b8e38231c04246a"
+    },
+    {
+      "path": "work/audit_reflection_v4_saved_summary_20261022.py",
+      "bytes": 4088,
+      "sha256": "d75911ea221d34e172c00745dc380a16ef7481eef685afeb4a6b0b2138a03cb0"
+    },
+    {
+      "path": "work/federation_benchmark_admission_20261022.py",
+      "bytes": 5466,
+      "sha256": "b2db06cd093a2033cc52415a3f148b068d0251c5a23ff14e25879aa276d0d863"
+    },
+    {
+      "path": "work/prepare_federation_benchmark_admission_20261022.py",
+      "bytes": 6187,
+      "sha256": "2d21d6f996af7cc19b521c1aa7534eed2c68fc417fd1cc285e083d3ed71fbfa8"
+    },
+    {
+      "path": "work/reconcile_actual_reflection_v4_20261022.py",
+      "bytes": 12366,
+      "sha256": "bb053cc191b94e29e43e6b973a1e0de7ab8bfd6432d75b070b1f2ac6a7792cd4"
+    },
+    {
+      "path": "work/reconcile_actual_reflection_v4_v2_20261022.py",
+      "bytes": 13208,
+      "sha256": "876d87a1209b5e618bccdee3c40027e19b3cd5731b99eaa9ab9e6e246308e51e"
+    },
+    {
+      "path": "work/reconcile_actual_reflection_v4_v3_20261022.py",
+      "bytes": 14029,
+      "sha256": "387f1e75f36278c794a1dc151be6f002897adc420c1bff3e2627a062b8ecace2"
+    },
+    {
+      "path": "work/save_federation_benchmark_priority_20261022.py",
+      "bytes": 21460,
+      "sha256": "b6e772556456f44c938ca085525fe5bd67110b99c0caeaa964c4e3ecd573e0c3"
+    },
+    {
+      "path": "work/test_typed_state_cas_codec_20261022.py",
+      "bytes": 3945,
+      "sha256": "19cf7879ac991a73f292173f94548f79ec3b5238a09a880cf1c3386ea26076c7"
+    },
+    {
+      "path": "work/typed_state_cas_codec_20261022.py",
+      "bytes": 3650,
+      "sha256": "1bd72380a4c92a3daaf4422b1b63bd847412693844a9fe78b7655c04cfe8eb18"
+    }
+  ],
+  "not_full_private_raw_backup": true
+}

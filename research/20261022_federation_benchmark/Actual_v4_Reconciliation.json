@@ -1,0 +1,1139 @@
+{
+  "at_utc": "2026-10-22T02:29:28.284756+00:00",
+  "status": "PASS_SAVED67_LITERAL_V4_SELECTION_AND_BRANCH_SUMMARY_RECONCILIATION",
+  "source": "work\\e\\audit\\run_reflection_v4_safety_envelope.py",
+  "source_sha256": "d4b329413c91a64828ced63a0554d67e4f70d46726fc8c3ba3556d8714d9e81e",
+  "both_source_copies_byte_identical": true,
+  "selector_AST_sha256": "89aa21091e4d2ff6c2726f1f66e90278bba8d7e77599074e5a8d6cc1e3fc0237",
+  "original_model": "shared trained Qwen2.5-0.5B ultra-v1 LoRA; no new model called",
+  "actual_v4_definition": "Complete DFF plus reflection_v2 LLM-guided branch; unchanged end-trajectory selector",
+  "all67_available_branch_and_selected_fields_match": true,
+  "CSV_float_comparison_only_not_physical_threshold_change": {
+    "absolute_tolerance": 1e-12,
+    "maximum_delta": 1.1102230246251565e-16,
+    "all_raw_deltas": [
+      {
+        "case": "fed_combined_load_1p25_line_101_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_101_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_127_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_127_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_128_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_128_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_129_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_129_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_135_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_135_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_136_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_136_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_138_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_138_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_139_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_139_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_140_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_140_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_165_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_165_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_166_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_166_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_167_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_167_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_168_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_168_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_170_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_171_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_171_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_172_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_172_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_35_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_35_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_36_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_36_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_37_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_37_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_39_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_39_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_40_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_40_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_41_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_41_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_49_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_49_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_84_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_84_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_85_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_85_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_86_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_86_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_89_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_89_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_91_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_91_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_92_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p25_line_92_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_96_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_96_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_97_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_97_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_99_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p25_line_99_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_101_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_101_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_127_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_127_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_128_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_128_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_129_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_129_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_135_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_135_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_136_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_136_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_138_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_138_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_139_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_139_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_140_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_140_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_165_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_165_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_166_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_166_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_167_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_167_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_168_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_168_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_170_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_171_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_171_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_172_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_172_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_35_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_35_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_36_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_36_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_37_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_37_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_39_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_39_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_40_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_40_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_41_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_41_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_49_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_49_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_84_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_84_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_85_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_85_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_86_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_86_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_91_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_91_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_92_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p35_line_92_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_96_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_96_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_97_MG2",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_97_MG2",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_99_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p35_line_99_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p5_line_101_MG1",
+        "field": "final_vmin",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p5_line_101_MG1",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p5_line_127_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p5_line_127_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      },
+      {
+        "case": "fed_combined_load_1p5_line_128_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p5_line_128_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 6.245004513516506e-17
+      },
+      {
+        "case": "fed_combined_load_1p5_line_129_MG3",
+        "field": "final_vmin",
+        "absolute_delta": 1.1102230246251565e-16
+      },
+      {
+        "case": "fed_combined_load_1p5_line_129_MG3",
+        "field": "final_deficit",
+        "absolute_delta": 0.0
+      }
+    ]
+  },
+  "prior_exact_float_analysis_failure_preserved": "outputs/reflection_v4_federation_reconciliation_20261022/Failure.json",
+  "all67_initial_UV": 1034,
+  "branch_totals": {
+    "no_llm_fallback_first": {
+      "final_uv": 32,
+      "zero_uv_cases": 63,
+      "accepted_actions": 297,
+      "guided_tests": 0,
+      "fallback_tests": 43902,
+      "llm_direct_tests": 0
+    },
+    "reflection_v2": {
+      "final_uv": 29,
+      "zero_uv_cases": 59,
+      "accepted_actions": 842,
+      "guided_tests": 20089,
+      "fallback_tests": 5819,
+      "llm_direct_tests": 2503
+    },
+    "selected_v4": {
+      "final_uv": 19,
+      "zero_uv_cases": 64,
+      "accepted_actions": 337,
+      "guided_tests": 1493,
+      "fallback_tests": 39011,
+      "llm_direct_tests": 184
+    }
+  },
+  "wins_ties_losses_vs_DFF": [
+    3,
+    64,
+    0
+  ],
+  "known67_total_both_branch_candidate_tests": 72313,
+  "selected_test_count_is_not_full_compute_cost": true,
+  "remaining70_of137": "UNKNOWN_NOT_FILLED_OR_RERUN",
+  "historical_missing_selected_fields": [
+    {
+      "case": "fed_combined_load_1p25_line_170_MG1",
+      "field": "final_deficit",
+      "status": "MISSING_BOTH_RECORDS_UNKNOWN_NOT_ZERO"
+    },
+    {
+      "case": "fed_combined_load_1p35_line_170_MG1",
+      "field": "final_deficit",
+      "status": "MISSING_BOTH_RECORDS_UNKNOWN_NOT_ZERO"
+    }
+  ],
+  "four_missing_branch_deficits_remain_unknown": true,
+  "literal_selector_None_or_zero_handling_unchanged": true,
+  "prior_missing_field_analysis_failure_preserved": "outputs/reflection_v4_federation_reconciliation_v2_20261022/Failure.json",
+  "full137_raw_controller_trajectory_weight_root_cost_join": "NOT_RECOVERED_IN_INSPECTED_LOCAL_SOURCES",
+  "193_is_best_in_supplied_final137_table": true,
+  "193_is_global_best_of_all_historical_experiments": "NOT_ESTABLISHED",
+  "no_cross_cohort_best_selection": true,
+  "cohort_table": [
+    {
+      "cohort": "Supplied primary manuscript, all137",
+      "initial_UV": 2715,
+      "DFF_UV": 290,
+      "HG_VF_UV": 291,
+      "HG_SE_UV": 193,
+      "zero_UV": [
+        108,
+        103,
+        110
+      ],
+      "evidence_level": "REPORTED_TABLE9_VISUALLY_VERIFIED; complete new raw137 join UNKNOWN"
+    },
+    {
+      "cohort": "Saved v4 checkpoint prefix, all67 completed",
+      "initial_UV": 1034,
+      "DFF_UV": 32,
+      "HG_VF_UV": 29,
+      "HG_SE_UV": 19,
+      "zero_UV": [
+        63,
+        59,
+        64
+      ],
+      "evidence_level": "SOURCE_SELECTOR_AND_BOTH_BRANCH_SUMMARIES_CHECKED; remaining70 UNKNOWN"
+    },
+    {
+      "cohort": "Earlier predefined five severe failures",
+      "initial_UV": 291,
+      "DFF_UV": 40,
+      "HG_VF_UV": 36,
+      "HG_SE_UV": 27,
+      "zero_UV": [
+        0,
+        1,
+        1
+      ],
+      "evidence_level": "SAVED_HISTORICAL_CSV; not a new representative sample"
+    },
+    {
+      "cohort": "Older paper complete-metric61",
+      "initial_UV": 945,
+      "Phase2G_UV": 28,
+      "v2b_UV": 267,
+      "v2R_UV": 107,
+      "router_UV": 99,
+      "evidence_level": "OLDER_MANUSCRIPT_DISTINCT_COHORT_AND_CONTROLLER_LABELS; not a smaller full137 result"
+    }
+  ],
+  "native_verifier": "hardOV1.06, softOV1.05 metrics; zeroUV alone is not normal-band compliance",
+  "source_files_and_receipts": [
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_101_MG1__branches.csv",
+      "bytes": 495,
+      "sha256": "abdc4f786658bff87fed4899e27be5b635178c91a4601c91856320372250f50b"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_127_MG3__branches.csv",
+      "bytes": 495,
+      "sha256": "70794951889370ccda86a6f3d5363d7a74358247b9b4fa9ac634f6ede50cdfed"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_128_MG3__branches.csv",
+      "bytes": 481,
+      "sha256": "572d8352e0ffcd2872ba33c7eff4385b863475bdcf3f30f71c8e04b48886adf9"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_129_MG3__branches.csv",
+      "bytes": 496,
+      "sha256": "af941740cef59b770418bff1976638d3d4126f20c87107ceb72d9b62fee843be"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_135_MG3__branches.csv",
+      "bytes": 496,
+      "sha256": "a39844e2c89f8a942c9af753cb3b525615ca076a983a95cbed820e42829978b1"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_136_MG3__branches.csv",
+      "bytes": 482,
+      "sha256": "b37df02d3f7dc8295b9d7b417ea7578a8d6386f67d5be6d7babf802f6ee80797"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_138_MG3__branches.csv",
+      "bytes": 481,
+      "sha256": "6e45b425554c38146bd7879d75864a5714622bdbb273e5ec8f288824efc46e11"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_139_MG3__branches.csv",
+      "bytes": 480,
+      "sha256": "591b0f58a98efc18a586fa1d88f491e1343dfc8f3e9121889752097784cf8155"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_140_MG3__branches.csv",
+      "bytes": 469,
+      "sha256": "cf407e51098b45ac3d924d5901c7598ed3cd9fdd250e3a42d9548b898b6a6026"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_165_MG1__branches.csv",
+      "bytes": 482,
+      "sha256": "28aa08f39221a7c1ddfebe6334bdc29c057466b231e39e9b14d6dde211a83ec5"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_166_MG2__branches.csv",
+      "bytes": 496,
+      "sha256": "001bfa70c770c71374fb065946bbe5bad745112a1fd22e548ced15428db3eee9"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_167_MG2__branches.csv",
+      "bytes": 494,
+      "sha256": "b4bf0f3382b5b771ee691b913df24b7df11b2e5bd4f772539bcbd0043170a397"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_168_MG1__branches.csv",
+      "bytes": 484,
+      "sha256": "2db75e907c88e7f698e2de188783aca1d3861f6a78c969423cb3c1344c8196f3"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_170_MG1__branches.csv",
+      "bytes": 489,
+      "sha256": "4275f927084ae5db3a9bfe3da36205e8b42a5ca78801a718f52f6d3dc638677b"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_171_MG3__branches.csv",
+      "bytes": 483,
+      "sha256": "2844d4a47087d9b0466a1d34153b566ae65911ce094bf1db0af0550f352cfa8c"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_172_MG3__branches.csv",
+      "bytes": 482,
+      "sha256": "1774d2864935589e2a963e01fbc8ecd77d157cb51b8b380cb8eb398a08aa854c"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_35_MG1__branches.csv",
+      "bytes": 494,
+      "sha256": "b2b8379dbd615862825e384388c465043b1263ac6954c96939019af310d56385"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_36_MG1__branches.csv",
+      "bytes": 496,
+      "sha256": "dc6168916ad5b43051cd5d08e2e6581030aba45a024f2a15fd892773fa20a964"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_37_MG1__branches.csv",
+      "bytes": 478,
+      "sha256": "49b9837d533ea420c349e6208c68fa59fc6e5ed18295f21be87fcff0fe6cd497"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_39_MG1__branches.csv",
+      "bytes": 480,
+      "sha256": "5729dee83e5a89326482a0d3ee5a709618a59fe6f61111e134f5821e9b0a99c4"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_40_MG1__branches.csv",
+      "bytes": 480,
+      "sha256": "035ba636a7e1be97464f375744cefe220cdf84810dd36f6ef11e159235fae498"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_41_MG1__branches.csv",
+      "bytes": 492,
+      "sha256": "4e7b174c2f955b3aed1e1a202eb73ad1b2ecf36abc3d060dbe4d9ded3a097bb0"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_49_MG1__branches.csv",
+      "bytes": 496,
+      "sha256": "b62e08bf83119f4f346da80f804faef76ddf5d3e6b97dd49339b2d825d2e297e"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_84_MG2__branches.csv",
+      "bytes": 481,
+      "sha256": "4087870a9137794e6987f7dd5e76c9fff724edc7c24a31d57e69bbb758e63179"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_85_MG2__branches.csv",
+      "bytes": 494,
+      "sha256": "69997f81c16b66edd9085a1987bfa54c8dbf263df05b761bdaab3b7d5577b570"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_86_MG2__branches.csv",
+      "bytes": 494,
+      "sha256": "2b62f122436f9f2b6cb6c38578c06357e3ab658ed76520bb04d9f287adb09536"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_89_MG2__branches.csv",
+      "bytes": 496,
+      "sha256": "d54c0a4bcc789152f26bea0ae969df26df802d4426f66995147088ce496c38e2"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_91_MG2__branches.csv",
+      "bytes": 492,
+      "sha256": "839aa9a7f214711f19d39ba8dfa5b290cd60d262030e0a2a7560ce678a10e4e3"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_92_MG2__branches.csv",
+      "bytes": 492,
+      "sha256": "26b9ceb89378c3517b8a4050909207ea437d1d2d47f4e3aec649cbd8b2c8dcc3"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_96_MG2__branches.csv",
+      "bytes": 479,
+      "sha256": "81585e59117dcb3ccaa27ffb23832d4f542fbce23821bb45f4573f8880d91406"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_97_MG2__branches.csv",
+      "bytes": 494,
+      "sha256": "65b87d65fbaa3db0ae8c71038a5cc86e8962c67749d02fa09bb1a868085fe7dd"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p25_line_99_MG1__branches.csv",
+      "bytes": 483,
+      "sha256": "50796fede7805088edb9c90435b465aef37fe7b5b4a2970ad079b4d96a1b5282"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_101_MG1__branches.csv",
+      "bytes": 497,
+      "sha256": "48e099bcc5219e07c7687e802a342301d9f1733bdf18b9ab1f5217b2b76375f0"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_127_MG3__branches.csv",
+      "bytes": 520,
+      "sha256": "bf31cc8fe414c90c95a2d03c067b6848b62022f522cf291eb9f7a45c1602fac0"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_128_MG3__branches.csv",
+      "bytes": 497,
+      "sha256": "b1324252374cb5ea5d6cd9b5530063afea32a03bea6474823bcf073cafccbcec"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_129_MG3__branches.csv",
+      "bytes": 495,
+      "sha256": "facd9b1b01f7a98dd71c7d8c6832834dc1f76da56b9b1cef97eea9f834e3e584"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_135_MG3__branches.csv",
+      "bytes": 500,
+      "sha256": "f02c8d61eeb5d3844770a2bfab20eba15d08572d8422ff3c7049ec4911c95e65"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_136_MG3__branches.csv",
+      "bytes": 497,
+      "sha256": "69331e02f79b666222ae0368a3c875c0207295180305b1f1c4d7c4c224faf56a"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_138_MG3__branches.csv",
+      "bytes": 521,
+      "sha256": "6c7125ac9426eb7e949d7c1d0acbbf770f98e544a6d0097602de1e8146307994"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_139_MG3__branches.csv",
+      "bytes": 498,
+      "sha256": "a5a5f2f50e1dcc1a998f93e577a4e0fb3ac4f7304ae87efd11231bf84b3e6496"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_140_MG3__branches.csv",
+      "bytes": 497,
+      "sha256": "95cec96946c7c0e43bec4184dd10901347cec172e3510a46f19b168a3465ff1c"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_165_MG1__branches.csv",
+      "bytes": 494,
+      "sha256": "020ccfe1081e7d2546d00e97d4ba56404adaece7bc4360d8901dbfb69bdb63d5"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_166_MG2__branches.csv",
+      "bytes": 519,
+      "sha256": "32e7a4796c04bf1b0e78f3a12b01d43c09d73af8e68f47b41a23212363bd08f3"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_167_MG2__branches.csv",
+      "bytes": 520,
+      "sha256": "37c14550d7db4c4e7c84d204b517d0f8d6975f37337ac2453d3c14fe6d5e4fe4"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_168_MG1__branches.csv",
+      "bytes": 499,
+      "sha256": "4a06153f4dc0d60805c0c721c2a1bafc9b77e8ff3b9a986852675cd5b7b427c2"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_170_MG1__branches.csv",
+      "bytes": 477,
+      "sha256": "911303ea490b0a634df2ca32847da00f27bbafd26ccf801c684ed986a8ec0336"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_171_MG3__branches.csv",
+      "bytes": 496,
+      "sha256": "5fc9a92f9a4bdd88beb7f9776db73f92f1455a66f68e5202df328456355062c4"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_172_MG3__branches.csv",
+      "bytes": 498,
+      "sha256": "324869c373ac73d45b7fa4cdf4b6cb8982140382e9a921074f8a009db4e208d8"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_35_MG1__branches.csv",
+      "bytes": 495,
+      "sha256": "a69beae018d5dea30a09ec69797c5a92be757bef66f34b15a26aa51fadffdb84"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_36_MG1__branches.csv",
+      "bytes": 494,
+      "sha256": "d4174e8489b5d69b61cc91bc40d86830e178508337aede1f6a92543a95508ef6"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_37_MG1__branches.csv",
+      "bytes": 517,
+      "sha256": "2ff04dc8ba3687e852e94c70d65f45cdfac14537313b29e9e000c40897e3a6c6"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_39_MG1__branches.csv",
+      "bytes": 494,
+      "sha256": "7f76987bb28fa4e534237de4669e042ced863972fcaa877e1163c466d8575b66"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_40_MG1__branches.csv",
+      "bytes": 496,
+      "sha256": "efec41655e4bf63f88648ab68719b3db882d9bb3bb1ca4d5f2cceb1385655123"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_41_MG1__branches.csv",
+      "bytes": 495,
+      "sha256": "46175b20e0e8b64af1a1f418731da10bc3e67a94f7213d1592b511698712ac83"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_49_MG1__branches.csv",
+      "bytes": 496,
+      "sha256": "970fe5b8c9f262333928b7a29a043e84b983a9bda4a0ca9b83729fb4c1d846c0"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_84_MG2__branches.csv",
+      "bytes": 495,
+      "sha256": "c80f2a8850f9b884e27ab42544d9e29b07d9f83c4de0700ddd9da59cc84e58aa"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_85_MG2__branches.csv",
+      "bytes": 493,
+      "sha256": "b1c557cfd3572c9c6a7ab3e23e73cd3acdc46595e777d735eb35416fc3a2c3e1"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_86_MG2__branches.csv",
+      "bytes": 493,
+      "sha256": "a8f53e4fe981e7efc0a92ead7cff65a331acfc7952013e012b02a87540a46b36"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_91_MG2__branches.csv",
+      "bytes": 498,
+      "sha256": "80293762ee3ee70e40383a28c124aae0fcc471f6edfc3157ae3a3b6d236352fd"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_92_MG2__branches.csv",
+      "bytes": 498,
+      "sha256": "bcd0dc94c2fd7b644e0540beb47f8dd1d9b83b0c255a6fa82b833fe3a0dee3fc"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_96_MG2__branches.csv",
+      "bytes": 494,
+      "sha256": "d5755e6276ea09fefedcbeba0e43d39168af5f5f175cd624445af18ad7fed331"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_97_MG2__branches.csv",
+      "bytes": 496,
+      "sha256": "09887fb45964341cca368208d92e6310bb8e99bfe4436a1ffa23d19754177a40"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p35_line_99_MG1__branches.csv",
+      "bytes": 493,
+      "sha256": "98565033786e04aef0a9eaeeb15fcf141c7324f3e5addb9033893e675ecdadc6"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p5_line_101_MG1__branches.csv",
+      "bytes": 537,
+      "sha256": "8bcff2a86215fde300f154c1f2fd1f6813992c24358f5c892eaf7646a51fd560"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p5_line_127_MG3__branches.csv",
+      "bytes": 517,
+      "sha256": "893df1239ef0383304b0d1b8b02cb85f621e4ec2e37e84d06ce9c46562c9e48f"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p5_line_128_MG3__branches.csv",
+      "bytes": 540,
+      "sha256": "93f2e3a037406d38ec0c093e298cb5c743866c3473d5b96223331788453456c0"
+    },
+    {
+      "path": "work\\e\\handoff\\branch_results\\fed_combined_load_1p5_line_129_MG3__branches.csv",
+      "bytes": 534,
+      "sha256": "7cb21b535c89fee513077c4073651ee6832a50d40bbefd9f32def108c3b6bafb"
+    }
+  ],
+  "historical_severe_member_receipts": [
+    {
+      "archive": "work\\e\\v4\\today_experiment_bundle_20260603_182357.zip",
+      "member": "today_experiment_bundle/reflection_v4_safety_envelope/reflection_v4_safety_envelope_20260603_173751/reflection_v4_safety_envelope_per_scenario_results.csv",
+      "bytes": 1468,
+      "sha256": "a72c79dbbfe65a176910c535d100e1d6746e4cf0c12391f3081ecca35e2715c9",
+      "CRC": 3721585740
+    },
+    {
+      "archive": "work\\e\\v4\\today_experiment_bundle_20260603_182357.zip",
+      "member": "today_experiment_bundle/reflection_v4_safety_envelope/reflection_v4_safety_envelope_20260603_173751/reflection_v4_candidate_branches.csv",
+      "bytes": 1801,
+      "sha256": "1ccd60965ce505077d2bf91bb55442017336dc6954de653fe600b1d08a6b7de3",
+      "CRC": 3793950881
+    }
+  ],
+  "original_sources_and_frozen_gates_unchanged": true,
+  "new_model_PF_training_optimizer_derivative_forecast_solve_or_GPU_calls": 0,
+  "all6goals": "OPEN"
+}
