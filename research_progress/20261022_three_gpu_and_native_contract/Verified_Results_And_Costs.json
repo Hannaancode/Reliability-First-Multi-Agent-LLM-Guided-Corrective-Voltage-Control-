@@ -1,0 +1,143 @@
+{
+  "at_utc": "2026-10-22T19:45:20.725557+00:00",
+  "status": "COMPLETE_INDEPENDENT_FEATURE_AND_READOUT_AUDITS_FIXED_GATE_FAIL",
+  "models": {
+    "public_0_5B": {
+      "actual_costs": {
+        "model_load_attempts": 2,
+        "model_load_returns": 2,
+        "body_forward_attempts": 864,
+        "body_forward_returns": 864,
+        "zero_path_body_returns": 0,
+        "generation_backward_optimizer_PF_calls": 0
+      },
+      "peak_allocated_bytes": 1971321344,
+      "workflow_seconds": 1064.801141906,
+      "runtime_released": true,
+      "preserved_archive": {
+        "bytes": 4059970,
+        "sha256": "04db0448fe958a54f9021d7c94a0f5002ea541ed324be4cd1e61b54d058f0c30"
+      }
+    },
+    "public_1_5B": {
+      "actual_costs": {
+        "model_load_attempts": 2,
+        "model_load_returns": 2,
+        "body_forward_attempts": 864,
+        "body_forward_returns": 864,
+        "zero_path_body_returns": 0,
+        "generation_backward_optimizer_PF_calls": 0
+      },
+      "peak_allocated_bytes": 2529878528,
+      "workflow_seconds": 1490.435377535,
+      "runtime_released": true,
+      "preserved_archive": {
+        "bytes": 6668075,
+        "sha256": "6d9e28895209162301ee612266c5228afc3922db0c5120943517025012bcde51"
+      }
+    },
+    "private_0_5B": {
+      "actual_costs": {
+        "model_load_attempts": 2,
+        "model_load_returns": 2,
+        "body_forward_attempts": 866,
+        "body_forward_returns": 866,
+        "zero_path_body_returns": 2,
+        "generation_backward_optimizer_PF_calls": 0
+      },
+      "peak_allocated_bytes": 2006516224,
+      "workflow_seconds": 1073.06071017,
+      "runtime_released": true,
+      "preserved_archive": {
+        "bytes": 4064888,
+        "sha256": "a0b2b4e40727e8fb6c9cdfef089fe237dc914cf637d395dfb7405366ccd0dfdf"
+      }
+    }
+  },
+  "teacher_exact_action": {
+    "public_0_5B_linear": 0.59375,
+    "public_0_5B_rbf": 0.5208333333333334,
+    "public_1_5B_linear": 0.6458333333333334,
+    "public_1_5B_rbf": 0.6354166666666666,
+    "private_0_5B_linear": 0.71875,
+    "private_0_5B_rbf": 0.65625
+  },
+  "numeric_teacher_exact_action": {
+    "same_current_numeric_linear": 0.75,
+    "same_current_numeric_rbf": 0.7291666666666666
+  },
+  "primary_gate": "FAIL_STOP_FIXED_ENCODER_READOUT_INTERVENTION",
+  "predeclared_threshold": 0.8,
+  "historical_private_training_overlap": "Readout HELD excludes readout FIT only; original private adapter may have trained on these worlds. Historical development, not unused confirmation.",
+  "new_graph_first_query_UV": [
+    {
+      "case_id": "fed_combined_load_1p5_line_35_MG1",
+      "after_UV": 56,
+      "after_OV": 1
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_36_MG1",
+      "after_UV": 58,
+      "after_OV": 1
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "after_UV": 57,
+      "after_OV": 1
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_127_MG3",
+      "after_UV": 55,
+      "after_OV": 2
+    }
+  ],
+  "graph_scope": "Four author-native FIRST generator-voltage queries, not full policy or same-actuator comparison.",
+  "solver_bridge": {
+    "status": "PASS_FIRST_NEW80_CONTRACT_REPLAY_ALL_FIELDS_AND_KCL",
+    "maximum_field_delta": 0.0,
+    "KCL_pu": 8.516282050266017e-14,
+    "new80first_replay_calls": 1,
+    "old50calls_repeated": 0,
+    "new_model_calls": 0,
+    "seconds": 2.8172576999641024,
+    "does_not_certify_all_other50_vs80contexts": true
+  },
+  "paid_DFF_prefix": {
+    "cached_native_calls": 7,
+    "next_missing": {
+      "physical_input": {
+        "path": "warm_first_missing_native_input.zlib",
+        "bytes": 102510,
+        "sha256": "a7dfb6aaadc28fc7dbb8637fb830c7891d426459790a09915c29d20f98ef5096",
+        "decoded_bytes": 354737,
+        "decoded_sha256": "4e7e50bf3d842840c01f6fad907bd4eeeaf7dc2b77b4b49a4dfb67d9147655ca"
+      },
+      "solver_kwargs": {
+        "algorithm": "nr",
+        "init": "auto",
+        "enforce_q_lims": true,
+        "max_iteration": 80,
+        "calculate_voltage_angles": true
+      },
+      "logical_call": 7,
+      "status": "UNEXECUTED_BY_THIS_GATE_UNKNOWN_REQUIRES_HISTORY_AND_PROSPECTIVE_MEASUREMENT_GATES"
+    },
+    "full_result": "UNKNOWN"
+  },
+  "actual_original_LLM_episode": {
+    "initial_UV": 56,
+    "final_UV": 7,
+    "strict_OV": 2,
+    "commits": 17,
+    "full_DFF_contrast": "UNKNOWN"
+  },
+  "total_current_body_forward_returns": 2594,
+  "current_model_load_returns": 6,
+  "graph_PF_primary_and_first_replay_calls": "4 + 4",
+  "bridge_PF_primary_and_first_replay_calls": "1 + 1",
+  "no_old50_or_completed_physics_repeated": true,
+  "new_optimizer_training_generation_calls": 0,
+  "costs_note": "GPU workflow times overlap across arms; remote generation contains forward time; old preparation/data/training/failure costs remain separately paid and are not zero.",
+  "all6_final_goals": "OPEN",
+  "current_GPU_assignments": 0
+}
