@@ -1,0 +1,149 @@
+{
+  "status": "ALL_FIXED_FIRST_MENU_QUERIES_REPORTED_WITH_UNKNOWNS",
+  "cases": [
+    {
+      "case_id": "fed_combined_load_1p5_line_35_MG1",
+      "initial_UV": 56,
+      "declared": 504,
+      "status_counts": {
+        "PAID_NATIVE80_REUSE_NO_NEW_PF": 42,
+        "RETURNED_NEW_NATIVE80_QUERY": 462
+      },
+      "accepted_known_queries": 401,
+      "first_round_source_choice_status": "EXACT_FROM_COMPLETE_FIXED_MENU",
+      "best_available_only_descriptive": {
+        "identity": 431,
+        "case_id": "fed_combined_load_1p5_line_35_MG1",
+        "source_order": 431,
+        "bus": "95",
+        "Q_Mvar": 300.0,
+        "status": "RETURNED_NEW_NATIVE80_QUERY",
+        "accepted": true,
+        "reason": "ACCEPTED",
+        "after_UV": 37,
+        "after_OV": 1,
+        "after_Vmin": 0.8263937653654316,
+        "after_Vmax": 1.0581314029251043,
+        "after_deficit": 1.4140578451259254
+      },
+      "missing_exact_queries": 0,
+      "whole_controller_episode_endpoint": "NOT_EXECUTED_BY_THIS_BATCH",
+      "no_comparison_to17step_LLM_episode": true
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_36_MG1",
+      "initial_UV": 58,
+      "declared": 522,
+      "status_counts": {
+        "RETURNED_NEW_NATIVE80_QUERY": 520,
+        "RETURNED_NEW_NATIVE80_CONTRACT_ADDENDUM": 1,
+        "EXCEPTION_UNKNOWN_NO_RETRY": 1
+      },
+      "accepted_known_queries": 408,
+      "first_round_source_choice_status": "EXACT_FROM_COMPLETE_FIXED_MENU",
+      "best_available_only_descriptive": {
+        "identity": 953,
+        "case_id": "fed_combined_load_1p5_line_36_MG1",
+        "source_order": 449,
+        "bus": "95",
+        "Q_Mvar": 300.0,
+        "status": "RETURNED_NEW_NATIVE80_QUERY",
+        "accepted": true,
+        "reason": "ACCEPTED",
+        "after_UV": 39,
+        "after_OV": 2,
+        "after_Vmin": 0.8271555953464449,
+        "after_Vmax": 1.0582462773158727,
+        "after_deficit": 1.454046614534179
+      },
+      "missing_exact_queries": 0,
+      "whole_controller_episode_endpoint": "NOT_EXECUTED_BY_THIS_BATCH",
+      "no_comparison_to17step_LLM_episode": true
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "initial_UV": 57,
+      "declared": 513,
+      "status_counts": {
+        "RETURNED_NEW_NATIVE80_QUERY": 512,
+        "RETURNED_NEW_NATIVE80_CONTRACT_ADDENDUM": 1
+      },
+      "accepted_known_queries": 408,
+      "first_round_source_choice_status": "EXACT_FROM_COMPLETE_FIXED_MENU",
+      "best_available_only_descriptive": {
+        "identity": 1466,
+        "case_id": "fed_combined_load_1p5_line_84_MG2",
+        "source_order": 440,
+        "bus": "95",
+        "Q_Mvar": 300.0,
+        "status": "RETURNED_NEW_NATIVE80_QUERY",
+        "accepted": true,
+        "reason": "ACCEPTED",
+        "after_UV": 37,
+        "after_OV": 3,
+        "after_Vmin": 0.8288529832556132,
+        "after_Vmax": 1.0585042808798422,
+        "after_deficit": 1.3907710765608385
+      },
+      "missing_exact_queries": 0,
+      "whole_controller_episode_endpoint": "NOT_EXECUTED_BY_THIS_BATCH",
+      "no_comparison_to17step_LLM_episode": true
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_127_MG3",
+      "initial_UV": 55,
+      "declared": 495,
+      "status_counts": {
+        "RETURNED_NEW_NATIVE80_QUERY": 494,
+        "RETURNED_NEW_NATIVE80_CONTRACT_ADDENDUM": 1
+      },
+      "accepted_known_queries": 393,
+      "first_round_source_choice_status": "EXACT_FROM_COMPLETE_FIXED_MENU",
+      "best_available_only_descriptive": {
+        "identity": 1961,
+        "case_id": "fed_combined_load_1p5_line_127_MG3",
+        "source_order": 422,
+        "bus": "95",
+        "Q_Mvar": 300.0,
+        "status": "RETURNED_NEW_NATIVE80_QUERY",
+        "accepted": true,
+        "reason": "ACCEPTED",
+        "after_UV": 37,
+        "after_OV": 2,
+        "after_Vmin": 0.8272152608100724,
+        "after_Vmax": 1.056339882803574,
+        "after_deficit": 1.3469675747047707
+      },
+      "missing_exact_queries": 0,
+      "whole_controller_episode_endpoint": "NOT_EXECUTED_BY_THIS_BATCH",
+      "no_comparison_to17step_LLM_episode": true
+    }
+  ],
+  "primary_costs": {
+    "original_missing_only_batch": {
+      "new_PF_attempts": 1989,
+      "new_PF_returns": 1988,
+      "new_PF_exceptions": 1,
+      "new_PF_seconds": 116.18790260131937,
+      "paid_native80_reused": 42,
+      "known_unknown_skipped": 3,
+      "new_model_training_optimizer_calls": 0,
+      "actual_commits": 0
+    },
+    "new_contract_addendum": {
+      "new_PF_attempts": 3,
+      "new_PF_returns": 3,
+      "new_PF_exceptions": 0,
+      "new_PF_seconds": 2.8311487999744713,
+      "new_model_initialPF_training_calls": 0,
+      "actual_policy_commits": 0
+    }
+  },
+  "first_independent_replays": 1991,
+  "maximum_field_delta": 0.0,
+  "maximum_KCL_pu": 1.1957267605253284e-08,
+  "new_PF_model_training_calls_in_analysis": 0,
+  "source_policy_score": "Unchanged original score_candidate; source-order tie handling; no new threshold/Q/menu/guard.",
+  "full_DSE_LLM_external_superiority": "UNACHIEVED_NOT_TESTED_BY_A_FIRST_MENU",
+  "all6_goals": "OPEN"
+}

@@ -1,0 +1,87 @@
+{
+  "members": [
+    {
+      "path": "outputs/r118_first_round_missing_only_report_v2_20261022/All2034_Queries.csv",
+      "bytes": 311563,
+      "sha256": "301bc0185b4da9bf1a6ad3422e3341d8c36fb56b09942e03b81e104ad41904a4"
+    },
+    {
+      "path": "outputs/r118_remaining_native80_contracts_independent_20261022/Independent_Audit.json",
+      "bytes": 2134,
+      "sha256": "abcc6ad03480b1858ad697ce6e2e6a567a2e239f61bdae0ef911b55e95961289"
+    },
+    {
+      "path": "outputs/r118_remaining_native80_contracts_preparation_20261022/Protocol.json",
+      "bytes": 7399,
+      "sha256": "5613e5b8111ca4be982c7f99942dfb2a52d55a2e1e1572d6e982846ec28e64b0"
+    },
+    {
+      "path": "outputs/r118_source_first_commit_reconstruction_20261022/Failure.json",
+      "bytes": 201,
+      "sha256": "3a953a1fabacf247317f9a2d449e6a72c1198db4a86bac768d70fb8de8757fe8"
+    },
+    {
+      "path": "outputs/r118_source_first_commit_reconstruction_v2_20261022/Verified_First_Commit_And_Continuation_Gates.json",
+      "bytes": 4647,
+      "sha256": "c2b0bd241b229e7705cd2da1b12d94006918cc427bbbd0f4f283fb946e4ba0a2"
+    },
+    {
+      "path": "work/audit_r118_remaining_native80_contracts_20261022.py",
+      "bytes": 3948,
+      "sha256": "2023c525ab82aca00663bcc58bbb4b11d711a0b5a7b08fc0f68f25661df2ef12"
+    },
+    {
+      "path": "work/close_and_package_r118_first_round_20261022.py",
+      "bytes": 11458,
+      "sha256": "e73ce199fffcbbeb815c176d510e33123ee2e047b0e2cbd5aa886c850b550e74"
+    },
+    {
+      "path": "work/coordinate_r118_remaining_native80_contracts_20261022.py",
+      "bytes": 1623,
+      "sha256": "cee70c5f7a0e0a9d1f8a0cd1185bf2a93444aeb786160a4a1a35e5c40fad53d2"
+    },
+    {
+      "path": "work/normalize_native80_receipt_labels_before_launch_20261022.py",
+      "bytes": 1768,
+      "sha256": "766778d2e495c56bb8e4f1fe58bb69c9852b916a41480f373a7088c1c3040e87"
+    },
+    {
+      "path": "work/prepare_r118_first_round_contract_addendum_analysis_20261022.py",
+      "bytes": 3472,
+      "sha256": "1f2656c4571bc17f8bbcd929231f08e11b3e207669a0950f5b3c713f21c48789"
+    },
+    {
+      "path": "work/prepare_remaining_r118_native80_contracts_20261022.py",
+      "bytes": 6764,
+      "sha256": "691d666cf1375d83a935369a6ba6ffee80ab9f090b5d985ced195829415d4253"
+    },
+    {
+      "path": "work/reconstruct_r118_source_first_commit_20261022.py",
+      "bytes": 8004,
+      "sha256": "cf6ef7939c74750c6e46c9f9873df97465607c2667273bcacc88dd52fb53bf5a"
+    },
+    {
+      "path": "work/reconstruct_r118_source_first_commit_v2_20261022.py",
+      "bytes": 8103,
+      "sha256": "949dab9339e7de6110d13219b4cb4d273526383100f0d633f471a646171ac498"
+    },
+    {
+      "path": "work/repair_r118_first_commit_namespace_v2_20261022.py",
+      "bytes": 896,
+      "sha256": "ce59145aa157043baf4081d20544908846e3fa9e45886b97dcb84bcf5a503232"
+    },
+    {
+      "path": "work/run_r118_remaining_native80_contracts_20261022.py",
+      "bytes": 3761,
+      "sha256": "5fdac6b810d1b66b1beace8ebda18e78383a2841de88d81956b477d62c85792a"
+    },
+    {
+      "path": "work/summarize_verified_r118_first_round_v2_20261022.py",
+      "bytes": 6661,
+      "sha256": "7ca0240b76d3ebaab52dfb645a2921b8ebd8bc7ac1d10734028b1384529120fd"
+    }
+  ],
+  "all2034query_rows_included": true,
+  "private_raw_NET_and_weights_local_only": true,
+  "new_scientific_calls_in_packaging": 0
+}
