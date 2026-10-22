@@ -1,0 +1,407 @@
+[
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 2,
+    "q_mvar": 25.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 2,
+    "q_mvar": 50.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 2,
+    "q_mvar": 75.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 2,
+    "q_mvar": 100.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 2,
+    "q_mvar": 125.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 2,
+    "q_mvar": 150.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 2,
+    "q_mvar": 200.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 2,
+    "q_mvar": 250.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 2,
+    "q_mvar": 300.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 12,
+    "q_mvar": 25.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 12,
+    "q_mvar": 50.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 12,
+    "q_mvar": 75.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 12,
+    "q_mvar": 100.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 12,
+    "q_mvar": 125.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 12,
+    "q_mvar": 150.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 12,
+    "q_mvar": 200.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 12,
+    "q_mvar": 250.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 12,
+    "q_mvar": 300.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 18,
+    "q_mvar": 25.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 18,
+    "q_mvar": 50.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 18,
+    "q_mvar": 75.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 18,
+    "q_mvar": 100.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 18,
+    "q_mvar": 125.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 18,
+    "q_mvar": 150.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 18,
+    "q_mvar": 200.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 18,
+    "q_mvar": 250.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 18,
+    "q_mvar": 300.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 27,
+    "q_mvar": 25.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 27,
+    "q_mvar": 50.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 27,
+    "q_mvar": 75.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 27,
+    "q_mvar": 100.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 27,
+    "q_mvar": 125.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 27,
+    "q_mvar": 150.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 27,
+    "q_mvar": 200.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 27,
+    "q_mvar": 250.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L1",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L1.json",
+    "root_payload_sha256": "32476e594d1978aeb33a952adfb81da8f35b8d2eb26f3b002cb629a05da36551",
+    "bus": 27,
+    "q_mvar": 300.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L2",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L2.json",
+    "root_payload_sha256": "c66ff1d23fec5fbf8febdf50b94d575329b9ab04f59a0eec1f5c09068c5c1d51",
+    "bus": 2,
+    "q_mvar": 25.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L2",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L2.json",
+    "root_payload_sha256": "c66ff1d23fec5fbf8febdf50b94d575329b9ab04f59a0eec1f5c09068c5c1d51",
+    "bus": 2,
+    "q_mvar": 50.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L2",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L2.json",
+    "root_payload_sha256": "c66ff1d23fec5fbf8febdf50b94d575329b9ab04f59a0eec1f5c09068c5c1d51",
+    "bus": 2,
+    "q_mvar": 75.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L2",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L2.json",
+    "root_payload_sha256": "c66ff1d23fec5fbf8febdf50b94d575329b9ab04f59a0eec1f5c09068c5c1d51",
+    "bus": 2,
+    "q_mvar": 100.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L2",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L2.json",
+    "root_payload_sha256": "c66ff1d23fec5fbf8febdf50b94d575329b9ab04f59a0eec1f5c09068c5c1d51",
+    "bus": 2,
+    "q_mvar": 125.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L2",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L2.json",
+    "root_payload_sha256": "c66ff1d23fec5fbf8febdf50b94d575329b9ab04f59a0eec1f5c09068c5c1d51",
+    "bus": 2,
+    "q_mvar": 150.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L2",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L2.json",
+    "root_payload_sha256": "c66ff1d23fec5fbf8febdf50b94d575329b9ab04f59a0eec1f5c09068c5c1d51",
+    "bus": 2,
+    "q_mvar": 200.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L2",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L2.json",
+    "root_payload_sha256": "c66ff1d23fec5fbf8febdf50b94d575329b9ab04f59a0eec1f5c09068c5c1d51",
+    "bus": 2,
+    "q_mvar": 250.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  },
+  {
+    "root": "L2",
+    "case_source": "outputs/critical_research_reset_20261010/spatial_allocation_input_preparation_v2_20261011/L2.json",
+    "root_payload_sha256": "c66ff1d23fec5fbf8febdf50b94d575329b9ab04f59a0eec1f5c09068c5c1d51",
+    "bus": 2,
+    "q_mvar": 300.0,
+    "status": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+    "new_scientific_calls": 0
+  }
+]

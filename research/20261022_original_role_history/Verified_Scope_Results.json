@@ -1,0 +1,723 @@
+{
+  "at_utc": "2026-10-22T04:50:04.006592+00:00",
+  "status": "PASS_ALL45_NAMED_HISTORY_INPUT_SCOPE_CHECKS",
+  "all45_targets": 45,
+  "tracked_PF_attempts_covered": 69723,
+  "extra_saved_snapshot_files": 738,
+  "named_original_recipe_load_inputs": 204,
+  "false_shunt_only_collisions_resolved_by_different_load_inputs": 36,
+  "all_closed_independent_checks_PASS": true,
+  "new_PF_model_optimizer_derivative_forecast_training_calls": 0,
+  "pure_new_network_decodes": 2,
+  "pure_new_scenario_applications": 408,
+  "closed_successful_saved_analysis_workflow_seconds": 419.33695600001374,
+  "old_failed_read_only_v1_runtime": "UNKNOWN_NOT_FREE; original source/protocol/claim preserved; Windows260character path error, exact capsule exists via extended path. No scientific call repeated.",
+  "scope_limit": "Named tracked workspace lineages and204recipe inputs, not a universal assertion about all untracked historical executions. Subsequent-root/assignment/source reconciliation must be explicit in a new prospective study.",
+  "not_a_physical_performance_result_or_full_controller_comparison": true,
+  "new_physics_study_or_GPU_launched_by_this_gate": false,
+  "evidence": {
+    "closed60426_index_reuse_for_all45": {
+      "result": {
+        "status": "COMPLETE_SCOPED_INDEX_QUERY_ONLY",
+        "declared_targets": 45,
+        "old_independently_closed_attempts": 60426,
+        "new_decoded_old_PF_capsules": 0,
+        "targets_excluded_in_this_index": 45,
+        "targets_with_component_matches_UNKNOWN": 0,
+        "index_sha256": "d91b1aec201d71931a7c2b67ee90e1fcb7aaa828fdb3a899fa202583f76196f6",
+        "new_scientific_calls": 0,
+        "not_universal_historical_closure_or_new_PF_permission": true,
+        "workflow_seconds": 5.409116800001357
+      },
+      "independent_audit": {
+        "status": "PASS_ALL45_SOURCE_ORDER_TARGETS_INDEPENDENT_EXACT_ARITHMETIC_AND_60426_INDEX_QUERY",
+        "targets": 45,
+        "targets_excluded_in_index": 45,
+        "component_matches_remain_UNKNOWN": 0,
+        "new_scientific_calls": 0,
+        "full_historical_closure": "PENDING_OTHER_RELEVANT_LINEAGES",
+        "not_new_PF_execution_authority": true,
+        "workflow_seconds": 4.67834630003199
+      },
+      "result_sha256": "75147153f61f104533f3979e58193adaaca3942d91da70c03505918c414ee055",
+      "audit_sha256": "946a0e161224667b8304316f13a39a7b6d6245a1815e299ece8c9a6dbea27e72"
+    },
+    "all9297_named_extra_attempts": {
+      "result": {
+        "status": "COMPLETE_NAMED_ADDITIONAL_INPUT_SCOPE_ONLY",
+        "declared_targets": 45,
+        "actual_named_attempts_checked": 9297,
+        "source_counts": [
+          {
+            "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L1_literal_DFF\\scientific.jsonl",
+            "closed_attempts": 877,
+            "unclosed_attempts": 0
+          },
+          {
+            "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L1_literal_DFF_ALT\\scientific.jsonl",
+            "closed_attempts": 939,
+            "unclosed_attempts": 0
+          },
+          {
+            "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L1_protected_DFF\\scientific.jsonl",
+            "closed_attempts": 877,
+            "unclosed_attempts": 0
+          },
+          {
+            "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L1_protected_DFF_ALT\\scientific.jsonl",
+            "closed_attempts": 926,
+            "unclosed_attempts": 0
+          },
+          {
+            "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+            "closed_attempts": 1780,
+            "unclosed_attempts": 0
+          },
+          {
+            "journal": "outputs\\critical_research_reset_20261010\\spatial_native_engineering_20261012\\execution\\events.jsonl",
+            "closed_attempts": 480,
+            "unclosed_attempts": 0
+          },
+          {
+            "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+            "closed_attempts": 3418,
+            "unclosed_attempts": 0
+          }
+        ],
+        "target_match_counts": {
+          "L1|2|25.0": 0,
+          "L1|2|50.0": 0,
+          "L1|2|75.0": 0,
+          "L1|2|100.0": 0,
+          "L1|2|125.0": 0,
+          "L1|2|150.0": 0,
+          "L1|2|200.0": 0,
+          "L1|2|250.0": 0,
+          "L1|2|300.0": 0,
+          "L1|12|25.0": 1,
+          "L1|12|50.0": 1,
+          "L1|12|75.0": 1,
+          "L1|12|100.0": 1,
+          "L1|12|125.0": 1,
+          "L1|12|150.0": 1,
+          "L1|12|200.0": 1,
+          "L1|12|250.0": 1,
+          "L1|12|300.0": 1,
+          "L1|18|25.0": 3,
+          "L1|18|50.0": 3,
+          "L1|18|75.0": 3,
+          "L1|18|100.0": 3,
+          "L1|18|125.0": 3,
+          "L1|18|150.0": 3,
+          "L1|18|200.0": 3,
+          "L1|18|250.0": 3,
+          "L1|18|300.0": 3,
+          "L1|27|25.0": 0,
+          "L1|27|50.0": 0,
+          "L1|27|75.0": 0,
+          "L1|27|100.0": 0,
+          "L1|27|125.0": 0,
+          "L1|27|150.0": 0,
+          "L1|27|200.0": 0,
+          "L1|27|250.0": 0,
+          "L1|27|300.0": 0,
+          "L2|2|25.0": 0,
+          "L2|2|50.0": 0,
+          "L2|2|75.0": 0,
+          "L2|2|100.0": 0,
+          "L2|2|125.0": 0,
+          "L2|2|150.0": 0,
+          "L2|2|200.0": 0,
+          "L2|2|250.0": 0,
+          "L2|2|300.0": 0
+        },
+        "matching_refs": {
+          "3e6aa94920549a13c3edc185f2ac5d6a3d888803b36c4ff406ce7b6cb0226504": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000018",
+              "component_sha256": "3e6aa94920549a13c3edc185f2ac5d6a3d888803b36c4ff406ce7b6cb0226504",
+              "anchor": {
+                "manifest_sha256": "796253a4c11500a3eb5a31e52bad4358bed073b50c0e3f72128299753d412b6f",
+                "payload_sha256": "701ddc02ad1619e090f98fb46e615b8d6e6bbc3d23003a7d11a4bb01bf93f750",
+                "relative": "capsules/trial_000018"
+              }
+            }
+          ],
+          "f9ad341b8a5d98e0c83e232fbc7b3fa7a6ad7bb1c7920d8df227f5169b99f66e": [],
+          "f1c60d786ef65e88bca4ceefd8f935b73e1ed2f02277bb5ff34e29bf7ac8a114": [],
+          "c5fa83aa2b01ce3c0bb933cf885e4cf2d535d78cdb6189d5f22e409e9f211967": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000019",
+              "component_sha256": "c5fa83aa2b01ce3c0bb933cf885e4cf2d535d78cdb6189d5f22e409e9f211967",
+              "anchor": {
+                "manifest_sha256": "950d5d6379d644ff03b90f905407701d8560eb2a339500ffe49cdf79b6bafb3e",
+                "payload_sha256": "4ca9b3277c66fae312b1822d96308fd5a87b945e77a5b6a64d1e7761a6eeb83b",
+                "relative": "capsules/trial_000019"
+              }
+            }
+          ],
+          "8efbcc9cfd80cbc333166375a6386c29b1a1621f29b88f1797f8de31f7902a56": [],
+          "8803eecc134e62250c8fe1a38a8d7565c1a38454c83ff404a22c982c6107d769": [],
+          "e97c7ca87fc6a512f9ed3ef6d740833051192b93fd5699fdc8f36cd26244b6bd": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000033",
+              "component_sha256": "e97c7ca87fc6a512f9ed3ef6d740833051192b93fd5699fdc8f36cd26244b6bd",
+              "anchor": {
+                "manifest_sha256": "eea770cf43f5ab026d1bc6c5538a07cac8d9eab9bfe219109b4ac92110389dc9",
+                "payload_sha256": "63266f5cb34f488ca615b27c29bf645a57c6d8686c66dd74a63aceab0039b18c",
+                "relative": "capsules/trial_000033"
+              }
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 4,
+                  "bus": 18,
+                  "q_abs_MVAr": 125.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "e97c7ca87fc6a512f9ed3ef6d740833051192b93fd5699fdc8f36cd26244b6bd"
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 4,
+                  "bus": 18,
+                  "q_abs_MVAr": 125.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "kind": "query",
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "e97c7ca87fc6a512f9ed3ef6d740833051192b93fd5699fdc8f36cd26244b6bd"
+            }
+          ],
+          "cb5b3c2442418e465e9173bb64dfa5e2366d5e15116f23ac6c76a0fd20ede200": [],
+          "7f7e1b24194d128f97fa520053ecc46f6ad6fdacc672afba0aaf3673c5c02508": [],
+          "e23d77b56b4f3da38f38ffd0fcc7649e53283be9ca3a1906b4a8f0c6fc632b79": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000017",
+              "component_sha256": "e23d77b56b4f3da38f38ffd0fcc7649e53283be9ca3a1906b4a8f0c6fc632b79",
+              "anchor": {
+                "manifest_sha256": "544f7167f3f2f67e0e4314dfd3327ed2280ed8923075ae0b763978b64797e1c1",
+                "payload_sha256": "61d1ea84aba43101a561d7add1a8fe984cbc242994a0efe38e9e22891cc9dd1a",
+                "relative": "capsules/trial_000017"
+              }
+            }
+          ],
+          "8f524d5bb8cc21c1e6f0013440e2e1e49663df60fcf4caeff0264886dd8322b2": [],
+          "4e2c83913c290bd8dda4b1caac21947ff8c0367c5a22a9d2f7d9305b3de6275d": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000032",
+              "component_sha256": "4e2c83913c290bd8dda4b1caac21947ff8c0367c5a22a9d2f7d9305b3de6275d",
+              "anchor": {
+                "manifest_sha256": "88c943e85e4fd801563113dd5f2de7ccd7afaaff0cdffe4d4af2dda120ddba12",
+                "payload_sha256": "f10fc35b847b797292644b246f1e6570ce7a0a5028f1c1edde579bc06233f72a",
+                "relative": "capsules/trial_000032"
+              }
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 3,
+                  "bus": 18,
+                  "q_abs_MVAr": 100.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "4e2c83913c290bd8dda4b1caac21947ff8c0367c5a22a9d2f7d9305b3de6275d"
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 3,
+                  "bus": 18,
+                  "q_abs_MVAr": 100.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "kind": "query",
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "4e2c83913c290bd8dda4b1caac21947ff8c0367c5a22a9d2f7d9305b3de6275d"
+            }
+          ],
+          "43c411af45a8b0a272277fbe39747c38b15d066811b79095e3a83c61ca87b26b": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000016",
+              "component_sha256": "43c411af45a8b0a272277fbe39747c38b15d066811b79095e3a83c61ca87b26b",
+              "anchor": {
+                "manifest_sha256": "03f785aa82ee95f86212246e8c0060a3bf7a15869e2707884f876cce13810604",
+                "payload_sha256": "f6c6cb9e1f404bb5e414f20e833ee40cf17b3d0c4871172e09cab2490919b5d6",
+                "relative": "capsules/trial_000016"
+              }
+            }
+          ],
+          "7f90d377c1ff62adbbec9d497d7233fb56221624e746aa89e5dca44cb1f68795": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000037",
+              "component_sha256": "7f90d377c1ff62adbbec9d497d7233fb56221624e746aa89e5dca44cb1f68795",
+              "anchor": {
+                "manifest_sha256": "d1106f4487469514acc084a0e6d179e04dfd8f553967ba7d3490d07dd0776cb1",
+                "payload_sha256": "8e0baa72bea27182cefe046b1a501ee10f1c41bff756a2a781d8ba588b785c4c",
+                "relative": "capsules/trial_000037"
+              }
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 8,
+                  "bus": 18,
+                  "q_abs_MVAr": 300.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "7f90d377c1ff62adbbec9d497d7233fb56221624e746aa89e5dca44cb1f68795"
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 8,
+                  "bus": 18,
+                  "q_abs_MVAr": 300.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "kind": "query",
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "7f90d377c1ff62adbbec9d497d7233fb56221624e746aa89e5dca44cb1f68795"
+            }
+          ],
+          "639f59974d10f16e54479a30ea524b329ffd6e1c9a2992bea1cc2e23837d48fa": [],
+          "9d8d64254fa708343f6821582d5104139aac41115ba110037008ac07b790f558": [],
+          "2488bfa950e4a4bb498e84cab492e49a269a499255152050ca0149b77078ee7f": [],
+          "670f6bef15ff82814281f9853a10294d613388ec4f06e180fef43f73f4ad18e7": [],
+          "66f91b132ec9bd70821d452ae27456118e20f498d321123d0640d39c96d79328": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000012",
+              "component_sha256": "66f91b132ec9bd70821d452ae27456118e20f498d321123d0640d39c96d79328",
+              "anchor": {
+                "manifest_sha256": "784afec11050987b36d3796dcdf2faa8030419037466055412f320abc915dbf2",
+                "payload_sha256": "ece2bd59e26721232369e87c0978a326f3459ec6229ff66e4308f4bce8fa04e0",
+                "relative": "capsules/trial_000012"
+              }
+            }
+          ],
+          "615310b852fe013fef00a464621b6709d91956143658c50f41a6f30cc4634757": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000014",
+              "component_sha256": "615310b852fe013fef00a464621b6709d91956143658c50f41a6f30cc4634757",
+              "anchor": {
+                "manifest_sha256": "708e5161dda112af2920a9f6afd76d989f1f8f0f04c47c57ebe3d730c8dc5ac4",
+                "payload_sha256": "1a5d42792cd2ef21391e4ada311d096673640b7bb950feeff6477d662451a075",
+                "relative": "capsules/trial_000014"
+              }
+            }
+          ],
+          "bf4d5f593e64ca9e9cde17ec5a6dda5b15657ebc71e664904a17738016b91df6": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000030",
+              "component_sha256": "bf4d5f593e64ca9e9cde17ec5a6dda5b15657ebc71e664904a17738016b91df6",
+              "anchor": {
+                "manifest_sha256": "59122f150e2954d0db3b33197165c7edc3e4be6380b045ccc658f79e0f6eb2d7",
+                "payload_sha256": "8a7b0daf7171bb4ea74453e460c6c23306760d7f1df5ff2e2f5e01e18e951c6b",
+                "relative": "capsules/trial_000030"
+              }
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 1,
+                  "bus": 18,
+                  "q_abs_MVAr": 50.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "bf4d5f593e64ca9e9cde17ec5a6dda5b15657ebc71e664904a17738016b91df6"
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 1,
+                  "bus": 18,
+                  "q_abs_MVAr": 50.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "kind": "query",
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "bf4d5f593e64ca9e9cde17ec5a6dda5b15657ebc71e664904a17738016b91df6"
+            }
+          ],
+          "01d2a8bc4d67143f61b7a7f7522d9c83ef023dbea28f544b3d2ce856b3307acb": [],
+          "c5ec68531a3d9c4c1a8acce71e9aafd9e9ee6f027517a22e42f0fc64a5ea1f0f": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000036",
+              "component_sha256": "c5ec68531a3d9c4c1a8acce71e9aafd9e9ee6f027517a22e42f0fc64a5ea1f0f",
+              "anchor": {
+                "manifest_sha256": "f0063f8fce2cb789481d132a4ea2a68e2c15645d34e1ed64f03888f82df645c1",
+                "payload_sha256": "fafe2efcdcb61511e4d219265156d8d4a599a6cc0fbd8aefd02ca5a17f613041",
+                "relative": "capsules/trial_000036"
+              }
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 7,
+                  "bus": 18,
+                  "q_abs_MVAr": 250.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "c5ec68531a3d9c4c1a8acce71e9aafd9e9ee6f027517a22e42f0fc64a5ea1f0f"
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 7,
+                  "bus": 18,
+                  "q_abs_MVAr": 250.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "kind": "query",
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "c5ec68531a3d9c4c1a8acce71e9aafd9e9ee6f027517a22e42f0fc64a5ea1f0f"
+            }
+          ],
+          "98e24dba3cb9c7c20431501a4ef687ac6506c81817978b3faa9fa374512feb84": [],
+          "ddad277ada85dbeaf17886c44172d48c48dbb3afa663eefe3592b23f20ad96db": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000013",
+              "component_sha256": "ddad277ada85dbeaf17886c44172d48c48dbb3afa663eefe3592b23f20ad96db",
+              "anchor": {
+                "manifest_sha256": "05bb61364662b38612fc0ee505bac0c5b94b40621b4fa98d546401b276639f2b",
+                "payload_sha256": "f73e9d5f43fae45bd5e7260861b295199f5abd366afe3a54e41b6c0926b0fa6f",
+                "relative": "capsules/trial_000013"
+              }
+            }
+          ],
+          "d047b9449a2d97fa01eca16b745c8af04b8fa47bc0bfc843c226effee336b6ac": [],
+          "c06dbb971ceb07c5dfa3c4e59849726109758f3413ec176c78ea011661da00bf": [],
+          "50e433c4c23919fad44d4fbd06a5a1ddbf23075b99e82166e79b8ef0d841662f": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000011",
+              "component_sha256": "50e433c4c23919fad44d4fbd06a5a1ddbf23075b99e82166e79b8ef0d841662f",
+              "anchor": {
+                "manifest_sha256": "e65a2c7b12a56a9f43f6fb7aebd0e1bb6d6657eb7f9a2c73ec382d756a02c3f3",
+                "payload_sha256": "4b4863011d7b85cfe98a1ef4436934acc8238df872247927ffde2a832ec4cb9f",
+                "relative": "capsules/trial_000011"
+              }
+            }
+          ],
+          "bc03d48ae520e6180408d1f387d9d50388afd135eaa31176a451e6dd8fe691b0": [],
+          "08efbe9e66fe4c900fb6e47c57adb30d469cc121a84dfb73e918323201e2ec0e": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000015",
+              "component_sha256": "08efbe9e66fe4c900fb6e47c57adb30d469cc121a84dfb73e918323201e2ec0e",
+              "anchor": {
+                "manifest_sha256": "50bd1857d3dc868395ec08d639958066a9b7aae31200d2d3f8b30402936c1d9a",
+                "payload_sha256": "bcbad14604eb0b877a541c5e4c0b6413484be2aac13d30485e335f418ff43412",
+                "relative": "capsules/trial_000015"
+              }
+            }
+          ],
+          "833eb3ad13bd6c1abbe36a317bd3e80ee6e5bda0c6efe405f5f66ef0a56b7f7f": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000034",
+              "component_sha256": "833eb3ad13bd6c1abbe36a317bd3e80ee6e5bda0c6efe405f5f66ef0a56b7f7f",
+              "anchor": {
+                "manifest_sha256": "f669715d4a895fe9ff7e0c5f669caf9a134daedf77d3452c7eef5712b9e00269",
+                "payload_sha256": "dc9f2c8bcf872feb16d46232be60420c276bc094b5c10c7fa9f8a17078042ee6",
+                "relative": "capsules/trial_000034"
+              }
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 5,
+                  "bus": 18,
+                  "q_abs_MVAr": 150.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "833eb3ad13bd6c1abbe36a317bd3e80ee6e5bda0c6efe405f5f66ef0a56b7f7f"
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 5,
+                  "bus": 18,
+                  "q_abs_MVAr": 150.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "kind": "query",
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "833eb3ad13bd6c1abbe36a317bd3e80ee6e5bda0c6efe405f5f66ef0a56b7f7f"
+            }
+          ],
+          "fc5ad4a05a42c706e7b5014269099bbb6ab950fc8e654269fe0639eb8d194cf3": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000035",
+              "component_sha256": "fc5ad4a05a42c706e7b5014269099bbb6ab950fc8e654269fe0639eb8d194cf3",
+              "anchor": {
+                "manifest_sha256": "a3092de690e3350dc28aec5eb473b7ca79ffbce6d45ff5dad54e092121a71562",
+                "payload_sha256": "5d1a23568beb7df5ebbefdd570de8fb6869b3714dcf109a1b24f6ba2a02a4c34",
+                "relative": "capsules/trial_000035"
+              }
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 6,
+                  "bus": 18,
+                  "q_abs_MVAr": 200.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "fc5ad4a05a42c706e7b5014269099bbb6ab950fc8e654269fe0639eb8d194cf3"
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 6,
+                  "bus": 18,
+                  "q_abs_MVAr": 200.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "kind": "query",
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "fc5ad4a05a42c706e7b5014269099bbb6ab950fc8e654269fe0639eb8d194cf3"
+            }
+          ],
+          "e1de3aa15241ef87b314323bfdf9c873e724961da227e9275c28fe86ca0285ea": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000029",
+              "component_sha256": "e1de3aa15241ef87b314323bfdf9c873e724961da227e9275c28fe86ca0285ea",
+              "anchor": {
+                "manifest_sha256": "64dc62f4d31dd416bd841b09e436e504055ff633abcda073f57b90e1737fb80a",
+                "payload_sha256": "5bc8e53bc682794750f47da24dbd2f9a670f9fe7722ae58c922730fa3f07c760",
+                "relative": "capsules/trial_000029"
+              }
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 0,
+                  "bus": 18,
+                  "q_abs_MVAr": 25.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "e1de3aa15241ef87b314323bfdf9c873e724961da227e9275c28fe86ca0285ea"
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 0,
+                  "bus": 18,
+                  "q_abs_MVAr": 25.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "kind": "query",
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "e1de3aa15241ef87b314323bfdf9c873e724961da227e9275c28fe86ca0285ea"
+            }
+          ],
+          "30611529e2ff4573a76579662910f8175610194a3b1839aa5f3ae7fb0de43c22": [],
+          "4d55847812dc857166dfab02752a2765db6344f6e9498edcfc76edf056d5e948": [],
+          "46979c3892d58fa57fe1ab5ce2384c5304a02b566e3f81281a2d160c399545b4": [
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl",
+              "identity": "trial_000031",
+              "component_sha256": "46979c3892d58fa57fe1ab5ce2384c5304a02b566e3f81281a2d160c399545b4",
+              "anchor": {
+                "manifest_sha256": "d22c25e4a75bf55ac33f8fd755854ba943cd01e87011f3da6a800eaa15fa39db",
+                "payload_sha256": "67dfc351723a959f34b77c5405116a04f5e7ee4286d52bdec6a213bbaa1b13d2",
+                "relative": "capsules/trial_000031"
+              }
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 2,
+                  "bus": 18,
+                  "q_abs_MVAr": 75.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "46979c3892d58fa57fe1ab5ce2384c5304a02b566e3f81281a2d160c399545b4"
+            },
+            {
+              "journal": "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl",
+              "identity": {
+                "action": {
+                  "Q_index": 2,
+                  "bus": 18,
+                  "q_abs_MVAr": 75.0,
+                  "raw_common_AND_zone_scopes": [
+                    "MG1"
+                  ]
+                },
+                "kind": "query",
+                "root_id": "8f1a541108513a1f82af6debf56466a947c267f76d801e6da7ce0cb178ed35b1"
+              },
+              "component_sha256": "46979c3892d58fa57fe1ab5ce2384c5304a02b566e3f81281a2d160c399545b4"
+            }
+          ]
+        },
+        "unclosed_or_missing": [],
+        "new_scientific_calls": 0,
+        "not_universal_historical_closure_or_PF_authority": true,
+        "workflow_seconds": 147.32540349999908
+      },
+      "independent_audit": {
+        "status": "PASS_ALL_NAMED9297_ATTEMPT_ID_CLOSURES_AND_ALL45_COMPONENT_QUERIES",
+        "all_checked_attempts": 9297,
+        "targets": 45,
+        "failed_reference_attempts_preserved": 3,
+        "matching_components_remain_UNKNOWN": 18,
+        "new_PF_model_calls": 0,
+        "not_full_universal_history_closure_or_new_PF_authority": true,
+        "independent_arithmetic_scope": "ALL9297 saved attempt input components independently recomputed with separate arithmetic, full source/intent/closure identity order bound. Target arithmetic and original60426certificate reused. No new physics replay.",
+        "workflow_seconds": 154.79615449998528
+      },
+      "result_sha256": "35258fd2e7c817c0569452e5daa1d433848b7586c7c4efd6e062018bd4b5c38e",
+      "audit_sha256": "103c4dc67681292fd9e11f83239308e6695a6eaac173dd880f3e732127d06a42"
+    },
+    "all36_shunt_collision_load_witnesses": {
+      "result": {
+        "status": "COMPLETE_ALL36_COLLISION_LOAD_CHECKS",
+        "all_targets": 45,
+        "checked_colliding_refs": 36,
+        "excluded_in_named9297_scope": 45,
+        "remaining_load_shunt_matches_UNKNOWN": 0,
+        "new_scientific_calls": 0,
+        "not_global_historical_closure_or_PF_permission": true,
+        "workflow_seconds": 37.46173899999121
+      },
+      "independent_audit": {
+        "status": "PASS_ALL36_SOURCE_BOUND_LOAD_COLLISION_EXCLUSIONS_ALL45_NAMED_SCOPE",
+        "all_targets": 45,
+        "source_bound_load_witnesses": 36,
+        "new_scientific_calls": 0,
+        "not_universal_history_closure_or_PF_authority": true,
+        "workflow_seconds": 4.084545999998227
+      },
+      "result_sha256": "cb25d5768c8b0845b46de73615b943c56f79e4cd55bbe97d597f537a9f690df6",
+      "audit_sha256": "f09a5a1fdc2c8de8796a38c1043f1e86392c74192fe93876010896f38cb3e010"
+    },
+    "all_remaining738_snapshots_and204_recipes": {
+      "result": {
+        "status": "COMPLETE_NAMED_SNAPSHOT_AND_RECIPE_SCOPE",
+        "snapshot_files": 738,
+        "actual_NET_snapshots": 730,
+        "target_pair_matches_UNKNOWN": 0,
+        "unclosed_or_unbound_source_groups": [],
+        "recipe_load_matches_UNKNOWN": 0,
+        "named_recipes": 204,
+        "new_scientific_calls": 0,
+        "pure_network_decodes": 1,
+        "pure_scenario_applications": 204,
+        "not_universal_history_closure_or_PF_authority": true,
+        "workflow_seconds": 40.837762199982535
+      },
+      "independent_audit": {
+        "status": "PASS_SAVED_COMPONENTS_AND204_INDEPENDENT_RECIPE_APPLICATIONS",
+        "snapshot_files": 738,
+        "named_recipes": 204,
+        "target_snapshot_matches_UNKNOWN": 0,
+        "recipe_load_matches_UNKNOWN": 0,
+        "source_journal_closure_complete": true,
+        "unclosed_source_groups_remain_UNKNOWN": [],
+        "new_scientific_calls": 0,
+        "pure_network_decodes": 1,
+        "pure_scenario_applications": 204,
+        "not_universal_history_closure_or_new_PF_authority": true,
+        "workflow_seconds": 24.74388770002406
+      },
+      "result_sha256": "41f34f87d0d0a519418d215edb3c999c01f9e8be8e17b60933cfda124b22b775",
+      "audit_sha256": "e7e5129f506dbc4afdba496dc7c19a1f8d387d9a4ab530e3c661b5d0849560e6"
+    }
+  }
+}
