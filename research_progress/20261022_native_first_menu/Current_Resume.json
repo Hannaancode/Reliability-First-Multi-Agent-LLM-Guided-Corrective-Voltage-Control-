@@ -1,0 +1,79 @@
+{
+  "at_utc": "2026-10-22T20:04:17.135579+00:00",
+  "status": "SINGLE_MISSING_ONLY_NATIVE_DFF_FIRST_MENU_OWNER_LIVE",
+  "exec_session": 55532,
+  "primary": {
+    "actual_pid": 18120,
+    "parent_pid": 26552,
+    "source_sha256": "133e10fc3656d00480471daa4195aa5267ba981bfc3c409e61b1ae44755b3ac2"
+  },
+  "coordinator": {
+    "actual_pid": 25924,
+    "parent_pid": 12800,
+    "source_sha256": "254094366fb05e0f91d9f9c2983ca59e3588baec031994b9f92e2ccc72ee3920"
+  },
+  "fresh_exact_processes": [
+    {
+      "ProcessId": 12800,
+      "ParentProcessId": 12280,
+      "CommandLine": "\"C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe\" -X utf8 work/coordinate_r118_first_round_missing_only_20261022.py",
+      "CreationDate": "/Date(1792699305897)/"
+    },
+    {
+      "ProcessId": 25924,
+      "ParentProcessId": 12800,
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/coordinate_r118_first_round_missing_only_20261022.py",
+      "CreationDate": "/Date(1792699305929)/"
+    },
+    {
+      "ProcessId": 26552,
+      "ParentProcessId": 20308,
+      "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_r118_first_round_missing_only_20261022.py",
+      "CreationDate": "/Date(1792699306442)/"
+    },
+    {
+      "ProcessId": 18120,
+      "ParentProcessId": 26552,
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_r118_first_round_missing_only_20261022.py",
+      "CreationDate": "/Date(1792699306569)/"
+    }
+  ],
+  "source_protocol_sha256": "651bf7f261d84a4d74c71aa31fdcb9cce1654855cde7c35c589f1a13c12d3553",
+  "current_progress_only": {
+    "closed_records": 377,
+    "declared": 2034,
+    "costs": {
+      "new_PF_attempts": 344,
+      "new_PF_returns": 344,
+      "new_PF_exceptions": 0,
+      "new_PF_seconds": 21.516302900214214,
+      "paid_native80_reused": 33,
+      "known_unknown_skipped": 0,
+      "new_model_training_optimizer_calls": 0,
+      "actual_commits": 0
+    },
+    "binary_bytes": 70642200,
+    "elapsed_seconds": 150.04699999996228
+  },
+  "declared_first_menu_queries": 2034,
+  "planned_new_unexecuted_only": 1989,
+  "paid_reuses": 42,
+  "known_contract_unknowns_no_call": 3,
+  "bounds": {
+    "primary_seconds": 1800,
+    "first_reader_seconds": 1800,
+    "each_launcher_seconds": 2000
+  },
+  "next": "Sole coordinator invokes pinned first-new-return reader only after actual primary exit0 and closed manifest. Partial and known collisions stay UNKNOWN. Never restart/duplicate/live-edit/extend/replay old or failed calls.",
+  "no_actual_commits_or_new_model_calls": true,
+  "current_GPU_assignments": 0,
+  "all3_previous_GPU_arms_ended_released": true,
+  "all6_final_goals": "OPEN",
+  "last_verified_GitHub": "329c4b8837e898a501e34fad7af5467fbdd56f15",
+  "result_paths": [
+    "outputs/r118_first_round_missing_only_execution_20261022/Result.json",
+    "outputs/r118_first_round_missing_only_independent_20261022/Independent_Audit.json",
+    "outputs/r118_first_round_missing_only_handoff_20261022/Completion.json"
+  ],
+  "waiting_policy": "Only a one-time estimated check if this live result becomes the sole ready dependency and no useful parallel task remains; rearm only genuinely live, delete at terminal. No recurring monitor."
+}

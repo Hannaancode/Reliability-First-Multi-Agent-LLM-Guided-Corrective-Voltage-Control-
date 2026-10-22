@@ -1,0 +1,122 @@
+{
+  "status": "COMPACT_OWN_SOURCE_AND_PROOFS_NOT_RAW_BACKUP",
+  "members": [
+    {
+      "path": "work/map_r118_all4_first_round_query_frontier_20261022.py",
+      "bytes": 6367,
+      "sha256": "7392bbd46c020f39bacadb23602dcca39e34d993552a3208fafb8067b8467a4b"
+    },
+    {
+      "path": "work/check_r118_frontier_current_attempt_capsules_20261022.py",
+      "bytes": 3815,
+      "sha256": "3166ca5ca0acff227e0f751f778abc2ee1d4b0a36b5f0225ce193ad32d358ada"
+    },
+    {
+      "path": "work/run_r118_first_round_missing_only_20261022.py",
+      "bytes": 6976,
+      "sha256": "133e10fc3656d00480471daa4195aa5267ba981bfc3c409e61b1ae44755b3ac2"
+    },
+    {
+      "path": "work/audit_r118_first_round_missing_only_20261022.py",
+      "bytes": 4873,
+      "sha256": "c4315c2e6322ff0cecda1a0eb0552fb164e8f05a7115b99205136cb26787e3c6"
+    },
+    {
+      "path": "work/prepare_r118_first_round_missing_only_20261022.py",
+      "bytes": 6750,
+      "sha256": "feaff8d45bf7b02ba07846ac2276ba5df08de7c270a1208a327418a0e94f3601"
+    },
+    {
+      "path": "work/coordinate_r118_first_round_missing_only_20261022.py",
+      "bytes": 1597,
+      "sha256": "254094366fb05e0f91d9f9c2983ca59e3588baec031994b9f92e2ccc72ee3920"
+    },
+    {
+      "path": "work/save_r118_first_round_live_handoff_20261022.py",
+      "bytes": 5303,
+      "sha256": "6f3250427a6933189d4362eff73177562200f2271fae14f7060c76820084800c"
+    },
+    {
+      "path": "work/summarize_verified_r118_first_round_20261022.py",
+      "bytes": 5287,
+      "sha256": "d8767d568e958ec71feded50b9f9e08e1d13f67647ff56cf28b7b41d522e0638"
+    },
+    {
+      "path": "work/record_published_graph_environment_version_gap_20261022.py",
+      "bytes": 2216,
+      "sha256": "499f9ea5aeb402b470a2103998fd3dbbc539fe9094b0089ad94c54cf1bfa31ee"
+    },
+    {
+      "path": "work/record_compatible_graph_environment_semantics_20261022.py",
+      "bytes": 3870,
+      "sha256": "92639b500ec2c2c134327ff3e6bdd5460116171c353912784cd3512c1aaddaa6"
+    },
+    {
+      "path": "work/prepare_graph_source_static_reader_v2_20261022.py",
+      "bytes": 1410,
+      "sha256": "feba16a89b2eab6060d14ed4008e721bd9d4ed981cedaf2bc08c3ec0d458b878"
+    },
+    {
+      "path": "work/record_compatible_graph_environment_semantics_v2_20261022.py",
+      "bytes": 4165,
+      "sha256": "7b7c28798bb381e984ab361a0bbb9a7962f1a3f60ee80b0f34fb865378feb76b"
+    },
+    {
+      "path": "work/check_published_graph118_paid_transition_20261022.py",
+      "bytes": 5773,
+      "sha256": "1028a05f1a12d189dd3ce7c8d07b055026ce2e3b271b28ebd78f3fc7fd4a296f"
+    },
+    {
+      "path": "work/prepare_r118_native_frontier_publication_20261022.py",
+      "bytes": 6235,
+      "sha256": "4cc09d4441064ba6dcfc63d18bb4bb5aac8335828ac205ed0d6be84e20e8e249"
+    },
+    {
+      "path": "outputs/r118_all4_first_round_query_frontier_20261022/Frontier_Summary.json",
+      "bytes": 935,
+      "sha256": "2510e3f055a6021b37e668fa777dde6a064eaed68357554b0a378fe4d85c99f7"
+    },
+    {
+      "path": "outputs/r118_all4_first_round_attempt_coverage_20261022/Current_Attempt_Coverage.json",
+      "bytes": 1002,
+      "sha256": "3b72753738d5b704758ef75fb0fe9c93bbc649566883233e0c64c4adccaf8cad"
+    },
+    {
+      "path": "outputs/r118_first_round_missing_only_preparation_20261022/Protocol.json",
+      "bytes": 4194,
+      "sha256": "651bf7f261d84a4d74c71aa31fdcb9cce1654855cde7c35c589f1a13c12d3553"
+    },
+    {
+      "path": "outputs/r118_first_round_missing_only_preparation_20261022/Source_And_Preservation_Readiness.json",
+      "bytes": 975,
+      "sha256": "91473a8c17c9162a1c4d4ca155b8c78e4ae13281a03b1f3fa90f6912032c7e79"
+    },
+    {
+      "path": "outputs/r118_first_round_missing_only_preparation_20261022/Analysis_Lock.json",
+      "bytes": 290,
+      "sha256": "f93c0b58ee580c948879561d593816cc5f7c06a441f0b1aba8a230c6c41e2446"
+    },
+    {
+      "path": "outputs/published_graph118_environment_source_20261022/Source_Version_Gap.json",
+      "bytes": 1335,
+      "sha256": "1f568f4148b87ddb9ad999129ef81e250891c8c2346f1012de4b67500d20cdba"
+    },
+    {
+      "path": "outputs/published_graph118_environment_source_20261022/compatible_archived/Static_Reader_V1_Failure.json",
+      "bytes": 294,
+      "sha256": "d5ae38ded4f491ea2803465083818e72c5d1f62a30434e25001ff72d970d9952"
+    },
+    {
+      "path": "outputs/published_graph118_environment_source_20261022/compatible_archived/Compatible_Source_Semantics.json",
+      "bytes": 2824,
+      "sha256": "b1755dff8bce329f86da5c31d122573e69b455fdc4d4563fa6f832c804077843"
+    },
+    {
+      "path": "outputs/published_graph118_paid_transition_20261022/Saved_Transition_And_Cursor_Readiness.json",
+      "bytes": 6363,
+      "sha256": "a8db02398caeec4e40a7d693d7e671badf42d1af0f6ed51068dc5f35ef847b84"
+    }
+  ],
+  "private_raw_NETs_weights_tokens_and_third_party_environment_source_not_uploaded": true,
+  "new_scientific_calls": 0
+}
