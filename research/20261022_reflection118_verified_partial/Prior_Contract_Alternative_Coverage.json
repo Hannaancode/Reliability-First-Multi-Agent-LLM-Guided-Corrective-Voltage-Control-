@@ -1,0 +1,54 @@
+{
+  "status": "SAVED_REFERENCE_TARGET_LOOKUP_COMPLETE_NOT_UNIVERSAL_HISTORY_OR_REUSE_CERTIFICATE",
+  "target": "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/no_llm_fallback_first/pf_000006_before.zlib",
+  "target_sha256": "e1f83c7c7703218d55685beb4e28516c4740b6a8baddf576795eaf45b256e3df",
+  "same_shunt_component_index_references": 1,
+  "same_load_outage_references": 1,
+  "exact_required_old_contract_alternatives": 0,
+  "old_references": [
+    {
+      "journal": "outputs/critical_research_reset_20261010/severe_joint_current_engineering_20261012/actual/scientific.jsonl",
+      "id": "002_fed_combined_load_1p5_line_35_MG1_original_committed_prefix_1",
+      "exact_input_frames": true,
+      "intents": 1,
+      "returns": 1,
+      "recorded_kwargs": {
+        "algorithm": "nr",
+        "enforce_q_lims": true,
+        "init": "auto",
+        "max_iteration": 50
+      },
+      "reference": {
+        "before": {
+          "encoded_bytes": 108942,
+          "encoded_sha256": "083dc4313f854509e577ac87bfe2a211f7b350f38687ac4fd3dfb11f7b678202",
+          "path": "002_before.pkl.zlib",
+          "raw_bytes": 358558,
+          "raw_sha256": "623dc055503610512cf3473619e9ac4afe563f5cf2b856cc289b7f92593c2dd1"
+        },
+        "id": "002_fed_combined_load_1p5_line_35_MG1_original_committed_prefix_1",
+        "intent_line_sha256": "2be2afba928db9ac2c045b8cfc9ded16e435c9b17579de4323fe5be81cdeb4e5",
+        "journal": "outputs/critical_research_reset_20261010/severe_joint_current_engineering_20261012/actual/scientific.jsonl"
+      },
+      "exact_required_contract": false
+    }
+  ],
+  "additional_scope_same_component_and_load": [],
+  "same_study_closed_same_input_records": [],
+  "required_contract": {
+    "algorithm": "nr",
+    "init": "auto",
+    "enforce_q_lims": true,
+    "max_iteration": 80,
+    "calculate_voltage_angles": true
+  },
+  "source_pins": {
+    "work/inspect_r118_prior_contract_alternatives_20261022.py": "25b1069dff89c81aae5cf4e3120a113e8b87251d8f8696a4ebbad4aad4c9c99c",
+    "outputs/prior_physical_query_footprints_20261018/actual/Physical_Component_Input_References.json.gz": "d91b1aec201d71931a7c2b67ee90e1fcb7aaa828fdb3a899fa202583f76196f6",
+    "outputs/reflection118_chronological_preparation_20261022/Additional_Prior_Attempt_References.json": "f14119c0b0a528452a4b8d1e24ccee12d7a873adb4e9e718a17a49e5e21dc55f"
+  },
+  "coverage": "The prior60426-input index and separately prepared additional lineage index plus all closed current-study calls. Saved-snapshot/untracked histories are not universally resolved.",
+  "interpretation": "Any exact alternative is a candidate requiring provenance/use gates. Absence is only scoped; the blocked50/80contract remainsUNKNOWN and cannot be repeated automatically.",
+  "new_PF_model_optimizer_converter_derivative_factor_solve_calls": 0,
+  "workflow_seconds": 11.15600000001723
+}

@@ -1,0 +1,35 @@
+{
+  "at_utc": "2026-10-22T09:58:58.742490+00:00",
+  "status": "TARGETED_SAVED_CONTRACT_SCOPE_COMPLETE_NO_COMPATIBLE_ALTERNATIVE_FOUND",
+  "evidence": "outputs\\r118_prior_contract_alternatives_20261022\\Prior_Contract_Alternative_Coverage.json",
+  "sha256": "0a3ff163dcbb192e33810713c1ab43458699efef1a762d4e071e5404fd2f899a",
+  "named_scope": {
+    "old60426index_same_component_refs": 1,
+    "same_load_outage_refs": 1,
+    "exact80iteration_alternatives": 0,
+    "additional_matched_load_component_refs": 0,
+    "current_study_matched_closed_calls": 0
+  },
+  "new_scientific_calls": 0,
+  "interpretation": "The saved50iteration record is the sole same-component/current-load reference in the named index. No compatible80iteration returned alternative was found. Untracked histories remain unknown; no automatic rerun or reuse.",
+  "model_identity": {
+    "original_private_adapter_unchanged": true,
+    "adapter_sha256": "a9749cf75e11948b3e830b595536a3599d89c062f7ffa725968b996106863c98",
+    "actual_pinned_base": "unsloth/qwen2.5-0.5b-instruct-unsloth-bnb-4bit",
+    "actual_base_revision": "10413c288cb9629acdf60b3e0229f3ba75efe413",
+    "historical_exact_paper_base_revision": "UNKNOWN_UNRECOVERED",
+    "scope": "Actual original trained adapter and original source, not a certified byte-identical historical paper base snapshot."
+  },
+  "cohort_identity": "Four exact registered FED141 severe roots; old paid12October initializations. Full historical137paper trajectory identity remains UNKNOWN; no paper-best claim from56to7.",
+  "next_ready_science": false,
+  "future_steps": [
+    "Existing per-Q-limit-pass provenance recovery may support a separately reviewed exact solver-equivalence proof. If absent, keep reuseUNKNOWN.",
+    "Before any different-contract or missing-only physical study, prospectively freeze identities, history, sources, full costs, ownership, persistent cursor, and first independent replay; never restart the old study.",
+    "Complete compatible common118published method/trained strong controls with identical cases and resources before claiming superiority."
+  ],
+  "all6_final_goals": "OPEN",
+  "current_GPU_assignments": 0,
+  "current_owned_jobs": [],
+  "waiting_automations": [],
+  "previous_verified_GitHub": "c1b2d57612ce09a05682bac81330396f819268f3"
+}
