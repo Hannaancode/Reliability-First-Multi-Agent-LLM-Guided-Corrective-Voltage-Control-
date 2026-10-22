@@ -1,0 +1,80 @@
+{
+  "root_binding": {
+    "status": "PASS_INDEPENDENT_FOUR_REGISTERED_ROOT_RECIPE_INPUT_RETURN_BINDINGS",
+    "case_order": [
+      "fed_combined_load_1p5_line_35_MG1",
+      "fed_combined_load_1p5_line_36_MG1",
+      "fed_combined_load_1p5_line_84_MG2",
+      "fed_combined_load_1p5_line_127_MG3"
+    ],
+    "initial_UV": [
+      56,
+      58,
+      57,
+      55
+    ],
+    "all203_root_bindings": "4BOUND_199PENDING",
+    "native_band": "Strict0.95/1.05counts retained; no boundary rounding.",
+    "new_PF_model_calls": 0,
+    "pure_network_decodes": 1,
+    "pure_recipe_applications": 4,
+    "not_full_method_or_historical137_trajectory_proof": true,
+    "workflow_seconds": 4.3047998000402
+  },
+  "software": {
+    "status": "PASS_ORIGINAL_CHRONOLOGICAL_POLICY_PLUMBING_LABELLED_MOCKS",
+    "checks": [
+      "all_original_function_ASTs_unchanged",
+      "all_four_zones_source_order",
+      "MG2_query_receives_updated_MG1_feedback_state",
+      "original_candidate_filter_can_hide_other_zone_feedback_from_prompt",
+      "guided_refinement_retains_original_source",
+      "first_checkpoint_after_original_history_append",
+      "complete_failed_feedback_history_in_checkpoint",
+      "warm_cold_source_state_equal",
+      "terminal_source_UV0_loop_stop"
+    ],
+    "real_PF_model_calls": 0,
+    "mock_outcome_is_not_physics_or_performance": true
+  },
+  "lookup": {
+    "status": "PASS_REUSABLE_NECESSARY_INPUT_LOOKUPS_ALL9297_OLD_ATTEMPTS",
+    "source_index_sha256": "9d0358ad8e761f1409f8df20bb13f789f8312a10f477ad1007277788200397bf",
+    "output_sha256": "f14119c0b0a528452a4b8d1e24ccee12d7a873adb4e9e718a17a49e5e21dc55f",
+    "actual_references": 9297,
+    "scope": "Closed named lineages only; matching components/loads block new PF unless old exact return is separately resolved.",
+    "source_counts": {
+      "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L1_literal_DFF\\scientific.jsonl": 877,
+      "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L1_literal_DFF_ALT\\scientific.jsonl": 939,
+      "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L1_protected_DFF\\scientific.jsonl": 877,
+      "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L1_protected_DFF_ALT\\scientific.jsonl": 926,
+      "outputs\\critical_research_reset_20261010\\spatial_DSE_reference_screen_20261012\\branches\\L2_literal_DFF\\scientific.jsonl": 1780,
+      "outputs\\critical_research_reset_20261010\\spatial_native_engineering_20261012\\execution\\events.jsonl": 480,
+      "outputs\\critical_research_reset_20261010\\fresh_paid_receipt_opportunity_preparation_v1\\execution\\Actual_Observation_Journal.jsonl": 3418
+    },
+    "new_PF_model_calls": 0,
+    "workflow_seconds": 213.295999999973
+  },
+  "launch_lock": {
+    "status": "PASS_FINAL_EXACT_FOUR_ROOT_INPUT_SOURCE_LOCK_BEFORE_ALLOCATION",
+    "pins": {
+      "outputs/registered_severe_federation_root_binding_20261022/All4_Registered_Solved_Root_Bindings.json": "273504a4ec913ff8ddd9d729216223c36c7ead9453381dc75b2ab80715d22b3b",
+      "outputs/registered_severe_federation_root_binding_20261022/independent_audit/Independent_Audit.json": "faa5256f035e835693fa3d510e25389d27897bef2ac85d56617d7bbd03482d1b",
+      "work/e/pack/testbeds/federation_4mg_ieee118.json": "fe9b4b552c4a2c056c8f22196c15f81ed9a2815082506b7795510455511c84d4",
+      "work/e/pack/testbeds/federation_4mg_ieee118_metadata.json": "e63d8296ae50a7454a9c239013a0a13ede92aea2ce76de496ea4e9b704e5921a",
+      "outputs/prior_physical_query_footprints_20261018/actual/Physical_Component_Input_References.json.gz": "d91b1aec201d71931a7c2b67ee90e1fcb7aaa828fdb3a899fa202583f76196f6",
+      "outputs/original_role_remaining_native_history_scope_20261022/All_Saved_Snapshot_Components.json": "e97b1674385782371bc8ae0f4db7e2a16a23331e22ffb15b9c6c564010caad28",
+      "outputs/registered_severe_federation_root_binding_20261022/fed_combined_load_1p5_line_35_MG1.pkl": "e3cfb229962f51bbb380644bd7e2bc85c1f82d7d51a7d3f1c9465979000f01a2",
+      "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_35_MG1.json": "08938f18867ba469d32a4a874837b8a20bd00e9125f4dc4105685313914eff8e",
+      "outputs/registered_severe_federation_root_binding_20261022/fed_combined_load_1p5_line_36_MG1.pkl": "88d05409063d46a68839267bd1a414cbf69ad52dc6123f1eae3f305aefdac628",
+      "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_36_MG1.json": "98d45437e1361f9fc57e9f1d949ae68f92f372a5e453df859ac7164cfa526268",
+      "outputs/registered_severe_federation_root_binding_20261022/fed_combined_load_1p5_line_84_MG2.pkl": "bb48ea15e244e9504f465d93b246098789f96893f4e731a1f284e0c49a059b9f",
+      "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_84_MG2.json": "58cacccd2ca62f05ec446f1e6fc1450caf43c3b004ff47074821655a0f8c2ae0",
+      "outputs/registered_severe_federation_root_binding_20261022/fed_combined_load_1p5_line_127_MG3.pkl": "d3b481cd440bf1cadec6686591380ac3630174026ca3f89daa948113b56f1fec",
+      "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_127_MG3.json": "769f5add532fe7f4b2b588abb286e4c0c70d672ecb5fd4de50d8d8fc06b961f2"
+    },
+    "new_PF_model_calls": 0,
+    "no_cropping_or_silent_root_regeneration": true,
+    "private_NET_exported": false
+  }
+}

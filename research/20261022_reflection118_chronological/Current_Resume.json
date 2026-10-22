@@ -1,0 +1,55 @@
+{
+  "at_utc": "2026-10-22T08:38:17.641418+00:00",
+  "status": "ORIGINAL_CHRONOLOGICAL_FOUR_REGISTERED_ROOT_STUDY_STARTED_NO_PERFORMANCE_RESULT_YET",
+  "all6_final_goals": "OPEN",
+  "source_native_case_order": [
+    "fed_combined_load_1p5_line_35_MG1",
+    "fed_combined_load_1p5_line_36_MG1",
+    "fed_combined_load_1p5_line_84_MG2",
+    "fed_combined_load_1p5_line_127_MG3"
+  ],
+  "initial_UV": [
+    56,
+    58,
+    57,
+    55
+  ],
+  "exact_input_registration": "4FED141roots recovered/199other registrations pending; old paid12October solved roots reused, historical137trajectory identity stillUNKNOWN.",
+  "actual_primary_claim": {
+    "actual_pid": 28316,
+    "parent_pid": 10172,
+    "source_sha256": "2502b01deacdd897d817dd315da12b6c4b82ee065c0c5fdd303322e40b731e3a",
+    "command": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_reflection118_chronological_colab_20261022.py",
+    "started_at_utc": "2026-10-22T08:35:04.376167+00:00"
+  },
+  "actual_coordinator_claim": {
+    "actual_pid": 13912,
+    "parent_pid": 28076,
+    "source_sha256": "b2786dd48f7ca27ebb6ebb81626b08afb2855bb04bf2bf9bbe2d4b64076e880b"
+  },
+  "exec_session": 55078,
+  "host_status_at_checkpoint": {
+    "stage": "one_async_bounded_framework_setup",
+    "runtime_allocated": true,
+    "allocation_requests": 1,
+    "runtime_released": false,
+    "science_started": false,
+    "updated_at_utc": "2026-10-22T08:38:17.472451+00:00",
+    "notebook_hash": "43ee8251-6bb7-4998-8623-1148776a0167"
+  },
+  "next": "Inspect actual local/controller and remote service statuses from this owner; do not duplicate, restart or modify live sources. Sole locked reader follows actual host end/release/preservation. Full/partial outcomes are assessed by actual independent audit, never counts.",
+  "study": "outputs/r118chrono_20261022",
+  "sole_reader": "outputs/r118chrono_audit_20261022",
+  "sole_handoff": "outputs/r118chrono_handoff_20261022",
+  "protocol": "outputs/reflection118_chronological_preparation_20261022/Frozen_Engineering_Protocol.json",
+  "science_bounds": "Localcontroller7200seconds/8GiB; remote9000seconds, setup1800, collector10200; first independent reader7200. All bounds fixed before outcome; no extension/retry.",
+  "critical_source_finding": "Actual feedback state is updated after each zone, but original candidate filtering can hide other-zone receipts from later prompts. Preserved; not modified for this study.",
+  "external118_comparison": "Authentic compatible external118controllers or separately named trained/common-actuator ports remain pending. Source-native13inverter/322bus actors are not valid unmodified118shunt benchmarks.",
+  "remaining_priority_tasks": [
+    "G3.F118.6b actual original full25step trained controller and DFF/HGSE bothbranch costs",
+    "G3.F118.5 compatible published118methods/common-task ports",
+    "G3.F118.7 strong same-information/constant/base controls, full literalDSE, wider cohort and unused confirmation"
+  ],
+  "no_guaranteed_win_or_new_improvement_result": true,
+  "timers": []
+}

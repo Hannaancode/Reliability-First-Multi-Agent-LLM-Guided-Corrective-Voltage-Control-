@@ -1,0 +1,10 @@
+{
+  "archive": "Own_Code_And_Public_Proofs.zip",
+  "bytes": 49049,
+  "sha256": "d23c83c8a4425a2f8c6a222ef442cf507703dcdbe2ed8dc450117112d8704e0c",
+  "account_only_redactions": [
+    "outputs/reflection118_chronological_preparation_20261022/Frozen_Engineering_Protocol.json"
+  ],
+  "private_NET_weights_credentials_trainingbank": false,
+  "not_complete_private_raw_backup": true
+}

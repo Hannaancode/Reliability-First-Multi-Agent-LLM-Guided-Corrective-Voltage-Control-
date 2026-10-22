@@ -1,0 +1,29 @@
+{
+  "files": {
+    "Own_Code_And_Public_Proofs.zip": {
+      "bytes": 49049,
+      "sha256": "d23c83c8a4425a2f8c6a222ef442cf507703dcdbe2ed8dc450117112d8704e0c"
+    },
+    "Public_Archive_Certificate.json": {
+      "bytes": 388,
+      "sha256": "ea05f1b6a23702b47f8aab7f9381a17f1134203a246ebe4523daa20f9431529e"
+    },
+    "Current_Resume.json": {
+      "bytes": 3120,
+      "sha256": "c570683bbc59e317bb34bc27c6a1d916bbfb2e983d7dd3b52cd924e7a1583272"
+    },
+    "Research_Progress_Entry.txt": {
+      "bytes": 2538,
+      "sha256": "a4c789b269371030c7d15b9f2b45f380060ea614dc546fedc67b88751f901b32"
+    },
+    "Verified_Input_And_Software_Results.json": {
+      "bytes": 5452,
+      "sha256": "7c6e2ac4364a45b41f558ccb20bb66d963f3d4c075f2d33bc85d2af5f79f73fc"
+    },
+    "Benchmark_Status.md": {
+      "bytes": 1196,
+      "sha256": "7def4f981f3b547baa8d12d9e02c03ba6cd9fd32e9d23467f1fc5128e12a1da5"
+    }
+  },
+  "all6_final_goals": "OPEN"
+}
