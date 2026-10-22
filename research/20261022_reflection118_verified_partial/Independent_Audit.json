@@ -1,0 +1,37 @@
+{
+  "status": "PASS_PRESERVED_PARTIAL_FULL_COMPARISON_UNKNOWN",
+  "complete_branches": [
+    {
+      "method": "reflection_v2",
+      "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+      "base_uv": 56,
+      "final_uv": 7,
+      "final_vmin": 0.9322110650841953,
+      "final_deficit": 0.07608029853018439,
+      "full_restoration": false,
+      "accepted_actions": 17,
+      "llm_direct": 14,
+      "llm_guided": 3,
+      "fallback": 0,
+      "guided_tests": 333,
+      "fallback_tests": 144,
+      "llm_direct_tests": 41,
+      "llm_direct_accepted_tests": 21,
+      "stop_reason": "no_accepted_action",
+      "strict_OV": 2
+    }
+  ],
+  "all4_complete": false,
+  "missing_branches": 7,
+  "new_independent_PF_replays": 357,
+  "maximum_numeric_field_delta": 0.0,
+  "maximum_KCL_pu": 1.09926154845088e-08,
+  "all_causal_original_policy_outputs_exact": true,
+  "actual_model_responses_verified": 110,
+  "paired_all4_native_rows": [],
+  "fixed_development_gate": "UNKNOWN_PARTIAL",
+  "new_model_optimizer_training_calls": 0,
+  "native_guard": "Original1.06; strict1.05 OV separately retained.",
+  "external_methods_and_full_DSE_and_unused_confirmation": "NOT_ESTABLISHED_BY_THIS_NATIVE_SYSTEM_STUDY",
+  "workflow_seconds": 302.219000000041
+}

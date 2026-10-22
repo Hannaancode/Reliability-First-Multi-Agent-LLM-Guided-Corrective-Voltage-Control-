@@ -1,0 +1,20 @@
+{
+  "sources": {
+    "work/close_r118_chronological_partial_20261022.py": "34cbefe9a1b65534f5ad463d0957aa0f78e9bf6bfdf5a19fcbc077f092ecfc10",
+    "work/diagnose_r118_saved_solver_contract_20261022.py": "fa8732a644a609dd39b43e46cce3f1dfe15d538adb4febf8d31df71ec1db0589",
+    "work/diagnose_r118_saved_solver_contract_v2_20261022.py": "66542859b6c1ae5bfa7f291d188048c38fad82f6a6db553de9bf9533fd8d59f4",
+    "work/audit_reflection118_chronological_20261022.py": "f79459a0d65c9f013902759d88c2767b51974a24bda5d5c8babb603bdf020d6e",
+    "work/run_reflection118_chronological_local_20261022.py": "26391eec6241c6f92299fd3c32280ecae446764936b251ff9c01c897db82a142",
+    "work/run_reflection118_model_service_remote_20261022.py": "40761cb76c50250cdefc8c70c74bdb7809e2471f293b5915bf81f76f17e447cf"
+  },
+  "evidence": {
+    "outputs/r118chrono_audit_20261022/Independent_Audit.json": "0cc862d332c1448c9e27d57324a7eee520302c055af713316f2cee5876268991",
+    "outputs/r118chrono_audit_20261022/Closed_Manifest.json": "2adfef8137b800d887f2b4396d3a44e6e821dbe2493f312c2480d186b4ed0899",
+    "outputs/r118chrono_20261022/local_controller/Failure.json": "ad72aa69087e5cd5d4cb7e046aa833404ac9073abaf11c32dc9ff7074c917ded",
+    "outputs/r118chrono_20261022/staged/study/Results.json": "298f1defc718f46c6a2911907a7b140dd5d0d17350fc59a0567efd65902d4092",
+    "outputs/r118chrono_handoff_20261022/Reader_Owner_Protocol.json.log": "d6199714d3afb72f507d5ff80882234d813f90bee77ae61bc7140b0382d82787"
+  },
+  "raw_private_weights_NETs_and_thirdparty_sources": "RETAINED_LOCAL_NOT_PUBLIC_COMPLETE_BACKUP",
+  "all_original_failed_sources_claims_and_stderr": "PRESERVED",
+  "new_scientific_calls_for_terminal_receipt": 0
+}

@@ -1,0 +1,62 @@
+{
+  "at_utc": "2026-10-22T09:53:46.352694+00:00",
+  "status": "ACTUAL_TERMINAL_SAVED_PARTIAL_WITH_SUPERVISOR_FAILURE_PRESERVED",
+  "fresh_matching_live_python_processes": [],
+  "actual_host_exit": {
+    "actual_pid": 28316,
+    "launcher_pid": 10172,
+    "exit_code": 0,
+    "actual_owned_chain_ended": true,
+    "elapsed_seconds": 3586.7179999999935
+  },
+  "actual_local_exit": {
+    "local_exit_code": 1,
+    "actual_local_owned_chain_ended": true,
+    "local_result_present": false,
+    "local_failure_retained": true
+  },
+  "reader_claim": {
+    "actual_pid": 18556,
+    "parent_pid": 25580,
+    "source_sha256": "f79459a0d65c9f013902759d88c2767b51974a24bda5d5c8babb603bdf020d6e"
+  },
+  "reader_source_pin": {
+    "source": "work/audit_reflection118_chronological_20261022.py",
+    "sha256": "f79459a0d65c9f013902759d88c2767b51974a24bda5d5c8babb603bdf020d6e",
+    "first_new_return_replay_only": true,
+    "new_model_calls": 0
+  },
+  "original_supervisor_exit_code": 1,
+  "supervisor_failure": "Claim handshake timed out at60seconds during imports. Original child later closed a PASS audit; supervisor did not retain the actual child exit status.",
+  "actual_reader_OS_exit_code": "UNKNOWN_NOT_RETAINED_NO_EXIT0_INFERENCE",
+  "actual_reader_output_manifest_members": 359,
+  "actual_reader_output_manifest_sha256": "2adfef8137b800d887f2b4396d3a44e6e821dbe2493f312c2480d186b4ed0899",
+  "first_terminal_manifest_verification": "PASS_ALL_READER_OUTPUT_MEMBERS",
+  "original_handoff_completion": "ABSENT_NOT_RETROACTIVELY_MANUFACTURED",
+  "no_repeated_science_or_original_reader": true,
+  "waiting_automation": {
+    "id": "hiergrid-chronological118-result-check",
+    "actual_tool_delete": "deleted"
+  },
+  "current_owned_GPU_assignments": 0,
+  "host_release_confirmed": true,
+  "saved_solver_diagnosis": {
+    "file": "outputs/r118_saved_solver_contract_diagnosis_v2_20261022/Saved_Contract_Diagnosis.json",
+    "sha256": "5a82732ba3a654bc84886a73f6895ed86b4d9ae9013e7a04acf2aad7270e36a0",
+    "exact_current_and_old_nonresult_inputs": true,
+    "pandapower_version": "3.4.0 both",
+    "angle_and_other_resolved_options": "EXACT_MATCH",
+    "only_resolved_difference": {
+      "max_iteration": {
+        "old": 50,
+        "new": 80
+      }
+    },
+    "old_saved_final_Newton_iterations": 4,
+    "missing_evidence": "Every earlier generator-Q-limit Newton pass and its convergence/termination history were not retained; final four iterations alone cannot certify equivalence under50versus80.",
+    "reuse_gate": "UNKNOWN_NO_CHANGED_CONTRACT_REUSE_OR_REPEATED_PF_AUTHORIZED_BY_THIS_DIAGNOSIS",
+    "failed_v1_locator_preserved": "outputs/r118_saved_solver_contract_diagnosis_20261022/Failure.json"
+  },
+  "new_PF_model_optimizer_converter_derivative_factor_solve_calls": 0,
+  "closure_workflow_seconds": 2.172000000020489
+}
