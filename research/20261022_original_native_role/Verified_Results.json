@@ -1,0 +1,144 @@
+{
+  "at_utc": "2026-10-22T03:56:51.045656+00:00",
+  "status": "COMPLETE_ALL4_ORIGINAL_NATIVE_ROLE_PROPOSALS_AND_PAID_EVIDENCE_DISPOSITIONS",
+  "independent_model_gate": "PASS_LIMITED_NATIVE_ROLE_READINESS",
+  "actual_model_costs": {
+    "model_load_attempts": 2,
+    "model_load_returns": 2,
+    "query_attempts": 8,
+    "query_returns": 8,
+    "generation_attempts": 12,
+    "generation_returns": 12,
+    "pretrained_forward_attempts": 234,
+    "pretrained_forward_returns": 234,
+    "generated_token_count": 234,
+    "PF_optimizer_backward_training_calls": 0
+  },
+  "all_primary_proposals": [
+    {
+      "root": "L1",
+      "arm": "lora",
+      "original_source_valid": true,
+      "original_source_action": {
+        "add_shunts_q_mvar": {
+          "12": 50.0
+        }
+      },
+      "reprompted": true,
+      "actual_generation_calls": 2,
+      "physically_verified": false,
+      "UV_after": "UNKNOWN_NO_NEW_PHYSICAL_ACTION",
+      "matched_paid_physical_candidate": "UNKNOWN_MISSING_PAID_ROOT_QUERY",
+      "new_actual_commit_or_episode": false,
+      "new_PF_calls": 0
+    },
+    {
+      "root": "L2",
+      "arm": "lora",
+      "original_source_valid": true,
+      "original_source_action": {
+        "add_shunts_q_mvar": {
+          "12": 50.0
+        }
+      },
+      "reprompted": true,
+      "actual_generation_calls": 2,
+      "physically_verified": false,
+      "UV_after": "UNKNOWN_NO_NEW_PHYSICAL_ACTION",
+      "matched_paid_physical_candidate": "BOUND_EXACT_EXISTING_NATIVE_ROOT_QUERY",
+      "new_actual_commit_or_episode": false,
+      "new_PF_calls": 0,
+      "initial_UV": 46,
+      "candidate_UV": 44,
+      "initial_OV_strict": 1,
+      "candidate_OV_strict": 1,
+      "candidate_minVm": 0.8248193358166508,
+      "candidate_maxVm": 1.0500000000000003,
+      "original_native_verifier_accepted": true,
+      "original_verifier_reason": "ACCEPTED",
+      "normal_upper_tolerance_admissible": true,
+      "strict_normal_band_restored": false,
+      "prior_actual_PF_seconds": 0.05695919995196164,
+      "receipt": {
+        "manifest_sha256": "784afec11050987b36d3796dcdf2faa8030419037466055412f320abc915dbf2",
+        "payload_sha256": "ece2bd59e26721232369e87c0978a326f3459ec6229ff66e4308f4bce8fa04e0",
+        "relative": "capsules/trial_000012"
+      }
+    },
+    {
+      "root": "L1",
+      "arm": "base_disabled",
+      "original_source_valid": true,
+      "original_source_action": {
+        "add_shunts_q_mvar": {
+          "20": 25.0
+        }
+      },
+      "reprompted": false,
+      "actual_generation_calls": 1,
+      "physically_verified": false,
+      "UV_after": "UNKNOWN_NO_NEW_PHYSICAL_ACTION",
+      "matched_paid_physical_candidate": "BOUND_EXACT_EXISTING_NATIVE_ROOT_QUERY",
+      "new_actual_commit_or_episode": false,
+      "new_PF_calls": 0,
+      "initial_UV": 20,
+      "candidate_UV": 16,
+      "initial_OV_strict": 1,
+      "candidate_OV_strict": 0,
+      "candidate_minVm": 0.8813294735483186,
+      "candidate_maxVm": 1.05,
+      "original_native_verifier_accepted": true,
+      "original_verifier_reason": "ACCEPTED",
+      "normal_upper_tolerance_admissible": true,
+      "strict_normal_band_restored": false,
+      "prior_actual_PF_seconds": 0.055633499985560775,
+      "receipt": {
+        "manifest_sha256": "cdbf32aac0bb490e0b1b76f5e261a3b9f8ac7b23dfeb8c74b4fbd2c78dd7e95c",
+        "payload_sha256": "86cee0e7683b0ff4af305d5d668837c0d068c0250c28bc99299ad70a971ffa00",
+        "relative": "capsules/trial_000020"
+      }
+    },
+    {
+      "root": "L2",
+      "arm": "base_disabled",
+      "original_source_valid": true,
+      "original_source_action": {
+        "add_shunts_q_mvar": {
+          "20": 150.0
+        }
+      },
+      "reprompted": false,
+      "actual_generation_calls": 1,
+      "physically_verified": false,
+      "UV_after": "UNKNOWN_NO_NEW_PHYSICAL_ACTION",
+      "matched_paid_physical_candidate": "BOUND_EXACT_EXISTING_NATIVE_ROOT_QUERY",
+      "new_actual_commit_or_episode": false,
+      "new_PF_calls": 0,
+      "initial_UV": 46,
+      "candidate_UV": 39,
+      "initial_OV_strict": 1,
+      "candidate_OV_strict": 3,
+      "candidate_minVm": 0.8236183953984973,
+      "candidate_maxVm": 1.1456680402983759,
+      "original_native_verifier_accepted": false,
+      "original_verifier_reason": "hard_overvoltage",
+      "normal_upper_tolerance_admissible": false,
+      "strict_normal_band_restored": false,
+      "prior_actual_PF_seconds": 0.06446830020286143,
+      "receipt": {
+        "manifest_sha256": "da08cdd9d548d2a46f25034d68f36a6394a0b36e805c9e78d80b540bfb5fd2be",
+        "payload_sha256": "7d82656d67b2669a67025fe4d435380424123795a05647bfdd3bf13cbba52270",
+        "relative": "capsules/trial_000052"
+      }
+    }
+  ],
+  "missing_action_receipts_unknown_not_failed_or_filled": true,
+  "source_native1_06_verifier_vs_normal1_05_band_explicit": true,
+  "same_state_lora_vs_base_not_a_trajectory_superiority_test": true,
+  "new_actual_physical_commit_or_full_v4_run": false,
+  "new_model_PF_optimizer_training_calls_by_this_analysis": 0,
+  "original137_and_full203_external_comparison": "UNACHIEVED",
+  "model_audit_sha256": "dfe399be71a1d285084ae9cc93f7472af4a960d4ed3c64c892b133eedbd4bbde",
+  "paid_inventory_sha256": "a6bd0673850ae03d6323c5a2713d069de517ba52f4a74fd92d59f3fd7126d470",
+  "source_sha256": "69944eb418dc7972aed149d1cddcb7a722a73d338cad459f751b62836a7100e8"
+}

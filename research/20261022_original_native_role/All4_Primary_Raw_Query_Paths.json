@@ -1,0 +1,60 @@
+[
+  {
+    "arm": "lora",
+    "root": "L1",
+    "raw_outputs_in_order": [
+      "{\"bus\":\"20\",\"q_mvar\":0}",
+      "{\"bus\":\"12\",\"q_mvar\":50}"
+    ],
+    "final_original_source_valid": true,
+    "original_action": {
+      "add_shunts_q_mvar": {
+        "12": 50.0
+      }
+    },
+    "reprompted": true
+  },
+  {
+    "arm": "lora",
+    "root": "L2",
+    "raw_outputs_in_order": [
+      "{\"bus\":\"20\",\"q_mvar\":0}",
+      "{\"bus\":\"12\",\"q_mvar\":50}"
+    ],
+    "final_original_source_valid": true,
+    "original_action": {
+      "add_shunts_q_mvar": {
+        "12": 50.0
+      }
+    },
+    "reprompted": true
+  },
+  {
+    "arm": "base_disabled",
+    "root": "L1",
+    "raw_outputs_in_order": [
+      "```json\n{\n  \"bus\": \"20\",\n  \"q_mvar\": 0.9347917811653003\n}\n```"
+    ],
+    "final_original_source_valid": true,
+    "original_action": {
+      "add_shunts_q_mvar": {
+        "20": 25.0
+      }
+    },
+    "reprompted": false
+  },
+  {
+    "arm": "base_disabled",
+    "root": "L2",
+    "raw_outputs_in_order": [
+      "{\n  \"bus\": \"20\",\n  \"q_mvar\": 150\n}"
+    ],
+    "final_original_source_valid": true,
+    "original_action": {
+      "add_shunts_q_mvar": {
+        "20": 150.0
+      }
+    },
+    "reprompted": false
+  }
+]

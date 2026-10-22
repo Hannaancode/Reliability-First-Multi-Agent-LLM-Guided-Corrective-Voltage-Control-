@@ -1,0 +1,98 @@
+{
+  "at_utc": "2026-10-22T04:07:20.621772+00:00",
+  "status": "MODEL_NATIVE_ROLE_GATE_COMPLETE_FULL_COMPARISON_STILL_OPEN",
+  "all6goals": "OPEN",
+  "current_owner": null,
+  "current_GPU_assignments": 0,
+  "timers": [],
+  "completed": {
+    "source_order_paid_development_roots": [
+      "L1",
+      "L2"
+    ],
+    "initial_UV": [
+      20,
+      46
+    ],
+    "prefix_tokens": [
+      1274,
+      1972
+    ],
+    "original_FIRST_ZONE_only": true,
+    "model_protocol": "outputs/original_reflection_saved_root_preparation_v2_20261022/Frozen_Engineering_Protocol.json",
+    "model_protocol_sha256": "3e0524865f6142f07e94146a46a8f7bd5cc6eee1ad3663547d5ab90c8f423768",
+    "actual_gpu": "One selected original-account T4 allocated once, used, released",
+    "actual_costs": {
+      "model_load_attempts": 2,
+      "model_load_returns": 2,
+      "query_attempts": 8,
+      "query_returns": 8,
+      "generation_attempts": 12,
+      "generation_returns": 12,
+      "pretrained_forward_attempts": 234,
+      "pretrained_forward_returns": 234,
+      "generated_token_count": 234,
+      "PF_optimizer_backward_training_calls": 0
+    },
+    "scientific_workflow_seconds": 129.99955289500002,
+    "primary_whole_owner_seconds": 320.10899999999674,
+    "reader_whole_owner_seconds": 13.485000000044238,
+    "peak_allocated_bytes": {
+      "primary": 1158896128,
+      "cold": 1732376576
+    },
+    "fresh_load_same_query_paths_and_all_tokens_exact": true,
+    "source_original_native_parser_and_conditional_reprompt_AST_unchanged": true,
+    "modern_token_container_compatibility": "v1 blocked before model/allocation; v2 exact Tensor view preserves all input IDs/masks. No prompt/decoder/weight/physics change.",
+    "base_same_quantized_weights_adapter_disabled_verified": true,
+    "native_paid_query_inventory": {
+      "all_legal_FIRST_ZONE_identities": 144,
+      "exact_existing_receipts": 99,
+      "unknown": 45
+    },
+    "no_new_PF_optimizer_derivative_or_training": true,
+    "not_full203_case_closure_or_full137_paper_reconstruction": true
+  },
+  "adverse_and_limits": {
+    "original_lora_first_reply_invalid_q_zero_both_roots": true,
+    "final_validity_depends_on_existing_native_conditional_reprompt": true,
+    "base_L1_raw_small_positive_Q_snapped_to25_by_original_normalizer": true,
+    "no_new_normalizer_repair_invented": true,
+    "both_LoRA_final_proposals_same_bus12Q50": true,
+    "constant_bus12Q50_is_required_diagnostic_control_not_a_language_advantage": true,
+    "base_L2_saved_candidate46to39_unsafe_maxVm": 1.1456680402983759,
+    "LoRA_L2_saved_candidate46to44_original_accepted": true,
+    "LoRA_L1_candidate_physical_result": "UNKNOWN_MISSING_PAID_RECEIPT",
+    "candidate_returns_are_not_actual_new_commits_or_complete_trajectories": true,
+    "strict_OV_roundoff_counts_retained_no_rounding": true,
+    "source_native1_06_and_common1_05_guards_not_conflated": true,
+    "old_L2_scientific_study_was_partial_no_new_independent_full_physics_claim": true,
+    "these_two_inputs_are_inspected_development_not_unused_confirmation": true,
+    "no_90percent_confidence_LLM_DSE_external_or_novelty_claim": true
+  },
+  "next_ordered_tasks": [
+    "Do not restart any model owner/reader or allocate another GPU for the same inputs; actual source/claims/results are terminal and closed.",
+    "Close relevant full physical-attempt history for ALL45 missing native FIRST_ZONE identities. Current inventory alone is not universal never-executed proof. Include old source-order branches, cached probes and later lineages; retain unknowns.",
+    "Only if genuinely unexecuted scope/source/ownership/preservation/cold/reader/cost gates pass, separately freeze an ALL45 missing-only physical measurement and first replay. Never select just the LoRA-favourable action, repeat old queries, or extend old budgets.",
+    "Complete causal original four-zone queries using actual current paid verifier feedback. FIRST_ZONE success does not permit empty feedback for later zones, free receipts, fabricated continuations or automatic full rollout.",
+    "Complete source-bound full25step model-query/refinement/commit/cursor/RNG/cost preservation and independent continuous replay before full-system testing.",
+    "Resolve external-method native118 training/source/action compatibility. The two recovered roots are additional fixed8study states, not closure of the registered203 originals.",
+    "Common-role controls must have equal physical access: exact native DFF vs LLM candidate pools differ. Keep unmodified originals as fidelity rows, explicitly name any common-union adaptation and preserve literal D-SE/fullBOTH costs.",
+    "Full fixed cohorts and unused authorized confirmation precede superiority; preserve public13 missing441 and all stopped/adverse/UNKNOWN branches as secondary pending work."
+  ],
+  "actual_primary_ended": {
+    "actual_pid": 15932,
+    "launcher_pid": 21832,
+    "exit_code": 0,
+    "actual_owned_chain_ended": true,
+    "elapsed_seconds": 320.10899999999674
+  },
+  "actual_reader_ended": {
+    "actual_pid": 7816,
+    "launcher_pid": 10036,
+    "exit_code": 0,
+    "actual_owned_chain_ended": true,
+    "elapsed_seconds": 13.485000000044238
+  },
+  "source_resumption": "outputs/original_reflection_native_role_handoff_20261022/Current_Resume.json"
+}
