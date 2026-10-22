@@ -1,0 +1,54 @@
+{
+  "at_utc": "2026-10-22T09:03:33.091530+00:00",
+  "status": "ORIGINAL_MODEL_SOURCE_NATIVE_FULL_CONTROLLER_ACTUALLY_RUNNING",
+  "actual_host_pid": 28316,
+  "host_parent_pid": 10172,
+  "actual_coordinator_pid": 13912,
+  "coordinator_parent_pid": 28076,
+  "actual_local_controller": {
+    "actual_pid": 6632,
+    "parent_pid": 6728,
+    "source_sha256": "26391eec6241c6f92299fd3c32280ecae446764936b251ff9c01c897db82a142"
+  },
+  "exec_session": 55078,
+  "actual_host_snapshot": {
+    "stage": "fixed_pair_with_acknowledged_preservation",
+    "science_started": true,
+    "runtime_allocated": true,
+    "runtime_released": false,
+    "actual_preserved_packages": 51,
+    "local_started_unix": 1792658397.7870142,
+    "updated_at_utc": "2026-10-22T09:03:30.304472+00:00"
+  },
+  "actual_engineering_first_commit_gate": {
+    "status": "PASS_FULL_ACTUAL_CONTROLLER_FEEDBACK_HISTORY_NET_RNG_FIRST_COMMIT",
+    "cached_primary_PF_calls": 41,
+    "cached_actual_model_calls": 7,
+    "new_PF_model_calls": 0
+  },
+  "scope": "Actual first commitment checkpoint, not independent physics audit or a complete UV performance result.",
+  "completed_native_branches_at_snapshot": 0,
+  "last_verified_GitHub": "f9f423d20dd1b1d5e691d6d553832f8a8a9675d0",
+  "last_verified_remote_bytes": 7,
+  "one_estimated_waiting_check": {
+    "id": "hiergrid-chronological118-result-check",
+    "local_time": "22October12:40PMAsia/Qatar",
+    "one_occurrence": true,
+    "only_rearm_if_confirmed_live_sole_dependency_and_no_useful_parallel_task": true,
+    "delete_at_actual_terminal": true
+  },
+  "parallel_completed": {
+    "author_source_intake": "outputs/published_voltage_source_intake_20261022/Result.json",
+    "source_contracts": "outputs/published_voltage_common118_design_20261022/Source_Contract_And_Execution_Decision.json",
+    "common_action_port": "outputs/federation_common_absolute_shunt_role_20261022/Independent_Action_Correspondence.json"
+  },
+  "next": [
+    "Actual sole source/physics/cost reader after current owners release/preserve/end; never restart or duplicate.",
+    "Assess complete8branch native fixed gate only from independent closure; partial all4 comparisonsUNKNOWN.",
+    "Design strong genuine common-task DQN training/environment on frozen TRAIN/VAL/unused TEST and same role/physics/cost; current action software alone is not training readiness.",
+    "Original full literalDSE/strong numeric/base/constant controls and wider identical cohort remain required before any publishable all-method claim."
+  ],
+  "all6_final_goals": "OPEN",
+  "frozen_original_assets_unchanged": true,
+  "cost_interpretation": "Logical original query counts and actual new/reused science, old data/preparation/model/training/shared setup/transfer/failure costs must all remain explicit. Old unrecovered training or standalone timing is UNKNOWN/notfree, never claimed deployment efficiency."
+}

@@ -1,0 +1,10 @@
+{
+  "status": "COMPLETE_PINNED_AUTHOR_SOURCE_INTAKE_ONLY",
+  "repositories_complete": 4,
+  "selected_files": 60,
+  "selected_bytes": 540752,
+  "HTTP_attempts": 72,
+  "new_PF_model_training_or_GPU_calls": 0,
+  "not_performance_or_transfer_readiness": true,
+  "workflow_seconds": 41.04699999996228
+}

@@ -1,0 +1,32 @@
+{
+  "status": "PASS_EXHAUSTIVE_ABSOLUTE_TARGET_TO_ORIGINAL_NATIVE_INCREMENT_CORRESPONDENCE",
+  "source_sha256": "ea2f2955ccb936861bf9191253de9e73e6c0202caa3fa42adc8b5830d898ae56",
+  "scalar_pairs_checked": 14160,
+  "full_action_classes_including_explicit_stop": 2125,
+  "all4_real_root_checks": [
+    {
+      "case_id": "fed_combined_load_1p5_line_35_MG1",
+      "all1062positive_initial_native_actions_bijective": true,
+      "pure_apply_checks": 3
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_36_MG1",
+      "all1062positive_initial_native_actions_bijective": true,
+      "pure_apply_checks": 3
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "all1062positive_initial_native_actions_bijective": true,
+      "pure_apply_checks": 3
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_127_MG3",
+      "all1062positive_initial_native_actions_bijective": true,
+      "pure_apply_checks": 3
+    }
+  ],
+  "new_PF_model_training_calls": 0,
+  "not_a_trained_model_or_ready_performance_campaign": true,
+  "important_scope": "Caller must bind identical actual allowed buses/raw protection/history/budget for all methods. Full118catalog is a named common-task port; it does not silently replace original paper candidate pruning.",
+  "workflow_seconds": 0.5963460999773815
+}

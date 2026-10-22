@@ -1,0 +1,167 @@
+{
+  "at_utc": "2026-10-22T08:54:38.131306+00:00",
+  "status": "PINNED_SOURCE_CONTRACTS_AND_COMMON_ACTUATOR_PORT_DESIGN_ONLY",
+  "repositories": {
+    "blthayer/drl-powerworld": "b265dc2e43f2e723f5d6e0aad7ba4946880efa53",
+    "blthayer/gym-powerworld": "d776a67939ef5b239a2148b9949b25a50a25d350",
+    "RWTH-IAEW/RRL-voltage-control": "f114e3602f67e02c5c989d109aa386249478643f",
+    "RWTH-IAEW/voltage-control-env": "4fbfd6c2957e6915d7223a73bafd8e6155408d24"
+  },
+  "actual_root_devices": [
+    {
+      "case_id": "fed_combined_load_1p5_line_35_MG1",
+      "buses": 118,
+      "generators": 53,
+      "static_PV_sgens": 8,
+      "existing_shunts": 14
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_36_MG1",
+      "buses": 118,
+      "generators": 53,
+      "static_PV_sgens": 8,
+      "existing_shunts": 14
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "buses": 118,
+      "generators": 53,
+      "static_PV_sgens": 8,
+      "existing_shunts": 14
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_127_MG3",
+      "buses": 118,
+      "generators": 53,
+      "static_PV_sgens": 8,
+      "existing_shunts": 14
+    }
+  ],
+  "source_evidence": {
+    "unique_DQN": {
+      "path": "outputs/published_voltage_source_intake_20261022/blthayer__drl-powerworld/source/experiments/dqn_mod.py",
+      "sha256": "9e26deb4b0abe4ef8cd808901a584468955f8b9b7efeb8f716024c2733518373",
+      "line_anchors": [
+        {
+          "needle": "class DQNUniqueActions",
+          "line": 36
+        },
+        {
+          "needle": "import tensorflow as tf",
+          "line": 21
+        },
+        {
+          "needle": "action_list = list()",
+          "line": 81
+        }
+      ]
+    },
+    "graph": {
+      "path": "outputs/published_voltage_source_intake_20261022/blthayer__drl-powerworld/source/experiments/compare_agents.py",
+      "sha256": "2390a5c8aa336a8e9113daf37999ffd999bc51fd40c4bea36ec2553149fec92b",
+      "line_anchors": [
+        {
+          "needle": "class GraphAgent",
+          "line": 181
+        },
+        {
+          "needle": "def _get_shunt_action",
+          "line": 294
+        },
+        {
+          "needle": "def _get_gen_action",
+          "line": 330
+        }
+      ]
+    },
+    "simulator": {
+      "path": "outputs/published_voltage_source_intake_20261022/blthayer__gym-powerworld/source/gym_powerworld/envs/voltage_control_env.py",
+      "sha256": "7dda08ba8c6d8f6e23f79fabdb6499c555feaba8f8ab7038dbfa321af27769e8",
+      "line_anchors": [
+        {
+          "needle": "from esa import SAW",
+          "line": 7
+        },
+        {
+          "needle": "pwb_path",
+          "line": 351
+        }
+      ]
+    },
+    "RRL_config": {
+      "path": "outputs/published_voltage_source_intake_20261022/RWTH-IAEW__RRL-voltage-control/source/src/configs.py",
+      "sha256": "75e23a74cc2ca6dbc68214de075ceadef03e63d240ed5258acfc9a1866beb2aa",
+      "line_anchors": [
+        {
+          "needle": "'number_steps': 900000",
+          "line": 27
+        },
+        {
+          "needle": "'type': SACTrainer",
+          "line": 23
+        },
+        {
+          "needle": "1-LV-rural3-minQmaxP-augmented-curtail_cleaned.p",
+          "line": 39
+        }
+      ]
+    },
+    "RRL_droop": {
+      "path": "outputs/published_voltage_source_intake_20261022/RWTH-IAEW__RRL-voltage-control/source/src/custom_envs/voltage_control/controller.py",
+      "sha256": "2da3a8cabfc3887a55b676b41125ac25e61df00444bd99372d4961ce30ca68aa",
+      "line_anchors": [
+        {
+          "needle": "class DroopControl",
+          "line": 7
+        },
+        {
+          "needle": "class CentralizedDroopController",
+          "line": 58
+        }
+      ]
+    },
+    "PV_device": {
+      "path": "outputs/published_voltage_source_intake_20261022/RWTH-IAEW__voltage-control-env/source/src/voltage_control_env/env_utils.py",
+      "sha256": "7a00867cd78893e749b45c16c6823d2dc9c75f37d54d76f31afaf4724d64add1",
+      "line_anchors": [
+        {
+          "needle": "self.ctrl_sgen_indices",
+          "line": 36
+        },
+        {
+          "needle": "self.net.sgen",
+          "line": 61
+        }
+      ]
+    }
+  },
+  "families": [
+    {
+      "family": "Thayer/Overbye transmission DQN and unique-action DQN; graph agent",
+      "primary_paper": "https://arxiv.org/abs/2006.06728",
+      "author_repository": "https://github.com/blthayer/drl-powerworld",
+      "native_role": "PowerWorld generator voltage setpoints and existing binary switched capacitors; graph agent uses reactive proximity and available devices.",
+      "direct_original118_shunt_admission": "NOT_SOURCE_EQUIVALENT. Original paper model adds25..300MVAr positive shunts at chosen buses,450owned-cap; author setpoint/switch actions differ.",
+      "trained118common_task_checkpoint": "NOT_CERTIFIED. Source code existence is not a trained compatible policy.",
+      "next": "Implement separately named common-task dueling/Double-DQN + original unique-idempotent-target logic with genuine controlled training, full state/checkpoint/cost gates. Preserve native/source-fidelity rows separately."
+    },
+    {
+      "family": "Bouchkati et al.2025 residual SAC and SAC voltage control",
+      "author_repository": "https://github.com/RWTH-IAEW/RRL-voltage-control",
+      "native_role": "Partially observed PV inverter P/Q setpoints with droop residual; published config uses a low-voltage feeder,900000training steps.",
+      "direct_original118_shunt_admission": "NOT_SOURCE_EQUIVALENT. Actual four federation roots have no staticPV sgen devices; generator and shunt tables are distinct. Do not manufacture PV devices or score invalid raw outputs as method losses.",
+      "trained118common_task_checkpoint": "NOT_CERTIFIED. A discrete categorical/SAC actuator conversion changes the method and must be named/evaluated as an adaptation."
+    }
+  ],
+  "new_common_action_port": {
+    "source": "work/federation_absolute_shunt_role_20261022.py",
+    "gate": "outputs/federation_common_absolute_shunt_role_20261022/Independent_Action_Correspondence.json",
+    "why": "Published unique-actions logic assumes idempotent setpoints. Treating repeated positive increments as the same action would incorrectly forbid additional useful banks. Encode absolute owned-Q targets and translate to the exact allowed increment.",
+    "actual_gate": "14160exhaustive stock/action pairs and12actual original apply-only checks on4roots passed,0PF/model/training.",
+    "role_only_not_complete_environment": "Actual allowed-bus scope, observations, native/common protection, committed trajectories, rewards, strong same-information controls and paid environment/source-history must still be bound.",
+    "training_plan_constraints": "Freeze genuine TRAIN/VAL/unused TEST exact states and world clusters before reward data. Published training counts/architecture and any resource-limited budget differences disclosed. No underspecified or zero-shot foreign checkpoint counted beaten. No tuning from TEST, no fixed existing LoRA rescue without separate justified method."
+  },
+  "runtime_performance": "PENDING_CURRENT_ORIGINAL_NATIVE_STUDY_AND_SEPARATE_ADMITTED_EXTERNAL_PORTS",
+  "new_PF_model_training_GPU_calls": 0,
+  "no_superiority_from_bus_count_or_source_intake": true
+}
