@@ -1,0 +1,186 @@
+{
+  "at_utc": "2026-10-23T07:54:27.414468+00:00",
+  "archive_bytes": 46603,
+  "archive_sha256": "1b526183b30b6be45e9449dba2ac62c0ea46cec5939e96ff7e30536714275cd9",
+  "archive_members": 23,
+  "all_CRC_member_bytes_checked": true,
+  "source_files": [
+    {
+      "name": "own_source/native_solver_input_identity_20261023.py",
+      "local_source": "work/native_solver_input_identity_20261023.py",
+      "local_source_sha256": "40823918ad7e56a7d01163f613fd25d766a920f6e369f81e1c27fd318435ffcd",
+      "public_sha256": "40823918ad7e56a7d01163f613fd25d766a920f6e369f81e1c27fd318435ffcd",
+      "public_bytes": 3268,
+      "account_emails_only_redacted": false
+    },
+    {
+      "name": "own_source/native_solver_input_identity_v2_20261023.py",
+      "local_source": "work/native_solver_input_identity_v2_20261023.py",
+      "local_source_sha256": "5366a6a3ab56bac0b9de09dac208c56f78d195eb345712e131a5daaec16e84b5",
+      "public_sha256": "5366a6a3ab56bac0b9de09dac208c56f78d195eb345712e131a5daaec16e84b5",
+      "public_bytes": 2442,
+      "account_emails_only_redacted": false
+    },
+    {
+      "name": "own_source/native_solver_input_identity_v3_20261023.py",
+      "local_source": "work/native_solver_input_identity_v3_20261023.py",
+      "local_source_sha256": "2ba5590354141cc5279ee8d1e27ee553bba0c814871076b7119e774857e79747",
+      "public_sha256": "616559e12c54872c08c9c50ea902c6095e5f64acc34aca5aefbc2eaca63edb37",
+      "public_bytes": 2491,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "own_source/check_exact_dff_shunt_partition_receipt_20261023.py",
+      "local_source": "work/check_exact_dff_shunt_partition_receipt_20261023.py",
+      "local_source_sha256": "1a967c5ebb7d7941052a4da4232058bf8eeb4aeaef91136f4d17b5a5a94a42c9",
+      "public_sha256": "1a967c5ebb7d7941052a4da4232058bf8eeb4aeaef91136f4d17b5a5a94a42c9",
+      "public_bytes": 6001,
+      "account_emails_only_redacted": false
+    },
+    {
+      "name": "own_source/check_exact_dff_shunt_partition_receipt_v2_20261023.py",
+      "local_source": "work/check_exact_dff_shunt_partition_receipt_v2_20261023.py",
+      "local_source_sha256": "d3bd86b9cbaaab03c0c2bbdc3ee9418b606f660fd537f015868dc68f3d43658b",
+      "public_sha256": "c2052cbfda9b921f4c78664acf64192e38e5cc3672f49a6ab4b453cdcba63b37",
+      "public_bytes": 6010,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "own_source/audit_exact_shunt_partition_receipt_20261023.py",
+      "local_source": "work/audit_exact_shunt_partition_receipt_20261023.py",
+      "local_source_sha256": "2683ccf43d8049677bb15158fc457be28940641daff0dd7bb9d3bee382fa2bf2",
+      "public_sha256": "2683ccf43d8049677bb15158fc457be28940641daff0dd7bb9d3bee382fa2bf2",
+      "public_bytes": 5202,
+      "account_emails_only_redacted": false
+    },
+    {
+      "name": "own_source/audit_exact_shunt_partition_receipt_v2_20261023.py",
+      "local_source": "work/audit_exact_shunt_partition_receipt_v2_20261023.py",
+      "local_source_sha256": "d93b8b60031aa08f18b2bfd96f1e1ab78d64bcfd147132bfae8a63fe3ab1e020",
+      "public_sha256": "5b23466085e5cb830f1cc4aa569659c5a9c5b86fa8c3256c25802637b3e8988d",
+      "public_bytes": 5203,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "own_source/r118_dff_partition_core_20261023.py",
+      "local_source": "work/r118_dff_partition_core_20261023.py",
+      "local_source_sha256": "c1a90765f4401065a6eae21e143cb084365bf32d929b3dad45de9efd5ccb3633",
+      "public_sha256": "c1a90765f4401065a6eae21e143cb084365bf32d929b3dad45de9efd5ccb3633",
+      "public_bytes": 5204,
+      "account_emails_only_redacted": false
+    },
+    {
+      "name": "own_source/audit_solver_input_identity_receipts_20261023.py",
+      "local_source": "work/audit_solver_input_identity_receipts_20261023.py",
+      "local_source_sha256": "ed458a0fe45365aca72e641911b35d8c08400f40e693346973f7abb09fb621d3",
+      "public_sha256": "ed458a0fe45365aca72e641911b35d8c08400f40e693346973f7abb09fb621d3",
+      "public_bytes": 2250,
+      "account_emails_only_redacted": false
+    },
+    {
+      "name": "own_source/prepare_r118_dff_partition_continuation_20261023.py",
+      "local_source": "work/prepare_r118_dff_partition_continuation_20261023.py",
+      "local_source_sha256": "ff8bc5e4507807863e0664c547bd21cba64a7e5d5dae1da8da03cffbe5e27043",
+      "public_sha256": "ff8bc5e4507807863e0664c547bd21cba64a7e5d5dae1da8da03cffbe5e27043",
+      "public_bytes": 9010,
+      "account_emails_only_redacted": false
+    },
+    {
+      "name": "own_source/run_r118_dff_partition_continuation_20261023.py",
+      "local_source": "work/run_r118_dff_partition_continuation_20261023.py",
+      "local_source_sha256": "0448a9fc370a9b05c8727c9802aec0b19a390fb36de6491d41711d7d6160187a",
+      "public_sha256": "d505fa471d46ab1515221e33047f0262333632169d071cb05ee2381e21cd6376",
+      "public_bytes": 8413,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "own_source/audit_r118_dff_partition_continuation_20261023.py",
+      "local_source": "work/audit_r118_dff_partition_continuation_20261023.py",
+      "local_source_sha256": "45bc7c5fbd4bbd075c69671aa11c6d0aeaa118cc79eb9b036d9c7b31fabba5fc",
+      "public_sha256": "5d89de0d44ae91b0898a25444841d23bb8e89e70004970a3c2d6e0a0fbdc10c1",
+      "public_bytes": 7919,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "own_source/coordinate_r118_dff_partition_continuation_20261023.py",
+      "local_source": "work/coordinate_r118_dff_partition_continuation_20261023.py",
+      "local_source_sha256": "774bacfa41b78da02346a5b431a6fa1152be54a7e61c06a6e4b9c3741e403ad5",
+      "public_sha256": "ae071d86225cffd084c624e76e5899dbba48d202f10cae1cb30a68c29c6ac2d8",
+      "public_bytes": 1539,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "own_source/record_partition_resume_and_benchmark_addendum_20261023.py",
+      "local_source": "work/record_partition_resume_and_benchmark_addendum_20261023.py",
+      "local_source_sha256": "abba8dd6be6f81466796edb7420b29bbe4e3820c48fd6cd0e772817fe78f3747",
+      "public_sha256": "abba8dd6be6f81466796edb7420b29bbe4e3820c48fd6cd0e772817fe78f3747",
+      "public_bytes": 9595,
+      "account_emails_only_redacted": false
+    },
+    {
+      "name": "new_continuation/Protocol.json",
+      "local_source": "outputs/r118_dff_partition_continuation_preparation_20261023/Protocol.json",
+      "local_source_sha256": "ffb413b7002257e0cb6650fb58fe21ecf9ff79aa3b85dcddb72b2afa5b4e2d1d",
+      "public_sha256": "ddd4a7a278f9745c0c93941fe12374e2566d2b47c4babd7db0208fa45c0437d3",
+      "public_bytes": 12168,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "new_continuation/Readiness.json",
+      "local_source": "outputs/r118_dff_partition_continuation_preparation_20261023/Readiness.json",
+      "local_source_sha256": "62e9be6d68241f268a71b65a4660f101c6d5fe71764547a45bfb95bad6e210d9",
+      "public_sha256": "4bd732ff6337a41f28a17e7fed3f785d2e37c352d20380f039bfe3abf1e2844f",
+      "public_bytes": 1008,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "proofs/r118_dff_missing_continuation_independent_20261023/Independent_Audit.json",
+      "local_source": "outputs/r118_dff_missing_continuation_independent_20261023/Independent_Audit.json",
+      "local_source_sha256": "4fe74dcbafa7f26f6c674ade1824f7a0d48295dad11bf394dede705580792e57",
+      "public_sha256": "d2e6428ca0ceb20aa040967eaa3efe0b74f1af75d5e01a8013e0f9e8c5044547",
+      "public_bytes": 923,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "proofs/r118_exact_shunt_partition_receipt_v2_20261023/Result.json",
+      "local_source": "outputs/r118_exact_shunt_partition_receipt_v2_20261023/Result.json",
+      "local_source_sha256": "28067b8f19ff82fe9f56ec6bd187db3dba7ffd43585ef39f112db8d7ff7eb285",
+      "public_sha256": "8289abb0117d4f8b7e9503f1057a034bcb8afd792d163df960fb63e5216664e4",
+      "public_bytes": 1416,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "proofs/r118_exact_shunt_partition_receipt_independent_v2_20261023/Independent_Audit.json",
+      "local_source": "outputs/r118_exact_shunt_partition_receipt_independent_v2_20261023/Independent_Audit.json",
+      "local_source_sha256": "c34a4925086e927089ec22b2b69e9578394e7887487b689a2193c583bf66f3cf",
+      "public_sha256": "123c8f56c37032b5d1e213b420df4d1b95bb971425ce18c460f97e599feec2ab",
+      "public_bytes": 1220,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "proofs/r118_exact_shunt_partition_receipt_20261023/Actual_Preparation_Cost_And_Return_Capture_Diagnosis.json",
+      "local_source": "outputs/r118_exact_shunt_partition_receipt_20261023/Actual_Preparation_Cost_And_Return_Capture_Diagnosis.json",
+      "local_source_sha256": "e4d595c15c19360f46f2dd07fe17407bac62972ad0fddcf00af34160b4c297a3",
+      "public_sha256": "c4daef4a3e919cab125f76bf94148487f8067370ec07ae2beb0daedf660d9908",
+      "public_bytes": 689,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "proofs/r118_exact_shunt_partition_receipt_independent_20261023/Failure.json",
+      "local_source": "outputs/r118_exact_shunt_partition_receipt_independent_20261023/Failure.json",
+      "local_source_sha256": "1ab464aa300356ea6ac8557f8b7c08bb0356eb9c7f8e012c0ba1d18520f0f6f0",
+      "public_sha256": "97ea5e07f792e9b54a560732321f524902c9b4feabe74e1f6a6fcea01d092d11",
+      "public_bytes": 313,
+      "account_emails_only_redacted": true
+    },
+    {
+      "name": "proofs/published118_focused_comparator_addendum_20261023/Primary_Source_Addendum.json",
+      "local_source": "outputs/published118_focused_comparator_addendum_20261023/Primary_Source_Addendum.json",
+      "local_source_sha256": "68a2383d4087113ad71a5c5edc9864ce0219f1913e57ae2e3835f27cd23cdf92",
+      "public_sha256": "7c37ca089eb09756be9e091f287d8a645ee4d8d022bda3142fe17b0e41a20500",
+      "public_bytes": 1907,
+      "account_emails_only_redacted": true
+    }
+  ],
+  "raw_NETs_private_weights_and_third_party_sources_local_only": true
+}

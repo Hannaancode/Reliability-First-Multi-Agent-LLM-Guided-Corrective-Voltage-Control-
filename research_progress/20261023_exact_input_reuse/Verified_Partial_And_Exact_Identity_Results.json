@@ -1,0 +1,84 @@
+{
+  "at_utc": "2026-10-23T07:51:49.143473+00:00",
+  "status": "VERIFIED_ORIGINAL_DFF_PREFIX_ONLY_FULL_COHORT_UNKNOWN",
+  "initial_UV": 56,
+  "source_commitments": [
+    {
+      "operation": 1,
+      "metrics": {
+        "vmin": 0.8263937653654316,
+        "vmax": 1.0581314029251043,
+        "vmean": 0.9617981419531646,
+        "uv_count": 37,
+        "ov_count": 1,
+        "deficit_sum": 1.4140578451259254
+      },
+      "remaining_original_operations": 24
+    },
+    {
+      "operation": 2,
+      "metrics": {
+        "vmin": 0.8327321462383508,
+        "vmax": 1.0598556554067702,
+        "vmean": 0.9728962604534833,
+        "uv_count": 23,
+        "ov_count": 1,
+        "deficit_sum": 0.8020482355767706
+      },
+      "remaining_original_operations": 23
+    },
+    {
+      "operation": 3,
+      "metrics": {
+        "vmin": 0.8329811269479424,
+        "vmax": 1.0599393386901077,
+        "vmean": 0.9753291100844171,
+        "uv_count": 18,
+        "ov_count": 2,
+        "deficit_sum": 0.6704296768515873
+      },
+      "remaining_original_operations": 22
+    }
+  ],
+  "all4_complete": false,
+  "first_new_return_replays": 612,
+  "maximum_numeric_field_delta": 0.0,
+  "maximum_KCL_pu": 1.1167014435125946e-08,
+  "old_primary_costs": {
+    "new_PF_attempts": 612,
+    "new_PF_returns": 612,
+    "new_PF_exceptions": 0,
+    "new_PF_seconds": 72.82815019908594,
+    "paid_initial_reuses": 1,
+    "paid_return_reuses": 507,
+    "paid_failure_reuses": 0,
+    "cold_cached_reuses": 0,
+    "new_model_optimizer_derivative_training_calls": 0,
+    "binary_bytes": 230219060
+  },
+  "old_primary_and_reader_and_coordinator_ended": true,
+  "input_partition_identity": {
+    "status": "PASS_EXACT_ARGUMENTS_NATIVE_SOURCE_PREFIX_PAID_RETURN_DEPENDENCY_AND_NEW_ROW_RESULTS",
+    "source_result_sha256": "28067b8f19ff82fe9f56ec6bd187db3dba7ffd43585ef39f112db8d7ff7eb285",
+    "source_protocol_sha256": "b8f580a303310165d81a8da264c51968a75a98a9e93622a5013896bd4d548d8d",
+    "reference_independent_first_replay": {
+      "primary_record": "fed_combined_load_1p5_line_35_MG1/call_000935.json",
+      "primary_record_sha256": "31ba5e05ef6cfee0b865d2a5aa4a95eb48255215f523c51441db5f11bacd6697",
+      "maximum_numeric_field_delta": 0.0,
+      "KCL_pu": 6.899549647942832e-11,
+      "seconds": 0.09604550001677126
+    },
+    "exact_solver_ppci_options_kwargs": true,
+    "exact_voltage_bytes": true,
+    "new_row_shunt_equation": true,
+    "KCL_pu": 6.899549647942832e-11,
+    "new_model_PF_converter_derivative_optimizer_calls": 0,
+    "preserved_failed_pure_preparation_cost": 1,
+    "successful_source_preparation_calls": 2,
+    "source_native_result_extractions": 1,
+    "new_physical_measurement": false,
+    "scope": "Single fixed125+25versus150partition. A future generalized adapter must prove exact solver argument equality afresh at every reuse; equal aggregate alone is insufficient.",
+    "workflow_seconds": 5.10899999999674
+  },
+  "not_a_whole_trajectory_or_LLM_performance_comparison": true
+}
