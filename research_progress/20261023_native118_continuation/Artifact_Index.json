@@ -1,0 +1,213 @@
+{
+  "at_utc": "2026-10-23T07:13:52.726498+00:00",
+  "archive": {
+    "bytes": 63456,
+    "sha256": "dbf4d8f2bc8c2ce20c72082c4071a143d447cce00e156d4a13a49c815073d158",
+    "members": 26,
+    "CRC_and_all_member_bytes_checked": true
+  },
+  "files": [
+    {
+      "name": "own_source/r118_dff_missing_continuation_core_20261023.py",
+      "source": "work/r118_dff_missing_continuation_core_20261023.py",
+      "local_source_sha256": "125950f80866996be85422841d0d399ed05d5d4649b2fa7e80787588437520fd",
+      "public_bytes": 8707,
+      "public_sha256": "125950f80866996be85422841d0d399ed05d5d4649b2fa7e80787588437520fd",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/run_r118_dff_missing_continuation_20261023.py",
+      "source": "work/run_r118_dff_missing_continuation_20261023.py",
+      "local_source_sha256": "777156b730d9919cc140fdf53511b44bb0fb9ca611d4146403b1744dcadb9844",
+      "public_bytes": 7854,
+      "public_sha256": "777156b730d9919cc140fdf53511b44bb0fb9ca611d4146403b1744dcadb9844",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/audit_r118_dff_missing_continuation_20261023.py",
+      "source": "work/audit_r118_dff_missing_continuation_20261023.py",
+      "local_source_sha256": "784aa7a73ee394d0a724e55112217db7a478e2310975c9917a64661210cc7dd1",
+      "public_bytes": 7588,
+      "public_sha256": "784aa7a73ee394d0a724e55112217db7a478e2310975c9917a64661210cc7dd1",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/coordinate_r118_dff_missing_continuation_20261023.py",
+      "source": "work/coordinate_r118_dff_missing_continuation_20261023.py",
+      "local_source_sha256": "1dfb7cda03d20a6205176bfa9a05f0741996c192bfe013726d79a9f78b4ee407",
+      "public_bytes": 1548,
+      "public_sha256": "1dfb7cda03d20a6205176bfa9a05f0741996c192bfe013726d79a9f78b4ee407",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/prepare_r118_dff_missing_continuation_20261023.py",
+      "source": "work/prepare_r118_dff_missing_continuation_20261023.py",
+      "local_source_sha256": "efa67f1f1535474bc4085e7d74f716f37314b21933d5199f0aaa712d828c0390",
+      "public_bytes": 9052,
+      "public_sha256": "efa67f1f1535474bc4085e7d74f716f37314b21933d5199f0aaa712d828c0390",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/finalize_r118_dff_prelaunch_and_task_snapshot_20261023.py",
+      "source": "work/finalize_r118_dff_prelaunch_and_task_snapshot_20261023.py",
+      "local_source_sha256": "3a27346e46e83f9ce859ac94e1f7446f829537aa82730a9ce7abd97382fca100",
+      "public_bytes": 3585,
+      "public_sha256": "3a27346e46e83f9ce859ac94e1f7446f829537aa82730a9ce7abd97382fca100",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/save_native118_live_resume_20261023.py",
+      "source": "work/save_native118_live_resume_20261023.py",
+      "local_source_sha256": "fcfb81a0ec638950900a4e6d6eee476d526d222eb1639423d589de66738c14a9",
+      "public_bytes": 5221,
+      "public_sha256": "fcfb81a0ec638950900a4e6d6eee476d526d222eb1639423d589de66738c14a9",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/reflection118_remaining_cases_core_20261023.py",
+      "source": "work/reflection118_remaining_cases_core_20261023.py",
+      "local_source_sha256": "fd02e81e2f2603f59ecb73bc38ffa9f65f8ac5e0bc2c1aeac4e157ee7b794180",
+      "public_bytes": 4242,
+      "public_sha256": "fd02e81e2f2603f59ecb73bc38ffa9f65f8ac5e0bc2c1aeac4e157ee7b794180",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/run_reflection118_remaining_local_20261023.py",
+      "source": "work/run_reflection118_remaining_local_20261023.py",
+      "local_source_sha256": "d1cf488ed56ef59af1f94dd7bb9f12ea5a34bbedcd6f787b18dab511b569f8b8",
+      "public_bytes": 9645,
+      "public_sha256": "d1cf488ed56ef59af1f94dd7bb9f12ea5a34bbedcd6f787b18dab511b569f8b8",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/audit_reflection118_remaining_case_20261023.py",
+      "source": "work/audit_reflection118_remaining_case_20261023.py",
+      "local_source_sha256": "ab2b6d7db78eae6f7444102b340dae0c0d8175a80a29109bb8d4cd4ad78fbb76",
+      "public_bytes": 9404,
+      "public_sha256": "ab2b6d7db78eae6f7444102b340dae0c0d8175a80a29109bb8d4cd4ad78fbb76",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/run_reflection118_remaining_colab_20261023.py",
+      "source": "work/run_reflection118_remaining_colab_20261023.py",
+      "local_source_sha256": "9c54335ccbb5829348162fcf87dc88b26a262c57ca602bbc3212917c8663b0e8",
+      "public_bytes": 21630,
+      "public_sha256": "9c54335ccbb5829348162fcf87dc88b26a262c57ca602bbc3212917c8663b0e8",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/run_reflection118_remaining_model_remote_20261023.py",
+      "source": "work/run_reflection118_remaining_model_remote_20261023.py",
+      "local_source_sha256": "2aecbe1c074f4fe2bacefc4a4b056369ada3942b9dfcd549f6be5a86a137d567",
+      "public_bytes": 9026,
+      "public_sha256": "2aecbe1c074f4fe2bacefc4a4b056369ada3942b9dfcd549f6be5a86a137d567",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/reflection118_remaining_model_service_guardian_20261023.py",
+      "source": "work/reflection118_remaining_model_service_guardian_20261023.py",
+      "local_source_sha256": "720eb4649a20f07b45c4ef96617f86609f2b93e0f30be987367f04cba7783312",
+      "public_bytes": 2180,
+      "public_sha256": "720eb4649a20f07b45c4ef96617f86609f2b93e0f30be987367f04cba7783312",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/coordinate_reflection118_remaining_cases_20261023.py",
+      "source": "work/coordinate_reflection118_remaining_cases_20261023.py",
+      "local_source_sha256": "c61e957bc611ed354f8af98f81158e55c60adddddb84f923419356238132a379",
+      "public_bytes": 1748,
+      "public_sha256": "c61e957bc611ed354f8af98f81158e55c60adddddb84f923419356238132a379",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/prepare_reflection118_three_remaining_cases_20261023.py",
+      "source": "work/prepare_reflection118_three_remaining_cases_20261023.py",
+      "local_source_sha256": "7a51fe9b785e819d362d86506f9de2ca91ea44ee77517867397b63d8a50e30c3",
+      "public_bytes": 10906,
+      "public_sha256": "f8e376bbf08fb32fce677fbc639a61bdf9621872b5ceed53f8d2f4b3535e5d5f",
+      "only_account_email_placeholders_redacted": true
+    },
+    {
+      "name": "own_source/check_remaining_reflection118_new_integration_20261023.py",
+      "source": "work/check_remaining_reflection118_new_integration_20261023.py",
+      "local_source_sha256": "f8cd8a75ec0a893162f89b2ba13f4b08f6575bf4035cc8114e06c95967161048",
+      "public_bytes": 4532,
+      "public_sha256": "f8cd8a75ec0a893162f89b2ba13f4b08f6575bf4035cc8114e06c95967161048",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/build_and_audit_closed_dff_registry_20261023.py",
+      "source": "work/build_and_audit_closed_dff_registry_20261023.py",
+      "local_source_sha256": "177e03287c219dbc07c839dd9c8ec0b2300045977b7b805f9ec9b62fcc1f2590",
+      "public_bytes": 4655,
+      "public_sha256": "177e03287c219dbc07c839dd9c8ec0b2300045977b7b805f9ec9b62fcc1f2590",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "own_source/finalize_reflection118_three_case_gates_20261023.py",
+      "source": "work/finalize_reflection118_three_case_gates_20261023.py",
+      "local_source_sha256": "1015f2d8cc9a649c17e8cdadd0fb752c35dc14c7d71ee5d2f725466586f904ab",
+      "public_bytes": 9074,
+      "public_sha256": "1015f2d8cc9a649c17e8cdadd0fb752c35dc14c7d71ee5d2f725466586f904ab",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "DFF_preparation/Protocol.json",
+      "source": "outputs/r118_dff_missing_continuation_preparation_20261023/Protocol.json",
+      "local_source_sha256": "503db79f29260900a66f4413d360776382787b76ebdbd83da213243db62064bd",
+      "public_bytes": 8905,
+      "public_sha256": "503db79f29260900a66f4413d360776382787b76ebdbd83da213243db62064bd",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "DFF_preparation/Readiness.json",
+      "source": "outputs/r118_dff_missing_continuation_preparation_20261023/Readiness.json",
+      "local_source_sha256": "baa4db31004eb434a7ef1b7850ac4626aae3498798de5b620a9ae47554196409",
+      "public_bytes": 1676,
+      "public_sha256": "baa4db31004eb434a7ef1b7850ac4626aae3498798de5b620a9ae47554196409",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "DFF_preparation/Prelaunch_Lock_Addendum.json",
+      "source": "outputs/r118_dff_missing_continuation_preparation_20261023/Prelaunch_Lock_Addendum.json",
+      "local_source_sha256": "66050aa25be4aa7f40a6ce172b6809d36b82d1e163060bf36e4ef0bbbf5d7f77",
+      "public_bytes": 430,
+      "public_sha256": "66050aa25be4aa7f40a6ce172b6809d36b82d1e163060bf36e4ef0bbbf5d7f77",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "DFF_preparation/Human_Task_Progress_Snapshot.json",
+      "source": "outputs/r118_dff_missing_continuation_preparation_20261023/Human_Task_Progress_Snapshot.json",
+      "local_source_sha256": "ac4fbe1ee837b36cb41ee74c582d8ee1091d06879ec01c9dc1621e41f9932d18",
+      "public_bytes": 2145,
+      "public_sha256": "ac4fbe1ee837b36cb41ee74c582d8ee1091d06879ec01c9dc1621e41f9932d18",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "DFF_preparation/Initial_Saved_Only_Admission_Failure.json",
+      "source": "outputs/r118_dff_missing_continuation_preparation_20261023/Initial_Saved_Only_Admission_Failure.json",
+      "local_source_sha256": "858a29a3d12fa9f8687b2ef40f7050a3b7b13dd3e7892c9720166f0a5db5785b",
+      "public_bytes": 430,
+      "public_sha256": "858a29a3d12fa9f8687b2ef40f7050a3b7b13dd3e7892c9720166f0a5db5785b",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "model_preparation/Source_And_Design_Readiness.json",
+      "source": "outputs/reflection118_remaining_cases_preparation_20261023/Source_And_Design_Readiness.json",
+      "local_source_sha256": "47924f9862af33b1ffeb2baf417148d132f564ee5b09de5a5916a6e89fb1c8ce",
+      "public_bytes": 989,
+      "public_sha256": "47924f9862af33b1ffeb2baf417148d132f564ee5b09de5a5916a6e89fb1c8ce",
+      "only_account_email_placeholders_redacted": false
+    },
+    {
+      "name": "model_preparation/New_Integration_Readiness.json",
+      "source": "outputs/reflection118_remaining_cases_preparation_20261023/integration/New_Integration_Readiness.json",
+      "local_source_sha256": "09bef3a465d8f9106ce8b1fb5b36a6c3455473b9bec2a6c4c104857df08afdb8",
+      "public_bytes": 1435,
+      "public_sha256": "09bef3a465d8f9106ce8b1fb5b36a6c3455473b9bec2a6c4c104857df08afdb8",
+      "only_account_email_placeholders_redacted": false
+    }
+  ],
+  "private_raw_weights_NETs_training_inputs_and_third_party_sources_not_exported": true,
+  "not_a_complete_raw_backup": true
+}

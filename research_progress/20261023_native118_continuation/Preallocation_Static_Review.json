@@ -1,0 +1,19 @@
+{
+  "status": "DRAFT_SOURCE_REVIEW_NO_ALLOCATION",
+  "reviewed": [
+    "actualcaseindices1/2/3 and profiles fixed before model outputs",
+    "complete original target function called without prompt/parser/action/guard modification",
+    "exact new physical index must close and pass independent rational-key checks before allocation",
+    "strict primary/readers return/failure/cost preservation and unattempted-only scope",
+    "full commitment NET/result/feedback/failed history/RNG/query/model/source/cost/absolute-bound journal",
+    "partial profile failures do not trigger replacement or suppress successful other-arm independent readers",
+    "root payload and source recipe hash explicitly bound in final protocol",
+    "source model token/context/cold/immutable inventories and event-based cost counters retained"
+  ],
+  "constraints": {
+    "new_PF_model_GPU_calls_in_review": 0,
+    "not_final_allocation_readiness": true,
+    "original_DFF_source_live_untouched": true,
+    "remaining_GitHub_note": "one finalizer root/recipe input-hash addition after the prior draft snapshot; include in next snapshot addendum"
+  }
+}

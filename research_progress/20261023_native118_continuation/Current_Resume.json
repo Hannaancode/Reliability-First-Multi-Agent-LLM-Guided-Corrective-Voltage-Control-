@@ -1,0 +1,61 @@
+{
+  "at_utc": "2026-10-23T06:56:51.613469+00:00",
+  "status": "LIVE_SINGLE_NEW_ALL4_DFF_CONTINUATION_AND_PINNED_READER_HANDOFF",
+  "claims": [
+    {
+      "directory": "outputs/r118_dff_missing_continuation_execution_20261023",
+      "claim": {
+        "actual_pid": 15772,
+        "parent_pid": 15784,
+        "source_sha256": "777156b730d9919cc140fdf53511b44bb0fb9ca611d4146403b1744dcadb9844"
+      },
+      "actual": {
+        "ProcessId": 15772,
+        "ParentProcessId": 15784,
+        "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_r118_dff_missing_continuation_20261023.py"
+      },
+      "parent": {
+        "ProcessId": 15784,
+        "ParentProcessId": 15408,
+        "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_r118_dff_missing_continuation_20261023.py"
+      }
+    },
+    {
+      "directory": "outputs/r118_dff_missing_continuation_handoff_20261023",
+      "claim": {
+        "actual_pid": 11828,
+        "parent_pid": 1516,
+        "source_sha256": "1dfb7cda03d20a6205176bfa9a05f0741996c192bfe013726d79a9f78b4ee407"
+      },
+      "actual": {
+        "ProcessId": 11828,
+        "ParentProcessId": 1516,
+        "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/coordinate_r118_dff_missing_continuation_20261023.py"
+      },
+      "parent": {
+        "ProcessId": 1516,
+        "ParentProcessId": 10468,
+        "CommandLine": "\"C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe\" -X utf8 work/coordinate_r118_dff_missing_continuation_20261023.py"
+      }
+    }
+  ],
+  "exec_session": 17503,
+  "preparation": "outputs/r118_dff_missing_continuation_preparation_20261023",
+  "current_GPU_assignments": 0,
+  "current_timers": [],
+  "all6_final_goals": "OPEN",
+  "next": [
+    "Observe exact original owner status/journal; never restart or duplicate. Coordinator alone starts pinned partial-aware first-new-return reader after primary actual end/exit0/closed manifest.",
+    "Prepare remaining3 original Reflection-v4 full-case serving/integration/prospective source locks in parallel. No GPU allocation from software alone; do not overlap physical queries with the current DFF owner.",
+    "Only after all DFF scientist/reader/coordinator end, bind its complete current attempt registry including exceptions/unrecovered reservations before any subsequent physical campaign.",
+    "Save and publish true results/costs/unknowns. No full DSE, external or LLM superiority claim without complete matched evidence."
+  ],
+  "progress_snapshot": "outputs/r118_dff_missing_continuation_preparation_20261023/Human_Task_Progress_Snapshot.json",
+  "old2034queries_not_repeated": true,
+  "parallel_preparation": "outputs/reflection118_remaining_cases_preparation_20261023/Source_And_Design_Readiness.json",
+  "exact_after_DFF_closure_commands": [
+    ".\\work\\vcsa_module_env\\Scripts\\python.exe -X utf8 work/finalize_reflection118_three_case_gates_20261023.py --stage registry",
+    ".\\work\\vcsa_module_env\\Scripts\\python.exe -X utf8 work/finalize_reflection118_three_case_gates_20261023.py --stage freeze",
+    "Only after both actual gates PASS and fresh ownership checks: launch one coordinate_reflection118_remaining_cases_20261023.py. Do not run any command twice."
+  ]
+}
