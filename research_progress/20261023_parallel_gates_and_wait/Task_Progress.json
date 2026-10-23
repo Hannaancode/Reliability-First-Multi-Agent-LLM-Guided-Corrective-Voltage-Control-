@@ -1,0 +1,61 @@
+{
+  "at_utc": "2026-10-23T08:28:26.584498+00:00",
+  "basis": "Existing equal-weight main checklist milestones only; final large trajectory/confirmation steps remain. Not cases solved, effort percent or winning confidence.",
+  "tasks": [
+    {
+      "id": "G3",
+      "priority": 1,
+      "task": "Compare against relevant published models/systems and benchmark whether ours is better.",
+      "completed_main_milestones": 1,
+      "total_main_milestones": 4,
+      "milestone_percent": 25.0,
+      "final_goal_completed": false
+    },
+    {
+      "id": "G1",
+      "priority": 2,
+      "task": "Find an LLM-assisted method aiming for zero UV on all severe federation cases and beat original deterministic DSE safely.",
+      "completed_main_milestones": 6,
+      "total_main_milestones": 8,
+      "milestone_percent": 75.0,
+      "final_goal_completed": false
+    },
+    {
+      "id": "G2",
+      "priority": 3,
+      "task": "Find a published physical dataset/test set and test our model on it.",
+      "completed_main_milestones": 2,
+      "total_main_milestones": 4,
+      "milestone_percent": 50.0,
+      "final_goal_completed": false
+    },
+    {
+      "id": "G4",
+      "priority": 4,
+      "task": "Try higher-parameter small language models and compare each fairly.",
+      "completed_main_milestones": 2,
+      "total_main_milestones": 3,
+      "milestone_percent": 66.7,
+      "final_goal_completed": false
+    },
+    {
+      "id": "G5",
+      "priority": 5,
+      "task": "Establish incremental LLM superiority as the long-term main goal, after the preceding tasks.",
+      "completed_main_milestones": 0,
+      "total_main_milestones": 3,
+      "milestone_percent": 0.0,
+      "final_goal_completed": false
+    },
+    {
+      "id": "G6",
+      "priority": 6,
+      "task": "Implement and test cybersecurity after the preceding validated control/attribution gates.",
+      "completed_main_milestones": 0,
+      "total_main_milestones": 2,
+      "milestone_percent": 0.0,
+      "final_goal_completed": false
+    }
+  ],
+  "all6_final_goals": "OPEN"
+}

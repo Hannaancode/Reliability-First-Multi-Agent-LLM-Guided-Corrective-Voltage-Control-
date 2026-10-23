@@ -1,0 +1,15 @@
+{
+  "at_utc": "2026-10-23T08:28:26.584498+00:00",
+  "completed_proofs": {
+    "outputs/reflection118_remaining_cases_preparation_20261023/closed_registry_independent/Independent_Audit.json": "ee4ee1e59dd30cc24d858156c658f456f0a404dea5619095e659f135eda144e9",
+    "outputs/provider_observer_pause_20261023/Results.json": "e6903917334b1d20544f05b87565be8401bf1c92d2ddf097c00c5207c8415c82",
+    "outputs/exact_frame_byte_precheck_20261023/Results.json": "0ae8e8ece45f39c11836327be34e6de136ded1d93dba8c8d0b5f96bfa99e534e",
+    "outputs/original118_matched_analysis_preparation_20261023/Protocol.json": "0be16c025cdf165ef86f0e09c4e3d94f9ec91c5cf602743f18a0fcbc57035b29"
+  },
+  "one_time_timer": "hiergrid-exact-input-118-result-check",
+  "estimated_time": "13:30Asia/Qatar23October2026",
+  "new_scientific_calls_in_parallel_gates": 0,
+  "current_GPU_assignments": 0,
+  "existing_3517_scope_does_not_include_live_new_partition_study": true,
+  "current_live_source_unchanged": true
+}
