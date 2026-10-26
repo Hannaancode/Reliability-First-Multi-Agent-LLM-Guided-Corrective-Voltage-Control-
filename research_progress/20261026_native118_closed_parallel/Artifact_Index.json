@@ -1,0 +1,140 @@
+{
+  "at_utc": "2026-10-26T07:20:02.630901+00:00",
+  "archive": {
+    "path": "Own_Code_And_Compact_Proofs.zip",
+    "bytes": 47075,
+    "sha256": "c623e3ded450d3c6a35ccbed986ee158292c855cf8d00cb34c4a9a9dd8fc1d65",
+    "members": 22
+  },
+  "members": {
+    "work/reflection118_remaining_cases_v2_core_20261023.py": {
+      "local_source_sha256": "8260351f7774d7bb612daf3c341f3c07ec58d910054210d74fd10e1e3a13a94a",
+      "public_bytes": 2869,
+      "public_sha256": "8260351f7774d7bb612daf3c341f3c07ec58d910054210d74fd10e1e3a13a94a",
+      "profile_redaction_disclosed": false
+    },
+    "work/extend_closed_partition_registry_20261023.py": {
+      "local_source_sha256": "db35a3cc86233ba5d14f5a1e8629991b7594cd6fff3686b958cf1eece12b3d99",
+      "public_bytes": 5554,
+      "public_sha256": "db35a3cc86233ba5d14f5a1e8629991b7594cd6fff3686b958cf1eece12b3d99",
+      "profile_redaction_disclosed": false
+    },
+    "work/prepare_remaining_original_v2_pipeline_20261023.py": {
+      "local_source_sha256": "4d8e04b54ec64357632c48b1c8611fbc0e621c4853c790da25adc43eacf8853f",
+      "public_bytes": 5485,
+      "public_sha256": "4d8e04b54ec64357632c48b1c8611fbc0e621c4853c790da25adc43eacf8853f",
+      "profile_redaction_disclosed": false
+    },
+    "work/check_remaining_original_v2_integration_20261023.py": {
+      "local_source_sha256": "bd24d49f624740437a8b2972c6aecfa8d64a2a136b462f63070a9c050ab089d8",
+      "public_bytes": 4724,
+      "public_sha256": "bd24d49f624740437a8b2972c6aecfa8d64a2a136b462f63070a9c050ab089d8",
+      "profile_redaction_disclosed": false
+    },
+    "work/prepare_remaining_original_v2_finalizer_20261023.py": {
+      "local_source_sha256": "2fbc8e660c2a6df97adc6074455f96196a5cc9bb848888f42d8d1b2e5f7de94f",
+      "public_bytes": 3650,
+      "public_sha256": "2fbc8e660c2a6df97adc6074455f96196a5cc9bb848888f42d8d1b2e5f7de94f",
+      "profile_redaction_disclosed": false
+    },
+    "work/run_reflection118_remaining_v2_local_20261023.py": {
+      "local_source_sha256": "9e02dc4de5344f0806fa18d56c6881e519393b8c30fc0662e1ee046132bf16cf",
+      "public_bytes": 10182,
+      "public_sha256": "9e02dc4de5344f0806fa18d56c6881e519393b8c30fc0662e1ee046132bf16cf",
+      "profile_redaction_disclosed": false
+    },
+    "work/audit_reflection118_remaining_v2_case_20261023.py": {
+      "local_source_sha256": "050973e84ee6488fed186ab10c0b0fe4de4f9fbe5eece7b868541d16e2b2da26",
+      "public_bytes": 9859,
+      "public_sha256": "050973e84ee6488fed186ab10c0b0fe4de4f9fbe5eece7b868541d16e2b2da26",
+      "profile_redaction_disclosed": false
+    },
+    "work/run_reflection118_remaining_v2_colab_20261023.py": {
+      "local_source_sha256": "16cf50ee43236d94f6efd8d529a5af2f7796bd41f8fce99d5e419bbd5e6f15d3",
+      "public_bytes": 21680,
+      "public_sha256": "16cf50ee43236d94f6efd8d529a5af2f7796bd41f8fce99d5e419bbd5e6f15d3",
+      "profile_redaction_disclosed": false
+    },
+    "work/coordinate_reflection118_remaining_v2_cases_20261023.py": {
+      "local_source_sha256": "8dc5c505ebbffb10a616c5a63c57bb63adaa73d221a217219fe50d1e5ceab4dd",
+      "public_bytes": 1786,
+      "public_sha256": "8dc5c505ebbffb10a616c5a63c57bb63adaa73d221a217219fe50d1e5ceab4dd",
+      "profile_redaction_disclosed": false
+    },
+    "work/finalize_reflection118_three_case_v2_gates_20261023.py": {
+      "local_source_sha256": "584e7f3dcac1dcab4158d39323b90a747a60e4af85c43a06786c71f15399f694",
+      "public_bytes": 10961,
+      "public_sha256": "584e7f3dcac1dcab4158d39323b90a747a60e4af85c43a06786c71f15399f694",
+      "profile_redaction_disclosed": false
+    },
+    "work/published_graph118_episode_engine_20261023.py": {
+      "local_source_sha256": "82f697314c3e31ad5624eaf76a8f2923b52b4113704fbea840c0639cd016c869",
+      "public_bytes": 4602,
+      "public_sha256": "82f697314c3e31ad5624eaf76a8f2923b52b4113704fbea840c0639cd016c869",
+      "profile_redaction_disclosed": false
+    },
+    "work/check_graph118_episode_engine_20261023.py": {
+      "local_source_sha256": "74d96bafbf43c2c2dced028466aee051d5582734e6a355424bd35bb417f7c613",
+      "public_bytes": 5913,
+      "public_sha256": "74d96bafbf43c2c2dced028466aee051d5582734e6a355424bd35bb417f7c613",
+      "profile_redaction_disclosed": false
+    },
+    "work/check_graph118_episode_engine_v2_20261023.py": {
+      "local_source_sha256": "9283409c4c809951b47a7de9d151f1c1e829be2877e4a7d1cd1e7170dac4771a",
+      "public_bytes": 5975,
+      "public_sha256": "9283409c4c809951b47a7de9d151f1c1e829be2877e4a7d1cd1e7170dac4771a",
+      "profile_redaction_disclosed": false
+    },
+    "work/exact_graph_cursor_compare_20261023.py": {
+      "local_source_sha256": "613cdb0319df52bf848203f616f1dadf369e119f80af6b0097a9b15675d68636",
+      "public_bytes": 1039,
+      "public_sha256": "613cdb0319df52bf848203f616f1dadf369e119f80af6b0097a9b15675d68636",
+      "profile_redaction_disclosed": false
+    },
+    "work/save_native118_closed_baseline_20261026.py": {
+      "local_source_sha256": "51544ecef654e20b2dbba8537b4e826ebdbeca41b56c0167df347715b6683fa2",
+      "public_bytes": 7649,
+      "public_sha256": "51544ecef654e20b2dbba8537b4e826ebdbeca41b56c0167df347715b6683fa2",
+      "profile_redaction_disclosed": false
+    },
+    "outputs/reflection118_remaining_cases_v2_preparation_20261023/integration/New_Integration_Readiness.json": {
+      "local_source_sha256": "84c79c633e61714faa03198a9079da93ceb32f9540e7a895abc2cea05e91ce66",
+      "public_bytes": 1392,
+      "public_sha256": "84c79c633e61714faa03198a9079da93ceb32f9540e7a895abc2cea05e91ce66",
+      "profile_redaction_disclosed": false
+    },
+    "outputs/published_graph118_episode_software_v2_20261023/Results.json": {
+      "local_source_sha256": "d1cc96d3ce43e749eac4bf8121ed20f6d8136f1d3f07cd53716d75939cdd6ee7",
+      "public_bytes": 4223,
+      "public_sha256": "d1cc96d3ce43e749eac4bf8121ed20f6d8136f1d3f07cd53716d75939cdd6ee7",
+      "profile_redaction_disclosed": false
+    },
+    "outputs/published_graph118_episode_software_20261023/Failure.json": {
+      "local_source_sha256": "42cf8420bb0a5dccc4e1fc35cc6a60b6ac20542cab2109bb54eb752a0f3e4ced",
+      "public_bytes": 1484,
+      "public_sha256": "42cf8420bb0a5dccc4e1fc35cc6a60b6ac20542cab2109bb54eb752a0f3e4ced",
+      "profile_redaction_disclosed": false
+    },
+    "outputs/published_graph118_episode_software_20261023/Mechanical_Comparator_Diagnosis.json": {
+      "local_source_sha256": "a381b025356e4022cd3ce75f7735f297f848ca213934540d27b67c09c9703cd3",
+      "public_bytes": 384,
+      "public_sha256": "a381b025356e4022cd3ce75f7735f297f848ca213934540d27b67c09c9703cd3",
+      "profile_redaction_disclosed": false
+    },
+    "outputs/r118_dff_partition_continuation_independent_20261023/Independent_Audit.json": {
+      "local_source_sha256": "49bdb7ea307270de089f51e091d590f7d155ae2a9bb9496a91589abe0163aa1c",
+      "public_bytes": 3787,
+      "public_sha256": "49bdb7ea307270de089f51e091d590f7d155ae2a9bb9496a91589abe0163aa1c",
+      "profile_redaction_disclosed": false
+    },
+    "outputs/r118_dff_partition_continuation_handoff_20261023/Completion.json": {
+      "local_source_sha256": "b80c99b36ec15f1d9b2dc2bb5a7e674f69b7a92e92d6356486be26ccf0a02829",
+      "public_bytes": 254,
+      "public_sha256": "b80c99b36ec15f1d9b2dc2bb5a7e674f69b7a92e92d6356486be26ccf0a02829",
+      "profile_redaction_disclosed": false
+    }
+  },
+  "raw_NET_weights_teacherdata_thirdpartysource_uploaded": false,
+  "compact_proofs_not_full_raw_backup": true,
+  "new_remote_science_calls": 0
+}

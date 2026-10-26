@@ -1,0 +1,97 @@
+{
+  "at_utc": "2026-10-26T07:17:27.676315+00:00",
+  "status": "ALL4_DFF_INDEPENDENT_COMPLETE_NEW_THREE_CASE_REGISTRY_IN_PROGRESS",
+  "all6_final_goals": "OPEN",
+  "current_owned_jobs": [],
+  "exec_session": 8361,
+  "current_GPU_assignments": 0,
+  "current_timers": [],
+  "protocol": "outputs/r118_dff_partition_continuation_preparation_20261023",
+  "source_hashes": {
+    "work/prepare_r118_dff_missing_continuation_20261023.py": "efa67f1f1535474bc4085e7d74f716f37314b21933d5199f0aaa712d828c0390",
+    "work/r118_dff_missing_continuation_core_20261023.py": "125950f80866996be85422841d0d399ed05d5d4649b2fa7e80787588437520fd",
+    "work/run_r118_dff_missing_continuation_20261023.py": "777156b730d9919cc140fdf53511b44bb0fb9ca611d4146403b1744dcadb9844",
+    "work/audit_r118_dff_missing_continuation_20261023.py": "784aa7a73ee394d0a724e55112217db7a478e2310975c9917a64661210cc7dd1",
+    "work/coordinate_r118_dff_missing_continuation_20261023.py": "1dfb7cda03d20a6205176bfa9a05f0741996c192bfe013726d79a9f78b4ee407",
+    "work/coordinate_f118_encoder_owner_20261022.py": "cbd5eea2d46bdc196eb414a28388560129c69a892ca5bb27c9a3d847404d17bc",
+    "work/reflection118_chronological_core_20261022.py": "16a6026229c91597765e98359ebf78475a0651f8f68ff712deee7b1766f97c8c",
+    "work/frozen_physics_loader.py": "7f0dcb958be9144dbcec0793b5e85b7fe33a50ee1796e126030ff5fba43991a4",
+    "work/run_reflection118_chronological_local_20261022.py": "26391eec6241c6f92299fd3c32280ecae446764936b251ff9c01c897db82a142",
+    "work/prior_physical_query_footprints_20261018.py": "d0c9b568b4b739b06467eac037f7bc006fcccc8c2796c10632f6454a2df8ce3a",
+    "work/public_size_u61_preservation.py": "df4d5fa2a41142c272a6cc433a88b9e4146d217742edf46df32d7ba10680e45e",
+    "work/e/audit/phase2g_multiagent_llm_runner.py": "92730de74f76e21c97ea1a20bd9aa8dde33371a8e5d47b5dc896a7e204660de4",
+    "work/e/audit/phase2g_rescue_runner.py": "6e2f33faf63c3e6d314680455f478e63102f6361453b43c9a454022a832b84ed",
+    "work/e/audit/phase2g_llm_guided_rescue_runner.py": "e81270c556d13eab830b76136ef49cd27a5563ed8d1de92344bdd8a37ea09028",
+    "work/e/audit/run_reflection_v4_safety_envelope.py": "d4b329413c91a64828ced63a0554d67e4f70d46726fc8c3ba3556d8714d9e81e",
+    "work/e/pack/scripts/phase2d_iterative_blackboard_v0.py": "ee9555bc049f2183fc74a906b2f873c6b6758d426a653c1702fefdb70be750e7",
+    "work/e/audit/phase2d_iterative_blackboard_v2_deficit_aware.py": "195fac86531338226bade792421aaee2eb6d91a421545a615486320b41148c71",
+    "work/candidate_process_evidence_utils.py": "5441fc14168ed7f63ebb7181d9e727e34938bef0c3e5482a4ba37916330e636b",
+    "work/r118_dff_partition_core_20261023.py": "c1a90765f4401065a6eae21e143cb084365bf32d929b3dad45de9efd5ccb3633",
+    "work/native_solver_input_identity_v3_20261023.py": "2ba5590354141cc5279ee8d1e27ee553bba0c814871076b7119e774857e79747",
+    "work/native_solver_input_identity_20261023.py": "40823918ad7e56a7d01163f613fd25d766a920f6e369f81e1c27fd318435ffcd",
+    "work/audit_solver_input_identity_receipts_20261023.py": "ed458a0fe45365aca72e641911b35d8c08400f40e693346973f7abb09fb621d3",
+    "work/prepare_r118_dff_partition_continuation_20261023.py": "ff8bc5e4507807863e0664c547bd21cba64a7e5d5dae1da8da03cffbe5e27043",
+    "work/run_r118_dff_partition_continuation_20261023.py": "0448a9fc370a9b05c8727c9802aec0b19a390fb36de6491d41711d7d6160187a",
+    "work/audit_r118_dff_partition_continuation_20261023.py": "45bc7c5fbd4bbd075c69671aa11c6d0aeaa118cc79eb9b036d9c7b31fabba5fc",
+    "work/coordinate_r118_dff_partition_continuation_20261023.py": "774bacfa41b78da02346a5b431a6fa1152be54a7e61c06a6e4b9c3741e403ad5",
+    "work/reflection118_remaining_cases_core_20261023.py": "fd02e81e2f2603f59ecb73bc38ffa9f65f8ac5e0bc2c1aeac4e157ee7b794180"
+  },
+  "exact_old_partial": "outputs/r118_native_comparison_continuation_20261023/Verified_Partial_And_Exact_Identity_Results.json",
+  "next_tasks": [
+    "Continue sole already-started additive v2registry producer/reader, exec84248; do not duplicate.",
+    "After incremental registryPASS freeze work/finalize_reflection118_three_case_v2_gates_20261023.py --stage freeze and verifyexactsource/case/ownership/payload locks before fixed3originalcase GPU launch. Old v1finalizer is superseded.",
+    "Prepared new GraphAgent episode adapter has softwarePASS only; freeze relevant prior history/native query/ownership/independent reader/fullcost gate before physics.",
+    "Publish closedbaseline/parallel sources/proofs and save exactresume."
+  ],
+  "milestone_percent_basis": "Existing main checklist count, not cases solved or superiority confidence.",
+  "latest_verified_GitHub": "48de4fda0cb7220b3a18a6cacb784d1d35f46b58",
+  "priority_order": [
+    "G3",
+    "G1",
+    "G2",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "next_estimated_check": null,
+  "completed_safe_parallel_gates": [
+    "outputs/reflection118_remaining_cases_preparation_20261023/closed_registry_independent/Independent_Audit.json",
+    "outputs/provider_observer_pause_20261023/Results.json",
+    "outputs/exact_frame_byte_precheck_20261023/Results.json",
+    "outputs/original118_matched_analysis_preparation_20261023/Protocol.json"
+  ],
+  "next_stage_conditions": "Only new additive v2original-case sources; all original functions/guard/prompts intact; no scientific replay/retraining/oldownerrestart. All6finalgoalsOPEN.",
+  "latest_publication_receipt": "outputs/native118_parallel_gates_and_wait_20261023/Verified_GitHub_Receipt.json",
+  "latest_live_status": {
+    "active": {
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "committed_operations": 4
+    },
+    "complete_branches": 2,
+    "closed_calls": 5000,
+    "costs": {
+      "new_PF_attempts": 2825,
+      "new_PF_returns": 2821,
+      "new_PF_exceptions": 4,
+      "new_PF_seconds": 320.8946036006091,
+      "paid_initial_reuses": 3,
+      "paid_return_reuses": 2171,
+      "paid_failure_reuses": 1,
+      "cold_cached_reuses": 0,
+      "new_model_optimizer_derivative_training_calls": 0,
+      "binary_bytes": 1027895098,
+      "exact_solver_input_preparation": {
+        "native_input_attempts": 4,
+        "native_input_returns": 4,
+        "source_result_extractions": 2,
+        "native_algorithm_invocations": 0,
+        "identity_receipts": 2,
+        "proof_bytes": 556130,
+        "seconds": 0.7981183999800123
+      }
+    },
+    "elapsed_seconds": 2995.9839999999967
+  },
+  "live_counts_not_completion": false,
+  "closed_baseline_evidence": "outputs/native118_complete_dff_and_parallel_20261026/Verified_Native_Comparison_State.json"
+}
