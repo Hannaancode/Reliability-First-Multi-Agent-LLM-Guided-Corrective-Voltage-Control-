@@ -1,0 +1,117 @@
+{
+  "at_utc": "2026-10-28T18:31:19.668652+00:00",
+  "members": [
+    {
+      "path": "work/assemble_original118_closed_comparison_20261028.py",
+      "bytes": 9446,
+      "sha256": "b337ae3b60e5cb5db4761ba09a5fe2664e7f413927606b27fb51b2e20b33b973"
+    },
+    {
+      "path": "work/close_original118_comparison_record_20261028.py",
+      "bytes": 8404,
+      "sha256": "194d55b198920b56d6418692228d28b09ac85e6f41ed804e7b4f60e08ec54efc"
+    },
+    {
+      "path": "work/advance_thesis_evidence_closure_20261028.py",
+      "bytes": 25915,
+      "sha256": "bac424ceb48ffb5b13f9eaddb76cf9edd19c60edc0043b7621c00cb23644c6ce"
+    },
+    {
+      "path": "work/refine_thesis_defence_layout_20261028.py",
+      "bytes": 3345,
+      "sha256": "454e88335d1f0f568aa15c2412262049343556c67c51c1880b339c6208e5eee1"
+    },
+    {
+      "path": "work/clarify_external118_sgen_contract_20261028.py",
+      "bytes": 5971,
+      "sha256": "dba2653250d0b90e5822ef43a84ca0a517afcd33d50ac73722aad0b39b0999f9"
+    },
+    {
+      "path": "work/clarify_external118_sgen_contract_v2_20261028.py",
+      "bytes": 6036,
+      "sha256": "f7e9c3146e77d96dd2233845c536cccce6187d69ea92a134d278730a31a95ffe"
+    },
+    {
+      "path": "work/clarify_external118_sgen_contract_v3_20261028.py",
+      "bytes": 6173,
+      "sha256": "7288d1e2d55275d3c1c281c9645a1efa431f42a58d8297d4264c5f8cfc3792a0"
+    },
+    {
+      "path": "work/package_closed118_and_thesis_20261028.py",
+      "bytes": 6247,
+      "sha256": "a9d9f0e36d7ea028f6eb5b73bab9e6fd36c52d0ce217bb87701958ee9969e7a0"
+    },
+    {
+      "path": "outputs/original118_analysis_binding_20261028/Prepared_Analysis_Lock.json",
+      "bytes": 1036,
+      "sha256": "97d5ba95fe42f7b0cf159c1cd47e1b6faf16cc9d994fffcf9c5febd723ceed42"
+    },
+    {
+      "path": "outputs/original118_comparison_completion_20261028/Verified_Completion.json",
+      "bytes": 11332,
+      "sha256": "6ffda50eb6af13087378339a68d293ec152b687138ae03aaee06eb903c8db237"
+    },
+    {
+      "path": "outputs/thesis_evidence_update_20261028/Paired_Development_Effects.json",
+      "bytes": 552,
+      "sha256": "d61742e27f6fcdc6d47e9d27bf67ccbd9783d20c0c45cc9bcb5b2df7cb78dd60"
+    },
+    {
+      "path": "outputs/thesis_evidence_update_20261028/Research_Question_Evidence_and_Defence.json",
+      "bytes": 5673,
+      "sha256": "97660386d15cdd4ca5fcbb43676746f2fbc3e06e97b147d91da8cb540216095e"
+    },
+    {
+      "path": "outputs/thesis_evidence_update_20261028/All35_Task_Triage.json",
+      "bytes": 13624,
+      "sha256": "f663097817e4229eb306e2fb5b505792081d5ba5c9bee2d7cae6fe8dba20e450"
+    },
+    {
+      "path": "outputs/thesis_evidence_update_20261028/Evidence_Index.json",
+      "bytes": 1988,
+      "sha256": "6be17886480e5402be7c7cd30727742c61bf9dfe88f6ffcc6b96b8faf6ec92ec"
+    },
+    {
+      "path": "outputs/thesis_evidence_update_20261028/Source_Update_Record.json",
+      "bytes": 498,
+      "sha256": "ba3df8d9ffb98a2cc5da3fd011337cd71c2198369f9c5b1d08918a3d813eedc8"
+    },
+    {
+      "path": "outputs/thesis_evidence_update_20261028/Visual_QA.json",
+      "bytes": 717,
+      "sha256": "042aec411e3b60b9547b4c5d36194aaf95773ab027b32296da19e61b7e1309bc"
+    },
+    {
+      "path": "outputs/thesis_evidence_update_20261028/Severe_Case_Thesis_Update.md",
+      "bytes": 3771,
+      "sha256": "741959dbde362a8e32687ec4a5dba4ea02de1271d7fb1ba3c11fe04bb89f193a"
+    },
+    {
+      "path": "outputs/external118_device_contract_clarification_v3_20261028/Corrected_Admission_Summary.json",
+      "bytes": 1683,
+      "sha256": "c30839ac061808a59fea10572d86dcd57c77de0a01e5039a6d33e1517637cec2"
+    },
+    {
+      "path": "outputs/external118_device_contract_clarification_20261028/Failure.json",
+      "bytes": 371,
+      "sha256": "6c5c4f72bb616529b3839a16199bfe83f677e7331b1e02556142f84456d8d1b4"
+    },
+    {
+      "path": "outputs/external118_device_contract_clarification_v2_20261028/Failure.json",
+      "bytes": 354,
+      "sha256": "9b060aec30fde7994cfbf359ce3ab00f2e64b5633a53671896cb5bc7c82aff30"
+    },
+    {
+      "path": "outputs/original_missing_suffix_independent_20261028/case_01/Independent_Audit.json",
+      "bytes": 2927,
+      "sha256": "8a4dc35bf3666afecc0c448fd27da4e7a99fad2bab0d4f3cea92583d42269f91"
+    },
+    {
+      "path": "outputs/original_missing_suffix_independent_20261028/case_03/Independent_Audit.json",
+      "bytes": 2920,
+      "sha256": "7dec7e2acff734e7324c26da28260c764db0ffe68581334c9ef0092d48356705"
+    }
+  ],
+  "CRC_and_member_hashes": "PASS",
+  "exclusions": "Private weights, NETs, raw device records, model responses, raw QA transcripts, third-party sources, active-account/runtime details and large scientific checkpoints are not published. This is not a complete raw backup."
+}

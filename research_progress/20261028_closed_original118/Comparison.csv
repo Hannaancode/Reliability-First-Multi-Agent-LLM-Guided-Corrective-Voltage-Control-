@@ -1,0 +1,5 @@
+case_id,initial_UV,DFF_UV,DFF_OV,HGVF_UV,HGVF_OV,UV_difference_HGVF_minus_DFF,DFF_actions,HGVF_actions,HGVF_direct,HGVF_guided,HGVF_fallback,DFF_deficit,HGVF_deficit,DFF_Vmin,HGVF_Vmin,HGSE_selected,HGSE_UV,HGSE_OV,HGSE_selected_actions,HGVF_whole_band,DFF_whole_band
+fed_combined_load_1p5_line_35_MG1,56,11,3,7,2,-4,7,17,14,3,0,0.5967795077616758,0.07608029853018439,0.8329587427945501,0.9322110650841953,reflection_v2,7,2,17,False,False
+fed_combined_load_1p5_line_36_MG1,58,15,2,1,3,-14,7,24,15,4,5,0.696691951352694,0.017034371651231117,0.8333607874595118,0.9329656283487688,reflection_v2,1,3,24,False,False
+fed_combined_load_1p5_line_84_MG2,57,18,2,5,3,-13,7,22,16,5,1,0.7688670169120351,0.18025064060052076,0.8340530442992433,0.9002246944538724,reflection_v2,5,3,22,False,False
+fed_combined_load_1p5_line_127_MG3,55,7,4,13,3,6,8,10,6,1,3,0.5239383344531188,0.6288804084868763,0.8346590502761275,0.8433212401590441,no_llm_fallback_first,7,4,8,False,False

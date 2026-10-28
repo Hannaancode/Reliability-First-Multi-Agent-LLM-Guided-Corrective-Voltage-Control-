@@ -1,0 +1,1004 @@
+{
+  "at_utc": "2026-10-28T18:12:10.994391+00:00",
+  "authority": "Latest direct human six-priority instruction, retained in exact order; execute evidence-led work and update records.",
+  "goal_remains_active_unachieved": true,
+  "tasks": [
+    {
+      "priority": 1,
+      "target": "Compare against relevant published models/systems and benchmark whether ours is better.",
+      "status": "ORIGINAL_ALL4_COMPARISON_COMPLETE_FIXED_GATE_FAIL_EXTERNAL118_STILL_OPEN",
+      "done": "Published optimization/RL/hybrid method registry saved; differences in plants/actuators/software documented. NativepublishedACOPF fullmatrix/angle/thermal/gen/voltage/objective inputcontract independentlyprepared onall3, actualsolverbenchmarkpending. ActualnativeACOPF implementation trial acrossall3 terminated onlibrarycompatibility; originalcontrols/source/costs retained, nativefeasiblebenchmark stillUNKNOWN. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
+      "next": "Freeze a faithful external118 comparison only after its action/information/cost/episode and preservation gates are complete.",
+      "completed": false,
+      "checklist_id": "G3",
+      "completion_criteria": [
+        "Select relevant reproducible primary-source methods and document fidelity and task differences.",
+        "Match plant,information,actions,protection,budgets,splits and costs; report all wins/ties/losses/failures.",
+        "Claim superiority only if frozen comparison and independent unused confirmation support it."
+      ],
+      "current_result": "DFF51UV/11OV; originalHG-VF26UV/11OV,3wins1loss; offlineHG-SE20UV/12OV. ExtraOV2cases; fixedgateFAIL. No equalcost/external/causal superiority.",
+      "subtasks": [
+        {
+          "id": "G3.1",
+          "completed": true,
+          "description": "Record the source-faithful all3native classical benchmark trial and independent outcomes.",
+          "evidence": "outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
+        },
+        {
+          "id": "G3.2",
+          "completed": false,
+          "description": "Freeze comparable published-method reproduction/adaptation protocols and strong trained numerical controls.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G3.3",
+          "completed": false,
+          "description": "Run matched benchmarks with all outcomes, total costs and independent physical replay.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G3.4",
+          "completed": false,
+          "description": "Confirm any superiority claim on genuinely unused authorized cases.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G3.2a",
+          "completed": true,
+          "description": "Execute official pretrained TPA native observation/action/cold engineering and independent physics replay with failed first identity preserved.",
+          "evidence": "outputs/tpa_native_second_identity_engineering_20261020/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T07:38:24.584488+00:00"
+        },
+        {
+          "id": "G3.2b",
+          "completed": true,
+          "description": "Execute one source-bound native-cap/current-Jacobian LP reference from cached solved state with independent derivative/LP optimality/nonlinear replay; disclose information differences.",
+          "evidence": "outputs/native_inverter_linear_reference_20261020/independent_audit_v2/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T07:53:55.423891+00:00"
+        },
+        {
+          "id": "G3.2c",
+          "completed": true,
+          "description": "Expand primary-source comparison roster;preserve and independently verify official Stable-DDPG/DDPG/linear artifacts and every author-selected agent checkpoint path.",
+          "evidence": "outputs/expanded_published_benchmark_roster_20261020/Independent_Artifact_Audit.json",
+          "verified_at_save": "2026-10-20T08:06:15.469018+00:00"
+        },
+        {
+          "id": "G3.2d",
+          "completed": true,
+          "description": "Complete all3 source-first native13 baseline episodes through native100step horizon using paidfirstactions; independent rawpolicy/cold/continuousphysical replay and costs. One development seed only.",
+          "evidence": "outputs/stable_ddpg_native_episode_20261020/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T09:05:44.881567+00:00"
+        },
+        {
+          "id": "G3.2e",
+          "completed": true,
+          "description": "Execute all3actual original-trained LoRA nativePI proposals and3freshmodel cold outputs; preserve independently audited failedschema gate with0PF/invalidfill.",
+          "evidence": "outputs/original_lora_native13_transfer_execution_v2_20261020/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T12:10:25.844553+00:00"
+        },
+        {
+          "id": "G3.2f",
+          "completed": true,
+          "description": "Pin additional official online-topology13/56bus code/data/checkpoints; strictly loadall8actorcomponents andcheckall5MATfinite,zero scientificforwards/PF. Performance remainsunexecuted.",
+          "evidence": "outputs/online_topology_published_intake_20261020/native_loader_independent_audit_v2/Independent_Native_Loader_And_Input_Audit.json",
+          "verified_at_save": "2026-10-20T12:10:25.844553+00:00"
+        },
+        {
+          "id": "G3.2g",
+          "completed": true,
+          "description": "Complete all24sourcefaithful baseline support episodes and independent physical/cold replay on eight newfixeddevelopmentroots.",
+          "evidence": "outputs\\native_action_upgrade_support_independent_20261020\\Independent_Audit.json",
+          "verified_at_save": "2026-10-20T13:18:50.095381+00:00"
+        },
+        {
+          "id": "G3.2h",
+          "completed": true,
+          "description": "Complete all24frozen affine proposals and independent nonlinear replay retaining every rejection and full cost.",
+          "evidence": "outputs\\native_affine_physics_independent_20261020\\Independent_Audit.json",
+          "verified_at_save": "2026-10-20T13:18:50.095381+00:00"
+        },
+        {
+          "id": "G3.2i",
+          "completed": true,
+          "description": "Complete64fixedFIT numerical teacher trajectories, independent replay and all1706paid cache links; retain35/64success and all94residualUV.",
+          "evidence": "outputs/native_fit_teacher_handoff_20261020/Completion.json",
+          "verified_at_save": "2026-10-20T18:07:06.579961+00:00"
+        },
+        {
+          "id": "G3.2j",
+          "completed": true,
+          "description": "Compile all1929full causal FIT observations/labels with exact paired tokenizer IDs and no cropping; keep DEV/confirmation locked.",
+          "evidence": "outputs/native_fit_training_inputs_20261020/Readiness.json",
+          "verified_at_save": "2026-10-20T18:07:06.579961+00:00"
+        },
+        {
+          "id": "G3.2k",
+          "completed": true,
+          "description": "Independently preserve partialMLP5442cost/55fullstates and both complete fixed numeric readout equations; no partial checkpoint performance selection or new scientific calls.",
+          "evidence": "outputs/native_closed_CPU_evidence_audit_v3_20261020/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T18:18:51.865432+00:00"
+        },
+        {
+          "id": "G3.2r_20261021",
+          "completed": true,
+          "description": "Register all203 federation/120TPA/500native13 inputs and full paper/source identities; independently reject18 unfair-comparison boundaries. Software/preparation only.",
+          "evidence": "outputs/full_system_comparison_20261021/Independent_Registration_Audit.json",
+          "verified_at_save": "2026-10-21T08:20:21.842557+00:00"
+        },
+        {
+          "id": "G3.2s_20261021",
+          "completed": true,
+          "description": "Preserve and saved-only verify failed external prefix source/journal/equation/continuity with exact float32 JSON materialization; final original parameter bytes remain unrecovered. Zero new model/PF in repair.",
+          "evidence": "outputs/public13_terminal_saved_prefix_v2_20261021/Independent_Saved_Output_Audit.json",
+          "verified_at_save": "2026-10-21T13:39:50.610346+00:00"
+        },
+        {
+          "id": "G3.2t_20261021",
+          "completed": true,
+          "description": "First independently charged replay of2787returnedPF and7896publishedpolicycalls, exact source normalization/output/continuous state/cost checks; limited partial prefix only.",
+          "evidence": "outputs/public13_first_partial_validation_v2_20261021/Independent_Audit.json",
+          "verified_at_save": "2026-10-21T13:43:16.350885+00:00"
+        },
+        {
+          "id": "G3.2u_20261021",
+          "completed": true,
+          "description": "Read-only reconcile137archivedscenarioIDs and paired2715initialUV with existing141recipes. Historical earlier-controller columns preserved; later137HGVF/HGSE physical/raw/source join remains UNKNOWN. Zero model/PF.",
+          "evidence": "outputs/paper137_archived_scope_reconciliation_20261021/Read_Only_Scope_Reconciliation.json",
+          "verified_at_save": "2026-10-21T14:00:21.985270+00:00"
+        },
+        {
+          "id": "G3.2v_20261021",
+          "completed": true,
+          "description": "Finish all500 registered source-native external cases across3 policies; all1500episodes independently validated, exact fields, no missing pairs. Source3bus stopping and full13band metrics separated; not ours comparison.",
+          "evidence": "outputs/public13_native_cohort_assembly_20261021/Native_Cohort_Results.json",
+          "verified_at_save": "2026-10-21T16:55:21.048732+00:00"
+        },
+        {
+          "id": "G3.2w_20261021",
+          "completed": true,
+          "description": "Bind all500audited roots/8679paid outputs/all scoped attempts, unchanged source,12software/fresh-process cold gates and pinned first-reader/analysis protocol before numerical performance; first owner launched, result pending.",
+          "evidence": "outputs/public13_matched_numeric_preparation_20261021/Admission.json",
+          "verified_at_save": "2026-10-21T17:19:42.424632+00:00"
+        },
+        {
+          "id": "G3.2x_20261021",
+          "completed": true,
+          "description": "Prove unchanged paper literal25Mvarminimum cannot satisfy this native0.3per-step command role; existing V3partition needs4PV versus3actual. Zero model/PF. Scoped support finding, not universal learning impossibility.",
+          "evidence": "outputs/original_paper_native13_support_proof_20261021/Source_Contract_Action_Support_Proof.json",
+          "verified_at_save": "2026-10-21T17:19:42.424632+00:00"
+        },
+        {
+          "id": "G3.2y_20261021",
+          "completed": true,
+          "description": "Bind all500 saved native13 roots to four topology-only roles, positive literal native increments and causal initial input packets; saved-input source/namespace audit PASS. Software only; no whole policy, inference or physics claim.",
+          "evidence": "outputs/paper_native13_causal_contract_v3_20261021/independent_input_audit/Independent_Input_Audit.json",
+          "verified_at_save": "2026-10-21T19:37:00.751538+00:00"
+        },
+        {
+          "id": "G3.2z_20261021",
+          "completed": true,
+          "description": "Independently prove finite same500 conditional ceiling for sourceUV-only stop: atmost249fullband successes, not actual model underperformance or universal inability.",
+          "evidence": "outputs/paper_uv_stop_public13_ceiling_20261021/Independent_Conditional_Bound_Audit.json",
+          "verified_at_save": "2026-10-21T20:11:54.728976+00:00"
+        },
+        {
+          "id": "G3.2aa_20261021",
+          "completed": true,
+          "description": "Complete pinned new original-adapter bidirectional/fullband6primary+6cold functional model test and independent source/cost audit. No PF benchmark from readiness.",
+          "evidence": "outputs/native13_fullband_model_terminal_artifact_certification_v2_20261021/Terminal_Artifact_Certification.json",
+          "verified_at_save": "2026-10-21T21:08:34.204425+00:00",
+          "result": "Measured fixed functional gateFAIL; original reader launcher failure and OSexitUNKNOWN preserved separately."
+        },
+        {
+          "id": "G3.3a_20261021",
+          "completed": true,
+          "description": "Complete same500fixedNUMphysical policy, all1071newPF first replays/16144continuous decisions/dense-dual/cold/cost audit and locked paired tests; preserve failed primary superiority gate.",
+          "evidence": "outputs/public13_matched_numeric_comparison_20261021/Matched_Comparison_And_Fixed_Decision.json",
+          "verified_at_save": "2026-10-21T21:08:34.204425+00:00"
+        },
+        {
+          "id": "G3.2ab_20261021",
+          "completed": true,
+          "description": "Complete same6prefix LoRA-disabled diagnostic with6primary+6cold,0/6valid, source/cost audit; original failed reader path and additive0science repair retained.",
+          "evidence": "outputs/native13_adapter_disabled_diagnostic_independent_v2_20261021/Independent_Functional_Audit.json",
+          "verified_at_save": "2026-10-21T21:08:34.204425+00:00"
+        },
+        {
+          "id": "G3.3b_20261022",
+          "completed": false,
+          "description": "Freeze and execute genuine new128input-router comparison with causal native model state, strong same-input controls/fullcosts/independent continuous replay; saved496is not actual performance.",
+          "evidence": "outputs/fresh128_terminal_partial_handoff_20261022/Verified_Terminal_Partial_And_Missing_Scope.json",
+          "verified_at_save": null,
+          "status": "TERMINAL_PARTIAL_FULL128_UNKNOWN"
+        },
+        {
+          "id": "G3.3b1_20261022",
+          "completed": true,
+          "description": "Freeze128exactinput/source/cost/ownership/partial-aware-first-reader protocol;19mockchecks plusactualsavednativeNET/separatepolicybank/RNG/cursor negatives,9paidcheckpointreads,0science.",
+          "evidence": "outputs/public13_fresh_router_execution_preparation_20261022/Independent_Launch_Review.json",
+          "verified_at_save": "2026-10-21T21:27:11.009169+00:00"
+        },
+        {
+          "id": "G3.stagnation500_20261022",
+          "completed": true,
+          "description": "All500savedaction/arithmetic diagnosis plus separate-expression crosscheck:14,387acceptedzero-action/no-physical-change decisions;151near-boundary100round failures remainfailures.",
+          "evidence": "outputs/public13_saved_numeric_stagnation_20261022/Separate_Arithmetic_Crosscheck.json",
+          "verified_at_save": "2026-10-21T21:44:15.718637+00:00"
+        },
+        {
+          "id": "G3.F118.1",
+          "completed": true,
+          "description": "Recover actualReflection-v4 and separately reconcile67saved/134branch summaries and unchanged selector.",
+          "evidence": "outputs/reflection_v4_federation_reconciliation_v3_20261022/Independent_Saved_Summary_Audit.json",
+          "verified_at_save": "2026-10-22T02:36:57.186447+00:00"
+        },
+        {
+          "id": "G3.F118.2",
+          "completed": true,
+          "description": "Implement common-case admission gates and check all203registered recipe hashes; performance remains blocked on exact roots/compatible methods.",
+          "evidence": "outputs/federation_matched_benchmark_20261022/Software_Admission_Readiness.json",
+          "verified_at_save": "2026-10-22T02:36:57.186447+00:00"
+        },
+        {
+          "id": "G3.F118.4a",
+          "completed": true,
+          "description": "Bind2actual paid fullNET roots and ALL144 FIRST_ZONE native action identities;99old receipts exact,45UNKNOWN retained. Not full203closure.",
+          "evidence": "outputs/original_reflection_first_zone_paid_inventory_v2_20261022/Result.json",
+          "verified_at_save": "2026-10-22T04:07:20.621772+00:00"
+        },
+        {
+          "id": "G3.F118.6a",
+          "completed": true,
+          "description": "Execute originalnative FIRST_ZONE LoRA/same-base-disabled queries on2source-order paid roots, full fresh-load/cold/source/cost/immutability audit;T4released.",
+          "evidence": "outputs/original_reflection_saved_root_independent_v2_20261022/Independent_Audit.json",
+          "verified_at_save": "2026-10-22T04:07:20.621772+00:00"
+        },
+        {
+          "id": "G3.F118.4b",
+          "completed": true,
+          "description": "ALL45named-history exclusions:69723attempts/738snapshots/204recipes, source-bound36load collision witnesses; independentPASS,0newscience. Scoped, not automatic PF authority.",
+          "evidence": "outputs\\original_native_role_scope_handoff_20261022\\Verified_Scope_Results.json"
+        },
+        {
+          "id": "G3.F118.6b.inputs",
+          "completed": true,
+          "description": "Independent exact recipe/source/return binding of4registered severe118paid roots56/58/57/55UV; no newPF,199other registrations unresolved.",
+          "evidence": "outputs/registered_severe_federation_root_binding_20261022/independent_audit/Independent_Audit.json"
+        },
+        {
+          "id": "G3.F118.6b",
+          "completed": false,
+          "description": "TERMINAL PARTIAL: actual original trained full episode56to7UV/2strictOV,17commits; first357PF/source replayPASS. DFF stopped at different50/80iteration paid contract; all4comparisonUNKNOWN. Supervisor failure/child OS exitUNKNOWN retained; noGPU/timer.",
+          "evidence": "outputs/reflection118_chronological_handoff_20261022/verified_terminal_partial/Verified_Terminal_Partial_Checkpoint.json"
+        },
+        {
+          "id": "G3.F118.5a",
+          "completed": true,
+          "description": "Pin4further author repos/60source files for transmissionDQN/graph andPVresidualSAC; exact rawGitobject bytes, source-contract/device-role audit,0execution. Not benchmark scores.",
+          "evidence": "outputs/published_voltage_common118_design_20261022/Source_Contract_And_Execution_Decision.json"
+        },
+        {
+          "id": "G3.F118.5b",
+          "completed": true,
+          "description": "Common absolute-owned-shunt target action port:14160exhaustive pair correspondences and12native apply-only checks on4roots,0PF/model. Not a trainedDQN or performance readiness.",
+          "evidence": "outputs/federation_common_absolute_shunt_role_20261022/Independent_Action_Correspondence.json"
+        },
+        {
+          "id": "G3.native80_contract_bridge_20261022",
+          "completed": true,
+          "description": "Complete the specifically authorized one-input native80 bridge and first independent replay; no blanket other-contract equivalence.",
+          "evidence": "outputs/r118_solver_contract_bridge_independent_20261022/Independent_Audit.json",
+          "verified_at_save": "2026-10-22T19:45:20.725557+00:00"
+        },
+        {
+          "id": "G3.native118.all_first_menus_20261022",
+          "completed": true,
+          "description": "Verify all2034 original first-round source decisions, retain one failure, resolve3native contracts, and reconstruct all4first-commit cursors. Whole trajectories still open.",
+          "evidence": "outputs/r118_verified_first_round_completion_20261022/Verified_First_Round_Results.json",
+          "verified_at_save": "2026-10-22T20:53:22.876845+00:00"
+        },
+        {
+          "id": "G3.native_partial612_20261023",
+          "completed": true,
+          "description": "Independently preserve612new DFF physical returns and three source commitments; full case/cohort remainsUNKNOWN.",
+          "evidence": "outputs/r118_dff_missing_continuation_independent_20261023/Independent_Audit.json"
+        },
+        {
+          "id": "G3.exact_partition_identity_20261023",
+          "completed": true,
+          "description": "Prove exact native ppci/options/kwargs identity for125+25versus150 and source result mapping with0new nonlinear solves; retain all preparation/reader failures and costs.",
+          "evidence": "outputs/r118_exact_shunt_partition_receipt_independent_v2_20261023/Independent_Audit.json"
+        },
+        {
+          "id": "G3.closed_registry3517_20261023",
+          "completed": true,
+          "description": "Complete old closed3517input registry and independent rational-key audit. Current live study still needs missing-only extension after closure; no autoallocation.",
+          "evidence": "outputs/reflection118_remaining_cases_preparation_20261023/closed_registry_independent/Independent_Audit.json"
+        },
+        {
+          "id": "G3.provider_observer_gate_20261023",
+          "completed": true,
+          "description": "Future observer binding reproduces exact original first commitment/feedback/failure/RNG using41paid physics/7paid model replies,0newscience; current live source unchanged.",
+          "evidence": "outputs/provider_observer_pause_20261023/Results.json"
+        },
+        {
+          "id": "G3.native_all4_dff_20261026",
+          "completed": true,
+          "description": "All4originalDFFcomplete;4851firstnewreturnreplays exact,8exceptions preserved,continuous source/cost auditPASS.",
+          "evidence": "outputs/r118_dff_partition_continuation_independent_20261023/Independent_Audit.json",
+          "verified_at_save": "2026-10-26T07:17:27.676315+00:00"
+        },
+        {
+          "id": "G3.original118_closed_comparison_20261028",
+          "completed": true,
+          "description": "Close both missing original Reflection-v4 suffixes, independently replay1927newreturns and assemble ALL4unchanged matched outcomes, fullcosts and failedgate.",
+          "evidence": "outputs/original118_comparison_completion_20261028/Verified_Completion.json",
+          "verified_at_save": "2026-10-28T18:12:10.994391+00:00"
+        }
+      ],
+      "latest_published_baseline_source": "outputs\\pfdelta_benchmark_source_review_20261019\\Snapshot_Metadata.json",
+      "previous_priority": 3,
+      "benchmark_input_contract_evidence": "outputs\\mapdn_native_contract_v2_20261020\\independent_audit\\Independent_Audit.json",
+      "expanded_published_roster": "outputs/expanded_published_benchmark_roster_20261020/Expanded_Comparator_Roster.json",
+      "source_admission_correction": "outputs/federation_PV_source_admission_correction_20261022/Corrected_Source_Admission.json"
+    },
+    {
+      "priority": 2,
+      "target": "Find an LLM-assisted method aiming for zero UV on all severe federation cases and beat original deterministic DSE safely.",
+      "status": "FOUR_ORIGINAL_ENDPOINTS_CLOSED_NONE_WHOLE_BAND",
+      "done": "All141 recipe coverage indexed; historical severe starts61/60 leave21/15. Prior joint numerical component reached0/1 on two closed pairs, not an LLM or all-case result. New all30 current-mask diagnostic verified:10.78%MAE reduction,8/30UV mismatches unchanged; fixedgateFAIL, stopped. Fixed equal16-followup nonlinear screen verified2wins2ties0losses on4roots:21to16 with fewerops,7to5 sameops. No newLLM or fullDSE episode. All4 cold completequeryhistory/cursor/NETmask states passed; oldLOCALbroker blocked bothwinningfirstvariants. Family-v2 coverageall4/28checks; nativeguardv2 ASTfaithful/5checks. No fresh policy/LLM outcome. New durable paid engine independently reproduces all8 prior decisions/12872 receipts, exact cachedforecasts and fullcosts; realcold dependency componentPASS,0newscience. Fullruntime moduleimplemented, actualfulltrajectory NOT_STARTED. Newfull8branch prospective owner started; actualrealcoldcompletecheckpointPASS; finalphysical/independentauditgate pending. Readerfixtureall8/12872PASS and adverseoldsoftwarefailures preserved. Originalfullstudy stopped at35.23MB decision frame exceeding32MiB checkpoint verifier;2branch endpoints/26replayed commits/25fullcheckpoints source-reported,all4gateUNKNOWN. Originalactorsended. Additive0science preserved-frame independent reader nowlive; originalerrors/source/results retained. Additive history chunk component roundtrips actual35,228,332byte oldrecord exactly;12 fail-closed controls PASS,0newphysics/model. Old26th complete state unrecovered; fullcontrollercoldintegration not certified.18Octsaved-real118NET/allcursorcap/paidregistry/RNG/cost/expireddeadline cold transport +35MBchunkhistory12checksPASS,0science; factoryfollowingqueryintegration stillpending.18Octscopedall26commit auditPASS:17to0online35bothnumericalpolicies,11vs14addedops. NoLLMattribution/full4worldgate. Duplicate35.23MBhistory becomes1.323MBexactrefs/2580queries; referencedcontrollercoldfactory17checksPASS/futurequeriesblocked. Conservativefull-nativev2sizingonlyprepared. Latest actual v2 capacity cold factory17checks and futurequery rejectionPASS;60,377-key lineage attempt frontier independentlyPASS,15solverexceptions retained. No newscientificcalls or all141-case/fullpolicy/LLMclaim. All25 complete checkpoint prefixes independently PASS, actualengine predecision admission8valid/8rejectionsPASS;lazy60377source lookup7boundariesPASS. Fullrecordedpolicyzero-science additive readerlive; fullgateUNKNOWN. Fulloldpolicyreader ended7200sec/exit1:11decision24452query progress only, gateUNKNOWN. All37656primaryinputrefsPASS;1actualcausalperusereceipt saved-native-verifier/ACK+wrongaction/source checksPASS. Archival2580queryhistory9controlsPASS with liveantirollback unchanged.0newscience. New18Octsource-prefix independent audit:line36residual33UVto0,24/25operations,upperguardPASS; missing26thcheckpoint/closure retainedUNKNOWN. Cache/cold/source locks andwhole1576receiptdecisionPASS. All5unstartedgraphgaps explicit;1newcontext+1430forecasts independentlyPASS.",
+      "next": "After primary benchmark milestones, resume completeUV reduction from independent selected33->23->16->12prefix. Last1430-row input inventory stopped at resource-ineligible row,0newscience; preserve failure, do not restart old job. New physical work needs prospective history/native/ownership/preservation gates.",
+      "completed": false,
+      "checklist_id": "G1",
+      "completion_criteria": [
+        "Audit all141 federation recipes and declare the full severe-case roster before new outcomes; missing initial/results stay UNKNOWN.",
+        "Complete matched protected trajectories for every declared severe case, zeroUV with no weakened safety/actions/operation/resource limits.",
+        "Show a prespecified improvement over original DFF,DFF-ALT and unchanged DSE, reporting each branch and FULL BOTH-branch plus model/training/preparation/failure costs.",
+        "Independent source/physical/continuous replay/full-state/cost evidence and unused authorized confirmation."
+      ],
+      "current_result": "DFF51 versus HG-VF26 versus offlineHG-SE20 residualUV; no complete normal-band case among4roots.",
+      "subtasks": [
+        {
+          "id": "G1.1",
+          "completed": true,
+          "description": "Index all 141 federation recipes; retain 68 historical results and 73 missing results as UNKNOWN.",
+          "evidence": "outputs/research_tasks_20261014/All141_Federation_Case_Status.json",
+          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
+        },
+        {
+          "id": "G1.2",
+          "completed": true,
+          "description": "Verify recorded zero-UV transitions on line 35 within the preserved 26-commit audit.",
+          "evidence": "outputs/all_recorded_receding_commits_audit_20261018/Independent_Scoped_Audit.json",
+          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
+        },
+        {
+          "id": "G1.3",
+          "completed": true,
+          "description": "Verify another world, line 36: 33 residual UV to zero; retain the missing closure/checkpoint limitations.",
+          "evidence": "outputs/observed_unclosed_zero_state_audit_20261018/Results.json",
+          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
+        },
+        {
+          "id": "G1.4",
+          "completed": true,
+          "description": "Complete independent physical-component indexing of all 60,426 tracked prior PF inputs; both proposed actions have zero component matches.",
+          "evidence": "outputs/prior_physical_query_footprints_20261018/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
+        },
+        {
+          "id": "G1.4a",
+          "description": "Check all 3,418 earlier fresh-root observations using two independent shunt-component equations; retain the observed-table scope limitation.",
+          "evidence": "outputs/fresh_observed_shunt_scope_20261018/Results.json",
+          "completed": true,
+          "verified_at_save": "2026-10-18T16:08:42.621499+00:00"
+        },
+        {
+          "id": "G1.4b",
+          "description": "Pass exact cold native-input matching and mutation checks on samples from all ten source journals.",
+          "evidence": "outputs/strict_saved_native_input_match_v2_20261018/Results.json",
+          "completed": true,
+          "verified_at_save": "2026-10-18T16:08:42.621499+00:00"
+        },
+        {
+          "id": "G1.5",
+          "completed": true,
+          "description": "Finish the relevant-history and execution checks; freeze the exact next query protocol, warm/cold preservation and independent reader.",
+          "evidence": "outputs/exact_two_paid_query_engineering_20261018/Readiness.json",
+          "verified_at_save": "2026-10-18T18:20:58.164280+00:00"
+        },
+        {
+          "id": "G1.6",
+          "completed": true,
+          "description": "Execute the justified next query test once; preserve every result, failure and cost, then assess its fixed gate.",
+          "evidence": "outputs/exact_two_paid_query_engineering_20261018/audit_source_claim_v2/Independent_Audit.json",
+          "verified_at_save": "2026-10-18T18:20:58.164280+00:00"
+        },
+        {
+          "id": "G1.7",
+          "completed": false,
+          "description": "Complete matched, protected hybrid/DFF/DFF-ALT/DSE and strong numerical trajectories across the entire declared severe-case roster.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G1.8",
+          "completed": false,
+          "description": "Independently confirm zero UV across that roster and the prespecified improvement over deterministic control.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G1.outer4_20261022",
+          "completed": true,
+          "description": "Measure all4unrestoreddevelopment roots with one fixed necessary radial outer LP each and independent exactrationalcertificate checker;0certificates/all4UNKNOWN, no newPF/model.",
+          "evidence": "outputs/public13_radial_outer_unentered_v2_independent_20261022/Independent_Audit.json",
+          "verified_at_save": "2026-10-21T21:44:15.718637+00:00"
+        }
+      ],
+      "latest_query_engineering": {
+        "at_utc": "2026-10-18T18:20:58.164280+00:00",
+        "status": "COMPLETE_FIXED_TWO_QUERY_ENGINEERING_INDEPENDENT_PASS",
+        "independent_audit": {
+          "status": "PASS_COMPLETE_FIXED_TWO_QUERY_WARM_COLD_AND_CHARGED_REPLAY_ENGINEERING",
+          "counts": {
+            "PF_attempts": 4,
+            "PF_returns": 4,
+            "PF_exceptions": 0,
+            "new_query_PF_attempts": 2,
+            "continuous_replay_PF_attempts": 2
+          },
+          "PF_seconds": 11.198982799993246,
+          "costs": {
+            "PF_attempts": 4,
+            "PF_returns": 4,
+            "PF_exceptions": 0,
+            "PF_seconds": 11.198982799993246,
+            "new_query_PF_attempts": 2,
+            "continuous_replay_PF_attempts": 2,
+            "preservation_seconds": 0.9258079999926849,
+            "new_model_calls": 0,
+            "new_optimizer_steps": 0,
+            "new_derivative_forecast_linear_solve_calls": 0
+          },
+          "query_outcomes": [
+            {
+              "row": {
+                "donor_bus": 32,
+                "donor_index": 16,
+                "kind": "equal_owned_reallocation",
+                "q": 100.0,
+                "receiver": 42,
+                "universe_index": 602
+              },
+              "verdict": {
+                "accepted": false,
+                "after": {
+                  "deficit_sum": 0.208687535231581,
+                  "ov_count": 1,
+                  "uv_count": 14,
+                  "vmax": 1.0554550647282228,
+                  "vmean": 0.9777059855334896,
+                  "vmin": 0.9031547027975366
+                },
+                "before": {
+                  "deficit_sum": 0.37733194380645085,
+                  "ov_count": 0,
+                  "uv_count": 17,
+                  "vmax": 1.05,
+                  "vmean": 0.9749132387756779,
+                  "vmin": 0.892167898232881
+                },
+                "converged": true,
+                "normal_upper_band_admissible": false,
+                "original_native_accepted": true,
+                "reason": "normal_upper_band_mediation"
+              },
+              "original_score": [
+                -999,
+                -999,
+                -999,
+                -999,
+                -999
+              ]
+            },
+            {
+              "row": {
+                "donor_bus": 0,
+                "donor_index": 14,
+                "kind": "equal_owned_reallocation",
+                "q": 25.0,
+                "receiver": 44,
+                "universe_index": 343
+              },
+              "verdict": {
+                "accepted": false,
+                "after": {
+                  "deficit_sum": 0.30520989211600524,
+                  "ov_count": 1,
+                  "uv_count": 18,
+                  "vmax": 1.0500403307298414,
+                  "vmean": 0.9758375480635458,
+                  "vmin": 0.8981737479990335
+                },
+                "before": {
+                  "deficit_sum": 0.37733194380645085,
+                  "ov_count": 0,
+                  "uv_count": 17,
+                  "vmax": 1.05,
+                  "vmean": 0.9749132387756779,
+                  "vmin": 0.892167898232881
+                },
+                "converged": true,
+                "normal_upper_band_admissible": false,
+                "original_native_accepted": false,
+                "reason": "uv_increased"
+              },
+              "original_score": [
+                -999,
+                -999,
+                -999,
+                -999,
+                -999
+              ]
+            }
+          ],
+          "cold_restore_verified": true,
+          "all118_replay_tolerance": 1e-10,
+          "failure_or_unstarted_phases": [],
+          "original_verifier_and_native_BEFORE_inputs_checked": true,
+          "query_only_no_actual_commits": true,
+          "new_model_PF_derivative_factor_solve_calls": 0,
+          "whole_policy_DSE_LLM_superiority": "NOT_TESTED",
+          "prior_source_costs": "Retained by source references; not imputed per call, waived or pooled into a deployment speed claim.",
+          "workflow_seconds": 1.6770726000031573
+        },
+        "not_a_policy_LLM_superiority_test": true
+      },
+      "new_roster_binding": "outputs/all141_benchmark_roster_20261018/Independent_Roster_Check.json",
+      "new_exact_followups": "outputs/remaining_fixed_followup_preparation_20261018/Exact_Remaining_Followups.json",
+      "latest_20261019_query_acquisition": "outputs\\remaining_three_fixed_queries_20261019\\verified_completion\\Verified_Completion.json",
+      "latest_20261019_four_query": "outputs\\fixed_four_query_acquisition_20261019\\verified_checkpoint\\Verified_Research_Checkpoint.json",
+      "latest_20261019_third_point": "outputs\\research_execution_20261019_continued\\Verified_Execution_Checkpoint.json",
+      "previous_priority": 1,
+      "priority_before_20261023_correction": 3
+    },
+    {
+      "priority": 3,
+      "target": "Find a published physical dataset/test set and test our model on it.",
+      "status": "PUBLIC_NATIVE_BASELINES_COMPLETE_FULL_OUR_MODEL_ROLE_AND_FAIR_MATCH_OPEN",
+      "done": "Three official PGLib IEEE118 variants pinned to an exact commit, raw files/license retained, matrix references checked. No model/PF outcomes measured. Actual3NET imports and independent raw-matrix/bus/zone/load/limit auditPASS; no PF/model outputs yet. All3 rawfixed-nonslack initial dispatch roles analytically violate nativePmax necessary bound; independent exactdecimal shortfalls393.5/2465.32/393.5MW. GeneralOPF/physics/controller feasibility remainsUNKNOWN. NativefullPPC inputclosure all3 independentlyPASS including branchangle limits/objective. ConvertedNET alone notfaithful nativeangle-constrainedOPF sourcecontract. No publicsolver/modelcall. Newall3 nativeACOPF3attempts0returns3exceptions, first Hessian .H sparseAPI compatibilityfailure before Newtonupdate; cost/source/failedidentity audit and archivePASS. No modelbenchmark or physical infeasibility claim. Six exact conjugate-transpose software controls passed without modifying installed/frozen sources or rerunning solver. New18Octall3distinctSLSQPbenchmark actual1attempt100iterations/finalonlyeach; allconstraints/nativeinputs/source/cost auditcomplete, reactivebalance>5e-6 inall3. No threshold/budgetretune, no feasible reference/infeasibilityclaim.",
+      "next": "Implement/freeze the complete matched protected benchmark worker and partial-aware independent reader under Next_Matched_Benchmark_Contract.md. Native and adapted published roles must be separate; exact currentQ and actor namespace must match.",
+      "completed": false,
+      "checklist_id": "G2",
+      "completion_criteria": [
+        "Preserve dataset license/version/native constraints and disclose any necessary role/actuator adaptation.",
+        "Use verified common initialization and frozen model/control interface; run every declared identity with independent physics/full costs."
+      ],
+      "current_result": "Public13 three author policies500cases each complete; our numerical264normal-band cases versusDDPG363, failed gate retained. Public322one engineering point numerical108to0vsTPA108to77,notourLLM or aggregate superiority. Faithful paper-model public role and full matched evaluation remain open.",
+      "subtasks": [
+        {
+          "id": "G2.1",
+          "completed": true,
+          "description": "Pin and audit the full native inputs and constraints of all three published cases.",
+          "evidence": "outputs/public118_native_acopf_reference_20261015/Protocol.json",
+          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
+        },
+        {
+          "id": "G2.2",
+          "completed": true,
+          "description": "Complete and independently report all three fixed SLSQP trials, including their failed feasibility gates.",
+          "evidence": "outputs/public118_slsqp_native_20261018/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
+        },
+        {
+          "id": "G2.3",
+          "completed": false,
+          "description": "Establish a faithful verified public initialization/evaluation contract without rescuing stopped trials by retuning.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G2.4",
+          "completed": false,
+          "description": "Test our actual model/hybrid and equally informed controls on every preregistered public test identity.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G2.4a",
+          "completed": true,
+          "description": "Finite actualmodel outputscreen onALL3local observations of firstpublic13busroot,allcoldoutputs exact. Failednative-rolevalidity,notfull500physicalbenchmark.",
+          "evidence": "outputs/original_lora_native13_transfer_execution_v2_20261020/independent_audit/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T12:10:25.844553+00:00"
+        }
+      ],
+      "latest_published_source_audit": "outputs\\published_benchmark_contract_handoff_20261019\\Verified_Source_Findings.json",
+      "latest_native_public_initialization": "outputs\\pglearn_base_native_ppc_bridge_20261019\\Result.json",
+      "previous_priority": 2,
+      "benchmark_input_contract_evidence": "outputs\\mapdn_native_contract_v2_20261020\\independent_audit\\Independent_Audit.json",
+      "priority_before_20261023_correction": 2
+    },
+    {
+      "priority": 4,
+      "target": "Try higher-parameter small language models and compare each fairly.",
+      "status": "COMPLETE_FIXED_THREE_ENCODER_ARMS_GATE_FAILED_NO_RETUNE",
+      "done": "Adapted0.5B41.6667% and1.5B53.125% teacher-action accuracy, both100%schema; numerical72.9167%, fixed gateFAIL. Public3B/7B screens were different unadapted contracts, not matched scaling. New3B/7B pinnedmodels, exactsame436cached tokenpairs/340FIT96HELD/16kmultiplicities; allscientifictrainer/state/verifier sources byteunchanged, actualPEFTsourceguard added before engineering. TwoactualT4allocations, no fallback/thirdallocation. Final2epochs only; no performance yet.18Octindependentpartialaudit:3B170updates/finalfullstateverified/81outputs42hits81legal/full96upper.59375<numeric.7291667;7BfirstbackwardOOM. Fullpair/reloadunknown; neitherarmmayrestart.",
+      "next": "Implement/freeze the complete matched protected benchmark worker and partial-aware independent reader under Next_Matched_Benchmark_Contract.md. Native and adapted published roles must be separate; exact currentQ and actor namespace must match.",
+      "completed": false,
+      "checklist_id": "G4",
+      "completion_criteria": [
+        "Use the same serving role,data/context/split,training/final-checkpoint rules and evaluation identities; disclose architecture/FLOP/precision differences.",
+        "Record complete outcomes and compute/training/failure costs. Partial/OOM stays partial and is never a successful larger-model result."
+      ],
+      "current_result": "Actual frozen encoder fixed readout: trained0.5B71.875%,public0.5B59.375%,public1.5B64.5833%,numeric75%; failed80%gate. No physical or unused-generalization claim.",
+      "subtasks": [
+        {
+          "id": "G4.1",
+          "completed": true,
+          "description": "Complete the matched adapted 0.5B/1.5B comparison and preserve its failed numerical-control gate.",
+          "evidence": "outputs/matched_scale_20261011/verified_completion_handoff_20261012/Verified_Matched_Scale_Completion.json",
+          "verified_at_save": "2026-10-18T16:06:09.697270+00:00"
+        },
+        {
+          "id": "G4.2",
+          "completed": true,
+          "description": "Audit the larger-model attempts: preserve the 3B partial result, 7B out-of-memory failure and all unknown outputs.",
+          "evidence": "outputs/higher_matched_scale_20261015/partial_evidence_audit_runtime_v2_20261018/Independent_Partial_Audit.json",
+          "verified_at_save": "2026-10-18T16:08:42.621499+00:00"
+        },
+        {
+          "id": "G4.3",
+          "completed": false,
+          "description": "If justified by a materially different mechanism, freeze and complete a fair higher-model comparison; do not repeat size-only failed imitation.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G4.3a",
+          "completed": true,
+          "description": "Complete native causal full3229token jointhead software/context/pairing/cursor gates; no nativepretrainedcall yet.",
+          "evidence": "outputs/native_slm_joint_input_preparation_20261020/Readiness.json",
+          "verified_at_save": "2026-10-20T13:18:50.095381+00:00"
+        },
+        {
+          "id": "G4.3b",
+          "completed": true,
+          "description": "Complete actualpublic1.5B nativejoint-head full3229context/LoRAgradient/memory/completeAdamWscalerRNGcursorACK/freshmodelcold engineering, independentaudit and exactrelease. Two updates disposable,noperformanceclaim.",
+          "evidence": "outputs/native_joint_15_engineering_independent_v2_20261020/Independent_Audit.json",
+          "verified_at_save": "2026-10-20T13:38:55.113347+00:00"
+        },
+        {
+          "id": "G4.3c",
+          "completed": true,
+          "description": "Verify all241same-current serving text/400feature identities,1929native transitions/guards and11negative boundaries; software only, frozen-body extraction unentered.",
+          "evidence": "outputs/native_stationary_serving_boundary_20261020/Readiness.json",
+          "verified_at_save": "2026-10-20T18:18:51.865432+00:00"
+        },
+        {
+          "id": "G4.f118_encoder_readout_20261022",
+          "completed": true,
+          "description": "Complete three actual frozen-encoder arms, cold feature audit and six fixed readout math checks; failed 80% primary gate retained.",
+          "evidence": "outputs/f118_actual_completion_handoff_20261022/Verified_Results_And_Costs.json",
+          "verified_at_save": "2026-10-22T19:45:20.725557+00:00"
+        }
+      ],
+      "previous_priority": 4,
+      "current_active_study": "outputs/f118_encoder_readout_handoff_20261022/Current_Resume.json"
+    },
+    {
+      "priority": 5,
+      "target": "Establish incremental LLM superiority as the long-term main goal, after the preceding tasks.",
+      "status": "FULL_ORIGINAL_COMPARISON_CLOSED_CAUSAL_ADVANTAGE_UNPROVEN",
+      "done": "Physical numerical improvements and scoped language accuracy gains retained separately; no causal LLM advantage over full DSE demonstrated.",
+      "next": "Implement/freeze the complete matched protected benchmark worker and partial-aware independent reader under Next_Matched_Benchmark_Contract.md. Native and adapted published roles must be separate; exact currentQ and actor namespace must match.",
+      "completed": false,
+      "checklist_id": "G5",
+      "completion_criteria": [
+        "Fresh per-state LLM inference and matched complete physical outcomes.",
+        "With/without-LLM ablations under identical information/actions/protection/budgets, plus strong numerical and architecture/pretraining controls.",
+        "Prespecified improvement after full model/training/preparation/solver/failure costs and independent unused confirmation."
+      ],
+      "current_result": "Descriptive hybrid UV benefit on3/4developmentroots; oneUVloss and2additionalOVcases. Attribution remains open.",
+      "subtasks": [
+        {
+          "id": "G5.1",
+          "completed": false,
+          "description": "Freeze an evidence-supported causal LLM contribution and complete ablation/attribution protocol.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G5.2",
+          "completed": false,
+          "description": "Execute matched fresh-inference physical comparisons with full costs.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G5.3",
+          "completed": false,
+          "description": "Independently validate the incremental contribution on unused authorized confirmation.",
+          "evidence": null,
+          "verified_at_save": null
+        }
+      ],
+      "previous_priority": 5
+    },
+    {
+      "priority": 6,
+      "target": "Implement and test cybersecurity after the preceding validated control/attribution gates.",
+      "status": "DEFERRED_UNTIL_CONTROL_AND_ATTRIBUTION_GATES",
+      "done": "Prior24-trial96-proposal QA development pilot preserved; not full FDIA/security validation.",
+      "next": "Once control and attribution survive, freeze causal threat model, attack/defence comparisons, protected physical outcomes and independent replay.",
+      "completed": false,
+      "checklist_id": "G6",
+      "completion_criteria": [
+        "Freeze a causal threat model and matched attack/defence baselines.",
+        "Measure full protected physical outcomes, attack/defence costs and independent confirmation; retain all failures."
+      ],
+      "current_result": "Deferred until control and attribution gates pass. The earlier 24-trial, 96-proposal QA study remains a development pilot, not full security validation.",
+      "subtasks": [
+        {
+          "id": "G6.1",
+          "completed": false,
+          "description": "After control/attribution gates, define attacks,defences,causal access and security acceptance criteria.",
+          "evidence": null,
+          "verified_at_save": null
+        },
+        {
+          "id": "G6.2",
+          "completed": false,
+          "description": "Run matched attack/defence experiments and independently confirm physical security outcomes.",
+          "evidence": null,
+          "verified_at_save": null
+        }
+      ],
+      "previous_priority": 6
+    }
+  ],
+  "process_ownership_at_save": {
+    "numeric_primary": {
+      "output": "outputs/public13_matched_numeric_execution_20261021",
+      "actual_pid": 24572,
+      "parent_pid": 25000,
+      "source_sha256": "7b82834affe6149795bd08a1badad30fbd85a1b4e552ef1f2dc7d9c30692f103",
+      "at_utc": "2026-10-21T17:10:54.444330+00:00",
+      "fresh_exact_command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_public13_matched_numeric_20261021.py",
+      "exec_session": 39727,
+      "science_fixed_seconds": 7200,
+      "process_fixed_seconds": 7500,
+      "reader_fixed_seconds": 7200
+    },
+    "sole_coordinator": {
+      "output": "outputs/public13_matched_numeric_handoff_20261021",
+      "actual_pid": 27116,
+      "parent_pid": 25120,
+      "source_sha256": "6992fefbf5d335a2d061562758b16cb4ff9d6884905867de49f2b93901100182",
+      "at_utc": "2026-10-21T17:10:53.700372+00:00",
+      "fresh_exact_command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/coordinate_public13_matched_numeric_20261021.py"
+    }
+  },
+  "scientific_limits": "ZeroUV and superiority are targets, not guaranteed attainability or90%winning confidence. Old stopped/partial studies and original frozen assets stay preserved.",
+  "latest_verified_research": {
+    "at_utc": "2026-10-19T13:21:16.712562+00:00",
+    "status": "NEXT_EXACT_NUMERIC_DEPENDENCY_COMPLETE_ACK_REUSE_VALIDATED_SOLE_READONLY_POLICY_CONTINUATION_LIVE",
+    "all6finalgoals": "OPEN",
+    "previous_readonly_result": {
+      "output": "outputs/resumed16_with_fixed_followup_receipts_v2_20261019",
+      "exit_code": 0,
+      "status": "UNKNOWN_MissingPaidNumericalContext",
+      "selected_prefix": [
+        33,
+        23,
+        16
+      ],
+      "missing_identity": "bfeba1e3ad7a5e4b1df6dab46d4bc45c86d8c8526920f50f370f32c64b326802",
+      "workflow_seconds": 451.37187280000944,
+      "new_scientific_calls": 0
+    },
+    "waiting_timer": "hiergrid-fixed-follow-up-policy-result-check DELETED after actual prior owner terminal. No recurring monitor revived.",
+    "new_numeric_context": {
+      "status": "PASS_SINGLE_EXACT_CURRENT_MASK_CONTEXT_AND_ALL_MENU_FORECAST_EQUATIONS_COSTS_SOURCE_MANIFEST",
+      "identity": "bfeba1e3ad7a5e4b1df6dab46d4bc45c86d8c8526920f50f370f32c64b326802",
+      "forecasts": 1391,
+      "m_equation_maxdelta": 3.1776437161565096e-14,
+      "a_equation_maxdelta": 5.783398860650275e-14,
+      "JXminusB_maxresidual": 3.5900644436426266e-17,
+      "actual_numeric_costs": {
+        "public_derivative_attempts": 1,
+        "public_derivative_returns": 1,
+        "LU_factor_attempts": 1,
+        "LU_factor_returns": 1,
+        "LU_solve_attempts": 1,
+        "LU_solve_returns": 1,
+        "RHS_columns": 118,
+        "exact_context_reuses": 0,
+        "compile_seconds": 0.1733516999956919
+      },
+      "new_nonlinear_PF_model_optimizer_controller_commit_calls": 0,
+      "reader_scientific_calls": 0,
+      "workflow_seconds": 1.9815368999989005,
+      "limits": "Ordering data only. Nonlinear successor/complete-policy/LLM superiority not measured."
+    },
+    "new_numeric_actual_result": {
+      "status": "COMPLETE_SINGLE_CURRENT_MASK_CONTEXT_ALL_DECLARED_MENU_FORECASTS",
+      "identity": "bfeba1e3ad7a5e4b1df6dab46d4bc45c86d8c8526920f50f370f32c64b326802",
+      "numeric_costs": {
+        "public_derivative_attempts": 1,
+        "public_derivative_returns": 1,
+        "LU_factor_attempts": 1,
+        "LU_factor_returns": 1,
+        "LU_solve_attempts": 1,
+        "LU_solve_returns": 1,
+        "RHS_columns": 118,
+        "exact_context_reuses": 0,
+        "compile_seconds": 0.1733516999956919
+      },
+      "forecast_attempts": 1391,
+      "forecast_returns": 1391,
+      "before": {
+        "vmin": 0.9008630527340583,
+        "vmax": 1.05,
+        "vmean": 0.978019886083155,
+        "uv_count": 12,
+        "ov_count": 0,
+        "deficit_sum": 0.21966211179947814
+      },
+      "new_nonlinear_PF_LLM_optimizer_controller_commit_calls": 0,
+      "journal_last_sha256": "91ce81b6cd44b05ae072e8ebe489927dfcaf2ca417f13633f4682b4a996d138f",
+      "workflow_seconds": 76.52363260000129,
+      "CPU_seconds": 3.765625
+    },
+    "full_native_menu_ACK": {
+      "status": "PASS_EXACT_COMPLETE_SOURCE_NATIVE_MENU_NOT_A_FAVORABLE_SUBSET",
+      "all_forecast_keys": 1391,
+      "source_frontier_sha256": "b99627566e9db13e81f74ede957621014067d97f7be1c4b349364f966fbf4395",
+      "new_PF_model_calls": 0
+    },
+    "prior_fixture_failure": {
+      "status": "FAILED_ZERO_SCIENCE_IDENTITY_FIXTURE_ACK_SHARING_TRANSIENT",
+      "original_source_sha256": "383be33172735c333628078dad079bf0996c325ccc690690d3ec30e2ac961dcc",
+      "traceback_reference": "fixture_console.log; File PermissionError reading own atomic Launcher_ACK before numerical work.",
+      "actual_worker_started": false,
+      "actual_directory_exists": false,
+      "new_scientific_calls": 0,
+      "old_sources_bounds_outputs_retained": true,
+      "mechanical_future_repair": "Separate new namespace, same exact ACK bounded parse/sharing-transient reread before actual PID/parent/source validation. No ACL changes, old-worker restart or actual science retry."
+    },
+    "exact_owned_ACK_read_recovery_gate": {
+      "status": "PASS_ACTUAL_WINDOWS_EXCLUSIVE_ACK_READ_TRANSIENT_NO_PERMISSION_CHANGE",
+      "source_sha256": "50f0ab121b78d6d77fdadc81ef97f56dd11d4eb8eca3835237df0705b137a0f3",
+      "reader_source_sha256": "c073aa430ee340a4f4e344fdeaff42002e5f481ba3803116e50f70e7b507a4b2",
+      "observed_errors": {
+        "PermissionError": 16
+      },
+      "same_exact_JSON_recovered": true,
+      "new_scientific_calls": 0,
+      "scope": "Own ACK file only; bounded read, no restart, ACL changes, alternative profile or scientific work."
+    },
+    "paid_certificate_reuse_gates": {
+      "original_import_and4mutations": {
+        "status": "PASS_ACTUAL_EXISTING_ACK_IMPORT_AND_FOUR_SOURCE_IDENTITY_MUTATIONS",
+        "positive": "outputs\\resumed16_with_fixed_followup_receipts_v2_20261019\\verified_uses\\acks\\0056257243dfa891eb16390909600a94fec8173dc0e472738b28c298d433a48b.json",
+        "positive_sha256": "24458e6777fbfe3a8c165af0311d3b6920d09329aeaca55adc1f5fb628566207",
+        "mutations_rejected": [
+          "point_action_key",
+          "source_protocol_sha256",
+          "checked_record_sha256",
+          "native_source_bound_reader_sha256"
+        ],
+        "unchanged_original_validator": true,
+        "new_scientific_calls": 0,
+        "workflow_seconds": 2.557717400006368,
+        "limits": "Software reuse gate only. Does not prove new physical trajectory, performance or LLM benefit. All prior CPU verification/source/PF costs remain separately paid."
+      },
+      "immutable_ZIP_transport_fixture": {
+        "status": "PASS_REAL_IMMUTABLE_ZIP_ACK_TRANSPORT_UNCHANGED_IMPORT_AST_AND_UNKNOWN_MEMBER_REJECTION",
+        "source_sha256": "dacc094009817b0abc606abe8b8779554d50feada7d10d4b74dabf3d9a2657a8",
+        "proof": {
+          "status": "PASS_IMPORTED_EXACT_SOURCE_BOUND_PRIOR_ACKS_WITH_UNCHANGED_VALIDATOR_AST",
+          "imported": 1,
+          "bundle_sha256": "aa099fab083f764dba3bdd7b110e41268c645db79a577bcb564a03afbfc46cf3",
+          "source_closed_manifest_sha256": "1db7fa56f6a623eaf35ae68a9fff26aed753cbc0e463010ca48a6f7f0faa6889",
+          "prior_workflow_seconds_retained": 451.37187280000944,
+          "prior_certificate_workflow_seconds_retained": 237.97530130011728,
+          "this_import_workflow_seconds": 0.05299369999556802,
+          "new_scientific_calls": 0,
+          "limitations": "Analytical preservation efficiency, not a controller/LLM deployment-speed or superiority claim. Future job must source-lock ZIP/metadata/code before importing."
+        },
+        "new_scientific_calls": 0,
+        "workflow_seconds": 2.71516760000668,
+        "limits": "Preservation/analysis software only. All original physical/source/verification costs remain paid and no controller or LLM performance conclusion follows."
+      },
+      "actual_import_proof": {
+        "status": "PASS_IMPORTED_EXACT_SOURCE_BOUND_PRIOR_ACKS_WITH_UNCHANGED_VALIDATOR_AST",
+        "imported": 697,
+        "bundle_sha256": "aa099fab083f764dba3bdd7b110e41268c645db79a577bcb564a03afbfc46cf3",
+        "source_closed_manifest_sha256": "1db7fa56f6a623eaf35ae68a9fff26aed753cbc0e463010ca48a6f7f0faa6889",
+        "prior_workflow_seconds_retained": 451.37187280000944,
+        "prior_certificate_workflow_seconds_retained": 237.97530130011728,
+        "this_import_workflow_seconds": 25.616255599990836,
+        "new_scientific_calls": 0,
+        "limitations": "Analytical preservation efficiency, not a controller/LLM deployment-speed or superiority claim. Future job must source-lock ZIP/metadata/code before importing."
+      }
+    },
+    "current_owner": {
+      "actual_pid": 11300,
+      "parent_shim_pid": 14840,
+      "source": "work/resume16_next_context_ack_reuse_20261019.py",
+      "claim": "outputs/resumed16_next_context_ack_reuse_20261019/owner.claim",
+      "output": "outputs/resumed16_next_context_ack_reuse_20261019",
+      "exec_session": 31293,
+      "fixed_readonly_bound_seconds": 900,
+      "new_scientific_calls_allowed": 0
+    },
+    "last_confirmed_selected_prefix": [
+      33,
+      23,
+      16
+    ],
+    "new_policy_result": "PENDING_ACTUAL_CLOSED_RESULT",
+    "new_PF_model_optimizer_calls_this_continuation": 0,
+    "GPU": "No allocation. Prior all4followup physics still preserved3safe12to9/1unsafe rejected8PF, not repeated.",
+    "next_tasks": [
+      "Finish only actual current read-only source; inspect closed Results/Leg/manifest and exact owner end. No duplicate or restart.",
+      "Preserve actual next UNKNOWN context/query or supported selected step. New physical/numeric identity still needs prospective source/input/fullmenu/relevant-attempt history/ownership/preservation/independent reader/fullcost gates.",
+      "Use one estimated waiting check only if current confirmed-live result is sole dependency and no useful ready parallel task remains; rearm if live, DELETE at terminal.",
+      "Public model task/strong controls remain pending; all36PFDelta inputs and prior failures retained, no guard clipping or filtered benchmarks."
+    ],
+    "cost_limits": "Retain original697certificate computation and all prior PF/model/training/preparation/failure costs. Certificate import is an analytical preservation mechanism, not online controller/LLM deployment speed or superiority.",
+    "last_verified_GitHub_head": "3022ab5e3bb98f7ed26402a417bfd695c29e4759",
+    "this_snapshot_publication": "PENDING",
+    "scientific_limits": "All6finalgoalsOPEN; complete matched physical policy/DSE/LLM superiority/all-severe zero/security unachieved. Preserve literalDFF+DFFALT+unchangedselector/individualbranches/FULLBOTHcosts/frozenassets/unsafe/partial/UNKNOWN."
+  },
+  "latest_verified_resume": "NUMERICAL500_AND_BOTH_MODEL_TESTS_CLOSED_ALL_GATES_REPORTED_NO_ACTIVE_OWNERS",
+  "latest_public_native_benchmark_input": "outputs\\public118_native_benchmark_input_closure_20261015\\Verified_Input_Findings_And_Next_Benchmark.md",
+  "latest_exact_execution_state": "outputs/original_reflection_native_role_handoff_20261022/Current_Resume.json",
+  "master_checklist": "RESEARCH_TASKS.md",
+  "goal_completion_rule": "Check and strike through a top-level goal ONLY after all its evidence-bound acceptance criteria pass. An executed failed/partial experiment can be a completed reporting step, never a passed goal.",
+  "maintenance_rule": "At each continuation read RESEARCH_TASKS.md plus newest headers/exact resume. At each verified result update stable subtask IDs, status/current_result/evidence, reseacrh progress.txt and exact resume. Preserve earlier results/failures and never repeat completed or stopped experiments.",
+  "scheduled_continuation": {
+    "automation_id": "hiergrid-9-06-pm-continuation",
+    "status": "TRIGGERED_REQUESTED_TIME_START_ONLY_AUTOMATION_DELETED",
+    "start_UTC": "2026-10-18T18:06:00+00:00",
+    "start_Asia_Qatar": "2026-10-18 21:06",
+    "human_instruction": "Start at9:06PM and continue substantive authorized work while usage is available; preserve progress/checklist and exact resume before limits. Respect actual usageLimited; no promised reset or invented token-consuming work.",
+    "entry_task": "G1.5",
+    "master_checklist": "RESEARCH_TASKS.md",
+    "resume": "outputs/substantive_research_progress_20261018/Exact_Next_Execution_State.json",
+    "created_at_UTC": "2026-10-18T16:14:56.959207+00:00",
+    "scientific_jobs_started_before_scheduled_time": 0
+  },
+  "latest_at_utc": "2026-10-20T05:58:21.034250+00:00",
+  "latest_resume": "outputs/research_resumption_20261028/Current_Resume.json",
+  "latest_human_instruction": "Original-paper/full Reflection-v4/new-controller/external published methods on identical federation cases first; assess superiority honestly.",
+  "priority_order": [
+    "G3",
+    "G1",
+    "G2",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "updated_at_utc": "2026-10-28T18:12:10.994391+00:00",
+  "last_verified_GitHub": "899c08fd95873ffff6917e5eff97b9a77287aee5",
+  "GitHub_all7_exact_downloaded_bytes": true,
+  "verified_GitHub_receipt": "outputs/native118_parallel_gates_and_wait_20261023/Verified_GitHub_Receipt.json",
+  "publication_updated_at_utc": "2026-10-22T04:56:56.113181+00:00",
+  "latest_verified_GitHub": "48de4fda0cb7220b3a18a6cacb784d1d35f46b58",
+  "latest_status_at_utc": "2026-10-28T18:12:10.994391+00:00",
+  "current_owned_jobs": [],
+  "current_GPU_assignments": 0,
+  "waiting_automations": [],
+  "latest_contract_scope_addendum": "outputs\\reflection118_chronological_handoff_20261022\\contract_scope_addendum\\Identity_And_Next_Task_Addendum.json",
+  "latest_verified_update": "ALL4_ORIGINAL_NATIVE_ENDPOINTS_INDEPENDENTLY_CLOSED_FIXED_GATE_FAIL",
+  "all6_final_goals": "OPEN",
+  "current_waiting_automations": [],
+  "actual_goal_tool_status": null
+}
