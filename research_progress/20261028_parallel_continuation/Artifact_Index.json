@@ -1,0 +1,153 @@
+{
+  "at_utc": "2026-10-28T17:08:30.313866+00:00",
+  "members": [
+    {
+      "path": "work/check_response_transport_20261028.py",
+      "bytes": 5111,
+      "sha256": "61a62a97c03a96783905cb926b08a40d1f77221e11a0046e92da78cb7a533696"
+    },
+    {
+      "path": "work/immutable_response_transport_20261028.py",
+      "bytes": 2484,
+      "sha256": "8b2ee6323649360875cebe3c831225f84d7146413a86514f1d83c1cd69ac1426"
+    },
+    {
+      "path": "work/reconstruct_interrupted_frontiers_20261028.py",
+      "bytes": 4626,
+      "sha256": "2acd80cde0a482e0b4518324f32def7c89b142eecce75b2273ee1131c983ae3a"
+    },
+    {
+      "path": "work/extend_original_case_registry_20261028.py",
+      "bytes": 5414,
+      "sha256": "318259454bcebb295e6a73b806046adf5257834484b767e55324e201654ba690"
+    },
+    {
+      "path": "work/check_pending_source_state_20261028.py",
+      "bytes": 6097,
+      "sha256": "07f70b0c9cc89d944693ae9ed26fdd57d674d5fd9d458b305c55443c19a58b23"
+    },
+    {
+      "path": "work/original_case_missing_suffix_20261028.py",
+      "bytes": 3942,
+      "sha256": "0d963ef59911d8ae94997727d2d4256926975b24e39c3fc66e7b519b14fd1d49"
+    },
+    {
+      "path": "work/check_missing_suffix_integration_20261028.py",
+      "bytes": 2812,
+      "sha256": "1cf8356581403f3376de98572db0e06fa52d55e2b950fe0dafbfe1b90188123b"
+    },
+    {
+      "path": "work/original_missing_suffix_core_20261028.py",
+      "bytes": 458,
+      "sha256": "671dbc667984090fd5a0140c68f019a382b3c045f895d329d41dea3faf904be0"
+    },
+    {
+      "path": "work/run_original_missing_suffix_local_20261028.py",
+      "bytes": 9025,
+      "sha256": "b1309257492685a9b7665173fe160daa30e91d43db7f2baf87f40156b83760af"
+    },
+    {
+      "path": "work/run_original_missing_suffix_colab_20261028.py",
+      "bytes": 21845,
+      "sha256": "0711697e6df6505be5877ff67248957bcaec8dca536a1f892ac590853a8736d4"
+    },
+    {
+      "path": "work/audit_original_missing_suffix_20261028.py",
+      "bytes": 10078,
+      "sha256": "7192bc54cddd4bed9eb096fa73250e29c1b6d54fea4a426fb4244949974b7a7b"
+    },
+    {
+      "path": "work/freeze_original_missing_suffix_20261028.py",
+      "bytes": 6944,
+      "sha256": "9af66ae4fa7d7870509ad27950dca4b830a9b0059c00d7753f513afb67bfd5e8"
+    },
+    {
+      "path": "work/coordinate_original_missing_suffix_20261028.py",
+      "bytes": 1752,
+      "sha256": "6afd5b333d91104f496c473e3c13a1c6f44a5960c6aed995b14739ea3f826f48"
+    },
+    {
+      "path": "work/write_thesis_closure_addendum_20261028.py",
+      "bytes": 15100,
+      "sha256": "8895b8db6c9b5649d345d154974b20de71eb3456db73a4b747ea01d998c62b27"
+    },
+    {
+      "path": "work/recover_rag_evaluation_contract_20261028.py",
+      "bytes": 8938,
+      "sha256": "e3c66d3d900ded2f64e9bb9b703d83d556a5c3608a2b2888f11b3c846ff368c8"
+    },
+    {
+      "path": "work/assemble_original118_closed_comparison_20261028.py",
+      "bytes": 9446,
+      "sha256": "b337ae3b60e5cb5db4761ba09a5fe2664e7f413927606b27fb51b2e20b33b973"
+    },
+    {
+      "path": "work/record_parallel_progress_20261028.py",
+      "bytes": 6931,
+      "sha256": "a5059fbc31f4975b90c1184792a5ffd9747c9c4869df7ef761041bb8b79122eb"
+    },
+    {
+      "path": "work/package_parallel_progress_20261028.py",
+      "bytes": 5985,
+      "sha256": "22a03857647306e0ab964ea89d43e05f97e0a13a38a4c50d742c4ce6617a078e"
+    },
+    {
+      "path": "outputs/missing_suffix_integration_20261028/Results.json",
+      "bytes": 1043,
+      "sha256": "eedec470cf99abfb3861698bd607cd07b0349add988845846ad1aef34d1ea282"
+    },
+    {
+      "path": "outputs/original118_analysis_binding_20261028/Prepared_Analysis_Lock.json",
+      "bytes": 1036,
+      "sha256": "97d5ba95fe42f7b0cf159c1cd47e1b6faf16cc9d994fffcf9c5febd723ceed42"
+    },
+    {
+      "path": "outputs/thesis_research_closure_20261028/Contribution_And_Verifier_Source_Record.json",
+      "bytes": 2810,
+      "sha256": "cfa4be7d6bef32c58cabfc4640e32576ccbc5bbb1d041baffcd2bd42a8c4eab5"
+    },
+    {
+      "path": "outputs/thesis_research_closure_20261028/Source_Contract_And_Contribution_Addendum.md",
+      "bytes": 6741,
+      "sha256": "18d5e4aa03bcb127de4e8724fea2d8b0d98e1297cdd344ab1595bae0a6bc5be5"
+    },
+    {
+      "path": "outputs/thesis_research_closure_20261028/Insert_Visual_QA.json",
+      "bytes": 482,
+      "sha256": "ae43b41acaa3808993afbbf932c8a210a381ba09f69599e6d72cdc3f30838ab3"
+    },
+    {
+      "path": "outputs/rag_evaluation_contract_recovery_20261028/Recovered_Evaluation_Contract.json",
+      "bytes": 6531,
+      "sha256": "66de28f3fa8401b852213c865fd06a358fea78a6317fcd88682588eea403d895"
+    },
+    {
+      "path": "outputs/rag_evaluation_contract_recovery_20261028/Findings_And_Remaining_Contract.md",
+      "bytes": 1852,
+      "sha256": "fd7589ee7b809113008cb0d3a662db6de29926ea45f3400ac7f07afa1a80e3f3"
+    },
+    {
+      "path": "outputs/original_missing_suffix_preparation_20261028/case_01/Frozen_Engineering_Protocol.json",
+      "bytes": 17313,
+      "sha256": "8f2a552f180ad0327d968f58c53683ab7d874fcce0ca7fe5945a5adfd13fd4ac"
+    },
+    {
+      "path": "outputs/original_missing_suffix_preparation_20261028/case_01/Launch_Readiness_Audit.json",
+      "bytes": 9792,
+      "sha256": "c051fe05aebdb2bc317c31e8738bb7514dcbcaf6f77c0f7a4f08dc970dfc969f"
+    },
+    {
+      "path": "outputs/original_missing_suffix_preparation_20261028/case_03/Frozen_Engineering_Protocol.json",
+      "bytes": 17316,
+      "sha256": "7cfb2406c5de4fd0ec885d0aa12ad52170cbc458b3605c3036bff27a9f73e29e"
+    },
+    {
+      "path": "outputs/original_missing_suffix_preparation_20261028/case_03/Launch_Readiness_Audit.json",
+      "bytes": 9794,
+      "sha256": "1c82518b24f92e4edd122bf04ef91d6b03684901a2ae2a999f92ef00deaf2b9a"
+    }
+  ],
+  "archive_crc_and_all_member_hashes": "PASS",
+  "excluded": "Private adapters/weights, NETs, checkpoints, raw notebook sources and500QAtranscript, credentials, live endpoint payloads. This is not a complete raw backup.",
+  "scope": "Source/readiness and documentation snapshot, not a completed performance result."
+}
