@@ -1,0 +1,445 @@
+{
+  "at_utc": "2026-10-28T19:03:52.880927+00:00",
+  "status": "NAVIGATION_COMPLETE_UNDERLYING_REPRODUCIBILITY_GAPS_EXPLICIT",
+  "tables": [
+    {
+      "table": "2.1",
+      "caption": "Table 2.1 Comparison roles in the reviewed literature",
+      "status": "LITERATURE_ROLE_SUMMARY",
+      "records": [
+        {
+          "path": "outputs/thesis_expanded_20261028/Thesis_Source_and_Claim_Record.json",
+          "sha256": "9ebb62b8a8aecded275c5f77c4eb6dea41a7a703d29f6691400a6afcc8144fe4",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "Literature references; no common-experiment performance is claimed. Closest-method/source update remains open."
+    },
+    {
+      "table": "3.1",
+      "caption": "Table 3.1 Candidate contribution and documented collaborator roles",
+      "status": "CANDIDATE_CONFIRMED_AND_DOCUMENTED_COLLABORATOR_ROLES",
+      "records": [
+        {
+          "path": "outputs/thesis_research_closure_20261028/Contribution_And_Verifier_Source_Record.json",
+          "sha256": "cfa4be7d6bef32c58cabfc4640e32576ccbc5bbb1d041baffcd2bd42a8c4eab5",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/thesis_expanded_20261028/Thesis_Source_and_Claim_Record.json",
+          "sha256": "9ebb62b8a8aecded275c5f77c4eb6dea41a7a703d29f6691400a6afcc8144fe4",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "Detailed RAG and provisional coauthor allocations are unresolved."
+    },
+    {
+      "table": "6.1",
+      "caption": "Table 6.1 Metric interpretation and evidence boundaries",
+      "status": "METRIC_AND_SCOPE_DEFINITION",
+      "records": [
+        {
+          "path": "outputs/thesis_research_closure_20261028/Contribution_And_Verifier_Source_Record.json",
+          "sha256": "cfa4be7d6bef32c58cabfc4640e32576ccbc5bbb1d041baffcd2bd42a8c4eab5",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/original118_closed_comparison_20261028/Comparison.json",
+          "sha256": "ca1b209d56f76a2c0710bd601a3df49a50189bba1cf7aae55eb7b9eabeb97265",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "Definitions are not a complete AC or dynamic-security certificate."
+    },
+    {
+      "table": "6.2",
+      "caption": "Table 6.2 Conditions checked by the original verifier and conditions not certified",
+      "status": "STATIC_EXECUTED_SOURCE_CONTRACT",
+      "records": [
+        {
+          "path": "outputs/thesis_research_closure_20261028/Contribution_And_Verifier_Source_Record.json",
+          "sha256": "cfa4be7d6bef32c58cabfc4640e32576ccbc5bbb1d041baffcd2bd42a8c4eab5",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "Source functions and hashes are anchored; untested operational conditions remain untested."
+    },
+    {
+      "table": "7.1",
+      "caption": "Table 7.1 Evidence groups used in the thesis",
+      "status": "MIXED_EVIDENCE_SCOPE_ROSTER",
+      "records": [
+        {
+          "path": "outputs/thesis_expanded_20261028/Thesis_Source_and_Claim_Record.json",
+          "sha256": "9ebb62b8a8aecded275c5f77c4eb6dea41a7a703d29f6691400a6afcc8144fe4",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/original118_closed_comparison_20261028/Comparison.json",
+          "sha256": "ca1b209d56f76a2c0710bd601a3df49a50189bba1cf7aae55eb7b9eabeb97265",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/rag_evaluation_contract_recovery_20261028/Recovered_Evaluation_Contract.json",
+          "sha256": "66de28f3fa8401b852213c865fd06a358fea78a6317fcd88682588eea403d895",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/matched_scale_20261011/verified_completion_handoff_20261012/Verified_Matched_Scale_Completion.json",
+          "sha256": "0b3a21a86e1447968b0d0fc0e763babfbf2fac38e9db14e1ccb8f0d484683914",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/public13_matched_numeric_comparison_20261021/Matched_Comparison_And_Fixed_Decision.json",
+          "sha256": "7f18244866463e3f09ced4922db8f8fb45ae813804fa886547442ab27bef5428",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "Distinct plants, cohorts and status must not be pooled."
+    },
+    {
+      "table": "7.2",
+      "caption": "Table 7.2 Answering figures reported in the RAG manuscript",
+      "status": "MANUSCRIPT_REPORTED_WITH_PARTIAL_HISTORICAL_RECOVERY",
+      "records": [
+        {
+          "path": "outputs/thesis_expanded_20261028/Thesis_Source_and_Claim_Record.json",
+          "sha256": "9ebb62b8a8aecded275c5f77c4eb6dea41a7a703d29f6691400a6afcc8144fe4",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/rag_evaluation_contract_recovery_20261028/Recovered_Evaluation_Contract.json",
+          "sha256": "66de28f3fa8401b852213c865fd06a358fea78a6317fcd88682588eea403d895",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "Exact99% factual grading, runtime index and revisions unrecovered; no full regeneration link asserted."
+    },
+    {
+      "table": "7.3",
+      "caption": "Table 7.3 Reported language stress test by category",
+      "status": "MANUSCRIPT_REPORTED_LANGUAGE_STRESS",
+      "records": [
+        {
+          "path": "outputs/thesis_expanded_20261028/Thesis_Source_and_Claim_Record.json",
+          "sha256": "9ebb62b8a8aecded275c5f77c4eb6dea41a7a703d29f6691400a6afcc8144fe4",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "Original adjudication/runtime identity not fully certified; physical security is not established."
+    },
+    {
+      "table": "7.4",
+      "caption": "Table 7.4 Final 137-scenario figures reported in the multi-agent manuscript",
+      "status": "SUPPLIED_MANUSCRIPT_REPORTED_FINAL137",
+      "records": [
+        {
+          "path": "outputs/thesis_expanded_20261028/Thesis_Source_and_Claim_Record.json",
+          "sha256": "9ebb62b8a8aecded275c5f77c4eb6dea41a7a703d29f6691400a6afcc8144fe4",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "Complete later137 raw/source/output join unrecovered; old835/656/545 archive is not substituted."
+    },
+    {
+      "table": "7.5",
+      "caption": "Table 7.5 Independently verified severe-root endpoints. Four inspected development cases, original native 1.06 guard and strict 0.95–1.05 reporting band. HG-SE selects between both completed branches and pays both searches.",
+      "status": "INDEPENDENTLY_CLOSED_FOUR_DEVELOPMENT_ROOTS",
+      "records": [
+        {
+          "path": "outputs/original118_closed_comparison_20261028/Comparison.json",
+          "sha256": "ca1b209d56f76a2c0710bd601a3df49a50189bba1cf7aae55eb7b9eabeb97265",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/original118_closed_comparison_20261028/Full_Cost_Source_Blocks.json",
+          "sha256": "de6852288b84002554fa9766db5a69464e8ee42b5ebba61996326c01b6f625bc",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/original118_comparison_completion_20261028/Verified_Completion.json",
+          "sha256": "6ffda50eb6af13087378339a68d293ec152b687138ae03aaee06eb903c8db237",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/original118_analysis_binding_20261028/Prepared_Analysis_Lock.json",
+          "sha256": "97d5ba95fe42f7b0cf159c1cd47e1b6faf16cc9d994fffcf9c5febd723ceed42",
+          "hash_origin": "Small current source/record hashed for navigation"
+        },
+        {
+          "path": "work/assemble_original118_closed_comparison_20261028.py",
+          "sha256": "b337ae3b60e5cb5db4761ba09a5fe2664e7f413927606b27fb51b2e20b33b973",
+          "hash_origin": "Small current source/record hashed for navigation"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "Four inspected development roots; fixedgateFAIL, fullboth costs, historical base/SFT and case0oldOSexit uncertainties retained."
+    },
+    {
+      "table": "7.6",
+      "caption": "Table 7.6 Completed model-scale and representation studies",
+      "status": "MATCHED_SCALE_VERIFIED_AND_ADVERSE_ATTEMPTS_RETAINED",
+      "records": [
+        {
+          "path": "outputs/matched_scale_20261011/verified_completion_handoff_20261012/Verified_Matched_Scale_Completion.json",
+          "sha256": "0b3a21a86e1447968b0d0fc0e763babfbf2fac38e9db14e1ccb8f0d484683914",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "Teacher agreement is not physical control;3Bpartial7BOOM remain separate adverse resource outcomes."
+    },
+    {
+      "table": "7.7",
+      "caption": "Table 7.7 Public 13-bus whole-band endpoints on the same 500 starting cases",
+      "status": "INDEPENDENTLY_COMPLETE_SAME500_PUBLIC_STARTS",
+      "records": [
+        {
+          "path": "outputs/public13_matched_numeric_comparison_20261021/Matched_Comparison_And_Fixed_Decision.json",
+          "sha256": "7f18244866463e3f09ced4922db8f8fb45ae813804fa886547442ab27bef5428",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "Native information/stopping differences disclosed; fixed numerical gateFAIL, no LLM or full AC claim."
+    },
+    {
+      "table": "9.1",
+      "caption": "Table 9.1 Research questions, completed evidence and limits of the current answers",
+      "status": "SYNTHESIS_OF_SCOPED_COMPLETED_AND_UNKNOWN_EVIDENCE",
+      "records": [
+        {
+          "path": "outputs/original118_closed_comparison_20261028/Comparison.json",
+          "sha256": "ca1b209d56f76a2c0710bd601a3df49a50189bba1cf7aae55eb7b9eabeb97265",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/rag_evaluation_contract_recovery_20261028/Recovered_Evaluation_Contract.json",
+          "sha256": "66de28f3fa8401b852213c865fd06a358fea78a6317fcd88682588eea403d895",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/matched_scale_20261011/verified_completion_handoff_20261012/Verified_Matched_Scale_Completion.json",
+          "sha256": "0b3a21a86e1447968b0d0fc0e763babfbf2fac38e9db14e1ccb8f0d484683914",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/public13_matched_numeric_comparison_20261021/Matched_Comparison_And_Fixed_Decision.json",
+          "sha256": "7f18244866463e3f09ced4922db8f8fb45ae813804fa886547442ab27bef5428",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/thesis_research_closure_20261028/Contribution_And_Verifier_Source_Record.json",
+          "sha256": "cfa4be7d6bef32c58cabfc4640e32576ccbc5bbb1d041baffcd2bd42a8c4eab5",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        },
+        {
+          "path": "outputs/thesis_expanded_20261028/Thesis_Source_and_Claim_Record.json",
+          "sha256": "9ebb62b8a8aecded275c5f77c4eb6dea41a7a703d29f6691400a6afcc8144fe4",
+          "hash_origin": "Existing saved evidence index; no archive rehash"
+        }
+      ],
+      "code_data_model_config_verification_binding": "Follow source/protocol/manifest links within the listed audited record where available; unresolved components are not invented.",
+      "limitation": "An explicit negative or incomplete research answer is not an achieved research goal."
+    }
+  ],
+  "figures": [
+    {
+      "caption": "Figure 4.1 Composition and intended roles of the PowerGridQA subsets. Reproduced from [1], Figure 5.",
+      "image": "outputs/thesis_expanded_20261028/figures/dataset_p06_00.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\A_Structured_QuestionAnswer_Dataset_for_Large_Language_Models_in_Power_System_Dynamics_and_Operations.pdf",
+      "physical_pdf_page": 6,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 4.2 Reasoning examples that connect technical and operational context. Reproduced from [1], Figure 4. These are dataset examples rather than control trajectories.",
+      "image": "outputs/thesis_expanded_20261028/figures/dataset_p05_01.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\A_Structured_QuestionAnswer_Dataset_for_Large_Language_Models_in_Power_System_Dynamics_and_Operations.pdf",
+      "physical_pdf_page": 5,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 4.3 Published dataset analysis workflow. Reproduced from [1], Figure 6.",
+      "image": "outputs/thesis_expanded_20261028/figures/dataset_p07_00.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\A_Structured_QuestionAnswer_Dataset_for_Large_Language_Models_in_Power_System_Dynamics_and_Operations.pdf",
+      "physical_pdf_page": 7,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 4.4 Question-type distribution across the dataset subsets. Reproduced from [1], Figure 7.",
+      "image": "outputs/thesis_expanded_20261028/figures/dataset_p08_01.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\A_Structured_QuestionAnswer_Dataset_for_Large_Language_Models_in_Power_System_Dynamics_and_Operations.pdf",
+      "physical_pdf_page": 8,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 4.5 Theory term co-occurrence structure. Reproduced from [1], Figure 8. Graph structure describes textual relationships, not electrical connectivity.",
+      "image": "outputs/thesis_expanded_20261028/figures/dataset_p10_02.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\A_Structured_QuestionAnswer_Dataset_for_Large_Language_Models_in_Power_System_Dynamics_and_Operations.pdf",
+      "physical_pdf_page": 10,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 4.6 NERC term co-occurrence structure. Reproduced from [1], Figure 9.",
+      "image": "outputs/thesis_expanded_20261028/figures/dataset_p11_01.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\A_Structured_QuestionAnswer_Dataset_for_Large_Language_Models_in_Power_System_Dynamics_and_Operations.pdf",
+      "physical_pdf_page": 11,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 4.7 Published protection-related thematic illustration. Reproduced from [1], Figure 10.",
+      "image": "outputs/thesis_expanded_20261028/figures/dataset_p13_01.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\A_Structured_QuestionAnswer_Dataset_for_Large_Language_Models_in_Power_System_Dynamics_and_Operations.pdf",
+      "physical_pdf_page": 13,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 4.8 Published load and control thematic illustration. Reproduced from [1], Figure 11.",
+      "image": "outputs/thesis_expanded_20261028/figures/dataset_p14_02.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\A_Structured_QuestionAnswer_Dataset_for_Large_Language_Models_in_Power_System_Dynamics_and_Operations.pdf",
+      "physical_pdf_page": 14,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 5.1 Overview of the knowledge and physical verification interfaces. Reproduced from the author’s RAG manuscript [2], Figure 1.",
+      "image": "outputs/thesis_expanded_20261028/figures/ragpaper_p03_00.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\LLM PAPER (3).pdf",
+      "physical_pdf_page": 3,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 5.2 Offline indexing and online NERC question answering. Reproduced from [2], Figure 2.",
+      "image": "outputs/thesis_expanded_20261028/figures/ragpaper_p04_00.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\LLM PAPER (3).pdf",
+      "physical_pdf_page": 4,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 5.3 Numerical request processing with positive sequence and three-phase paths. Reproduced from [2], Figure 3.",
+      "image": "outputs/thesis_expanded_20261028/figures/ragpaper_p04_01.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\LLM PAPER (3).pdf",
+      "physical_pdf_page": 4,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 5.4 Original IEEE 118-bus voltage profile demonstration. Reproduced from [2], Figure 4a. This is a load-scaling example, not the severe federation benchmark.",
+      "image": "outputs/thesis_expanded_20261028/figures/ragpaper_p08_00.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\LLM PAPER (3).pdf",
+      "physical_pdf_page": 8,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 5.5 Detail of the original IEEE 118-bus voltage profile demonstration. Reproduced from [2], Figure 4b. The zoomed panel belongs to the same demonstration as Figure 5.4.",
+      "image": "outputs/thesis_expanded_20261028/figures/ragpaper_p08_01.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\LLM PAPER (3).pdf",
+      "physical_pdf_page": 8,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 5.6 Original IEEE 14-bus voltage profile after the manuscript’s load-scaling request. Reproduced from [2], Figure 5a.",
+      "image": "outputs/thesis_expanded_20261028/figures/ragpaper_p09_00.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\LLM PAPER (3).pdf",
+      "physical_pdf_page": 9,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 5.7 Original IEEE 14-bus derating demonstration. Reproduced from [2], Figure 5b. Different load interventions remain separate from reactive-only control experiments.",
+      "image": "outputs/thesis_expanded_20261028/figures/ragpaper_p09_01.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\LLM PAPER (3).pdf",
+      "physical_pdf_page": 9,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 6.1 HierGrid proposal and verification workflow. Reproduced from the author’s multi-agent manuscript [3], Figure 1.",
+      "image": "outputs/thesis_expanded_20261028/figures/multi_p19_00.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\Multi_agentic_llm_paper_elsevier (1).pdf",
+      "physical_pdf_page": 19,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 6.2 HierGrid agents, shared coordination and numerical verification. Reproduced from [3], Figure 2.",
+      "image": "outputs/thesis_expanded_20261028/figures/multi_p19_01.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\Multi_agentic_llm_paper_elsevier (1).pdf",
+      "physical_pdf_page": 19,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 7.1 Controller development results over 61 complete-metric matched scenarios. Reproduced from [3], Figure 3. The error bars are the manuscript’s reported intervals and are not independently recalculated here.",
+      "image": "outputs/thesis_expanded_20261028/figures/multi_p20_00.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\Multi_agentic_llm_paper_elsevier (1).pdf",
+      "physical_pdf_page": 20,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 7.2 Reported source of accepted actions in the 61-scenario development cohort. Reproduced from [3], Figure 4. Direct proposals, guided refinement and fallback are separate mechanisms.",
+      "image": "outputs/thesis_expanded_20261028/figures/multi_p20_01.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\Multi_agentic_llm_paper_elsevier (1).pdf",
+      "physical_pdf_page": 20,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 7.3 Paired outcomes in the manuscript’s 137-scenario cohort. Reproduced from [3], Figure 5. The HG-SE row reflects selection over two branch trajectories.",
+      "image": "outputs/thesis_expanded_20261028/figures/multi_p21_00.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\Multi_agentic_llm_paper_elsevier (1).pdf",
+      "physical_pdf_page": 21,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 7.4 Scenario-level voltage improvement and reactive-support change for HG-SE relative to DFF. Reproduced from [3], Figure 6.",
+      "image": "outputs/thesis_expanded_20261028/figures/multi_p21_01.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\Multi_agentic_llm_paper_elsevier (1).pdf",
+      "physical_pdf_page": 21,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    },
+    {
+      "caption": "Figure 7.5 Reactive-support efficiency in the 137-scenario manuscript result. Reproduced from [3], Figure 7. Values describe UV buses removed per 1000 Mvar of cumulative support, not energy efficiency.",
+      "image": "outputs/thesis_expanded_20261028/figures/multi_p22_00.png",
+      "paper": "C:\\Users\\HOME\\Downloads\\Multi_agentic_llm_paper_elsevier (1).pdf",
+      "physical_pdf_page": 22,
+      "status": "AUTHOR_PAPER_REPRODUCTION_NOT_NEW_EXPERIMENT"
+    }
+  ],
+  "source_paper_hashes": [
+    {
+      "source": "C:/Users/HOME/Downloads/tad_template-engineering.docx",
+      "bytes": 377376,
+      "sha256": "0162800a70af22276b17095c3e90d2bdc92608aa8c557886d2a9a0fed245c44c"
+    },
+    {
+      "source": "C:/Users/HOME/Downloads/academic_rewriting_instructions_chat_only.txt",
+      "bytes": 6573,
+      "sha256": "a6d9cc4b00ae5947e19dc2ed1417c393f4c01b43fbbdbe55076d939ca10bf6d9"
+    },
+    {
+      "source": "C:/Users/HOME/Downloads/CENG Manuscript Proposal (1).docx",
+      "bytes": 82617,
+      "sha256": "76e7c51fc91310e9e9b8bf216f8cd24d761faab74b6b94ba6b8422d5b687b61d"
+    },
+    {
+      "source": "C:/Users/HOME/Downloads/A_Structured_QuestionAnswer_Dataset_for_Large_Language_Models_in_Power_System_Dynamics_and_Operations.pdf",
+      "bytes": 3800777,
+      "sha256": "9ceb67ebc066fa65f78232893d9d729924e0a130042564f8b88d12a003ac6109"
+    },
+    {
+      "source": "C:/Users/HOME/Downloads/LLM PAPER (3).pdf",
+      "bytes": 938240,
+      "sha256": "30da7a2f0aaa6ebb86b0e97e532290d45cc9b079bc37918df527b3727ee90f59"
+    },
+    {
+      "source": "C:/Users/HOME/Downloads/Multi_agentic_llm_paper_elsevier (1).pdf",
+      "bytes": 1415778,
+      "sha256": "acaec1228ddaffc97d13d8a69226d66ffd4db26b17ea2cf14f6d9d67ce70e98c"
+    }
+  ],
+  "qa_record": "outputs/thesis_integrated_evidence_20261028/Final_Visual_And_Evidence_QA.json",
+  "scientific_calls": 0,
+  "not_full_raw_backup": true
+}

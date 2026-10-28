@@ -1,0 +1,67 @@
+{
+  "at_utc": "2026-10-28T19:51:08.107209+00:00",
+  "priority_order": [
+    "G3",
+    "G1",
+    "G2",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "all_six_final_goals": "OPEN",
+  "actual_goal_tool": "NULL at current read; no invented goal status or quota reset",
+  "scientific_jobs": [],
+  "coordinator": null,
+  "exec_session": null,
+  "gpu_assignments": 0,
+  "third_profile": "UNALLOCATED_NO_READY_SEPARATE_GPU_PROTOCOL",
+  "verified_readiness": {
+    "registry_records": 12262,
+    "registry_independent": "PASS",
+    "pending_full_state_cold": "PASS_BOTH_CASES",
+    "actual_source_missing_call_integration": "PASS_BOTH_CASES",
+    "old_paid_prefix_physics": 215,
+    "old_paid_model_responses": 73,
+    "old_calls_repeated": 0
+  },
+  "thesis_checklist": "outputs/thesis_research_closure_20261028/Tasks.json",
+  "next": [
+    "Publish current compact own-code/thesis/evidence/literature/comparison with freshlease/exactbytechecks.",
+    "Continue external trained118 admission with common information/actuator/resource controls; source-nativeGraph complete, no rerun or retune.",
+    "Integrate new closest-method literature and nativecomparison limits into next reviewed thesis revision;109pageworkingcopy staysverified.",
+    "Remaining original137rawlineage, RAGadjudication and actualrawaction-attribution gaps need saved-evidence work; no fabricated provenance or automaticGPU.",
+    "VeraGrid150publicQA candidate needs version/license/labelhiddeninput/actualmodel/solver/tool/control/cost protocol. FLARE exact substrates/panels unavailable in pinned repo."
+  ],
+  "fixed_gate": "FAIL:3UVwins/1UVloss and additional strictOV on2cases",
+  "unresolved": "No whole-band restoration on these4roots; equal-cost, literalDSE, external118 and causalLLM superiority remain unproven.",
+  "actual_process_snapshot": "outputs/original_missing_suffix_live_handoff_20261028/Latest_Continuation.json",
+  "parallel_completed": [
+    "All4 originalcontroller comparison complete:51DFF versus26HG-VF versus20offlineHGSEUV;fixedgateFAIL.",
+    "T07resolved and Chapter7/9sources updated;T35sevenpage defencebrief visuallyverified;all35triaged.",
+    "External118PVabsence mistake corrected fromall4saveddevices andauthorfactory;capability/profile/action/control admission remainsopen.",
+    "109-page working thesis integrated,47indexentries bound,22usedfigurebytes preserved,12tables/30references;all109contactreview/32changedfullsize and finalfixchecksPASS.8of35requirementsclosed;27remainopen/partial.",
+    "New saved-only registry builder and independent rational-key reader endedexit0/PASS:2217new suffix rows added,14479total,6failed preserved,0unclosed and0newscience. This is scoped lookup readiness, not complete physical-history closure or performance launch permission.",
+    "All4 next source-selected GraphAgent input identities passed enlarged-history independent check;0newphysics. Five closest LLM-control/QA primary records and four pinned repositories added; exact FLARE substrates absent, VeraGridQA candidate only."
+  ],
+  "waiting_check": null,
+  "publication": {
+    "head": "c8cefac13891f596e9cf9f6801e7b181d3397167",
+    "exact_downloaded_files": 9,
+    "receipt": "outputs/closed118_and_thesis_publication_20261028/Verified_GitHub_Receipt.json",
+    "raw_backup_complete": false,
+    "later_local_pending": "Full109page integration and evidence index not included in this published snapshot."
+  },
+  "new_status": "ORIGINAL_AND_EXTERNAL_NATIVE_ALL4_COMPARISONS_CLOSED_WITH_LIMITATIONS",
+  "verified_comparison": "outputs/original118_closed_comparison_20261028/Comparison.json",
+  "completion_checkpoint": "outputs/original118_comparison_completion_20261028/Verified_Completion.json",
+  "gpu_quota_policy": "Human warns approximate5–6hour/reset behaviour; treat as unverifiedestimate. Recordactualassignment/release; no assumedreset, quotaevasion oraccountfallbackafterdenial.",
+  "thesis_integration": "outputs/thesis_integrated_evidence_20261028/Final_Visual_And_Evidence_QA.json",
+  "thesis_evidence_index": "outputs/thesis_integrated_evidence_20261028/Evidence_Index.html",
+  "thesis_closed_requirements": 8,
+  "current_closed_receipt_registry": "outputs/closed_missing_suffix_registry_20261028/build/Closed_Physical_Receipt_Registry.json",
+  "current_closed_receipt_registry_audit": "outputs/closed_missing_suffix_registry_20261028/audit/Result.json",
+  "graph_next_input_history": "outputs/graph118_current_history_admission_20261028/Verified_Completion.json",
+  "closest_literature": "outputs/closest_llm_control_review_20261028/Review_And_Admission.md",
+  "graph_campaign_live": "outputs/graph118_native_campaign_preparation_20261028/Verified_Actual_Live_Checkpoint.json",
+  "external_graph118_completion": "outputs/graph118_native_comparison_completion_20261028/Verified_Completion.json"
+}

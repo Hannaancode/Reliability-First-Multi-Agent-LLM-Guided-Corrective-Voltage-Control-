@@ -1,0 +1,396 @@
+{
+  "created_utc": "2026-10-28T16:37:49.528100+00:00",
+  "source_sha256": "e76228e80e07ffde462d4fa6654adac79517dde42ca8650286213b6a3b10ef9b",
+  "tasks": [
+    {
+      "id": "T01",
+      "title": "Align the thesis title with completed cybersecurity evidence",
+      "requirement": "Either complete a defensible physical cybersecurity evaluation or narrow the title, abstract and security claims with supervisor approval.\n    Location: Title, Ch. 1, 8–9",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Final submission decision"
+    },
+    {
+      "id": "T02",
+      "title": "Complete a bounded cybersecurity experiment",
+      "requirement": "Define the attacker, modified observations, clean and attacked states, matched defenders, attack-success criteria, electrical consequences and benign-task costs. Required if physical cyber-resilience remains a central claim.\n    Location: Ch. 8",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Evidence recovery or justified experiment"
+    },
+    {
+      "id": "T03",
+      "title": "Distinguish offline HG-SE selection from online control",
+      "requirement": "Clearly identify HG-SE as retrospective selection between completed trajectories. Do not imply that future branch outcomes were available to an online controller.\n    Location: Ch. 3, 6–7",
+      "status": "COMPLETE_DOCUMENTATION_REQUIREMENT_IN_REVIEWED_WORKING_THESIS",
+      "evidence": [
+        "outputs/thesis_research_closure_20261028/Source_Contract_And_Contribution_Addendum.md",
+        "outputs/thesis_research_closure_20261028/Contribution_And_Verifier_Source_Record.json",
+        "outputs/thesis_research_closure_20261028/Insert_Visual_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Final_Visual_And_Evidence_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Hannaan_Thesis_Integrated_Evidence.docx"
+      ],
+      "limitation": "This closes the specified evidence/documentation requirement; no open research goal or superiority claim is converted into success.",
+      "work_category": "Document and evidence integration",
+      "completed": true,
+      "verified_at_utc": "2026-10-28T19:05:13.318256+00:00"
+    },
+    {
+      "id": "T04",
+      "title": "Reconstruct the final 137-scenario evidence",
+      "requirement": "Link the reported DFF 290, HG-VF 291 and HG-SE 193 residual-UV totals to their correct controller versions, scenario inputs and outputs. Do not substitute the earlier archive with totals 835, 656 and 545.\n    Location: Ch. 7 §7.7, App. A",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Evidence recovery or justified experiment"
+    },
+    {
+      "id": "T05",
+      "title": "Isolate the LLM's actual contribution",
+      "requirement": "Separate direct language proposals, guided refinements, deterministic fallback, physical verification and trajectory selection. Determine which component produces each improvement.\n    Location: Ch. 3, 6–7",
+      "status": "OPEN",
+      "evidence": [
+        "outputs/original118_closed_comparison_20261028/Comparison.json"
+      ],
+      "new_scoped_progress": "Complete four-root endpoint, origin and source-cost evidence now available; broader requirement remains open.",
+      "work_category": "Evidence recovery or justified experiment"
+    },
+    {
+      "id": "T06",
+      "title": "Compare HG-SE with a strong numerical-only envelope",
+      "requirement": "Use D-SE (DFF plus DFF-ALT) where valid evidence permits, under matched selection and resource contracts. If unavailable, explicitly leave the causal advantage unproven.\n    Location: Ch. 6 §6.6, Ch. 7",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Evidence recovery or justified experiment"
+    },
+    {
+      "id": "T07",
+      "title": "Resolve the two incomplete severe-root runs",
+      "requirement": "Line36MG1 and Line127MG3 have unknown LLM endpoints. Complete only through a scientifically valid continuation or new labelled study; otherwise retain them as partial, not failures or wins.\n    Location: Ch. 7 §7.8",
+      "status": "COMPLETE_DOCUMENTATION_REQUIREMENT_IN_REVIEWED_WORKING_THESIS",
+      "evidence": [
+        "outputs/original118_closed_comparison_20261028/Comparison.json",
+        "outputs/original118_comparison_completion_20261028/Verified_Completion.json",
+        "outputs/thesis_evidence_update_20261028/Severe_Case_Thesis_Update.md",
+        "outputs/thesis_integrated_evidence_20261028/Final_Visual_And_Evidence_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Hannaan_Thesis_Integrated_Evidence.docx"
+      ],
+      "evidence_complete": true,
+      "limitation": "This closes the specified evidence/documentation requirement; no open research goal or superiority claim is converted into success.",
+      "work_category": "Document and evidence integration",
+      "completed": true,
+      "verified_at_utc": "2026-10-28T19:05:13.318256+00:00"
+    },
+    {
+      "id": "T08",
+      "title": "Reconcile 1.05 versus 1.06 p.u. thresholds",
+      "requirement": "Document the original 1.06 upper acceptance guard and separate 1.05 strict reporting threshold. Distinguish UV restoration from complete normal-band restoration.\n    Location: Ch. 6 §§6.7–6.8",
+      "status": "COMPLETE_DOCUMENTATION_REQUIREMENT_IN_REVIEWED_WORKING_THESIS",
+      "evidence": [
+        "outputs/thesis_research_closure_20261028/Source_Contract_And_Contribution_Addendum.md",
+        "outputs/thesis_research_closure_20261028/Contribution_And_Verifier_Source_Record.json",
+        "outputs/thesis_research_closure_20261028/Insert_Visual_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Final_Visual_And_Evidence_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Hannaan_Thesis_Integrated_Evidence.docx"
+      ],
+      "limitation": "This closes the specified evidence/documentation requirement; no open research goal or superiority claim is converted into success.",
+      "work_category": "Document and evidence integration",
+      "completed": true,
+      "verified_at_utc": "2026-10-28T19:05:13.318256+00:00"
+    },
+    {
+      "id": "T09",
+      "title": "Account for full experimental resource costs",
+      "requirement": "Separate the 911 accepted actions on selected HG-SE paths from the total cost of evaluating both branches. Include physical queries, inference, failed calls and preparation where recoverable.\n    Location: Ch. 6–7, App. B",
+      "status": "OPEN",
+      "evidence": [
+        "outputs/original118_closed_comparison_20261028/Comparison.json"
+      ],
+      "new_scoped_progress": "Complete four-root endpoint, origin and source-cost evidence now available; broader requirement remains open.",
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T10",
+      "title": "Close all six research questions",
+      "requirement": "Add a table linking each RQ to its completed experiment, result, defensible conclusion and remaining limitations. Negative answers are acceptable; unanswered goals must not become achieved claims.\n    Location: Ch. 1 §1.4, Ch. 9 §9.2",
+      "status": "COMPLETE_DOCUMENTATION_REQUIREMENT_IN_REVIEWED_WORKING_THESIS",
+      "evidence": [
+        "outputs/thesis_evidence_update_20261028/Research_Question_Evidence_and_Defence.json",
+        "outputs/thesis_evidence_update_20261028/Visual_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Final_Visual_And_Evidence_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Hannaan_Thesis_Integrated_Evidence.docx"
+      ],
+      "work_category": "Document and evidence integration",
+      "completed": true,
+      "verified_at_utc": "2026-10-28T19:05:13.318256+00:00",
+      "limitation": "This closes the specified evidence/documentation requirement; no open research goal or superiority claim is converted into success."
+    },
+    {
+      "id": "T11",
+      "title": "Freeze the RAG evaluation contract",
+      "requirement": "Identify exact test questions, model revisions, adapters, retrieval index, prompts, decoding settings and scoring procedures behind the reported 99% factual correctness.\n    Location: Ch. 5, Ch. 7 §§7.2–7.4",
+      "status": "HISTORICAL500_TRANSCRIPT_AND_RECIPE_RECOVERED_99PERCENT_CONTRACT_UNKNOWN",
+      "evidence": [
+        "outputs/rag_evaluation_contract_recovery_20261028/Recovered_Evaluation_Contract.json"
+      ],
+      "work_category": "Evidence recovery or justified experiment"
+    },
+    {
+      "id": "T12",
+      "title": "Address fabricated metadata and unreliable refusals",
+      "requirement": "Analyse the reported 89.3% failure rate for impossible metadata and 36% for out-of-scope requests. Add source-metadata validation and fixed-case testing if reliable reference locking is claimed.\n    Location: Ch. 5 §5.4, Ch. 8 §8.4",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Evidence recovery or justified experiment"
+    },
+    {
+      "id": "T13",
+      "title": "Strengthen PowerGridQA lineage and leakage checks",
+      "requirement": "Freeze source files, record versions and document grouping. Explain the 4,396 evaluated NERC records versus 4,696 operational records, and check shared passages across training and testing.\n    Location: Ch. 4, Ch. 7 §7.2",
+      "status": "OPEN",
+      "evidence": [
+        "outputs/rag_evaluation_contract_recovery_20261028/Recovered_Evaluation_Contract.json"
+      ],
+      "work_category": "Evidence recovery or justified experiment"
+    },
+    {
+      "id": "T14",
+      "title": "Run or document a matched RAG ablation",
+      "requirement": "Compare retrieval on and off with the same model, questions and serving contract if claiming a causal retrieval benefit. Otherwise limit the conclusion to the reported whole-system comparison.\n    Location: Ch. 5, Ch. 7",
+      "status": "OPEN",
+      "evidence": [
+        "outputs/rag_evaluation_contract_recovery_20261028/Recovered_Evaluation_Contract.json"
+      ],
+      "work_category": "Evidence recovery or justified experiment"
+    },
+    {
+      "id": "T15",
+      "title": "Separate raw LLM actions from repaired and fallback actions",
+      "requirement": "Report raw schema validity, parser corrections, semantic validity, numerical acceptance and actual action origin. Do not count deterministic fallback as independent model success.\n    Location: Ch. 5–6",
+      "status": "OPEN",
+      "evidence": [
+        "outputs/original118_closed_comparison_20261028/Comparison.json"
+      ],
+      "new_scoped_progress": "Complete four-root endpoint, origin and source-cost evidence now available; broader requirement remains open.",
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T16",
+      "title": "Document training-world independence",
+      "requirement": "Explain the 16,000 training rows grouped into 109 teacher worlds and the later 85-world fitting and 24-world evaluation split. Disclose multiplicities and potential leakage.\n    Location: Ch. 6 §6.3, Ch. 7 §7.9",
+      "status": "COMPLETE_DOCUMENTATION_REQUIREMENT_IN_REVIEWED_WORKING_THESIS",
+      "evidence": [
+        "outputs/thesis_expanded_20261028/07_Experiments.md",
+        "outputs/thesis_integrated_evidence_20261028/Final_Visual_And_Evidence_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Hannaan_Thesis_Integrated_Evidence.docx"
+      ],
+      "work_category": "Document and evidence integration",
+      "completed": true,
+      "verified_at_utc": "2026-10-28T19:05:13.318256+00:00",
+      "limitation": "This closes the specified evidence/documentation requirement; no open research goal or superiority claim is converted into success."
+    },
+    {
+      "id": "T17",
+      "title": "Diagnose the public 13-bus benchmark failures",
+      "requirement": "Explain why the numerical controller restores 264/500 cases while published DDPG restores 363/500. Analyse the 14,387 no-change decisions and 151 near-boundary failures without erasing the adverse result.\n    Location: Ch. 7 §7.10",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T18",
+      "title": "Define the exact extent of physics verification",
+      "requirement": "Provide an explicit matrix for solver convergence, voltage, branch-loading, generator limits, available devices and any untested operational or dynamic constraints.\n    Location: Ch. 5–6",
+      "status": "COMPLETE_DOCUMENTATION_REQUIREMENT_IN_REVIEWED_WORKING_THESIS",
+      "evidence": [
+        "outputs/thesis_research_closure_20261028/Source_Contract_And_Contribution_Addendum.md",
+        "outputs/thesis_research_closure_20261028/Contribution_And_Verifier_Source_Record.json",
+        "outputs/thesis_research_closure_20261028/Insert_Visual_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Final_Visual_And_Evidence_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Hannaan_Thesis_Integrated_Evidence.docx"
+      ],
+      "limitation": "This closes the specified evidence/documentation requirement; no open research goal or superiority claim is converted into success.",
+      "work_category": "Document and evidence integration",
+      "completed": true,
+      "verified_at_utc": "2026-10-28T19:05:13.318256+00:00"
+    },
+    {
+      "id": "T19",
+      "title": "Keep experimental environments separate",
+      "requirement": "Document different plants, permitted actions, disturbances, solvers and stopping rules for the IEEE 14/118 demonstrations, 118-bus federation, public 13-bus benchmark and single 322-bus example.\n    Location: Ch. 5–7",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T20",
+      "title": "Bind every method description to executed source",
+      "requirement": "Preserve controller version, exact function, wrapper responsibilities, solver settings, model base/adapters, checkpoint configuration and historical reconstruction limitations.\n    Location: Ch. 6, App. A",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T21",
+      "title": "Separate development cases from genuine confirmation",
+      "requirement": "Identify all scenarios used during engineering and model selection, and report later unused confirmation cases separately. Do not present repeatedly inspected roots as untouched test data.\n    Location: Ch. 7",
+      "status": "OPEN",
+      "evidence": [
+        "outputs/original118_closed_comparison_20261028/Comparison.json"
+      ],
+      "new_scoped_progress": "Complete four-root endpoint, origin and source-cost evidence now available; broader requirement remains open.",
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T22",
+      "title": "Add paired uncertainty and variability analysis",
+      "requirement": "Report scenario-level differences, wins/ties/losses, effect sizes and uncertainty when justified. Preserve dependence structure and do not invent repeated-run variance.\n    Location: Ch. 7",
+      "status": "FOUR_ROOT_DESCRIPTIVE_EFFECTS_COMPLETE_BROADER_UNCERTAINTY_OPEN",
+      "evidence": [
+        "outputs/thesis_evidence_update_20261028/Paired_Development_Effects.json"
+      ],
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T23",
+      "title": "Preserve and explain negative model-scale results",
+      "requirement": "Interpret 41.67% versus 53.13% teacher-action agreement and the 72.92% numerical reference. Distinguish imitation accuracy from verified control. Keep the 3B partial and 7B memory failure properly labelled.\n    Location: Ch. 7 §7.9",
+      "status": "COMPLETE_DOCUMENTATION_REQUIREMENT_IN_REVIEWED_WORKING_THESIS",
+      "evidence": [
+        "outputs/thesis_integrated_evidence_20261028/Final_Visual_And_Evidence_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Hannaan_Thesis_Integrated_Evidence.docx"
+      ],
+      "work_category": "Document and evidence integration",
+      "completed": true,
+      "verified_at_utc": "2026-10-28T19:05:13.318256+00:00",
+      "limitation": "This closes the specified evidence/documentation requirement; no open research goal or superiority claim is converted into success."
+    },
+    {
+      "id": "T24",
+      "title": "Identify your individual contributions within coauthored work",
+      "requirement": "Add a candidate-specific contribution table for PowerGridQA, the RAG manuscript, HierGrid and later experiments, distinguishing your actual technical work from collaborators' roles.\n    Location: Ch. 3, App. A",
+      "status": "CANDIDATE_TABLE_INTEGRATED_COLLABORATOR_ALLOCATION_PARTLY_UNCONFIRMED",
+      "evidence": [
+        "outputs/thesis_research_closure_20261028/Source_Contract_And_Contribution_Addendum.md",
+        "outputs/thesis_research_closure_20261028/Contribution_And_Verifier_Source_Record.json",
+        "outputs/thesis_research_closure_20261028/Insert_Visual_QA.json"
+      ],
+      "limitation": "Candidate statement and documented review/supervision retained; RAG and provisional contributor allocations still need confirmation.",
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T25",
+      "title": "Update closest competing literature and novelty positioning",
+      "requirement": "Compare the nearest recent LLM/grid-agent systems by actual task, information, tool authority, numerical checks and evaluation. State specific novelty rather than novelty from combining familiar components.\n    Location: Ch. 2–3",
+      "status": "FOCUSED_FIVE_PRIMARY_SOURCE_REVIEW_SAVED_THESIS_INTEGRATION_OPEN",
+      "evidence": [
+        "outputs/closest_llm_control_review_20261028/Review_And_Admission.md"
+      ],
+      "work_category": "Bibliographic/source review",
+      "limitation": "Not exhaustive; source availability and interface admission differ; no executed new method score."
+    },
+    {
+      "id": "T26",
+      "title": "Make each contribution claim evidence-specific",
+      "requirement": "Separate published dataset contributions, implemented architectures, reported manuscript findings, independently checked findings and uncompleted aims.\n    Location: Ch. 3, Ch. 9",
+      "status": "OPEN",
+      "evidence": [
+        "outputs/original118_closed_comparison_20261028/Comparison.json"
+      ],
+      "new_scoped_progress": "Complete four-root endpoint, origin and source-cost evidence now available; broader requirement remains open.",
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T27",
+      "title": "Complete an examiner-friendly reproducibility index",
+      "requirement": "Provide one navigable map from every major table to code, dataset, model, config, result files, verification scripts, hashes and evidence status.\n    Location: Appendices A–C",
+      "status": "ALL12_TABLES_22_FIGURES_NAVIGABLE_UNDERLYING_REPRODUCIBILITY_GAPS_OPEN",
+      "evidence": [
+        "outputs/thesis_integrated_evidence_20261028/Thesis_Evidence_Navigation.json",
+        "outputs/thesis_integrated_evidence_20261028/Evidence_Index.html"
+      ],
+      "new_scoped_progress": "Complete four-root endpoint, origin and source-cost evidence now available; broader requirement remains open.",
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T28",
+      "title": "Standardize references and manuscript status",
+      "requirement": "Complete bibliography fields, check DOI and source details, and avoid describing author-supplied RAG or HierGrid manuscripts as accepted without publication confirmation.\n    Location: References, App. A",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Bibliographic/source review"
+    },
+    {
+      "id": "T29",
+      "title": "Complete QU-compliant thesis front matter",
+      "requirement": "Replace the working-draft label, placeholder acknowledgments, unconfirmed administrative fields and nonfinal degree wording according to the applicable university template.\n    Location: Title and preliminary pages",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Final submission decision"
+    },
+    {
+      "id": "T30",
+      "title": "Rewrite the abstract using final research findings",
+      "requirement": "Include representative supported results and the principal limitations. Keep the abstract, contributions and conclusion consistent with the same evidence.\n    Location: Abstract, Ch. 1, 3, 9",
+      "status": "ABSTRACT_UPDATED_TO_CURRENT_VERIFIED_RESULTS_FINAL_RESEARCH_STILL_OPEN",
+      "evidence": [
+        "outputs/thesis_integrated_evidence_20261028/Final_Visual_And_Evidence_QA.json"
+      ],
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T31",
+      "title": "Improve the literature comparison table",
+      "requirement": "Add a focused matrix distinguishing your system from the nearest papers on source grounding, numerical verification, multi-agent control and security.\n    Location: Ch. 2 §2.18–2.19",
+      "status": "FOCUSED_FIVE_PRIMARY_SOURCE_REVIEW_SAVED_THESIS_INTEGRATION_OPEN",
+      "evidence": [
+        "outputs/closest_llm_control_review_20261028/Review_And_Admission.md"
+      ],
+      "work_category": "Bibliographic/source review",
+      "limitation": "Not exhaustive; source availability and interface admission differ; no executed new method score."
+    },
+    {
+      "id": "T32",
+      "title": "Improve figures and table captions",
+      "requirement": "Make all captions independently understandable, including denominators, cohorts, thresholds, original figure sources and manuscript versus reconstructed status.\n    Location: Figures 4.1–7.5, Tables 7.1–7.7",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T33",
+      "title": "Correct remaining formatting and terminology",
+      "requirement": "Fix headings such as 'Experiments results', compressed table labels, units, undefined acronyms, inconsistent spacing and reference formatting.\n    Location: Throughout",
+      "status": "KNOWN_HEADING_LABEL_UNIT_LAYOUT_FIXES_COMPLETE_REFERENCE_REVIEW_OPEN",
+      "evidence": [
+        "outputs/thesis_integrated_evidence_20261028/Final_Visual_And_Evidence_QA.json",
+        "outputs/thesis_integrated_evidence_20261028/Final_Layout_Repairs.json"
+      ],
+      "work_category": "Document and evidence integration"
+    },
+    {
+      "id": "T34",
+      "title": "Remove internal finalisation instructions from the submitted thesis",
+      "requirement": "Use Appendix C as your internal submission checklist, then remove or replace it in the final examinable version unless the university specifically expects it.\n    Location: Appendix C",
+      "status": "OPEN",
+      "evidence": [],
+      "work_category": "Final submission decision"
+    },
+    {
+      "id": "T35",
+      "title": "Prepare a defence-ready evidence summary",
+      "requirement": "For each of the six RQs, prepare the experiment, result, limitation and the strongest potential examiner objection. Be ready to explain the offline selector and every negative result.\n    Location: Defence preparation",
+      "status": "COMPLETE_CURRENT_EVIDENCE_DEFENCE_BRIEF_VISUALLY_VERIFIED",
+      "evidence": [
+        "outputs/thesis_evidence_update_20261028/Research_Question_Evidence_and_Defence.json",
+        "outputs/thesis_evidence_update_20261028/Visual_QA.json"
+      ],
+      "work_category": "Document and evidence integration",
+      "completed": true,
+      "verified_at_utc": "2026-10-28T18:25:27.992585+00:00"
+    }
+  ],
+  "priority": "G3 benchmark and interrupted roots first; CPU evidence/documentation checks in parallel",
+  "candidate_statement": "Human confirms main technical work in all three projects performed by Abdul Hannaan. Dataset publication separately credits expert/coauthor review; specific collaborator roles otherwise unconfirmed.",
+  "updated_utc": "2026-10-28T19:28:29.303104+00:00",
+  "completed_requirement_count": 8
+}

@@ -1,0 +1,31 @@
+{
+  "at_utc": "2026-10-28T19:28:29.303104+00:00",
+  "status": "COMPLETE_SCOPED_NEXT_INPUT_HISTORY_ADMISSION_ALL4",
+  "builder_sha256": "75d10f5b712026969aba5991adc99afb63c6cfe533a3d9db7bec0423e8c6b07a",
+  "reader_sha256": "9d07dad8191752a4d312dec6a6cf8f3f6965f8759049d525480e74eca7ef5edf",
+  "cases": [
+    {
+      "case_id": "fed_combined_load_1p5_line_35_MG1",
+      "source_action": 250,
+      "status": "PASS_SCOPED_NEXT_INPUT_UNENTERED"
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_36_MG1",
+      "source_action": 250,
+      "status": "PASS_SCOPED_NEXT_INPUT_UNENTERED"
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "source_action": 250,
+      "status": "PASS_SCOPED_NEXT_INPUT_UNENTERED"
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_127_MG3",
+      "source_action": 250,
+      "status": "PASS_SCOPED_NEXT_INPUT_UNENTERED"
+    }
+  ],
+  "new_PF_model_converter_training_calls": 0,
+  "remaining": "Full episode scientist and independent reader source lock, persistent costs/preservation/ownership and runtime integration are still required.",
+  "scope": "Named retained history only, not universal absence of all historical inputs. Distinct regulator requests are distinct input identities even if Qlimits later bind."
+}

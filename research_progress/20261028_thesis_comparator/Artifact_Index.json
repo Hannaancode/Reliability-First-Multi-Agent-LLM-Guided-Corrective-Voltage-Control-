@@ -1,0 +1,210 @@
+{
+  "at_utc": "2026-10-28T19:51:49.086052+00:00",
+  "members": [
+    {
+      "path": "work/finish_integrated_thesis_visual_repairs_20261028.py",
+      "bytes": 1901,
+      "sha256": "591283d9a6cda5a133d92323eaac19c80af5cbe5ebacb175afb514129ad3f1d1"
+    },
+    {
+      "path": "work/close_integrated_thesis_and_index_20261028.py",
+      "bytes": 12769,
+      "sha256": "0437d994e39fc2942573e532f8f09c77d6391d41f48920b2bfe873c82914d781"
+    },
+    {
+      "path": "work/checkpoint_integrated_thesis_20261028.py",
+      "bytes": 5702,
+      "sha256": "f9fbf1406084a911ed7d4ff67b96cb1dbefc98efeb4e4f4e03dd1dfdce610510"
+    },
+    {
+      "path": "work/extend_closed_missing_suffix_registry_20261028.py",
+      "bytes": 6825,
+      "sha256": "2154d58723cce038d98803d65670047074303aa2319d4ece3d4b09418c629c00"
+    },
+    {
+      "path": "work/prepare_graph118_current_history_gate_20261028.py",
+      "bytes": 8073,
+      "sha256": "9bd59ddc365bba28df72f3febf34f3883f8b843fceefcb2ab4496575b6e55860"
+    },
+    {
+      "path": "work/close_graph_history_and_literature_20261028.py",
+      "bytes": 3154,
+      "sha256": "79c21fea5733b8d5cbc05135a9236610d8b00777645363da94c4bd122c438ecc"
+    },
+    {
+      "path": "work/graph118_native_campaign_core_20261028.py",
+      "bytes": 7158,
+      "sha256": "21f8e7a90bfad711cabaa89226439ff4ccf0d5719face9cd2fd236b6815cbcba"
+    },
+    {
+      "path": "work/run_graph118_native_campaign_20261028.py",
+      "bytes": 6424,
+      "sha256": "5a2c4eca1293abcfc53c1897e29de0c607080c9748142cd148bb8e73ffbeca0b"
+    },
+    {
+      "path": "work/audit_graph118_native_campaign_20261028.py",
+      "bytes": 7414,
+      "sha256": "2e3a43372d8091e77562542d126bfc7f16519738d61e7215f5e9e3395c310ade"
+    },
+    {
+      "path": "work/prepare_graph118_native_campaign_20261028.py",
+      "bytes": 4966,
+      "sha256": "80f7eaa22f40c63219b2f53aeffa97198cbe7c649cb687a60947191682182790"
+    },
+    {
+      "path": "work/check_graph118_native_campaign_integration_20261028.py",
+      "bytes": 3581,
+      "sha256": "a7b0cdc742072dbd0b2d990534abdc79922e61f70e18b61ac3c6c985548f239b"
+    },
+    {
+      "path": "work/check_graph118_native_campaign_runtime_v2_20261028.py",
+      "bytes": 788,
+      "sha256": "9dbb1638fecd211e43af56596103856d9d3646171a89030f9391a2d5a8cac803"
+    },
+    {
+      "path": "work/coordinate_graph118_native_campaign_20261028.py",
+      "bytes": 3680,
+      "sha256": "57ed93a5e4aa9eb3ef062241e48de3c43ab36ff7257b06f81bda6e52c37e232e"
+    },
+    {
+      "path": "work/lock_graph118_native_campaign_20261028.py",
+      "bytes": 2088,
+      "sha256": "8c47fba9b84a8cf75844a11478d747721a1f05c4b5f4fb324ea2ff4a2abe0b51"
+    },
+    {
+      "path": "work/checkpoint_graph118_campaign_live_20261028.py",
+      "bytes": 4778,
+      "sha256": "5bb2a892e42d81dfe02a22fea8798dd0ccc1e9352ee53766426899586b4aa452"
+    },
+    {
+      "path": "work/prepare_graph118_reader_rng_binding_v2_20261028.py",
+      "bytes": 4395,
+      "sha256": "aef707aae4b45e7ab0755387dd90fc7b6127c0be005eeeea8a6daf8b542211fb"
+    },
+    {
+      "path": "work/audit_graph118_native_campaign_rng_v2_20261028.py",
+      "bytes": 8425,
+      "sha256": "eea6b1bdd45283cf3f0c654fe52364bf0402c1e3e8f4a0ac2cd8d31ae7e2e8ce"
+    },
+    {
+      "path": "work/coordinate_graph118_reader_rng_v2_20261028.py",
+      "bytes": 3544,
+      "sha256": "6923d742a2440f59fde2a0277dafc36ef9b076e0047bd275c4c8d7d8602eb9fd"
+    },
+    {
+      "path": "work/assemble_graph118_native_context_comparison_20261028.py",
+      "bytes": 5195,
+      "sha256": "0899358deb57c70498b16e321c848fa344a95b9daae58d23110e23c4c15d81e9"
+    },
+    {
+      "path": "outputs/gpu_usage_policy_20261028/Recorded_Usage_And_Scheduling_Policy.json",
+      "bytes": 1950,
+      "sha256": "085c8f06cc0dbeef8bd54e1b81a0725346a4982f7d2710b1ffc0ce476eddc918"
+    },
+    {
+      "path": "outputs/closest_llm_control_review_20261028/Pinned_Repository_Metadata.json",
+      "bytes": 35662,
+      "sha256": "4f8672ddba7101ab5d49990db03a4502014256dc1dfdc4e98aee0512b0ae552c"
+    },
+    {
+      "path": "outputs/closed_missing_suffix_registry_20261028/build/Result.json",
+      "bytes": 510,
+      "sha256": "b559908f298fc0f4db40bc00ebe46d55b821734c1eba53921ea9a4cada4f0fc9"
+    },
+    {
+      "path": "outputs/closed_missing_suffix_registry_20261028/audit/Result.json",
+      "bytes": 530,
+      "sha256": "3a706a613c67e833664f2278ad111b53735a3dae71a0f4e3b213891e2d979127"
+    },
+    {
+      "path": "outputs/graph118_current_history_preparation_20261028/Protocol.json",
+      "bytes": 1369,
+      "sha256": "9bbefe954d66f48d2eb9ff59d0507a4cc9b090424a051f58061ffd4182e21ca7"
+    },
+    {
+      "path": "outputs/graph118_current_history_admission_20261028/build/Result.json",
+      "bytes": 23503,
+      "sha256": "75d10f5b712026969aba5991adc99afb63c6cfe533a3d9db7bec0423e8c6b07a"
+    },
+    {
+      "path": "outputs/graph118_current_history_admission_20261028/audit/Result.json",
+      "bytes": 23610,
+      "sha256": "9d07dad8191752a4d312dec6a6cf8f3f6965f8759049d525480e74eca7ef5edf"
+    },
+    {
+      "path": "outputs/graph118_native_campaign_preparation_20261028/Protocol.json",
+      "bytes": 7712,
+      "sha256": "54a8c4f4765ae707b988a48c0ebc0a3b6f90f9fa1148c606d1246892a4759f4a"
+    },
+    {
+      "path": "outputs/graph118_native_campaign_preparation_20261028/Launch_And_Reader_Lock.json",
+      "bytes": 2113,
+      "sha256": "0e15df0b8a97fd25b9ba9e7fdd7340cdddb0812c157fc4874866bad63d9cdf38"
+    },
+    {
+      "path": "outputs/graph118_native_campaign_integration_20261028/Failure.json",
+      "bytes": 2041,
+      "sha256": "6f4d62663596273c7794813073d71e5ce2f694aff5292f1d08493681f888959f"
+    },
+    {
+      "path": "outputs/graph118_native_campaign_runtime_v2_20261028/Result.json",
+      "bytes": 4287,
+      "sha256": "31e317bb50b5ced144a917bf9c006ff48bcf8e0cc68f54ace3c3643d1f090935"
+    },
+    {
+      "path": "outputs/graph118_native_campaign_independent_20261028/Failure.json",
+      "bytes": 2126,
+      "sha256": "4dfc6e849558817a8070fcf7ab9911e685641644bd4a9c21a00aa2e692f3d646"
+    },
+    {
+      "path": "outputs/graph118_reader_rng_binding_v2_preparation_20261028/Protocol.json",
+      "bytes": 1658,
+      "sha256": "acdccdbae966de4c3f146f3ecb93cf59f5430880cfe7896748a94d591ecfcd28"
+    },
+    {
+      "path": "outputs/graph118_native_campaign_preparation_20261028/Comparison_Lock.json",
+      "bytes": 482,
+      "sha256": "0e9b24169ef2ad166e19f2bff87ea0755ef85b82acc549dd0b2810ac0077e61f"
+    },
+    {
+      "path": "work/assemble_graph118_native_context_comparison_rng_v2_20261028.py",
+      "bytes": 5326,
+      "sha256": "5bc0abcc56af637f5119f4c39cfb8c63414262d156166329f195f11d0a80886d"
+    },
+    {
+      "path": "work/close_graph118_native_comparison_20261028.py",
+      "bytes": 8815,
+      "sha256": "ea5806142194d32b17d5af849041d2b19746a25dec9e8101df8fb0f7677d9ea7"
+    },
+    {
+      "path": "outputs/graph118_native_comparison_completion_20261028/Verified_Completion.json",
+      "bytes": 1349,
+      "sha256": "2329b63dd5c536088e0e07516cb12362e015abbb16840363e98a40d13e4212e1"
+    },
+    {
+      "path": "outputs/graph118_native_comparison_completion_20261028/All4_Terminal_Diagnostics.json",
+      "bytes": 3825,
+      "sha256": "7fe415c9beabd6e19bc536663c06494c0baf6cdca8099f534838bbeb4eebd812"
+    },
+    {
+      "path": "outputs/graph118_native_campaign_independent_rng_v2_20261028/Independent_Audit.json",
+      "bytes": 3042,
+      "sha256": "5e7f927be4816f68083fdbcf546274cd50bd82887e47768422f6229e4363e1c9"
+    },
+    {
+      "path": "outputs/graph118_reader_rng_v2_handoff_20261028/Completion.json",
+      "bytes": 225,
+      "sha256": "5ceab02cddeb5591f968ee98f217219a2f918f49f3a59854e69f32430af8b2de"
+    }
+  ],
+  "raw_backup_complete": false,
+  "excluded": [
+    "private weights",
+    "raw NETs",
+    "RAG transcript/test answers",
+    "third-party source code",
+    "full thesis DOCX/PDF"
+  ],
+  "thesis_path": "outputs/thesis_integrated_evidence_20261028/Hannaan_Thesis_Integrated_Evidence.docx",
+  "thesis_sha256": "353775f5549b301ff46dfa1948ca0365f978de6c5e0db02fdbc8659e263d448f"
+}

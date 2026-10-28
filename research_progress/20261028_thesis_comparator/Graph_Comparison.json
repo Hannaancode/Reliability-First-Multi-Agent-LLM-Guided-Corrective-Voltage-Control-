@@ -1,0 +1,498 @@
+{
+  "status": "ALL4_IDENTICAL_INITIAL_ROOTS_NATIVE_ROLE_CONTEXT_COMPARISON",
+  "rows": [
+    {
+      "case_id": "fed_combined_load_1p5_line_35_MG1",
+      "initial_UV": 56,
+      "DFF_UV": 11,
+      "DFF_OV": 3,
+      "DFF_actions": 7,
+      "HGVF_UV": 7,
+      "HGVF_OV": 2,
+      "HGVF_actions": 17,
+      "offline_HGSE_UV": 7,
+      "offline_HGSE_OV": 2,
+      "offline_HGSE_selected_actions": 17,
+      "GraphAgent_UV": null,
+      "GraphAgent_OV": null,
+      "GraphAgent_whole_band": null,
+      "GraphAgent_actions": 19,
+      "GraphAgent_termination": "NATIVE_PF_EXCEPTION"
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_36_MG1",
+      "initial_UV": 58,
+      "DFF_UV": 15,
+      "DFF_OV": 2,
+      "DFF_actions": 7,
+      "HGVF_UV": 1,
+      "HGVF_OV": 3,
+      "HGVF_actions": 24,
+      "offline_HGSE_UV": 1,
+      "offline_HGSE_OV": 3,
+      "offline_HGSE_selected_actions": 24,
+      "GraphAgent_UV": null,
+      "GraphAgent_OV": null,
+      "GraphAgent_whole_band": null,
+      "GraphAgent_actions": 21,
+      "GraphAgent_termination": "NATIVE_PF_EXCEPTION"
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "initial_UV": 57,
+      "DFF_UV": 18,
+      "DFF_OV": 2,
+      "DFF_actions": 7,
+      "HGVF_UV": 5,
+      "HGVF_OV": 3,
+      "HGVF_actions": 22,
+      "offline_HGSE_UV": 5,
+      "offline_HGSE_OV": 3,
+      "offline_HGSE_selected_actions": 22,
+      "GraphAgent_UV": null,
+      "GraphAgent_OV": null,
+      "GraphAgent_whole_band": null,
+      "GraphAgent_actions": 21,
+      "GraphAgent_termination": "NATIVE_PF_EXCEPTION"
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_127_MG3",
+      "initial_UV": 55,
+      "DFF_UV": 7,
+      "DFF_OV": 4,
+      "DFF_actions": 8,
+      "HGVF_UV": 13,
+      "HGVF_OV": 3,
+      "HGVF_actions": 10,
+      "offline_HGSE_UV": 7,
+      "offline_HGSE_OV": 4,
+      "offline_HGSE_selected_actions": 8,
+      "GraphAgent_UV": null,
+      "GraphAgent_OV": null,
+      "GraphAgent_whole_band": null,
+      "GraphAgent_actions": 21,
+      "GraphAgent_termination": "NATIVE_PF_EXCEPTION"
+    }
+  ],
+  "root_checks": [
+    {
+      "case_id": "fed_combined_load_1p5_line_35_MG1",
+      "registered_solved_payload_sha256": "e3cfb229962f51bbb380644bd7e2bc85c1f82d7d51a7d3f1c9465979000f01a2",
+      "same_initial_payload": true
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_36_MG1",
+      "registered_solved_payload_sha256": "88d05409063d46a68839267bd1a414cbf69ad52dc6123f1eae3f305aefdac628",
+      "same_initial_payload": true
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "registered_solved_payload_sha256": "bb48ea15e244e9504f465d93b246098789f96893f4e731a1f284e0c49a059b9f",
+      "same_initial_payload": true
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_127_MG3",
+      "registered_solved_payload_sha256": "d3b481cd440bf1cadec6686591380ac3630174026ca3f89daa948113b56f1fec",
+      "same_initial_payload": true
+    }
+  ],
+  "primary_endpoint": "All118 strict0.95to1.05band; no epsilon rounding",
+  "unequal_contracts": {
+    "DFF_HGVF": "Original positive added shunts,450Mvar cap,25operations,native1.06guard;HGSEofflinefullBOTH selection",
+    "published_GraphAgent_port": "Unchanged author numerical GraphAgent policy AST; generator/slackVsetpoints+existingbinaryshunts,native136operations,fullgridfloat32observations/staticgraph. This is not the trainedDQN arm."
+  },
+  "no_equal_resource_or_causal_LLM_superiority": true,
+  "no_unused_confirmation": true,
+  "original_costs": "outputs/original118_closed_comparison_20261028/Full_Cost_Source_Blocks.json",
+  "graph_costs": {
+    "status": "PASS_ALL4_COMPLETE_NATIVE_GRAPH_EPISODES",
+    "all4_complete": true,
+    "rows": [
+      {
+        "case_id": "fed_combined_load_1p5_line_35_MG1",
+        "status": "COMPLETE_NATIVE_EPISODE",
+        "endpoint": {
+          "UV": null,
+          "OV": null,
+          "whole_band": null,
+          "converged": false
+        },
+        "action_count": 19,
+        "termination": "NATIVE_PF_EXCEPTION"
+      },
+      {
+        "case_id": "fed_combined_load_1p5_line_36_MG1",
+        "status": "COMPLETE_NATIVE_EPISODE",
+        "endpoint": {
+          "UV": null,
+          "OV": null,
+          "whole_band": null,
+          "converged": false
+        },
+        "action_count": 21,
+        "termination": "NATIVE_PF_EXCEPTION"
+      },
+      {
+        "case_id": "fed_combined_load_1p5_line_84_MG2",
+        "status": "COMPLETE_NATIVE_EPISODE",
+        "endpoint": {
+          "UV": null,
+          "OV": null,
+          "whole_band": null,
+          "converged": false
+        },
+        "action_count": 21,
+        "termination": "NATIVE_PF_EXCEPTION"
+      },
+      {
+        "case_id": "fed_combined_load_1p5_line_127_MG3",
+        "status": "COMPLETE_NATIVE_EPISODE",
+        "endpoint": {
+          "UV": null,
+          "OV": null,
+          "whole_band": null,
+          "converged": false
+        },
+        "action_count": 21,
+        "termination": "NATIVE_PF_EXCEPTION"
+      }
+    ],
+    "first_replay_attempts": 74,
+    "first_replay_returns": 74,
+    "first_replay_seconds": 6.950609400053509,
+    "maximum_field_delta": 0.0,
+    "maximum_KCL_pu": 8.261534595604988e-09,
+    "independent_policy_calls": 78,
+    "independent_admittance_balance_constructions": 74,
+    "independent_native_identity_preparation": {
+      "native_input_attempts": 0,
+      "native_input_returns": 0,
+      "source_result_extractions": 0,
+      "identity_receipts": 0,
+      "native_algorithm_invocations": 0,
+      "seconds": 0.0
+    },
+    "primary_costs": {
+      "new_PF_attempts": 78,
+      "new_PF_returns": 74,
+      "new_PF_exceptions": 4,
+      "new_PF_seconds": 7.548980100051267,
+      "native_policy_calls": 78,
+      "cold_policy_checks": 78,
+      "derived_paid_returns": 0,
+      "new_model_GPU_training_calls": 0,
+      "paid_prefix_cases": 4,
+      "binary_bytes": 51410398,
+      "native_input_identity_preparation": {
+        "native_input_attempts": 0,
+        "native_input_returns": 0,
+        "source_result_extractions": 0,
+        "identity_receipts": 0,
+        "native_algorithm_invocations": 0,
+        "seconds": 0.0
+      }
+    },
+    "old_costs_separately_retained": [
+      "outputs/published_graph118_first_queries_execution_20261022/Results.json",
+      "outputs/published_graph118_first_queries_independent_20261022/Independent_Audit.json",
+      "outputs/published_graph118_paid_transition_20261022/Saved_Transition_And_Cursor_Readiness.json",
+      "outputs/original118_closed_comparison_20261028/Full_Cost_Source_Blocks.json"
+    ],
+    "new_LLM_GPU_training_calls": 0,
+    "whole_method_equal_resource_or_LLM_superiority": "NOT_ESTABLISHED",
+    "workflow_seconds": 108.96900000001187
+  },
+  "old_graph_costs": {
+    "outputs/published_graph118_first_queries_execution_20261022/Results.json": {
+      "status": "COMPLETE_ALL4_FIRST_GRAPH_QUERY_ATTEMPTS_REQUIRE_OUTSIDE_REPLAY",
+      "rows": [
+        {
+          "case_id": "fed_combined_load_1p5_line_35_MG1",
+          "action": {
+            "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+            "bus": 75,
+            "vm_pu": 1.05,
+            "devices": [
+              {
+                "table": "gen",
+                "index": 33
+              }
+            ]
+          },
+          "before": {
+            "path": "00_before.zlib",
+            "bytes": 102560,
+            "sha256": "c3e2a6a75b39491d5fc14456c5d2666792d05ba2e14e83e575ee2e0586c670a2",
+            "decoded_bytes": 354650,
+            "decoded_sha256": "e9df18fe8dcea71a3d70059787795a2b28612f41bf652d7a280cfa661144aa28"
+          },
+          "after": {
+            "path": "00_after.zlib",
+            "bytes": 103004,
+            "sha256": "552d516e120bdbd5704873530017d4ac13f5d4b34c83abf04ae4b1ae312ec773",
+            "decoded_bytes": 352799,
+            "decoded_sha256": "f759b2f354f16365f1ac622dcf0e0a91eecd47c67c534a12355e5c29f83880d2"
+          },
+          "seconds": 3.8789726000395603,
+          "exception": null,
+          "status": "RETURNED_NEW_QUERY",
+          "actual_policy_commit": false,
+          "strict_all118_fields": {
+            "UV": 56,
+            "OV": 1,
+            "vmin": 0.793330107223817,
+            "vmax": 1.0500000000000003,
+            "deficit": 2.029353907321131
+          }
+        },
+        {
+          "case_id": "fed_combined_load_1p5_line_36_MG1",
+          "action": {
+            "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+            "bus": 75,
+            "vm_pu": 1.05,
+            "devices": [
+              {
+                "table": "gen",
+                "index": 33
+              }
+            ]
+          },
+          "before": {
+            "path": "01_before.zlib",
+            "bytes": 102493,
+            "sha256": "2027ce88f72e2894e4246f24ae01768f43ad4a755da07d8a7fa7287a93820432",
+            "decoded_bytes": 354650,
+            "decoded_sha256": "2abc55e7d9d23cff9fb8c41aae7488d93dcc8d69bd872f672f738b8d9306e841"
+          },
+          "after": {
+            "path": "01_after.zlib",
+            "bytes": 102941,
+            "sha256": "cdb70fce7cc32a8f9e56ca10c49049b56e7ba53bd6a9a0f6afe0294f7e3c1eb8",
+            "decoded_bytes": 352799,
+            "decoded_sha256": "18f896b9bbc6ee16a28cf19b10e0a2679d7232a18d3dea26bd8825c63a1d312b"
+          },
+          "seconds": 0.05402769998181611,
+          "exception": null,
+          "status": "RETURNED_NEW_QUERY",
+          "actual_policy_commit": false,
+          "strict_all118_fields": {
+            "UV": 58,
+            "OV": 1,
+            "vmin": 0.7940657087622107,
+            "vmax": 1.0500000000000003,
+            "deficit": 2.065459682526982
+          }
+        },
+        {
+          "case_id": "fed_combined_load_1p5_line_84_MG2",
+          "action": {
+            "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+            "bus": 75,
+            "vm_pu": 1.05,
+            "devices": [
+              {
+                "table": "gen",
+                "index": 33
+              }
+            ]
+          },
+          "before": {
+            "path": "02_before.zlib",
+            "bytes": 102634,
+            "sha256": "7b8eb5f44396019e2461b0e8d5a7318861e92d2880686a7756917b1bce64ea5c",
+            "decoded_bytes": 354650,
+            "decoded_sha256": "a308b36983fbab49d1af334ff100d2e937dd7370d10f18032654df0a99f47433"
+          },
+          "after": {
+            "path": "02_after.zlib",
+            "bytes": 103054,
+            "sha256": "471d88c692421860e2e6090a3ed8c972778eaaecc31f5b226d8efeadba6206aa",
+            "decoded_bytes": 352799,
+            "decoded_sha256": "0fc7dc099dc5593ebd2a90294d74cee69bbd4d6b08ee829a3a3cfa55cded948b"
+          },
+          "seconds": 0.054928300029132515,
+          "exception": null,
+          "status": "RETURNED_NEW_QUERY",
+          "actual_policy_commit": false,
+          "strict_all118_fields": {
+            "UV": 57,
+            "OV": 1,
+            "vmin": 0.7956796380041814,
+            "vmax": 1.0500000000000003,
+            "deficit": 1.994934942496859
+          }
+        },
+        {
+          "case_id": "fed_combined_load_1p5_line_127_MG3",
+          "action": {
+            "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+            "bus": 75,
+            "vm_pu": 1.05,
+            "devices": [
+              {
+                "table": "gen",
+                "index": 33
+              }
+            ]
+          },
+          "before": {
+            "path": "03_before.zlib",
+            "bytes": 102560,
+            "sha256": "1a65fe814c09d6691e20e780974593a80cd538091bea808467eeffcb3445bc6e",
+            "decoded_bytes": 354675,
+            "decoded_sha256": "1c66c549b354057a5e8c197f8296326afbe0c998d2fc5dea4720c5a689dd4618"
+          },
+          "after": {
+            "path": "03_after.zlib",
+            "bytes": 102993,
+            "sha256": "dc81d67701fdc09ae8e0c9d5ebdd6bd64e959349d70c41794ef3a2cf58a28764",
+            "decoded_bytes": 352824,
+            "decoded_sha256": "4da53a9bfe6ee01432a3422bc79de0257207e8f90417e67b308dbd797cef191d"
+          },
+          "seconds": 0.052224499988369644,
+          "exception": null,
+          "status": "RETURNED_NEW_QUERY",
+          "actual_policy_commit": false,
+          "strict_all118_fields": {
+            "UV": 55,
+            "OV": 2,
+            "vmin": 0.7930057825838877,
+            "vmax": 1.0500000000000005,
+            "deficit": 1.9873721471261971
+          }
+        }
+      ],
+      "costs": {
+        "new_PF_attempts": 4,
+        "new_PF_returns": 4,
+        "new_PF_exceptions": 0,
+        "new_PF_seconds": 4.040153100038879,
+        "new_model_initialPF_training_calls": 0,
+        "actual_policy_commits": 0
+      },
+      "no_full_policy_or_same_actuation_comparison": true,
+      "workflow_seconds": 11.5
+    },
+    "outputs/published_graph118_first_queries_independent_20261022/Independent_Audit.json": {
+      "status": "PASS_PRESERVED_ALL4_FIRST_SOURCE_GRAPH_QUERY_OUTCOMES",
+      "rows": [
+        {
+          "case_id": "fed_combined_load_1p5_line_35_MG1",
+          "action": {
+            "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+            "bus": 75,
+            "vm_pu": 1.05,
+            "devices": [
+              {
+                "table": "gen",
+                "index": 33
+              }
+            ]
+          },
+          "strict_all118_fields": {
+            "UV": 56,
+            "OV": 1,
+            "vmin": 0.793330107223817,
+            "vmax": 1.0500000000000003,
+            "deficit": 2.029353907321131
+          },
+          "maximum_field_delta": 0.0,
+          "KCL_pu": 4.955467326373664e-14,
+          "first_replay_seconds": 3.0694162999861874,
+          "actual_policy_commit": false
+        },
+        {
+          "case_id": "fed_combined_load_1p5_line_36_MG1",
+          "action": {
+            "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+            "bus": 75,
+            "vm_pu": 1.05,
+            "devices": [
+              {
+                "table": "gen",
+                "index": 33
+              }
+            ]
+          },
+          "strict_all118_fields": {
+            "UV": 58,
+            "OV": 1,
+            "vmin": 0.7940657087622107,
+            "vmax": 1.0500000000000003,
+            "deficit": 2.065459682526982
+          },
+          "maximum_field_delta": 0.0,
+          "KCL_pu": 1.4323341791222623e-13,
+          "first_replay_seconds": 0.09004679997451603,
+          "actual_policy_commit": false
+        },
+        {
+          "case_id": "fed_combined_load_1p5_line_84_MG2",
+          "action": {
+            "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+            "bus": 75,
+            "vm_pu": 1.05,
+            "devices": [
+              {
+                "table": "gen",
+                "index": 33
+              }
+            ]
+          },
+          "strict_all118_fields": {
+            "UV": 57,
+            "OV": 1,
+            "vmin": 0.7956796380041814,
+            "vmax": 1.0500000000000003,
+            "deficit": 1.994934942496859
+          },
+          "maximum_field_delta": 0.0,
+          "KCL_pu": 1.0281189647487302e-13,
+          "first_replay_seconds": 0.09931329998653382,
+          "actual_policy_commit": false
+        },
+        {
+          "case_id": "fed_combined_load_1p5_line_127_MG3",
+          "action": {
+            "kind": "GENERATOR_BUS_VOLTAGE_SETPOINT",
+            "bus": 75,
+            "vm_pu": 1.05,
+            "devices": [
+              {
+                "table": "gen",
+                "index": 33
+              }
+            ]
+          },
+          "strict_all118_fields": {
+            "UV": 55,
+            "OV": 2,
+            "vmin": 0.7930057825838877,
+            "vmax": 1.0500000000000005,
+            "deficit": 1.9873721471261971
+          },
+          "maximum_field_delta": 0.0,
+          "KCL_pu": 6.753437071434626e-14,
+          "first_replay_seconds": 0.10390709998318925,
+          "actual_policy_commit": false
+        }
+      ],
+      "first_independent_PF_replays": 4,
+      "maximum_numeric_field_delta": 0.0,
+      "maximum_KCL_pu": 1.4323341791222623e-13,
+      "primary_costs": {
+        "new_PF_attempts": 4,
+        "new_PF_returns": 4,
+        "new_PF_exceptions": 0,
+        "new_PF_seconds": 4.040153100038879,
+        "new_model_initialPF_training_calls": 0,
+        "actual_policy_commits": 0
+      },
+      "new_model_training_optimizer_calls": 0,
+      "full_policy_same_resource_superiority": "NOT_TESTED",
+      "workflow_seconds": 11.73399999999674
+    }
+  },
+  "new_PF_model_calls": 0
+}
