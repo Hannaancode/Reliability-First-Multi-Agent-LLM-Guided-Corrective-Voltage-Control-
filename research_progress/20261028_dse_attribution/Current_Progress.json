@@ -1,0 +1,39 @@
+{
+  "at_utc": "2026-10-28T20:45:50.288420+00:00",
+  "all_six_final_goals": "OPEN",
+  "scientific_jobs": [],
+  "gpu_assignments": [],
+  "waiting_check": null,
+  "publication": {
+    "head": "40ac31bd7e177df8d8d8311cc5f9e00654a0d31c",
+    "exact_downloaded_files": 12,
+    "receipt": "outputs/thesis_and_comparator_progress_publication_20261028/Verified_GitHub_Receipt.json",
+    "raw_backup_complete": false,
+    "later_local_pending": "Raw action attribution and new thesis revision after publication remain local pending QA/publication."
+  },
+  "thesis_integration": "outputs/thesis_dse_and_public_diagnosis_20261028/Final_Visual_And_Evidence_QA.json",
+  "thesis_closed_requirements": 13,
+  "next": [
+    "Publish compact latest raw-attribution, prompt inconsistency, 113-page thesis QA and saved D-SE join with fresh branch lease and downloaded-byte checks.",
+    "Complete remaining thesis evidence requirements where saved records support them; never invent missing historical RAG adjudication, later137 raw joins or coauthor roles.",
+    "Further trained external118/common-information/publicQA studies require separately justified source-compatible protocols, actual loader/runtime/preservation/resource gates; no idle GPU.",
+    "Candidate-example inconsistency is diagnosed. No prompt sweep or scientific rescue run is authorized solely by that observation."
+  ],
+  "raw_action_attribution": {
+    "result": "outputs/original118_raw_action_attribution_v2_20261028/Results.json",
+    "independent": "outputs/original118_raw_action_attribution_v2_20261028/independent/Independent_Audit.json",
+    "status": "INDEPENDENT_PASS_SAVED_ONLY",
+    "responses": 459,
+    "strict_schema_valid": 413,
+    "candidate_valid_after_normalization": 192,
+    "reprompted_decisions": 151,
+    "direct_commits": 51,
+    "direct_Q_corrected_commits": 9,
+    "guided_commits": 13,
+    "fallback_commits": 9,
+    "new_science": 0
+  },
+  "raw_prompt_example_diagnosis": "outputs/original_prompt_candidate_diagnosis_20261028/independent/Independent_Audit.json",
+  "actual_saved_context_bounds": "outputs/original_saved_context_bounds_20261028/Actual_Saved_Context_Bounds.json",
+  "saved_DSE_join": "outputs/original118_saved_dse_reconciliation_20261028/Verified_Completion.json"
+}

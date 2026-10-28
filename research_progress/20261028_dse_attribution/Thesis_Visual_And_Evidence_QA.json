@@ -1,0 +1,39 @@
+{
+  "at_utc": "2026-10-28T20:45:50.288420+00:00",
+  "status": "PASS_WORKING_DRAFT_LAYOUT_AND_LISTED_EVIDENCE_CHECKS",
+  "pages": 116,
+  "tables": 17,
+  "figures": 22,
+  "references": 35,
+  "page_bound_index_entries": 52,
+  "docx_sha256": "160e9fcadff94fcf4e46ab202190a90c214101f7cd8ef39d82d07268c07b4a01",
+  "pdf_sha256": "e83eab583765ad9a0e2331f1827523b5ba91c55155cfb10377760b54bfd93431",
+  "original113_unchanged": true,
+  "all_prior15_table_values_unchanged": true,
+  "all_prior_body_paragraphs_unchanged": true,
+  "all22_media_bytes_unchanged": true,
+  "visual_review": {
+    "status": "PASS_CHANGED_PAGES_VISUALLY_REVIEWED",
+    "pdf_sha256": "e83eab583765ad9a0e2331f1827523b5ba91c55155cfb10377760b54bfd93431",
+    "initial_full_size_pages": [
+      92,
+      93,
+      94
+    ],
+    "final_full_size_pages": [
+      7,
+      93,
+      94
+    ],
+    "unchanged_page92_previously_reviewed": true,
+    "repair": "Widow control removes single-line continuation; all new tables and paragraphs visible and unclipped. Earlier113-page reviewed body/table/figure content preserved.",
+    "renderer": "Hidden Word PDF export and bundled Poppler; missing display-font warnings retained; displayed new Times New Roman content visually intact."
+  },
+  "new_scientific_calls": 0,
+  "limitations": [
+    "Working draft, not final university submission",
+    "D-SE older committed-state audit is narrower than new candidate/full-field/cold audit",
+    "No equal-cost or causal LLM advantage",
+    "All6 research goals remain OPEN"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "at_utc": "2026-10-28T20:46:34.524603+00:00",
+  "members": [
+    {
+      "path": "work/analyse_original118_raw_action_attribution_v2_20261028.py",
+      "bytes": 8025,
+      "sha256": "bc3f4b94423b92b3977c1671cf45e9ade5d78e9be4daf76da21d472db6e72b12"
+    },
+    {
+      "path": "work/audit_original118_raw_attribution_20261028.py",
+      "bytes": 7733,
+      "sha256": "8fc7a080eaee629101d09f128bbbb4395ded1784748bd2f5d56a4b42e96ca1c6"
+    },
+    {
+      "path": "work/audit_saved_original_prompt_candidates_20261028.py",
+      "bytes": 5744,
+      "sha256": "d023b8fa5b795149438ce065c4215bcc8021a8de5b8a7a8e5c414829fd41e29c"
+    },
+    {
+      "path": "work/read_saved_prompt_candidate_diagnosis_20261028.py",
+      "bytes": 3573,
+      "sha256": "324b9cb7a7ac38c151d34ae112c5c66d0c485bbfe5823c1e91ea1a9ae03ed13c"
+    },
+    {
+      "path": "work/check_saved_original_context_bounds_20261028.py",
+      "bytes": 2538,
+      "sha256": "5b2aa224bfea14484c8bd34d36288eb87c2161673b9b88b2b6d0a84f6d1d2913"
+    },
+    {
+      "path": "work/integrate_thesis_attribution_and_comparators_20261028.py",
+      "bytes": 18164,
+      "sha256": "e8de8c935219afb530d329bb597d4d90dc499ff40c1eae5a3bedb8afcccaeea5"
+    },
+    {
+      "path": "work/finish_attribution_thesis_layout_20261028.py",
+      "bytes": 3559,
+      "sha256": "17c838daba8fd054b44e27bdb7c5cce4d7a96a4f81c9911750d448762978845f"
+    },
+    {
+      "path": "work/paginate_attribution_thesis_20261028.ps1",
+      "bytes": 3842,
+      "sha256": "14a04ba2fd1fdf44327fa677063d691818f9dfbe883f9e88473182935400f9a0"
+    },
+    {
+      "path": "work/close_attribution_thesis_20261028.py",
+      "bytes": 11213,
+      "sha256": "d70004adc348bfe8feb1651d0f999004709ab6c1d8048a41d92a0bbcb689e382"
+    },
+    {
+      "path": "work/reconcile_saved_dse_original118_20261028.py",
+      "bytes": 10114,
+      "sha256": "72911326869d9fe3d5c6a514e2c1e1318086e2782d64291b3cfe3740c3cb47f6"
+    },
+    {
+      "path": "work/audit_saved_dse_original118_20261028.py",
+      "bytes": 4270,
+      "sha256": "036f35d26cda4e910b7c56452b268c31578f0587161ae927e1dbb7af4302a136"
+    },
+    {
+      "path": "work/close_saved_dse_reconciliation_20261028.py",
+      "bytes": 5740,
+      "sha256": "f31ac176224bf499bd6aeb0ed131e1d832f9519585c2a93142c15da7b994c992"
+    },
+    {
+      "path": "work/integrate_dse_and_failure_diagnosis_thesis_20261028.py",
+      "bytes": 9143,
+      "sha256": "be12a456e458270e23b2139c519a81e53c155d9d3769a69f11a3d1e11b54886d"
+    },
+    {
+      "path": "work/paginate_dse_thesis_20261028.ps1",
+      "bytes": 3919,
+      "sha256": "9ed4d76d65addd5d0659da17d9e44a5af6c74ab177ae53e9fa4b6d16693a5147"
+    },
+    {
+      "path": "work/close_dse_thesis_20261028.py",
+      "bytes": 9144,
+      "sha256": "10e57edb9addc722b91b4dd915aa042546eded410ef3ecd6ab7a791b44abb956"
+    },
+    {
+      "path": "work/prepare_dse_attribution_publication_20261028.py",
+      "bytes": 5663,
+      "sha256": "9e204aca5e9b8d5ded0677ae834fe214680b6892092a61d80b612530a6394d77"
+    },
+    {
+      "path": "outputs/original118_raw_action_attribution_v2_20261028/Results.json",
+      "bytes": 8068,
+      "sha256": "c76d1204a4495f4f607ef4171000baeff3bdf0c356d178c9db9327e47f432705"
+    },
+    {
+      "path": "outputs/original118_raw_action_attribution_v2_20261028/independent/Independent_Audit.json",
+      "bytes": 15736,
+      "sha256": "400e7df8ad272ff810eb93d29861d1cde0bc9441aa654025d0f7df0429b01d5a"
+    },
+    {
+      "path": "outputs/original_prompt_candidate_diagnosis_20261028/Results.json",
+      "bytes": 3069,
+      "sha256": "b786c92d1003183ddabb0be73b76373c99365711b41cf220cbc0d654a227cab5"
+    },
+    {
+      "path": "outputs/original_prompt_candidate_diagnosis_20261028/independent/Independent_Audit.json",
+      "bytes": 1772,
+      "sha256": "90504f7bc5c6224c7850833feabead99642fc5011862b7e90b5058a2073796a2"
+    },
+    {
+      "path": "outputs/original_saved_context_bounds_20261028/Actual_Saved_Context_Bounds.json",
+      "bytes": 1664,
+      "sha256": "e35561ba3b7927119543fcfa249d43636e73d63cde9d9afa668d92ce69cf6f6c"
+    },
+    {
+      "path": "outputs/original_saved_context_bounds_20261028/Initial_Path_Inspection_Failure.json",
+      "bytes": 305,
+      "sha256": "dcb6abdbf120af3ded63ed7ee0bf8292eceb27a2a6eb4520275c964cd4f61503"
+    },
+    {
+      "path": "outputs/thesis_attribution_and_comparators_20261028/Final_Visual_And_Evidence_QA.json",
+      "bytes": 1715,
+      "sha256": "9075af2f2dfb0714dc24422089999c3648d5ea598d44a8d76affeae9e4964438"
+    },
+    {
+      "path": "outputs/thesis_attribution_and_comparators_20261028/Initial_QA_Text_Heuristic_Failure.json",
+      "bytes": 332,
+      "sha256": "649c9a657b9391b3f6bd60caa46f0f89c32cdeb6f066ad0bf70db88d852cf6a2"
+    },
+    {
+      "path": "outputs/thesis_attribution_and_comparators_20261028/Integration_Record.json",
+      "bytes": 896,
+      "sha256": "58ed1fbf1eb3d4f0c7a2aa694b9853b2d2b2a6b993af1eacd8673f7ef86cd3ca"
+    },
+    {
+      "path": "outputs/thesis_attribution_and_comparators_20261028/Layout_Repair_Record.json",
+      "bytes": 700,
+      "sha256": "d8f7a60c95d218ac1a647a0dea84699a19860453a4fd4660d26d2beae4606ab4"
+    },
+    {
+      "path": "outputs/original118_saved_dse_reconciliation_20261028/Verified_Completion.json",
+      "bytes": 1348,
+      "sha256": "adc498b6cfbe1c88f99a4b75a4ccd235f571bc46d0ae62c3228710d465b175a9"
+    },
+    {
+      "path": "outputs/original118_saved_dse_reconciliation_20261028/independent/Independent_Audit.json",
+      "bytes": 1582,
+      "sha256": "537141ef295536594d9b32924584e04c249da55db3070e45ebdf17d4a1e63f7a"
+    },
+    {
+      "path": "outputs/original118_saved_dse_reconciliation_20261028/Input_And_Source_Bindings.json",
+      "bytes": 5567,
+      "sha256": "521559337b2d186c73c3f941a91d22871405c594014da060a21c0eb976a00d83"
+    },
+    {
+      "path": "outputs/original118_saved_dse_reconciliation_20261028/Documentation_Correction.json",
+      "bytes": 453,
+      "sha256": "5d01aa11958161e834da92579d673484fa1b766f63870fbf32744fbd93d4b2a5"
+    },
+    {
+      "path": "outputs/original118_saved_dse_reconciliation_20261028/Process_Inspection_Failure.json",
+      "bytes": 353,
+      "sha256": "41491f2eb8ed497fa9b28eb41c65e031d0b6b39d0e59bc8b2b321e2c7af64a70"
+    },
+    {
+      "path": "outputs/thesis_dse_and_public_diagnosis_20261028/Integration_Record.json",
+      "bytes": 679,
+      "sha256": "cebbfc5adf8ebf84d9e31b9b37c2adf2681d4efc19ca3d479f7cc25878ef5719"
+    },
+    {
+      "path": "outputs/thesis_dse_and_public_diagnosis_20261028/Thesis_Evidence_Navigation.json",
+      "bytes": 30392,
+      "sha256": "e59674c05a5c8f26fa102bd72c020a293ead447ebbdf3d001cc1356af412d134"
+    },
+    {
+      "path": "outputs/public13_saved_numeric_stagnation_20261022/Separate_Arithmetic_Crosscheck.json",
+      "bytes": 155,
+      "sha256": "cdf97e6bfac373e9cfe67d895aed38719333202427912266d27196ec2dbce326"
+    },
+    {
+      "path": "outputs/gpu_usage_policy_20261028/Recorded_Usage_And_Scheduling_Policy.json",
+      "bytes": 1950,
+      "sha256": "085c8f06cc0dbeef8bd54e1b81a0725346a4982f7d2710b1ffc0ce476eddc918"
+    }
+  ],
+  "raw_backup_complete": false,
+  "excluded": [
+    "private weights and NETs",
+    "raw prompts/responses/RAG transcripts",
+    "third-party source",
+    "full thesis DOCX and PDF"
+  ],
+  "new_scientific_calls": 0,
+  "all_six_goals": "OPEN"
+}
