@@ -1,0 +1,54 @@
+{
+  "at_utc": "2026-10-29T04:23:51.174071+00:00",
+  "status": "ACTUAL_EXECUTION_NO_AUDITED_PERFORMANCE_YET",
+  "arms": [
+    {
+      "arm": "size05",
+      "profile": "original",
+      "actual_owner_live": true,
+      "stage": "science_with_local_ack",
+      "runtime_allocated": true,
+      "runtime_released": false,
+      "science_started": true,
+      "preserved_packets": 25,
+      "failure_type": null,
+      "all_artifacts_preserved": false
+    },
+    {
+      "arm": "size15",
+      "profile": "ahammedsheen",
+      "actual_owner_live": true,
+      "stage": "science_with_local_ack",
+      "runtime_allocated": true,
+      "runtime_released": false,
+      "science_started": true,
+      "preserved_packets": 22,
+      "failure_type": null,
+      "all_artifacts_preserved": false
+    },
+    {
+      "arm": "size3",
+      "profile": "sheenahammed",
+      "actual_owner_live": true,
+      "stage": "science_with_local_ack",
+      "runtime_allocated": true,
+      "runtime_released": false,
+      "science_started": true,
+      "preserved_packets": 48,
+      "failure_type": null,
+      "all_artifacts_preserved": false
+    }
+  ],
+  "thesis_complete": 14,
+  "thesis_total": 35,
+  "all_six_goals": "OPEN",
+  "T21": "PARTIAL_REGISTER_AND_DRAFT_INSERT",
+  "raw_backup_complete": false,
+  "excluded": [
+    "private model weights and NETs",
+    "raw questions/circuit/labels/tokenpacks/model outputs",
+    "third-party sources",
+    "fullthesisDOCX/PDF",
+    "credentials/runtimeproxydata"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "members": [
+    {
+      "path": "work/public_qa_inference_worker_20261029.py",
+      "bytes": 10216,
+      "sha256": "12f04ad7f3348071a6bc1e42e1f42474e8b2ac275ea9f03b049ad4c740752f00"
+    },
+    {
+      "path": "work/public_qa_inference_worker_v2_20261029.py",
+      "bytes": 11292,
+      "sha256": "9c8d34273b86f0ad1af8f1e275fe4f575924087f7f68474292fde13085fbd275"
+    },
+    {
+      "path": "work/public_qa_transfer_20261029.py",
+      "bytes": 4306,
+      "sha256": "bbdbd04f8a028ec6162702c6ab62a6aabf903ceac79d28b3cd3b87d1abca5b83"
+    },
+    {
+      "path": "work/public_qa_remote_supervisor_20261029.py",
+      "bytes": 4397,
+      "sha256": "89026ec876bf5ea5550bd2b89a863746b6d395419ae7ac2dfa51b63c347584c1"
+    },
+    {
+      "path": "work/public_qa_remote_setup_20261029.py",
+      "bytes": 2552,
+      "sha256": "1f7df8e797d3394024d192704735d5993f4f241d2f9f0d2cb54ce3a2cb08b0c2"
+    },
+    {
+      "path": "work/run_public_qa_colab_20261029.py",
+      "bytes": 12842,
+      "sha256": "5942cf87c3a32a00fa34700db3793be447cc1268183fd09f527d1c07b6eefe3f"
+    },
+    {
+      "path": "work/audit_public_qa_worker_20261029.py",
+      "bytes": 3028,
+      "sha256": "d12db957df18522e161de1c9cbe0a9ab6136bc69389e0e404dbbefa489a65962"
+    },
+    {
+      "path": "work/audit_public_qa_scientific_20261029.py",
+      "bytes": 12031,
+      "sha256": "dc1e80e6f965343d4ebae01c2f17aacb95d7fe3e38f100043047528328dac8cd"
+    },
+    {
+      "path": "work/coordinate_public_qa_20261029.py",
+      "bytes": 6539,
+      "sha256": "23631c3d02347a64345dbb64bf26b86867d62389603f94d94a99e4ebf48e925d"
+    },
+    {
+      "path": "work/check_public_qa_linux_watchdog_20261029.py",
+      "bytes": 1472,
+      "sha256": "9213cf4fdbcf676822812be7f4735ffb0c6460968c9bc9936f3538b1ec889bde"
+    },
+    {
+      "path": "work/check_public_qa_supervision_20261029.py",
+      "bytes": 5013,
+      "sha256": "46ff577f885f7b3dd25cef634b5e07822058ee2c46ed975052c6edc65a2299cd"
+    },
+    {
+      "path": "work/check_public_qa_supervision_v2_20261029.py",
+      "bytes": 5092,
+      "sha256": "0d11831cc700207b5d9ebda67ffe8fe1d795cfcf42fe5b768542e8c467d4171e"
+    },
+    {
+      "path": "work/check_public_qa_host_lifecycle_20261029.py",
+      "bytes": 6996,
+      "sha256": "c94d872eff19a3e2d8501e5bfae01549cd55ee47335569b3c05144bc67b36df3"
+    },
+    {
+      "path": "work/check_public_qa_host_lifecycle_v2_20261029.py",
+      "bytes": 7517,
+      "sha256": "5c7ecd71b43df410d8bc755e655bceeb437becde57c40ebeb2076945276de66a"
+    },
+    {
+      "path": "work/check_public_qa_reader_20261029.py",
+      "bytes": 5649,
+      "sha256": "34f032f49647688b495b69927d70a1d2ae4477fd347cce0c282658cf571ef56e"
+    },
+    {
+      "path": "work/check_public_qa_reader_v2_20261029.py",
+      "bytes": 6182,
+      "sha256": "c8eacd6862da00b15c651d0a39317d1668323a4ecd1ce3f82c5d1e5929a18d9f"
+    },
+    {
+      "path": "work/check_public_qa_synthetic_capacity_20261029.py",
+      "bytes": 1418,
+      "sha256": "385083f8a42fcee526db32af9155b58c976eb5c3b47ea9a38c5a5e74ce7c94ee"
+    },
+    {
+      "path": "work/pin_public_qa_weight_manifests_20261029.py",
+      "bytes": 1641,
+      "sha256": "da47222a100a75a5bf9e23544c35b3a05137f19e894a9f78f96a3fa594a829ef"
+    },
+    {
+      "path": "work/prepare_public_qa_execution_draft_20261029.py",
+      "bytes": 6904,
+      "sha256": "9ecfeac64cb1c0cc0236c9b58e83e983eb7b3e7ae2a88fc5b401790835ddcb12"
+    },
+    {
+      "path": "work/freeze_public_qa_execution_20261029.py",
+      "bytes": 6757,
+      "sha256": "5f1f90a35a87b9d2f283ebca6a02c68b7e888a35f44b13151ffc48c3a15f0d26"
+    },
+    {
+      "path": "work/build_thesis_cohort_use_register_20261029.py",
+      "bytes": 12901,
+      "sha256": "8d500d92edd8d38d55bbc52b0bb3fc65ad76269828c3739fbb67828973e7c450"
+    },
+    {
+      "path": "work/save_public_qa_live_publication_20261029.py",
+      "bytes": 10599,
+      "sha256": "95b11a4383faea1731922cd30394f2c0998604f4f29d4bdb42dcfbca1bdf18b2"
+    },
+    {
+      "path": "outputs/public_qa_supervision_20261029/software_v2/Result.json",
+      "bytes": 1177,
+      "sha256": "d28e961325db82245ad4b7648176df8fc9e678bacff7c84589313a70d88257d6"
+    },
+    {
+      "path": "outputs/public_qa_supervision_20261029/host_lifecycle_v2/Result.json",
+      "bytes": 2275,
+      "sha256": "93442196936698ef937ef1ee4604f50acbac22419720c92bf569be8246ce35f5"
+    },
+    {
+      "path": "outputs/public_qa_supervision_20261029/reader_checks_v2/Result.json",
+      "bytes": 675,
+      "sha256": "ba79330557bf0b47036228574fc49c4740a0e493120a401fdb437fddc871b0d0"
+    },
+    {
+      "path": "outputs/public_qa_supervision_20261029/Synthetic_Capacity.json",
+      "bytes": 1070,
+      "sha256": "7892da7aa5708196263080765493faec34b9ddea6e4084bdfe6a199842daff06"
+    },
+    {
+      "path": "outputs/public_qa_supervision_20261029/Software_Fixture_Bound_Failure.json",
+      "bytes": 585,
+      "sha256": "310af4f51584c99bff4d893e595db53f00ade8a60490b705d7e6dff817e245e2"
+    },
+    {
+      "path": "outputs/public_qa_supervision_20261029/Synthetic_Capacity_Entry_Failure.json",
+      "bytes": 297,
+      "sha256": "e35f37101dde2b740c7bbb7301b162d1469b5b75af404b4527150267d21f5790"
+    },
+    {
+      "path": "outputs/public_qa_supervision_20261029/weight_metadata/Result.json",
+      "bytes": 2151,
+      "sha256": "cd8a548b7b5abbf2fc6907e4efc9b5bcc748c9286df013edaa65dce864ad64fc"
+    },
+    {
+      "path": "outputs/public_qa_execution_preparation_20261029/final/Final_Readiness.json",
+      "bytes": 5029,
+      "sha256": "d7b9d31ad6a8ef0349ad7867170995d2c42b2cd08966feb983af9f0a54c3f8ec"
+    },
+    {
+      "path": "outputs/public_qa_execution_preparation_20261029/final/Final_Protocol.json",
+      "bytes": 8901,
+      "sha256": "57e1a96a18667549d47bc6004086cc29132060f3855e5187725e54271b66a9f9"
+    },
+    {
+      "path": "outputs/thesis_cohort_use_20261029/Cohort_Use_Register.json",
+      "bytes": 12322,
+      "sha256": "fe4368eede2b9362c7126a1561b2bd4ab9495420535340ef267c7ca00d9a2ccf"
+    },
+    {
+      "path": "outputs/thesis_cohort_use_20261029/Chapter7_Development_And_Confirmation_Insert.md",
+      "bytes": 4426,
+      "sha256": "ea255ffb91f8edcaed42f765146def60ba596386eb636eae47b372e3095087f1"
+    },
+    {
+      "path": "outputs/public_qa_scale_design_20261029/Focused_Method_Review_And_Decisions.md",
+      "bytes": 5253,
+      "sha256": "f455490775598ad14655a12b9ae4d5a462c6ce2ce260dd8f91e2a293c4ee5a5f"
+    }
+  ],
+  "raw_backup_complete": false
+}
