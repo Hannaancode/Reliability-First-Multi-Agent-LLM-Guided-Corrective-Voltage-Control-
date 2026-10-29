@@ -1,0 +1,113 @@
+{
+  "at_utc": "2026-10-29T10:02:21.486963+00:00",
+  "status": "VERIFIED_FIRST_NUMERICAL_PROPOSAL_AND_NEW_RECEDING_PREPARATION_SAVED_FULL_CAMPAIGN_NOT_READY",
+  "actual_goal_tool": "ACTIVE; actual usage/lifecycle governs",
+  "all_six_final_goals": "OPEN",
+  "bounded_main_request_complete": [
+    "G4 matched size comparison; adverse results retained; G4.3 conditional follow-on OPEN"
+  ],
+  "priority_order": [
+    "G3",
+    "G1",
+    "G2",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "owned_scientific_jobs": [],
+  "GPU_assignments": [],
+  "waiting_timer": null,
+  "thesis_requirements_complete": 27,
+  "thesis_requirements_total": 35,
+  "thesis_current": "outputs/thesis_citations_integrated_20261029/Hannaan_Thesis_Citations_And_Current_Results.docx",
+  "thesis_content_qa": "outputs/thesis_citations_integrated_20261029/Independent_Citation_Integration_Check.json",
+  "thesis_evidence_index": "outputs/thesis_citations_integrated_20261029/Thesis_Evidence_Navigation.json",
+  "thesis_counts": {
+    "tables": 23,
+    "figures": 22,
+    "references": 71
+  },
+  "pagination": "Explicitly delegated to user; no new PDF, page count or visual layout certification.",
+  "open_thesis_items": [
+    "T01",
+    "T02",
+    "T04",
+    "T05",
+    "T11",
+    "T13",
+    "T21",
+    "T29"
+  ],
+  "common_tolerance": {
+    "rule": "Same1e-8 p.u. allowance for all methods; retrospective user-requested engineering analysis, not new confirmation.",
+    "wholeband500": {
+      "our_numerical": 415,
+      "safe_ddpg": 262,
+      "linear": 258,
+      "ddpg": 363
+    },
+    "remaining_ours": 85,
+    "evidence": "outputs/public13_voltage_magnitude_analysis_20261029/Independent_Arithmetic_Check.json",
+    "historical_strict_scores_preserved": true,
+    "LLM_superiority": false
+  },
+  "next_physical_mechanism": "outputs/remaining85_mechanism_review_20261029/Prospective_Launch_Gates.json",
+  "latest_diagnosis": "All85 rejected candidates violate a previously normal bus despite affine predicted guard satisfaction.81UV/4OV. Prediction error dominates rounding; no new performance claim.",
+  "nonlinear_adapter": "work/remaining85_nonlinear_kernel_20261029.py",
+  "nonlinear_readiness": "All500 initial inputbindings independentlyPASS; equations/Jacobians/wrapper/mockpreservation gatesPASS; firstactual2stageproposalPASS. Full receding worker/current-state continuoushistory/cost/clock/cache/replay integration still missing.",
+  "current_LLM_readiness": "Causal LLM goal remains unachieved. No new model study ready; common118 environment/reward/splits/actor versusqueryhistory/controls/source and loader gates remain.",
+  "GPU_readonly_evidence": "outputs/colab_eligibility_readonly_20261029/Results.json",
+  "GPU_limits": "All3 profiles eligibleT4 with0assignments at08:27UTC; no free-hour/reset/lifetime guarantee or fallback after denial.",
+  "usage_observation": "Latest actual account usage94percent consumed,6percent remaining; ordinaryUsageAllowed true. No reset/time promise.",
+  "last_verified_GitHub": "c7f36567d111b11fb24a4f76a76b8caca9782873",
+  "verified_GitHub_receipt": "outputs/nonlinear_readiness_publication_20261029/Verified_GitHub_Receipt.json",
+  "new_work_publication": "First nonlinear results/source published with six exact downloaded-byte checks. Later receding preparation pending current compact publication.",
+  "next_ordered_actions": [
+    "Independently review new receding engine against Audit_Contract; do not rerun old completed checks or firstproposal.",
+    "Implement fixed new-math execution/attempt ownership around unchanged v3 solver and exact source context cache; seed0 firstproposal MUST reuse its paid receipt.",
+    "Bind full historical physical/replay/cost lineage, complete semantic journals, source-frozen owner clock and actual RNG restore. Snapshotv2 is current; v1 mutation defect retained.",
+    "Prepare complete partial-aware physical reader and prospective exact source/owner/resource/history protocol before any new PF or full500 study. Both newoptimizer/PF entries currently disabled.",
+    "Keep all500 source order,100rounds,3nativeactuators/float32cap/originalguard. No outcome retuning or claim of a new benchmark/LLM win.",
+    "Eight thesis items remain evidence-dependent; do not change security scope or invent approvals/memberships to reach30."
+  ],
+  "standing_constraints": "Preserve frozen original model/network/controller/settings/locked62bank, all adverse/partial/UNKNOWN, literal DFF+DFFALT+unchanged DSE with full BOTH/model/training/preparation/failure costs. No guaranteed winner, scientific retries, favorable worlds, quota evasion, purchases or fallback after denial.",
+  "latest_verified_GitHub": "c7f36567d111b11fb24a4f76a76b8caca9782873",
+  "publication_updated_at_utc": "2026-10-29T08:48:35.022949+00:00",
+  "latest_exact_execution_state": "outputs/receding_preparation_checkpoint_20261029/Exact_Resume.json",
+  "nonlinear_first_proposal": {
+    "primary": "outputs/nonlinear13_first_proposal_execution_20261029/Result.json",
+    "independent": "outputs/nonlinear13_first_proposal_independent_20261029/Independent_Audit.json",
+    "status": "COMPLETE_ADMITTED_FIRST_NUMERICAL_PROPOSAL_ONLY",
+    "actual_optimizer_returns": 2,
+    "native_SLSQP_calls": 18,
+    "all70_calculation_returns_verified": true,
+    "max_algebra_difference": 7.105427357601002e-15,
+    "actual_control_commits": 0,
+    "model_PF_GPU_calls": 0,
+    "first_seed0_proposal_must_be_reused_not_rerun": true
+  },
+  "nonlinear_initial_input_evidence": "outputs/nonlinear500_input_binding_independent_20261029/Independent_Audit.json",
+  "nonlinear_current_state_limits": "outputs/nonlinear13_current_state_independent_review_20261029/Independent_Review.json",
+  "paid_history_registry": "outputs/nonlinear500_paid_registry_20261029/Result.json",
+  "paid_history_review": "outputs/nonlinear500_paid_registry_independent_20261029/Independent_Review.json",
+  "paid_lookup_source": "work/nonlinear500_paid_lookup_v2_20261029.py",
+  "first_saved_physics_join": "outputs/nonlinear13_first_proposal_paid_join_v2_20261029/Result.json",
+  "first_saved_physics_join_limits": "Exact already-paid firstaction,12UVto12UV/0OV,guardPASS,predictionerror2.7034293692551614e-9. No new physics,actualcommit,trajectory or restorationgain.",
+  "common118_DFF_history": "outputs/common118_history_recovery_20261029/Result.json",
+  "common118_history_limits": "All33 DFFselected-action prefixes recovered29commits; internalcandidate rejectionsunknown29states, futurelearnedactorhistoriesunknown. No newlearnedpolicyadmission.",
+  "today_new_verified_evidence": {
+    "all500_initial_bindings": "outputs/nonlinear500_input_binding_independent_20261029/Independent_Audit.json",
+    "first_actual_two_stage_solver": "outputs/nonlinear13_first_proposal_independent_20261029/Independent_Audit.json",
+    "exact_paid_reuse": "outputs/nonlinear500_paid_registry_independent_20261029/Repair_And_First_Reuse_Review.json",
+    "real_saved_current_state_qualified_review": "outputs/nonlinear13_actual_saved_cursor_20261029/Independent_Review.json",
+    "snapshot_v2_changed_path_review": "outputs/nonlinear500_paid_snapshot_preparation_20261029/v2_changed_paths/Independent_Review.json",
+    "receding_engine_software_only": "outputs/nonlinear13_receding_policy_preparation_20261029/Results.json",
+    "future_independent_audit_contract": "outputs/nonlinear13_receding_independent_design_20261029/Audit_Contract.json",
+    "remaining_thesis_literal_criteria": "outputs/remaining_thesis_closure_triage_20261029/Triage.json"
+  },
+  "actual_saved_cursor_limits": [
+    "before_vm null in preserved old fixture; current engine uses current_vm.",
+    "Old shape_hash scalar type claim overstated; new synthetic engine checks distinguish bool/int/float.",
+    "PF3 historical primary timer0.0470000000204891seconds and independent timer0.0 recovered; zero reading is not free. Full runtime/clock/RNG restore not certified."
+  ]
+}
