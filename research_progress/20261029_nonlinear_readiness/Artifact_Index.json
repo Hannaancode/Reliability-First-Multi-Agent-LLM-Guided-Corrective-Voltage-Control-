@@ -1,0 +1,373 @@
+{
+  "at_utc": "2026-10-29T09:41:28.412118+00:00",
+  "members": [
+    {
+      "path": "work/remaining85_source_binder_20261029.py",
+      "bytes": 11061,
+      "sha256": "135fd9082b75e3538916563bfea593c8f4e756e01c5b8ce723b9870c0d05f179"
+    },
+    {
+      "path": "work/remaining85_run_source_binding_20261029.py",
+      "bytes": 7047,
+      "sha256": "9a7c3ad945692afd4275fd3ff25f8d3eeb12a0a46f5c6dee151f840e75809450"
+    },
+    {
+      "path": "work/remaining85_source_binder_v2_20261029.py",
+      "bytes": 11513,
+      "sha256": "43b854056b9fda0ecec1cdbaacfa33b2e2d38064201c7940302c72782f5e743d"
+    },
+    {
+      "path": "work/remaining85_run_source_binding_v2_20261029.py",
+      "bytes": 7428,
+      "sha256": "a5dc6743112182340e29196474a4ff320158099e3ffa0746b97ce87946e8912b"
+    },
+    {
+      "path": "work/remaining85_certified_loader_20261029.py",
+      "bytes": 2927,
+      "sha256": "86926fed74cf66cf255c4276fd13a4bd1cb751ef840f75b40116497d84762aa3"
+    },
+    {
+      "path": "work/nonlinear13_validated_kernel_v2_20261029.py",
+      "bytes": 1788,
+      "sha256": "94618084e59408e46c4998681b2df6b02fb2ce1d4dd932d1ef1884e9d7d836bf"
+    },
+    {
+      "path": "work/nonlinear13_analytic_derivatives_20261029.py",
+      "bytes": 2250,
+      "sha256": "dd913f68510d839c39f9f59706fa9f6da0cf20301e544b83330a41408f6ff605"
+    },
+    {
+      "path": "work/check_nonlinear13_analytic_derivatives_20261029.py",
+      "bytes": 3700,
+      "sha256": "198d5ccc7e352f52c07f685940b9329776618b3d6847eff359b57007f7758275"
+    },
+    {
+      "path": "work/audit_nonlinear500_kernel_boundaries_20261029.py",
+      "bytes": 9265,
+      "sha256": "5312f8f71652e32545e6a8cbb50505351f74fbbff8a0c44128f9e1133ba59595"
+    },
+    {
+      "path": "work/audit_nonlinear500_input_binding_20261029.py",
+      "bytes": 5745,
+      "sha256": "e3ba3d58710bde4c03f3c337696b3cb521660066ee9317559dcb513ba560585e"
+    },
+    {
+      "path": "work/nonlinear13_preserved_solver_20261029.py",
+      "bytes": 7791,
+      "sha256": "c976cc57220afad1a87bef1e637acce42ad76c3ad7f080f3ce598a2d4cfedbe0"
+    },
+    {
+      "path": "work/nonlinear13_preserved_solver_v2_20261029.py",
+      "bytes": 8271,
+      "sha256": "0b960f95aec107206b280da5eed9f12598452c74b4f76a4bc8bb02a185ca3239"
+    },
+    {
+      "path": "work/nonlinear13_preserved_solver_v3_20261029.py",
+      "bytes": 10003,
+      "sha256": "4cb2f8b28c4c3875603a726fa641a09c6315f0f880c13025ab4af539fcc4858e"
+    },
+    {
+      "path": "work/audit_nonlinear13_preserved_solver_20261029.py",
+      "bytes": 14164,
+      "sha256": "117499be0983b769e21bcb9e398aaac2f6e6a4c2bb1260b8c736494196a2d413"
+    },
+    {
+      "path": "work/audit_nonlinear13_preserved_solver_v3_20261029.py",
+      "bytes": 9354,
+      "sha256": "cbe94a122a9203e4d4c236ad9d99d7e1e70f765794a5ccb51779b3d3c465ba34"
+    },
+    {
+      "path": "work/run_nonlinear13_first_proposal_20261029.py",
+      "bytes": 4876,
+      "sha256": "1ccbfead268e80c7bda7e37f0d271237db37dcc025ea081ea467a05181be61ab"
+    },
+    {
+      "path": "work/audit_nonlinear13_first_proposal_20261029.py",
+      "bytes": 11888,
+      "sha256": "6af51c5dc35f612195e45ed4f8b32615ee1827fc1ea83a7941c45fe304bfc0e8"
+    },
+    {
+      "path": "work/coordinate_nonlinear13_first_proposal_20261029.py",
+      "bytes": 1423,
+      "sha256": "d6da1ccfba833db92aee2a3b274c931ddd16473a4cde797263dbccd430542e3c"
+    },
+    {
+      "path": "work/freeze_nonlinear13_first_proposal_20261029.py",
+      "bytes": 4243,
+      "sha256": "079fd7540841727250e5b3a88e1c2e017de926388c7b05d87c9e0418bc036721"
+    },
+    {
+      "path": "work/nonlinear13_current_state_20261029.py",
+      "bytes": 20739,
+      "sha256": "7aedb462393e08412ba1d68c67c768414a17a6162e865971fb433672dd581ebb"
+    },
+    {
+      "path": "work/common118_history_recovery_20261029.py",
+      "bytes": 14711,
+      "sha256": "b3fb980c5025ac40118bd4731239af0adefa6198914ce12e83cb6912025f5616"
+    },
+    {
+      "path": "work/nonlinear500_paid_registry_20261029.py",
+      "bytes": 30597,
+      "sha256": "5a992abe12c078aea5e449b5878cb06a50bf0e0f7a5fe1ec7b7d42215d0be2a5"
+    },
+    {
+      "path": "work/audit_nonlinear500_paid_registry_20261029.py",
+      "bytes": 11181,
+      "sha256": "f184176ef38be15c560c537a19a505e47a97d236d06748903671936478e8c0ef"
+    },
+    {
+      "path": "work/nonlinear500_paid_lookup_v2_20261029.py",
+      "bytes": 1664,
+      "sha256": "715fb25f04868a99670a277d32e2eb3055e42dbd5cee3faa0d01c65a72340458"
+    },
+    {
+      "path": "work/join_nonlinear13_first_proposal_paid_result_20261029.py",
+      "bytes": 3899,
+      "sha256": "d09b919438f08096c9bc363d9a416af9e7bdd30fcd40a185047e67af1f5135be"
+    },
+    {
+      "path": "work/join_nonlinear13_first_proposal_paid_result_v2_20261029.py",
+      "bytes": 3939,
+      "sha256": "4534fda47619e24f014c69eb95ce347f0cf9d98c459dc028627484738202c5f8"
+    },
+    {
+      "path": "work/save_nonlinear_readiness_checkpoint_20261029.py",
+      "bytes": 8791,
+      "sha256": "5c47c564a8e4d6acc12e49ff5925444eecbb8ab0dcf5f8d9b19ef151893a8379"
+    },
+    {
+      "path": "work/prepare_nonlinear_readiness_publication_20261029.py",
+      "bytes": 6044,
+      "sha256": "37b5678025ef22d2dccae6e8386a4978b854c030ce248e14ad904212daf59fc5"
+    },
+    {
+      "path": "outputs/nonlinear13_derivative_preparation_20261029/Protocol.json",
+      "bytes": 656,
+      "sha256": "224fadf6e1c981bd48b73f82e27f23dff63663874824615e023f43e2f3a5da42"
+    },
+    {
+      "path": "outputs/nonlinear13_derivative_preparation_20261029/Results.json",
+      "bytes": 1830,
+      "sha256": "0b504ea5f33b4631bb97b90ed208d217347306c18e4cb6d9b8026461f556f492"
+    },
+    {
+      "path": "outputs/nonlinear500_kernel_independent_review_20261029/Boundary_Protocol.json",
+      "bytes": 2350,
+      "sha256": "4d6cdb27bd812b89ed89530636b86c7cabddacb50ebcc20887fa710235b329d9"
+    },
+    {
+      "path": "outputs/nonlinear500_kernel_independent_review_20261029/Boundary_Results.json",
+      "bytes": 4817,
+      "sha256": "24c095fc9687d51b474d1602d899e9d323e5223f37896558e549b264e4c56ce1"
+    },
+    {
+      "path": "outputs/nonlinear500_kernel_independent_review_20261029/Independent_Review.json",
+      "bytes": 18103,
+      "sha256": "c21b453bb9ef40c9e5215fe7a65e4a9de6a957e1bfc04a8095d1104e1f6e26bb"
+    },
+    {
+      "path": "outputs/nonlinear500_input_binding_independent_20261029/Independent_Audit.json",
+      "bytes": 43921,
+      "sha256": "8869ac7c54ae98e7e090051c35d43668228adf932d21c13217a8ae7cd93f2373"
+    },
+    {
+      "path": "outputs/nonlinear13_preserved_solver_review_20261029/Independent_Review.json",
+      "bytes": 9506,
+      "sha256": "5f6abe43710372fa815627d4c6273075f8b3a25cc0866a96a0879d9fcff72ece"
+    },
+    {
+      "path": "outputs/nonlinear13_preserved_solver_review_20261029/Protocol.json",
+      "bytes": 1204,
+      "sha256": "3fb931dde0df47fae323ad50c55d1517123974fc7d886e19e61aa14e203def55"
+    },
+    {
+      "path": "outputs/nonlinear13_preserved_solver_review_20261029/Results.json",
+      "bytes": 27555,
+      "sha256": "a872169a8e9e1ab9403003ad01c56df131a1bef0c20fcc4c842336a5067eb27d"
+    },
+    {
+      "path": "outputs/nonlinear13_preserved_solver_review_20261029/v3_changed_paths/Independent_Review.json",
+      "bytes": 8370,
+      "sha256": "b08b06d9ed9150d5d4eabead561569fd0709a60e709ebcc2f0ccf93310391e1b"
+    },
+    {
+      "path": "outputs/nonlinear13_preserved_solver_review_20261029/v3_changed_paths/Protocol.json",
+      "bytes": 911,
+      "sha256": "f0bd9690b282c69be6544244abaa01cc143b995c1c44d4859c03c629220b3631"
+    },
+    {
+      "path": "outputs/nonlinear13_preserved_solver_review_20261029/v3_changed_paths/Results.json",
+      "bytes": 5525,
+      "sha256": "3a0554db92c9217ab712b54e7d3207eceb94d0f3be4f8c27b839a5acc7d69ef3"
+    },
+    {
+      "path": "outputs/nonlinear13_current_state_preparation_20261029/Initial_Check_Failure.json",
+      "bytes": 395,
+      "sha256": "3df6f50ee7394e17b82255eb1b93df1604f0f7d8e9484dd11ca5c3fa16b2b9ca"
+    },
+    {
+      "path": "outputs/nonlinear13_current_state_preparation_20261029/Readiness_And_Exact_Next.json",
+      "bytes": 3538,
+      "sha256": "7213fd3f0af5edce9d52f29bfc5efaebd7c97a2c9c4c087feac0abf36ddf738e"
+    },
+    {
+      "path": "outputs/nonlinear13_current_state_preparation_20261029/Synthetic_Receipt.json",
+      "bytes": 306,
+      "sha256": "9ed937ca8312b83b5d249ecb48ab01cf699a15fa32d3c735407b8eb465798ecc"
+    },
+    {
+      "path": "outputs/nonlinear13_current_state_preparation_20261029/Synthetic_References.json",
+      "bytes": 70,
+      "sha256": "ec97b4eb214e51c2ad30e8303975d3925f013a6466daa86b21e72b2842553b52"
+    },
+    {
+      "path": "outputs/nonlinear13_current_state_independent_review_20261029/Independent_Review.json",
+      "bytes": 10705,
+      "sha256": "85501b2306deaa1f40b037b7588589780ecbcbe8dc63bdc7ed729109944eaafd"
+    },
+    {
+      "path": "outputs/common118_history_recovery_20261029/Case_Summaries.json",
+      "bytes": 4272,
+      "sha256": "cb23c0487287a0432215b9b5f8aeb37fefbd0bd1a9a9284f92e1f88683b12a61"
+    },
+    {
+      "path": "outputs/common118_history_recovery_20261029/Input_Bindings.json",
+      "bytes": 16078,
+      "sha256": "1955afb20617bf52ca009901dbd64d200fd6aadafbe15fb5b84d487c9390da7b"
+    },
+    {
+      "path": "outputs/common118_history_recovery_20261029/Recovered_DFF_Actor_Histories.json",
+      "bytes": 275192,
+      "sha256": "e1b52c6ee07e0586a9da54ba08152e9e7e6d9f9633b109601d8214c8c6a14217"
+    },
+    {
+      "path": "outputs/common118_history_recovery_20261029/Result.json",
+      "bytes": 773,
+      "sha256": "a69c283f8747552918b75cb1f091b1c82ef53fe093f0b4125cd86174cc1479db"
+    },
+    {
+      "path": "outputs/common118_history_recovery_20261029/Source_Binding_Proof.json",
+      "bytes": 4545,
+      "sha256": "85a55ed44e31fe0e91e3731448751455203a0b128d94bde6f1136d2742448b08"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_preparation_review_20261029/Intermediate_Review_Cost_Gap.json",
+      "bytes": 5209,
+      "sha256": "63af41aeb9faf32b583da7b0f93603bf1c3cc9938aa5f933a97a70f263474502"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_preparation_review_20261029/Review.json",
+      "bytes": 6373,
+      "sha256": "baac5b0873b4b27a946c98d073b456b1d679d7f8d2b8bdd076d92f4b04f7e87a"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_preparation_20261029/Freeze.json",
+      "bytes": 161,
+      "sha256": "1b496a6f72b74aa0423fd380574938698810252e0a6853ec545270603410a5b8"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_preparation_20261029/Primary_Owner_Protocol.json",
+      "bytes": 412,
+      "sha256": "b471e02867be248352741c9cc00b770296c4d48b5b57e62e4a25455f5f8d2cfa"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_preparation_20261029/Protocol.json",
+      "bytes": 5410,
+      "sha256": "2f1f8dd77ef463e0ed88239c87aff5fa129b82301f3e009ba388fdfc0e6d2fa4"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_preparation_20261029/Reader_Owner_Protocol.json",
+      "bytes": 423,
+      "sha256": "046167dff78bbe52e8dd4862cbb01aa44dfe8166a2bd879a0667e5d8defabdb9"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_execution_20261029/Cold_Pre_Proposal_Check.json",
+      "bytes": 1160,
+      "sha256": "2d67c79479690ad0d5f66f6f8e122c797bd75732c36ced5be0e4f0ea5fdc38cf"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_execution_20261029/Frozen_After.json",
+      "bytes": 407,
+      "sha256": "a165d1d6fa062b6009733f1214f2b499ce882597199bfd5b0cfe0b7c7c0d86d2"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_execution_20261029/Frozen_Before.json",
+      "bytes": 407,
+      "sha256": "3f4b90c348cc4cc24559e6b4dcac1c63fd47e26126e50e12135b798598612455"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_execution_20261029/Proposal_Result.json",
+      "bytes": 7100,
+      "sha256": "be31f42fbee08e7e8f456a6ec029064e17b66d23e29f8924f7d142c6127fcab9"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_execution_20261029/Result.json",
+      "bytes": 1011,
+      "sha256": "6fd82d7edb177997e4cb9cc4b1f03ead5124a6428a5e53fd86591819bd38193f"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_independent_20261029/Independent_Audit.json",
+      "bytes": 2573,
+      "sha256": "c264e14d5baa326b84dbf6f0580d49281e920a1aab8312b6a3fdd32c82027418"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_paid_join_20261029/Failure_Observed_From_Tool.json",
+      "bytes": 794,
+      "sha256": "32f642ab83134c82396d40a415f8e3b131e11ec311888b900cb0a6440f597c6e"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_paid_join_20261029/Protocol.json",
+      "bytes": 1145,
+      "sha256": "d8b35a1c899ba85259642afbb6e3196f847323b4e45a96de51c2df9494b13584"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_paid_join_v2_20261029/Exact_Lookup.json",
+      "bytes": 1523,
+      "sha256": "8f366044d68e57b065facc1f2f299c407b612d30dff57eb3ed0228160cc82da9"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_paid_join_v2_20261029/Protocol.json",
+      "bytes": 1145,
+      "sha256": "d7051854915ad64567a76807545d5c1de96e88c5cd48c4f98b51cb108e7cee87"
+    },
+    {
+      "path": "outputs/nonlinear13_first_proposal_paid_join_v2_20261029/Result.json",
+      "bytes": 1708,
+      "sha256": "c7908270270cd49b58da36ced7c5500cf8ac219aa632779781c5d7cdc4397a00"
+    },
+    {
+      "path": "outputs/nonlinear500_paid_registry_independent_20261029/Independent_Review.json",
+      "bytes": 7232,
+      "sha256": "a9ba6ac896c48796e04f8b1867000e556b61499b4673ca046fd989f1999e05b7"
+    },
+    {
+      "path": "outputs/nonlinear500_paid_registry_independent_20261029/Repair_And_First_Reuse_Review.json",
+      "bytes": 12669,
+      "sha256": "1af1b25b0a068e3d76ea653d6f9f1e6c4ccce4dc69251e24081126f6f459986e"
+    },
+    {
+      "path": "outputs/nonlinear500_source_binding_20261029/Readiness_And_Exact_Next_State.json",
+      "bytes": 4064,
+      "sha256": "5313b6b0e5b6da7bd2252687b01b6d444962ac7e84461cbeee00367932f89ba9"
+    },
+    {
+      "path": "outputs/nonlinear500_source_binding_20261029/v2_validated_full_admittance/Results.json",
+      "bytes": 2915189,
+      "sha256": "02060d35cd7b37e77a59d04c22ce49c2e438161e4995cba070a288db2b3a3cc6"
+    },
+    {
+      "path": "outputs/nonlinear500_paid_registry_20261029/Result.json",
+      "bytes": 12557,
+      "sha256": "d77e99259257258b220e559c5697dc3136d294c3767c340428aefbfa5af11f15"
+    },
+    {
+      "path": "outputs/nonlinear500_paid_registry_20261029/Frozen_Registry_Manifest.json",
+      "bytes": 1029,
+      "sha256": "522618ac10c3c2e4b28ae22d185d87853449ec9f95c7da28dc7b4932ae013617"
+    }
+  ],
+  "archive_sha256": "4d3270eac28d7eeef16e36d898f522ca9101093303e135be38582bc81d480bc4",
+  "archive_bytes": 287310,
+  "scope": "Own code and compact generated proofs only. No rawNETs, pretrained weights, model packs, full logs, third-party library sources or thesisDOCX. Not a full raw backup."
+}

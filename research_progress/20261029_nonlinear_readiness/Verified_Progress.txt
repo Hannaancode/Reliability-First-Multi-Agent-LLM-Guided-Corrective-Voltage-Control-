@@ -1,0 +1,5 @@
+All500 initial nonlinear controller inputs independently bound. One new fixed numerical proposal at source-orderseed0 completed two actualSLSQPstages;70calculationreturns independentlyverified, maxdifference7.106e-15. NoPF/model/GPU/actualcommits. Exactoldpaidphysics for that proposal:12UVto12UV/0OV,originalguardPASS,nonlinearpredictionerror2.703e-9. This is initial solver/model consistency, not a restoration gain or full500policy. Firstproposal and oldphysics must be reused, never rerun.
+
+CompleteDFFselected-action history recovered29commits across33savedprefixes; candidate-query rejections and future learned histories remain scopedunknowns. Exactpaidregistry11355keys/11354reusable/1blocked missingafterNET; no universalhistory/newPFpermission.
+
+Full receding worker, semanticreceipt/guard/journal/cache/cost/clock joins and independentphysicalreader remain pending. All6finalgoalsOPEN,27/35thesisrequirementsclosed. No guaranteed winner, newtuning, purchases or quota assumptions. All oldfailures/unknowns/costs retained.
