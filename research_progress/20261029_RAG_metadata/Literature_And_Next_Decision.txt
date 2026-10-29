@@ -1,0 +1,13 @@
+CITATION AND METADATA REVIEW — 29 October 2026
+
+Primary sources inspected: ALCE, https://aclanthology.org/2023.emnlp-main.398/ (PDF Section3.3, human evaluation and metric limitations); RAGTruth, https://aclanthology.org/2024.acl-long.585/ (PDF Sections3.1–3.3 and8). These sources were reviewed, not benchmarked here.
+
+ALCE separates answer correctness from citation support. Its statement-level recall and citation precision use learned entailment and human checks. In our source, quote substring membership is weaker than claim entailment. Correct source IDs and display metadata therefore cannot establish supported technical answers. ALCE metrics also are not exact truth certificates.
+
+RAGTruth distinguishes unsupported content and conflicts with supplied evidence. It specifically treats missing information separately from explicit negative values and identifies transfer across datasets and contexts as an open limitation. Our registry intentionally does not infer dates, pages or authors from document IDs or URL strings. Returning a known URL and refusing an unstated page are different software outcomes, not general hallucination resistance.
+
+Concrete decision: retain the original source failures and add a typed registered-metadata path. All98saved mappings are covered by896fixed checks (892responses plus4loader rejections). A separate reader checks every saved response, exact value, source identity and citation. This is established application validation, not a novelty or LLM-superiority claim. No language model, index, linked webpage, document content or physical controller was executed.
+
+Next genuinely different evaluation: admit a source-document loader with page/span identities and a model-independent answering contract. Compare direct structured lookup, extractive answers and any language-assisted response using the SAME available evidence and complete costs. Preserve answerable positives, absent fields, wrong-source cases and semantic contradictions separately. Do not count every refusal as success or use metadata exactness as semantic correctness. Actual model integration must pass finite-logit and non-test behavior gates before fixed new evaluation identities. No such performance study is ready here.
+
+T12 remains partial because the full answering pipeline and out-of-scope behavior have not been tested. T13 remains partial because historical4396membership and training/test splits remain unresolved. T14 can close only by a reviewed thesis restriction to the reported whole-system comparison; a causal retrieval benefit remains unproven.
