@@ -1,0 +1,168 @@
+{
+  "at_utc": "2026-10-29T08:46:35.641183+00:00",
+  "members": [
+    {
+      "path": "work/analyse_public13_voltage_magnitudes_20261029.py",
+      "bytes": 3532,
+      "sha256": "e25cd64e635bae85e6289dd54e470f6de3184ead016fd1e7f9026e55db44c829"
+    },
+    {
+      "path": "work/audit_public13_voltage_magnitudes_20261029.py",
+      "bytes": 1992,
+      "sha256": "6ed1d6dd59d58e8ad2dc3078389c9063a48b36997a9da8821552c1455f9f3394"
+    },
+    {
+      "path": "work/prove_external_dqn_bellman_contract_20261029.py",
+      "bytes": 6755,
+      "sha256": "d2d282cdd27d552bca8567a247bd207192e3a1f1660fbee818764bbde8aebd6f"
+    },
+    {
+      "path": "work/audit_external_dqn_bellman_contract_20261029.py",
+      "bytes": 3077,
+      "sha256": "097b541f16706540fdcba7f638151f438a7c8ce35309e979bed87e00c56213c1"
+    },
+    {
+      "path": "work/remaining85_saved_mechanism_20261029.py",
+      "bytes": 11655,
+      "sha256": "ea17d102880bcc60039c460c95e7652799012a2a094bcafa24ee64498bfe1f93"
+    },
+    {
+      "path": "work/remaining85_prepare_nonlinear_spec_20261029.py",
+      "bytes": 14591,
+      "sha256": "5e60f3aafe1e0540cbc761b833a83551aeed55700e075136fdd6e569a04de88a"
+    },
+    {
+      "path": "work/remaining85_nonlinear_kernel_20261029.py",
+      "bytes": 7142,
+      "sha256": "784b0b14068c2017719a3734861289df798d45fbf55bb427fbefa2d64a1c7439"
+    },
+    {
+      "path": "work/remaining85_check_nonlinear_kernel_20261029.py",
+      "bytes": 6889,
+      "sha256": "deb0cfff53aa6704f06e0cf68c2d12b7d32b59cf1c23be16f55969136edcee8a"
+    },
+    {
+      "path": "work/integrate_thesis_citations_20261029.py",
+      "bytes": 5051,
+      "sha256": "defa970d9576564894ecc2bdea3f0e246f97ba2002e67872d02e020b25457119"
+    },
+    {
+      "path": "work/audit_current_thesis_content_20261029.py",
+      "bytes": 3304,
+      "sha256": "d4c3909e4d148c2be68e5e130406c2839439a16171581a9ce64222f382c99b11"
+    },
+    {
+      "path": "work/rebind_cited_thesis_index_20261029.py",
+      "bytes": 1569,
+      "sha256": "2358fbfd78a44469d7d0a865201ba92aa806bc59c2668f771a51567f173d28dc"
+    },
+    {
+      "path": "work/save_consolidated_research_checkpoint_20261029.py",
+      "bytes": 11136,
+      "sha256": "5a6be825ff9722d40f4968557719ac2204199fe8e00512af841c250a9e994ad2"
+    },
+    {
+      "path": "work/prepare_consolidated_publication_20261029.py",
+      "bytes": 5895,
+      "sha256": "7e54c39ddc13c25e50d92a3f8ad115c6dc87dabcc6a7c360896a6830f2f6163e"
+    },
+    {
+      "path": "outputs/public13_voltage_magnitude_analysis_20261029/Results.json",
+      "bytes": 712582,
+      "sha256": "c95b974d9b530eace64ea196731483354c206d2cc146004618b374cefed796dc"
+    },
+    {
+      "path": "outputs/public13_voltage_magnitude_analysis_20261029/Independent_Arithmetic_Check.json",
+      "bytes": 442,
+      "sha256": "a56e4a5b732c0404e3f9d079f408ccd9c41edb6fbff2420a311b4368a6c09382"
+    },
+    {
+      "path": "outputs/common118_external_bellman_contract_20261029/Source_Contract_Proof.json",
+      "bytes": 4986,
+      "sha256": "c64ee4201780b72473aa0e7c90b7e69f190f2bd2a1268144902e0fa9915151ad"
+    },
+    {
+      "path": "outputs/common118_external_bellman_contract_20261029/Independent_Audit.json",
+      "bytes": 634,
+      "sha256": "293513df872e7d90ed0761f72860311081b67fa824ae68c76fb8d594358b2159"
+    },
+    {
+      "path": "outputs/common118_external_bellman_contract_20261029/Research_Decision.json",
+      "bytes": 2519,
+      "sha256": "6ec477163d6c2c9afe618131e8680f6f459a89724b7193a24720673542481d2e"
+    },
+    {
+      "path": "outputs/remaining85_mechanism_review_20261029/Remaining85_Taxonomy.json",
+      "bytes": 359637,
+      "sha256": "1e85bcc5e1f48390a33ea8f4ef947f219f920028224bd4101fab53a3a887a0bb"
+    },
+    {
+      "path": "outputs/remaining85_mechanism_review_20261029/New_Kernel_Algebra_Source_Check.json",
+      "bytes": 3570,
+      "sha256": "e75773d18958dc3adf18d784bd7eb1e501715ebb1a107d2cd9e286400b81ec5f"
+    },
+    {
+      "path": "outputs/remaining85_mechanism_review_20261029/All500_Nonlinear_Preparation_Input_Manifest.json",
+      "bytes": 846693,
+      "sha256": "0e6ca6f31528acdc44eea03fe4f966b8a40982bf5782a60ae7e41833173923eb"
+    },
+    {
+      "path": "outputs/remaining85_mechanism_review_20261029/LLM_Contribution_Readiness_From_Inspected_Records.json",
+      "bytes": 4072,
+      "sha256": "f65c5d2d97d170f8b9c9efc41a4226d39ced3935fed673af0273a226863625e3"
+    },
+    {
+      "path": "outputs/remaining85_mechanism_review_20261029/Distinct_Mechanism_And_First_Measurement.json",
+      "bytes": 6478,
+      "sha256": "ff3ffebed6b844137baafd718e5afbd89ba4955e4048eedeed6b919c5f1605f0"
+    },
+    {
+      "path": "outputs/remaining85_mechanism_review_20261029/Prospective_Launch_Gates.json",
+      "bytes": 3090,
+      "sha256": "edd52bf080629d367f707a83e890ba5918e49f38102cb187c935a31bc089c717"
+    },
+    {
+      "path": "outputs/remaining85_mechanism_review_20261029/Report.txt",
+      "bytes": 5931,
+      "sha256": "f1e646cafb5c8ef7615b03f2b5f839163293351a88dabf171f342db5a101d0ef"
+    },
+    {
+      "path": "outputs/task_completion_criteria_review_20261029/Independent_Review.json",
+      "bytes": 85706,
+      "sha256": "aa3ee30751a05006504903b1986f13152a5ce64d9a4898e6d52e6e513dc7161e"
+    },
+    {
+      "path": "outputs/thesis_current_comparison_20261029/Independent_Content_Fields_And_Index_Check.json",
+      "bytes": 584,
+      "sha256": "fbc0962161d1abc2a5fa65a2d3503b623c16097c2b248db0c68458c4f37601e3"
+    },
+    {
+      "path": "outputs/thesis_citations_integrated_20261029/Independent_Citation_Integration_Check.json",
+      "bytes": 17259,
+      "sha256": "106f303b29c4092655f98cf7d770e742387513a4d2fe8c96b1c561451ccb849a"
+    },
+    {
+      "path": "outputs/thesis_citation_reconciliation_20261029/citation_reconciliation.json",
+      "bytes": 98037,
+      "sha256": "cb7b3b2b9feaa2dbc44df8451258848d865b14d4ef67578b7cf3d93ac571e659"
+    },
+    {
+      "path": "outputs/thesis_citation_reconciliation_20261029/bibliography_additions.txt",
+      "bytes": 7013,
+      "sha256": "3d10c15c0fb7cc89a534a1cdfa5fba4130558a48ef024fbef044f6ffac9a515d"
+    },
+    {
+      "path": "outputs/thesis_citation_reconciliation_20261029/integration_notes.txt",
+      "bytes": 2510,
+      "sha256": "cbf098e5828ce607ee401f1a9953af7ed6e9d1149f582ddc3ac7e83144c163ac"
+    },
+    {
+      "path": "outputs/consolidated_research_checkpoint_20261029/Exact_Resume.json",
+      "bytes": 4395,
+      "sha256": "4334a69fb122cae000b28f0b188ed1e4db0173600e457fa59515f91b1e279ea4"
+    }
+  ],
+  "pack_bytes": 311035,
+  "pack_sha256": "4b2373c2a058dfd31a1dbcd372ad8ac2d73c66976c65217afb16202958cde626",
+  "scope": "Own code and compact generated evidence only. No private weights, full NETs, thesis DOCX, credentials, raw GPU transcripts or third-party full sources. Not a complete raw backup."
+}

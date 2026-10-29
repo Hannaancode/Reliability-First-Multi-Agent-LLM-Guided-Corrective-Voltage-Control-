@@ -1,0 +1,72 @@
+{
+  "at_utc": "2026-10-29T08:45:10.079327+00:00",
+  "status": "CONSOLIDATED27_CHECKLIST_CLOSURES_CITATIONS_AND85_FAILURE_MECHANISM",
+  "actual_goal_tool": "ACTIVE; actual usage/lifecycle governs",
+  "all_six_final_goals": "OPEN",
+  "bounded_main_request_complete": [
+    "G4 matched size comparison; adverse results retained; G4.3 conditional follow-on OPEN"
+  ],
+  "priority_order": [
+    "G3",
+    "G1",
+    "G2",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "owned_scientific_jobs": [],
+  "GPU_assignments": [],
+  "waiting_timer": null,
+  "thesis_requirements_complete": 27,
+  "thesis_requirements_total": 35,
+  "thesis_current": "outputs/thesis_citations_integrated_20261029/Hannaan_Thesis_Citations_And_Current_Results.docx",
+  "thesis_content_qa": "outputs/thesis_citations_integrated_20261029/Independent_Citation_Integration_Check.json",
+  "thesis_evidence_index": "outputs/thesis_citations_integrated_20261029/Thesis_Evidence_Navigation.json",
+  "thesis_counts": {
+    "tables": 23,
+    "figures": 22,
+    "references": 71
+  },
+  "pagination": "Explicitly delegated to user; no new PDF, page count or visual layout certification.",
+  "open_thesis_items": [
+    "T01",
+    "T02",
+    "T04",
+    "T05",
+    "T11",
+    "T13",
+    "T21",
+    "T29"
+  ],
+  "common_tolerance": {
+    "rule": "Same1e-8 p.u. allowance for all methods; retrospective user-requested engineering analysis, not new confirmation.",
+    "wholeband500": {
+      "our_numerical": 415,
+      "safe_ddpg": 262,
+      "linear": 258,
+      "ddpg": 363
+    },
+    "remaining_ours": 85,
+    "evidence": "outputs/public13_voltage_magnitude_analysis_20261029/Independent_Arithmetic_Check.json",
+    "historical_strict_scores_preserved": true,
+    "LLM_superiority": false
+  },
+  "next_physical_mechanism": "outputs/remaining85_mechanism_review_20261029/Prospective_Launch_Gates.json",
+  "latest_diagnosis": "All85 rejected candidates violate a previously normal bus despite affine predicted guard satisfaction.81UV/4OV. Prediction error dominates rounding; no new performance claim.",
+  "nonlinear_adapter": "work/remaining85_nonlinear_kernel_20261029.py",
+  "nonlinear_readiness": "ONE_UNSOLVED_ALGEBRA_FIXTURE_PASS; all500 exact source/options binding and independent solver/state/cost/reader gates pending. NO optimizer/PF/model launched.",
+  "current_LLM_readiness": "No newly justified GPU study. Stopped interface/scale/precision failures stay stopped. Complete causal matched controls and role binding before further model work.",
+  "GPU_readonly_evidence": "outputs/colab_eligibility_readonly_20261029/Results.json",
+  "GPU_limits": "All3 profiles eligibleT4 with0assignments at08:27UTC; no free-hour/reset/lifetime guarantee or fallback after denial.",
+  "usage_observation": "Ordinary usage allowed;72percent consumed/28percent remaining in account10080minute window at this turn check. Not a per-turn token or duration promise.",
+  "last_verified_GitHub": "cf7aefb7ed5d6e1c070fffff0cddfe2d417a3f5b",
+  "verified_GitHub_receipt": "outputs/RAG_metadata_publication_20261029/Verified_GitHub_Receipt.json",
+  "new_work_publication": "PENDING_COMPACT_OWN_CODE_AND_PROOFS",
+  "next_ordered_actions": [
+    "Finish saved-only all500 NET/PPC/options/scaling/source binding for the new nonlinear constraint adapter; independently review algebra and source contracts without repeating physics.",
+    "Only after source/input/history/solver/ownership/persistent-state/cost/first-reader protocol is frozen may one prospective new optimizer/physical campaign proceed. No old restart, budget extension or outcome retuning.",
+    "For causal LLM work, finish common118 full attempt/rejection history, actor/query distinction, reward/split/environment/strong-control role and actual loader gates before fresh learning. Idle GPUs alone do not justify launch.",
+    "Resolve remaining thesisT01/T02/T04/T05/T11/T13/T21/T29 only from actual missing evidence or explicit administrative approval; do not invent closure to meet counts."
+  ],
+  "standing_constraints": "Preserve frozen original model/network/controller/settings/locked62bank, all adverse/partial/UNKNOWN, literal DFF+DFFALT+unchanged DSE with full BOTH/model/training/preparation/failure costs. No guaranteed winner, scientific retries, favorable worlds, quota evasion, purchases or fallback after denial."
+}

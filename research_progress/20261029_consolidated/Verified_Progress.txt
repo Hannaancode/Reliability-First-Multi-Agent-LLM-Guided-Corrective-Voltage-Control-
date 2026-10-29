@@ -1,0 +1,7 @@
+27 of35 scoped thesis checklist requirements are independently closed. Six final research goals remain open. The bounded larger-model comparison is complete with adverse results; conditional G4.3 remains open.
+
+The user-requested common1e-8 p.u. allowance is applied identically to all four saved500-case controller cohorts: our numerical415,SafeDDPG262,linear258,DDPG363 whole-band cases. Raw values and historical strict264/500 are unchanged. This is retrospective engineering analysis, not LLM superiority or unused confirmation.
+
+All85 remaining cases are actual guard-rejected candidates. Saved affine predictions satisfy the guard while actual returns harm previously normal buses; prediction error dominates float32 action rounding. New nonlinear AC residual adapter passed one unsolved algebra/source fixture only. No optimizer or performance result; all500 source/options/state/ownership/cost/reader gates still required.
+
+Thesis now71 unique references,23tables,22figures; all57 source-paper references accounted for,11 tangential/unverified entries excluded or deferred. PDF/pagination is delegated to the user. No GPU allocation or new physical/model/training calls in this consolidation.
