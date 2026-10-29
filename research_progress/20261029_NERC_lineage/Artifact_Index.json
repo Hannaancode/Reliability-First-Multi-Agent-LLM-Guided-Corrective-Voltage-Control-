@@ -1,0 +1,66 @@
+{
+  "members": [
+    {
+      "path": "work/analyse_NERC_release_lineage_20261029.py",
+      "bytes": 7364,
+      "sha256": "ca52f814f9b9aa6e0304331c20698c24a33cead2cc87f291191b422f20ae41d2"
+    },
+    {
+      "path": "work/analyse_NERC_release_lineage_v2_20261029.py",
+      "bytes": 10116,
+      "sha256": "c1324c3efcf5e286ba30214bae907dfac4f58df308551a1a8f357820b58b1c95"
+    },
+    {
+      "path": "work/audit_NERC_release_lineage_20261029.py",
+      "bytes": 5599,
+      "sha256": "719a7e29e802945a424de8c3188236b676ad56acc75d3114bddabec1e6d692b0"
+    },
+    {
+      "path": "work/audit_NERC_release_lineage_v2_20261029.py",
+      "bytes": 5836,
+      "sha256": "c2f0fe3d585f2ef13918af2375e97b9e3f4079de4a51254640adc169c047f32c"
+    },
+    {
+      "path": "work/save_NERC_lineage_progress_20261029.py",
+      "bytes": 9155,
+      "sha256": "db73310f2434171d86a828dd6940319ca21d5752c9b0be2ef1d8999ccaf0dd40"
+    },
+    {
+      "path": "outputs/nerc_release_lineage_20261029/Protocol.json",
+      "bytes": 1709,
+      "sha256": "de2194a231ac7c84e13a4ee892e79ba392f49090cb5fb253c877929dd751a650"
+    },
+    {
+      "path": "outputs/nerc_release_lineage_20261029/Failure.json",
+      "bytes": 592,
+      "sha256": "c072b28c8aac63f97b9e864b1281d739c959253f78d66e9b3096e7563b684179"
+    },
+    {
+      "path": "outputs/nerc_release_lineage_v2_20261029/Protocol.json",
+      "bytes": 2221,
+      "sha256": "9bd3c55d74df8dc040794c1fa24bf5944fddf2b1225ac89aa39b28f89196106e"
+    },
+    {
+      "path": "outputs/nerc_release_lineage_v2_20261029/Release_Lineage_And_Grouping.json",
+      "bytes": 23419,
+      "sha256": "e037b0181aec250a32b0ec86064ce9a282acd958249bb7905f84a93b46cdeb48"
+    },
+    {
+      "path": "outputs/nerc_release_lineage_v2_20261029/independent_audit_v2/Independent_Lineage_Audit.json",
+      "bytes": 1828,
+      "sha256": "abe9cefb29d42e20d29699148b74764d26fa7994d163a44b75d7ccdde75c4799"
+    },
+    {
+      "path": "outputs/nerc_release_lineage_v2_20261029/independent_audit/Failure.json",
+      "bytes": 613,
+      "sha256": "02fc95a13afecfb936fbae16366f532b179b72b780f591f77c1d15fc93c3f15c"
+    },
+    {
+      "path": "outputs/nerc_release_lineage_v2_20261029/Thesis_Insert_Pending.txt",
+      "bytes": 1276,
+      "sha256": "b844b55759ad7d4fd57a5cb836596b9dd8294e44e8c026337c82a521671942c1"
+    }
+  ],
+  "raw_dataset_or_transcripts_published": false,
+  "complete_raw_backup": false
+}

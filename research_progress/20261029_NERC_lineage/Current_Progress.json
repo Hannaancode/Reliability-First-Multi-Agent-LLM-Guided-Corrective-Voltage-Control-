@@ -1,0 +1,14 @@
+{
+  "at_utc": "2026-10-29T05:54:05.756355+00:00",
+  "thesis_complete": 19,
+  "thesis_total": 35,
+  "all_six_goals": "OPEN",
+  "T12": "PARTIAL_SOURCE_METADATA_VALIDATOR",
+  "T13": "PARTIAL_INDEPENDENT_LINEAGE_FINDING",
+  "new_finding": "T13new independent source finding: exact archived NERC member contains4597strict JSONLQArecords plus99QArecords with one terminalcomma, giving4696contentQArecords under a separate syntax-only candidate view.91other nonblank lines retained(78lessonheadings/13other); all4787lines accounted. Notebookcell2 catchesJSONDecodeError and continues, so it would silently exclude those99QArows on these exactbytes. Originaldata/index/experiments remain unchanged. Strictquestion-ID rule gives4397rows,200withoutID,4340mappedreference rows/108distinctIDs; published4396membership stillUNRESOLVED. No exactduplicatequestions;112cross-document normalizedquestiontemplate groups are a leakage-risk map, not proof of actual split overlap. Allrows/failures/costs preserved,0model/retrieval/PF/training. T13PARTIAL;19/35complete,all6goalsOPEN.",
+  "owned_scientific_jobs": [],
+  "GPU_assignments": [],
+  "waiting_timer": null,
+  "current_reviewed_thesis_pages": 130,
+  "new_thesis_insert_pending": true
+}

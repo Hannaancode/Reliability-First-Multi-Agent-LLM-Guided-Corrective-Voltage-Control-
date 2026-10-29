@@ -1,0 +1,8 @@
+NERC RELEASE LINEAGE FINDING
+2026-10-29T05:54:05.756355+00:00
+
+T13new independent source finding: exact archived NERC member contains4597strict JSONLQArecords plus99QArecords with one terminalcomma, giving4696contentQArecords under a separate syntax-only candidate view.91other nonblank lines retained(78lessonheadings/13other); all4787lines accounted. Notebookcell2 catchesJSONDecodeError and continues, so it would silently exclude those99QArows on these exactbytes. Originaldata/index/experiments remain unchanged. Strictquestion-ID rule gives4397rows,200withoutID,4340mappedreference rows/108distinctIDs; published4396membership stillUNRESOLVED. No exactduplicatequestions;112cross-document normalizedquestiontemplate groups are a leakage-risk map, not proof of actual split overlap. Allrows/failures/costs preserved,0model/retrieval/PF/training. T13PARTIAL;19/35complete,all6goalsOPEN.
+
+Before: the reason for4597parseable versus4696paper records was unbound. After:99single-trailing-commaQArows are individually identified and independently checked. This demonstrates a concrete serialization/ingestion boundary, not a new LLM performance result. Count agreement alone does not bind the exact historical paper/index runtime.
+
+Next: locate the exact4396evaluation manifest and final source-grouped train/test membership; bind those identities to the archive views without dropping a row merely to match a reported count. Keep all data normalization as a separately versioned release, never silently replace original inputs. The current130page thesis remains unchanged; this finding is a pending evidence insert.
