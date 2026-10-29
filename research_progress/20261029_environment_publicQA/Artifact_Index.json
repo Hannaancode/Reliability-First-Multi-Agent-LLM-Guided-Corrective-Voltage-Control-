@@ -1,0 +1,159 @@
+{
+  "at_utc": "2026-10-29T02:42:14.280671+00:00",
+  "members": [
+    {
+      "path": "work/build_environment_contracts_20261029.py",
+      "bytes": 13687,
+      "sha256": "9fa24d8458d043d953aaa99aec64bd9e7ddafcbf3889d25a20ad83f083ab00d8"
+    },
+    {
+      "path": "work/check_environment_contracts_20261029.py",
+      "bytes": 5470,
+      "sha256": "e9cc2bccfb6e4e2dca22957426bec4d81b4ae4b03bb406ce82b11f0917cc2d9e"
+    },
+    {
+      "path": "work/integrate_environment_contracts_thesis_20261029.py",
+      "bytes": 13478,
+      "sha256": "7a8bccf54a030a0c4939144e822e0311f1631ede40af47116b33aa0024f80124"
+    },
+    {
+      "path": "work/finish_environment_thesis_layout_20261029.py",
+      "bytes": 1825,
+      "sha256": "c513fe7229970ed9ce9b5f726794d0231894aa1f46be82bbd039bdd344a2f0ab"
+    },
+    {
+      "path": "work/paginate_environment_thesis_20261029.ps1",
+      "bytes": 4443,
+      "sha256": "4a526a319717c20a093d8ffc69ea99c8e10571d7daaa6519b7da8756f6ca2dda"
+    },
+    {
+      "path": "work/close_environment_thesis_20261029.py",
+      "bytes": 12566,
+      "sha256": "c4417c9e394a4e8d5f954b488e9f8e1b36aeaa5e34f75d48ff02c007be601df7"
+    },
+    {
+      "path": "work/veragrid_label_hidden_interface_20261029.py",
+      "bytes": 1866,
+      "sha256": "4c8008f57f6c1e70c841e47238e4203ba2d34e7f2dfc6cd8bb528176461586fd"
+    },
+    {
+      "path": "work/check_veragrid_interface_boundary_20261029.py",
+      "bytes": 4066,
+      "sha256": "105c776efbcca82995b164510124475064c80df8fae03fe7e385eb32c067979f"
+    },
+    {
+      "path": "work/admit_veragrid_frozen_questions_20261029.py",
+      "bytes": 3124,
+      "sha256": "97d9675b9433a52d5324bbdcf490e5159ca3402e09fe007fb7400b145c2125cf"
+    },
+    {
+      "path": "work/audit_veragrid_frozen_views_20261029.py",
+      "bytes": 2131,
+      "sha256": "3d15d62b94ea863fa105f5ca6419e0c1cf2420eb35164f0804f3dee45736a266"
+    },
+    {
+      "path": "work/build_veragrid_native_prompt_pack_20261029.py",
+      "bytes": 6102,
+      "sha256": "9382ca6894e38743ba7d3bda1c350f6a829b5ca98b0da95e5d581fae106e1d23"
+    },
+    {
+      "path": "work/audit_veragrid_native_prompt_pack_20261029.py",
+      "bytes": 3793,
+      "sha256": "4767b084572fbde0273f9d24d364fe77473e273f63ff884a965ad572c64ce850"
+    },
+    {
+      "path": "work/save_and_publish_prompt_contracts_20261029.py",
+      "bytes": 7842,
+      "sha256": "c2ade0fc2ec0fe9a62a84819b7ab2f9cca255a56ec53e58fb4f08f1dd21111f1"
+    },
+    {
+      "path": "outputs/veragrid_source_admission_20261029/Intake_Record.json",
+      "bytes": 1521,
+      "sha256": "b49d0422a3cb1ee4bebe919658cafdc3d08790ef3539efda188034bcb762e5e4"
+    },
+    {
+      "path": "outputs/veragrid_source_admission_20261029/Source_Transfer_Correction.json",
+      "bytes": 920,
+      "sha256": "20a36fba2ef273fe00c9f17bef3677418756985580fd9e2c4c8e2925125d323d"
+    },
+    {
+      "path": "outputs/veragrid_source_admission_20261029/Dataset_Intake_Protocol.json",
+      "bytes": 2308,
+      "sha256": "62e9ea2f8b7eb48d2c7a436bd5f6e12bc644cb0fb7991c6220156710e134e424"
+    },
+    {
+      "path": "outputs/veragrid_source_admission_20261029/Synthetic_Boundary_And_Parser_Check.json",
+      "bytes": 2150,
+      "sha256": "071f82a12dcb466f27e7c163eeb5a8ccad7013135fe694414ef223a3058af57e"
+    },
+    {
+      "path": "outputs/veragrid_source_admission_20261029/Actual150_Admission.json",
+      "bytes": 1600,
+      "sha256": "19768d222b31a30de2f784ff4de1e1be7c3ad969d89708cc67a084e010a8d985"
+    },
+    {
+      "path": "outputs/veragrid_source_admission_20261029/Independent_Input_View_Audit.json",
+      "bytes": 806,
+      "sha256": "650a5ef92c5a405314b84ece63f40aa56604c0f59f485cb7b5bc9634e4b32a82"
+    },
+    {
+      "path": "outputs/veragrid_native_prompt_contract_20261029/Pinned_Input_Files.json",
+      "bytes": 1684,
+      "sha256": "bd9e91ef3910651d3fcf7858e1a7f7cfbcfdfe4b7b8110cec1576c23a2d9e4a4"
+    },
+    {
+      "path": "outputs/veragrid_native_prompt_contract_20261029/Prospective_Prompt_Pack_Protocol.json",
+      "bytes": 2058,
+      "sha256": "ee8b3851a7a6f25b5d3a25e83066421f72cb20ab2f7737131d2a6948c4172cbb"
+    },
+    {
+      "path": "outputs/veragrid_native_prompt_contract_20261029/Prompt_Pack_Result.json",
+      "bytes": 3171,
+      "sha256": "ac289f99a5eeab93e3426398610236f09ff21d014d4043fd370a8a08d2848706"
+    },
+    {
+      "path": "outputs/veragrid_native_prompt_contract_20261029/Independent_Prompt_Pack_Audit.json",
+      "bytes": 736,
+      "sha256": "81f2bdd1772edc41fa6a7b2fdefb0494dd496940f7e218a7509f45397c78b63f"
+    },
+    {
+      "path": "outputs/thesis_environment_contracts_20261029/Integration_Record.json",
+      "bytes": 751,
+      "sha256": "9a88bae125bd39a7db0ed6ca07a8136f70e0ec124a6400870294588e2617efd9"
+    },
+    {
+      "path": "outputs/thesis_environment_contracts_20261029/Layout_Repair_Record.json",
+      "bytes": 256,
+      "sha256": "1e3397de5dcd9da4e68c4b8f1942cd3390222138411c6e4232bb4bd412d24b02"
+    },
+    {
+      "path": "outputs/thesis_environment_contracts_20261029/Visual_Review_Record.json",
+      "bytes": 2026,
+      "sha256": "431132e2dbd7bba64df87fcec2aed11a0d0c8cafd2eb2677b76ac95bd419db09"
+    },
+    {
+      "path": "outputs/thesis_environment_contracts_20261029/Pagination_Record.json",
+      "bytes": 8171,
+      "sha256": "823d5da01c22b31ff6f152a1cf43a0ae63eba260b0a9518aad929c288772f64a"
+    },
+    {
+      "path": "outputs/thesis_environment_contracts_20261029/Thesis_Evidence_Navigation.json",
+      "bytes": 31167,
+      "sha256": "e1e6696a02ca8e1ea8ce6a86ee47a0e03454ba42495ae2c6101967bcc77fa300"
+    },
+    {
+      "path": "outputs/veragrid_native_prompt_contract_20261029/Circuit_Transfer_Newline_Correction.json",
+      "bytes": 301,
+      "sha256": "e7ce49e343d04e3f322d502799b437e492db2630658722228c3fde211e36d65f"
+    }
+  ],
+  "raw_backup_complete": false,
+  "excluded": [
+    "private weights and physical NETs",
+    "third-party sources and full public questions/circuit/reference labels",
+    "model outputs and raw RAG transcripts",
+    "full thesis DOCX/PDF"
+  ],
+  "new_scientific_calls": 0,
+  "all_six_goals": "OPEN"
+}

@@ -1,0 +1,889 @@
+{
+  "status": "SAVED_SOURCE_INVENTORY_AWAITING_SEPARATE_CHECK",
+  "at_utc": "2026-10-29T01:57:25.625149+00:00",
+  "sources": {
+    "rag_paper": {
+      "path": "outputs/thesis_expanded_20261028/rag_manuscript.txt",
+      "sha256": "5a43534871a744965ab65585f45b13244c7060bc38a0a748bdc6884aa1832531",
+      "bytes": 51612
+    },
+    "rag_solver": {
+      "path": "C:/Users/HOME/Downloads/pf_assist.py",
+      "sha256": "c04d153556b677bc916f964ba731b74387f14541366a73100de935f70a68c197",
+      "bytes": 34799,
+      "functions": [
+        {
+          "name": "_ensure_shunt_tables",
+          "line": 39,
+          "end_line": 56
+        },
+        {
+          "name": "ElementRef",
+          "line": 61,
+          "end_line": 63
+        },
+        {
+          "name": "LimitConfig",
+          "line": 65,
+          "end_line": 69
+        },
+        {
+          "name": "Modification",
+          "line": 71,
+          "end_line": 88
+        },
+        {
+          "name": "GuardConfig",
+          "line": 90,
+          "end_line": 97
+        },
+        {
+          "name": "SolvePFRequest",
+          "line": 99,
+          "end_line": 110
+        },
+        {
+          "name": "BusResult",
+          "line": 112,
+          "end_line": 121
+        },
+        {
+          "name": "LineResult",
+          "line": 123,
+          "end_line": 132
+        },
+        {
+          "name": "GenResult",
+          "line": 134,
+          "end_line": 140
+        },
+        {
+          "name": "SolvePFResult",
+          "line": 142,
+          "end_line": 153
+        },
+        {
+          "name": "_load_case",
+          "line": 158,
+          "end_line": 177
+        },
+        {
+          "name": "_apply_modifications",
+          "line": 179,
+          "end_line": 298
+        },
+        {
+          "name": "_run_pf",
+          "line": 300,
+          "end_line": 381
+        },
+        {
+          "name": "_validate",
+          "line": 383,
+          "end_line": 446
+        },
+        {
+          "name": "_extract_results",
+          "line": 448,
+          "end_line": 548
+        },
+        {
+          "name": "_opf_guard",
+          "line": 553,
+          "end_line": 637
+        },
+        {
+          "name": "describe_case",
+          "line": 642,
+          "end_line": 653
+        },
+        {
+          "name": "solve_pf",
+          "line": 655,
+          "end_line": 697
+        },
+        {
+          "name": "validate_pf",
+          "line": 699,
+          "end_line": 716
+        },
+        {
+          "name": "_connected_components_buses",
+          "line": 721,
+          "end_line": 724
+        },
+        {
+          "name": "candidate_n1_lines",
+          "line": 726,
+          "end_line": 744
+        },
+        {
+          "name": "top_loaded_safe_line",
+          "line": 746,
+          "end_line": 760
+        },
+        {
+          "name": "ramp_system_load",
+          "line": 762,
+          "end_line": 788
+        },
+        {
+          "name": "lowest_voltage_bus",
+          "line": 790,
+          "end_line": 794
+        },
+        {
+          "name": "_try_ac",
+          "line": 325,
+          "end_line": 341
+        },
+        {
+          "name": "_existing_q_at",
+          "line": 584,
+          "end_line": 587
+        },
+        {
+          "name": "_add_shunt",
+          "line": 589,
+          "end_line": 597
+        },
+        {
+          "name": "_try_3ph",
+          "line": 304,
+          "end_line": 317
+        }
+      ]
+    },
+    "original_controller": {
+      "path": "work/e/audit/run_reflection_v4_safety_envelope.py",
+      "sha256": "d4b329413c91a64828ced63a0554d67e4f70d46726fc8c3ba3556d8714d9e81e",
+      "bytes": 34373,
+      "functions": [
+        {
+          "name": "_safe_bus_q",
+          "line": 56,
+          "end_line": 68
+        },
+        {
+          "name": "_uv_delta",
+          "line": 71,
+          "end_line": 78
+        },
+        {
+          "name": "init_feedback_state",
+          "line": 81,
+          "end_line": 88
+        },
+        {
+          "name": "record_candidate_feedback",
+          "line": 91,
+          "end_line": 125
+        },
+        {
+          "name": "build_compact_feedback_text",
+          "line": 128,
+          "end_line": 178
+        },
+        {
+          "name": "severity_stage",
+          "line": 185,
+          "end_line": 190
+        },
+        {
+          "name": "build_two_best_prompt_v2",
+          "line": 193,
+          "end_line": 285
+        },
+        {
+          "name": "normalize_compact_or_nested_action",
+          "line": 292,
+          "end_line": 296
+        },
+        {
+          "name": "get_llm_action_required_two_best_v2",
+          "line": 299,
+          "end_line": 380
+        },
+        {
+          "name": "run_one_scenario_two_best_v2",
+          "line": 387,
+          "end_line": 578
+        },
+        {
+          "name": "run_one_scenario_no_llm_fallback_first",
+          "line": 586,
+          "end_line": 689
+        },
+        {
+          "name": "summarize_result",
+          "line": 692,
+          "end_line": 715
+        },
+        {
+          "name": "choose_safety_envelope",
+          "line": 718,
+          "end_line": 742
+        },
+        {
+          "name": "run_reflection_v4_safety_envelope",
+          "line": 745,
+          "end_line": 876
+        },
+        {
+          "name": "filt",
+          "line": 135,
+          "end_line": 140
+        },
+        {
+          "name": "score_with_source_priority",
+          "line": 543,
+          "end_line": 545
+        }
+      ]
+    },
+    "original_initial_solver": {
+      "path": "work/e/pack/scripts/phase2d_iterative_blackboard_v0.py",
+      "sha256": "ee9555bc049f2183fc74a906b2f873c6b6758d426a653c1702fefdb70be750e7",
+      "bytes": 18484,
+      "functions": [
+        {
+          "name": "load_metadata",
+          "line": 34,
+          "end_line": 53
+        },
+        {
+          "name": "find_scenario_dir",
+          "line": 56,
+          "end_line": 60
+        },
+        {
+          "name": "get_zone_for_bus",
+          "line": 63,
+          "end_line": 68
+        },
+        {
+          "name": "run_pf",
+          "line": 71,
+          "end_line": 82
+        },
+        {
+          "name": "apply_scenario_to_net",
+          "line": 85,
+          "end_line": 126
+        },
+        {
+          "name": "grid_metrics",
+          "line": 129,
+          "end_line": 155
+        },
+        {
+          "name": "zone_report",
+          "line": 158,
+          "end_line": 174
+        },
+        {
+          "name": "candidate_buses_for_zone",
+          "line": 177,
+          "end_line": 191
+        },
+        {
+          "name": "is_safe_transition",
+          "line": 194,
+          "end_line": 218
+        },
+        {
+          "name": "score_transition",
+          "line": 221,
+          "end_line": 234
+        },
+        {
+          "name": "test_shunt_action",
+          "line": 237,
+          "end_line": 251
+        },
+        {
+          "name": "find_best_action_for_iteration",
+          "line": 254,
+          "end_line": 331
+        },
+        {
+          "name": "run_blackboard_controller_for_scenario",
+          "line": 334,
+          "end_line": 418
+        },
+        {
+          "name": "main",
+          "line": 421,
+          "end_line": 559
+        }
+      ]
+    },
+    "original_action_solver": {
+      "path": "work/e/audit/phase2g_multiagent_llm_runner.py",
+      "sha256": "92730de74f76e21c97ea1a20bd9aa8dde33371a8e5d47b5dc896a7e204660de4",
+      "bytes": 11328,
+      "functions": [
+        {
+          "name": "load_v2",
+          "line": 32,
+          "end_line": 39
+        },
+        {
+          "name": "load_llm",
+          "line": 41,
+          "end_line": 50
+        },
+        {
+          "name": "run_pf",
+          "line": 55,
+          "end_line": 60
+        },
+        {
+          "name": "grid_metrics",
+          "line": 62,
+          "end_line": 68
+        },
+        {
+          "name": "extract_zone_state",
+          "line": 70,
+          "end_line": 82
+        },
+        {
+          "name": "build_prompt",
+          "line": 87,
+          "end_line": 113
+        },
+        {
+          "name": "generate_response",
+          "line": 115,
+          "end_line": 122
+        },
+        {
+          "name": "extract_json",
+          "line": 124,
+          "end_line": 131
+        },
+        {
+          "name": "normalize_action",
+          "line": 133,
+          "end_line": 138
+        },
+        {
+          "name": "apply_action",
+          "line": 143,
+          "end_line": 159
+        },
+        {
+          "name": "verify_action",
+          "line": 161,
+          "end_line": 178
+        },
+        {
+          "name": "run_one_scenario",
+          "line": 183,
+          "end_line": 233
+        }
+      ]
+    },
+    "original_guard": {
+      "path": "work/e/audit/phase2g_rescue_runner.py",
+      "sha256": "6e2f33faf63c3e6d314680455f478e63102f6361453b43c9a454022a832b84ed",
+      "bytes": 22032,
+      "functions": [
+        {
+          "name": "grid_metrics",
+          "line": 36,
+          "end_line": 45
+        },
+        {
+          "name": "global_uv_buses",
+          "line": 48,
+          "end_line": 50
+        },
+        {
+          "name": "lowest_buses",
+          "line": 53,
+          "end_line": 55
+        },
+        {
+          "name": "extract_zone_state_full",
+          "line": 62,
+          "end_line": 80
+        },
+        {
+          "name": "build_prompt_full",
+          "line": 87,
+          "end_line": 116
+        },
+        {
+          "name": "normalize_action",
+          "line": 123,
+          "end_line": 235
+        },
+        {
+          "name": "llm_q_abs_at_bus",
+          "line": 238,
+          "end_line": 251
+        },
+        {
+          "name": "apply_action",
+          "line": 254,
+          "end_line": 272
+        },
+        {
+          "name": "verify_action",
+          "line": 275,
+          "end_line": 339
+        },
+        {
+          "name": "make_action",
+          "line": 342,
+          "end_line": 343
+        },
+        {
+          "name": "action_signature",
+          "line": 350,
+          "end_line": 353
+        },
+        {
+          "name": "candidate_buses_from_state",
+          "line": 356,
+          "end_line": 383
+        },
+        {
+          "name": "physics_refined_candidates",
+          "line": 386,
+          "end_line": 409
+        },
+        {
+          "name": "score_candidate",
+          "line": 412,
+          "end_line": 431
+        },
+        {
+          "name": "run_one_scenario_rescue",
+          "line": 438,
+          "end_line": 581
+        },
+        {
+          "name": "main",
+          "line": 588,
+          "end_line": 690
+        }
+      ]
+    },
+    "original_roots": {
+      "path": "outputs/registered_severe_federation_root_binding_20261022/All4_Registered_Solved_Root_Bindings.json",
+      "sha256": "273504a4ec913ff8ddd9d729216223c36c7ead9453381dc75b2ab80715d22b3b",
+      "bytes": 11809
+    },
+    "original_results": {
+      "path": "outputs/original118_closed_comparison_20261028/Comparison.json",
+      "sha256": "ca1b209d56f76a2c0710bd601a3df49a50189bba1cf7aae55eb7b9eabeb97265",
+      "bytes": 8698
+    },
+    "saved_dse": {
+      "path": "outputs/original118_saved_dse_reconciliation_20261028/Comparison.json",
+      "sha256": "f5a13b10aefa8017c8fca8eaab54eebf88f0816ec407042d95ac1dc4e5a2bdde",
+      "bytes": 8100
+    },
+    "graph_protocol": {
+      "path": "outputs/graph118_native_campaign_preparation_20261028/Protocol.json",
+      "sha256": "54a8c4f4765ae707b988a48c0ebc0a3b6f90f9fa1148c606d1246892a4759f4a",
+      "bytes": 7712
+    },
+    "graph_engine": {
+      "path": "work/published_graph118_episode_engine_v2_20261026.py",
+      "sha256": "44ffc59f04f3bbe9ce6a89a2264dfd81d52a4259140951548dc9c4e649678a97",
+      "bytes": 5284,
+      "functions": [
+        {
+          "name": "NativeGraphEpisode",
+          "line": 12,
+          "end_line": 69
+        },
+        {
+          "name": "__init__",
+          "line": 13,
+          "end_line": 31
+        },
+        {
+          "name": "next_intent",
+          "line": 32,
+          "end_line": 36
+        },
+        {
+          "name": "accept",
+          "line": 37,
+          "end_line": 60
+        },
+        {
+          "name": "snapshot",
+          "line": 61,
+          "end_line": 64
+        },
+        {
+          "name": "restore",
+          "line": 66,
+          "end_line": 69
+        }
+      ]
+    },
+    "graph_result": {
+      "path": "outputs/graph118_native_context_comparison_rng_v2_20261028/Comparison.json",
+      "sha256": "2cec6cd4fe27856154fa768ca713e5b33b8c116150ff8316015b321ae983d8c1",
+      "bytes": 16995
+    },
+    "public13_env": {
+      "path": "outputs/stable_ddpg_author_intake_20261020/author_reference/env_single_phase_13bus.py",
+      "sha256": "3c0376aa6ea70f727002234e9d51d8853d58545a787b5d22c7b6d197bff0923a",
+      "bytes": 9867,
+      "functions": [
+        {
+          "name": "IEEE13bus",
+          "line": 18,
+          "end_line": 184
+        },
+        {
+          "name": "create_13bus",
+          "line": 186,
+          "end_line": 212
+        },
+        {
+          "name": "__init__",
+          "line": 19,
+          "end_line": 36
+        },
+        {
+          "name": "step_Preward",
+          "line": 39,
+          "end_line": 70
+        },
+        {
+          "name": "step_load",
+          "line": 73,
+          "end_line": 127
+        },
+        {
+          "name": "reset",
+          "line": 129,
+          "end_line": 172
+        },
+        {
+          "name": "reset0",
+          "line": 174,
+          "end_line": 184
+        }
+      ]
+    },
+    "public13_policy_loop": {
+      "path": "work/run_public13_remaining_published_cohort_20261021.py",
+      "sha256": "e9d51cebb67151d4964848d613156b2ee0e4c71e5705b00a75a4248de245a448",
+      "bytes": 13470,
+      "functions": [
+        {
+          "name": "sha",
+          "line": 7,
+          "end_line": 7
+        },
+        {
+          "name": "put",
+          "line": 8,
+          "end_line": 9
+        },
+        {
+          "name": "binary",
+          "line": 10,
+          "end_line": 15
+        },
+        {
+          "name": "regime",
+          "line": 16,
+          "end_line": 23
+        },
+        {
+          "name": "metrics",
+          "line": 24,
+          "end_line": 24
+        },
+        {
+          "name": "main",
+          "line": 25,
+          "end_line": 105
+        },
+        {
+          "name": "event",
+          "line": 37,
+          "end_line": 39
+        },
+        {
+          "name": "bound",
+          "line": 40,
+          "end_line": 41
+        },
+        {
+          "name": "tracked",
+          "line": 42,
+          "end_line": 57
+        },
+        {
+          "name": "load_event",
+          "line": 61,
+          "end_line": 64
+        },
+        {
+          "name": "parameters",
+          "line": 66,
+          "end_line": 66
+        }
+      ]
+    },
+    "public13_protocol": {
+      "path": "outputs/public13_matched_numeric_preparation_20261021/Protocol.json",
+      "sha256": "dd994ad184ec789047167f0b0fe56e65de1adb763a4f1ce5e33cd6e5d9a8523a",
+      "bytes": 13164
+    },
+    "public13_numeric": {
+      "path": "work/public13_matched_numeric_engine_20261021.py",
+      "sha256": "331f95a475ec0c1146779313dc95e147d5f125fb0d53f8bc4551d1c4df3e5807",
+      "bytes": 22168,
+      "functions": [
+        {
+          "name": "read",
+          "line": 12,
+          "end_line": 12
+        },
+        {
+          "name": "sha",
+          "line": 13,
+          "end_line": 13
+        },
+        {
+          "name": "put",
+          "line": 14,
+          "end_line": 15
+        },
+        {
+          "name": "metric",
+          "line": 16,
+          "end_line": 16
+        },
+        {
+          "name": "original_guard",
+          "line": 17,
+          "end_line": 20
+        },
+        {
+          "name": "run",
+          "line": 21,
+          "end_line": 152
+        },
+        {
+          "name": "bound",
+          "line": 36,
+          "end_line": 37
+        },
+        {
+          "name": "event",
+          "line": 38,
+          "end_line": 40
+        },
+        {
+          "name": "binary",
+          "line": 41,
+          "end_line": 46
+        },
+        {
+          "name": "key",
+          "line": 47,
+          "end_line": 47
+        },
+        {
+          "name": "query",
+          "line": 58,
+          "end_line": 78
+        }
+      ]
+    },
+    "tpa_protocol": {
+      "path": "outputs/tpa_native_second_identity_preparation_20261020/Execution_Protocol.json",
+      "sha256": "9ee4f9560704a154393e6135b70e176bdccfd13b49584b91b3452d8800e65669",
+      "bytes": 12068
+    },
+    "tpa_result": {
+      "path": "outputs/tpa_native_second_identity_engineering_20261020/Result.json",
+      "sha256": "75eaa9ad3c725fa8fea7ddb3abf38bdbe8ee41faaad90ceae5d0f3f2689eb62e",
+      "bytes": 1688
+    },
+    "numeric322": {
+      "path": "work/run_native_inverter_linear_reference_20261020.py",
+      "sha256": "6daefb2b8329e5b8d6a49d6b3949a84fe0c24ab86457c9064b3f8c2eb7b054b8",
+      "bytes": 9611,
+      "functions": [
+        {
+          "name": "sha",
+          "line": 9,
+          "end_line": 9
+        },
+        {
+          "name": "put",
+          "line": 10,
+          "end_line": 11
+        },
+        {
+          "name": "main",
+          "line": 13,
+          "end_line": 92
+        },
+        {
+          "name": "event",
+          "line": 22,
+          "end_line": 25
+        }
+      ]
+    },
+    "numeric322_math": {
+      "path": "work/native_inverter_linear_reference_core_20261020.py",
+      "sha256": "cc97cc55c66595f9c8abfb16fed2a3314e9583815f950e44e6244d82ec696e8c",
+      "bytes": 1281,
+      "functions": [
+        {
+          "name": "problem",
+          "line": 4,
+          "end_line": 20
+        },
+        {
+          "name": "metric",
+          "line": 22,
+          "end_line": 26
+        }
+      ]
+    },
+    "numeric322_result": {
+      "path": "outputs/native_inverter_linear_reference_20261020/Result.json",
+      "sha256": "9ce573300b0d2600123023fc21736a03e5998a85e82b271e616712432563facf",
+      "bytes": 1721
+    }
+  },
+  "environments": [
+    {
+      "id": "RAG14",
+      "plant": "IEEE14 balanced demonstration",
+      "disturbance": "Baseline operating point; caption reports 10% uniform load derating, not a severe line-outage cohort.",
+      "observed": "Figure5 minimum0.982→0.986 p.u.; stated minima already exceed .95. Body says approximately.04 p.u. margin, whereas displayed minimum change is .004. The inconsistency remains unresolved.",
+      "actions": "Manuscript figures describe multiplying demand by 0.9. Supplied solver also supports line/gen outages, taps, shunts and dispatch edits; these are capabilities, not established figure settings.",
+      "solver": "Manuscript describes balanced Newton–Raphson. Supplied pf_assist.py defaults to dc_ac with DC initialization and a sequential NR/fast-decoupled fallback stack, varying iteration limits and a final 1e-5 tolerance. Exact historical figure branch is UNKNOWN.",
+      "guard": "Supplied LimitConfig defaults .95/1.061, GuardConfig.enable=True, max_loops=12, Qstep=15 Mvar, Qcap=150 Mvar, slack target1.03 and generator-Q widening500. solve_pf passes request limits to the guard. Actual historical figure overrides are UNKNOWN.",
+      "stopping": "One requested tool workflow with bounded internal guard loops; not the original four-zone25-operation controller.",
+      "information": "RAG question/context and a structured tool request. Exact figure prompt, retrieval index revision, complete request and solved NET chain are UNKNOWN.",
+      "evidence_level": "MANUSCRIPT_REPORTED_DEMONSTRATION_AND_SEPARATELY_INSPECTED_SOURCE_NOT_EXECUTION_BOUND",
+      "partition": "Historical demonstration, inspected; no unused confirmation claim.",
+      "source_ids": [
+        "rag_paper",
+        "rag_solver"
+      ]
+    },
+    {
+      "id": "RAG118",
+      "plant": "IEEE118 balanced demonstration",
+      "disturbance": "Baseline operating point and10% demand derating described in Figure4; no identity with federation roots established.",
+      "observed": "Minimum0.966→0.971 p.u. reported. This is margin improvement from a minimum already above .95, not evidence of removing55–58 strict UV buses.",
+      "actions": "Manuscript figures describe multiplying demand by 0.9. Supplied solver also supports line/gen outages, taps, shunts and dispatch edits; these are capabilities, not established figure settings.",
+      "solver": "Manuscript describes balanced Newton–Raphson. Supplied pf_assist.py defaults to dc_ac with DC initialization and a sequential NR/fast-decoupled fallback stack, varying iteration limits and a final 1e-5 tolerance. Exact historical figure branch is UNKNOWN.",
+      "guard": "Supplied LimitConfig defaults .95/1.061, GuardConfig.enable=True, max_loops=12, Qstep=15 Mvar, Qcap=150 Mvar, slack target1.03 and generator-Q widening500. solve_pf passes request limits to the guard. Actual historical figure overrides are UNKNOWN.",
+      "stopping": "One requested tool workflow with bounded internal guard loops; not the original four-zone25-operation controller.",
+      "information": "RAG question/context and a structured tool request. Exact figure prompt, retrieval index revision, complete request and solved NET chain are UNKNOWN.",
+      "evidence_level": "MANUSCRIPT_REPORTED_DEMONSTRATION_AND_SEPARATELY_INSPECTED_SOURCE_NOT_EXECUTION_BOUND",
+      "partition": "Historical demonstration, inspected; no unused confirmation claim.",
+      "source_ids": [
+        "rag_paper",
+        "rag_solver"
+      ]
+    },
+    {
+      "id": "FED118",
+      "plant": "Frozen IEEE118 four-microgrid federation; all four registered load1.5 roots with lines35/36/84/127 out",
+      "disturbance": "Initial strict UV56/58/57/55 on the exact four saved roots; inspected development.",
+      "actions": "Positive capacitive added-shunt recipient/Q commands; exact menu25,50,75,100,125,150,200,250,300 Mvar. Rescue cap450 Mvar applies to named llm_shunt additions per bus, not all pre-existing shunts or a global budget. DFF, original HG-VF and offline HG-SE retain original policies.",
+      "solver": "Initial native function uses NR/auto/enforceQ/max50; action native function uses NR/auto/enforceQ/max80/calculate_voltage_angles=True. Paid reuse requires the exact solver-input contract, not merely equal aggregate shunt Q.",
+      "guard": "Original hard upper1.06 and source acceptance rules; endpoint counts separately use strict UV<.95 and OV>1.05. Admission by the native guard does not certify the stricter reporting band or all network limits.",
+      "stopping": "Original chronological four-zone control with maximum25 total operations and native early stops. HG-SE selects offline between completed DFF/HG-VF; numerical D-SE selects DFF/DFF-ALT separately.",
+      "information": "Original trained0.5B LoRA receives source-local current context, candidates and feedback. Numerical fallback/guidance/search and verifier information are preserved and charged.",
+      "observed": "DFF51UV/11OV; HG-VF26/11; offlineHG-SE20/12. Saved stronger numericalD-SE35/12 has older committed-state audit depth. UV gains have adverse cases and remaining OV.",
+      "partition": "Four inspected development roots; neither a new holdout nor complete later137-case paper reconstruction.",
+      "evidence_level": "CLOSED_INDEPENDENT_FOUR_ROOT_COMPARISON_WITH_EXPLICIT_OLDER_DSE_AUDIT_LIMITS",
+      "source_ids": [
+        "original_controller",
+        "original_initial_solver",
+        "original_action_solver",
+        "original_guard",
+        "original_roots",
+        "original_results",
+        "saved_dse"
+      ]
+    },
+    {
+      "id": "GRAPH118",
+      "plant": "Same four exact federation118 root NETs, native external GraphAgent role",
+      "disturbance": "Identical four root disturbances to FED118.",
+      "actions": "Source-native generator/slack voltage setpoints and existing binary shunt controls, not HierGrid positive added-shunt commands. GraphAgent is an author numerical comparison agent, not the trained DQN.",
+      "solver": "Pinned pandapower port: NR/auto/enforce_q_lims=True/max_iteration80/calculate_voltage_angles=True.",
+      "guard": "Source-native policy/control and terminal solver behaviour; the source external role is not silently wrapped in the original HierGrid action restrictions. Strict all118 .95–1.05 outcomes retained separately.",
+      "stopping": "Source-native maximum136 operations; terminal nonconvergence retained. This differs from25 operations in FED118.",
+      "information": "Source GraphAgent graph/device state through the documented PowerWorld-to-pandapower backend port. No learned external DQN or LLM inference.",
+      "observed": "All four native episodes terminate in nonconvergence after19/21/21/21 operations; final UV/OV UNKNOWN. This is not a certified infeasibility result or an equal-resource win.",
+      "partition": "Same inspected development roots; no unused confirmation.",
+      "evidence_level": "CLOSED_NATIVE_ROLE_COMPARISON_DIFFERENT_ACTUATORS_HORIZON_AND_BACKEND",
+      "source_ids": [
+        "graph_protocol",
+        "graph_engine",
+        "graph_result"
+      ]
+    },
+    {
+      "id": "PUBLIC13",
+      "plant": "Author public13 distribution system; all500 exact common solved roots seeds0..499",
+      "disturbance": "Author randomized voltage-control initial states:232UV-only,251OV-only,17already within reporting band. No federation line-outage equivalence.",
+      "actions": "Three native sgen Q assignments at buses2/7/9, source policy updates last minus float32-clipped output at magnitude.3 per decision; bidirectional reactive action. Not a25Mvar minimum added-shunt role.",
+      "solver": "Author step_Preward uses pandapower BFSW with init=dc; our numerical branch uses the same native plant transition.",
+      "guard": "Published source actors retain native protection. NUM protects currently normal buses within .95−1e-8..1.05+1e-8 and rejects global count regressions; first rejection hold-stops. Saved common-guard adapters are secondary, not replacements for primary native methods.",
+      "stopping": "Native actors stop when ONLY3controlled buses strictly satisfy .95<VM<1.05 or at100 rounds. Common endpoint checks all13 buses with .95<=VM<=1.05. NUM retains100round bound and its fixed guard.",
+      "information": "Published safeDDPG/linear/DDPG actors use one local VM each. NUM uses full13VM/currentY and two LP stages. Identical cases, actuators and horizon do not imply identical information or costs.",
+      "observed": "Whole13-band endpoints:NUM264/500;safeDDPG262;linear258;DDPG363. NUM fixed gateFAIL. No original-paper LLM comparison is established by these numerical scores.",
+      "partition": "Source replication/development; all500 inspected. Source-training identity overlap remains unestablished, not presumed absent. Any later router evaluation has a separate prospective protocol/cohort and cannot erase this result.",
+      "evidence_level": "COMPLETE_ALL500_SAME_ROOT_NATIVE_COMPARISON_INFORMATION_AND_GUARD_DIFFERENCES_DISCLOSED",
+      "source_ids": [
+        "public13_env",
+        "public13_policy_loop",
+        "public13_protocol",
+        "public13_numeric"
+      ]
+    },
+    {
+      "id": "MAPDN322",
+      "plant": "Author case322_3min_final; second ordered identity20Jan2013 day385 index185262,38PV inverters",
+      "disturbance": "Native time-series/initialization identity, initial108UV/0OV; first ordered identity remains partial after a runtime failure. No arbitrary selection of a winning timestamp.",
+      "actions": "Absolute signed inverterQ = fraction×sqrt(Smax²−P²), fraction[-.8,.8], Smax=1.2×native all-pool columnPmax. Both compared one-step actions share these capabilities.",
+      "solver": "Native action calls pp.runpp(net) with default arguments on the recorded modern compatibility runtime; not silently equated with an explicit federation or13bus solver contract.",
+      "guard": "Native .95/1.05 reporting. Numerical LP includes upper1.05 and native inverter capability bounds; physical post-action state checked. Voltage-band evidence is not all-limit feasibility.",
+      "stopping": "ONE measured action per method. A configured480-step episode and120author identities were not executed as a full benchmark. Earlier first-identity failure retained.",
+      "information": "TPA has distributed current/history/seasonal inputs. Our numerical method has full currentY and solved operating point. Historical all-pool maxima and seasonal preprocessing prevent assuming a strictly causal fresh holdout.",
+      "observed": "Same108UV root→TPA77UV/0OV and current-Jacobian numerical0UV/0OV. Independently checked one-step engineering, not LLM benefit or full-cohort superiority.",
+      "partition": "Single engineering identity with inspected inputs; full120 includes conditioning-year overlap and is not unused confirmation.",
+      "evidence_level": "ONE_STEP_ENGINEERING_TWO_METHODS_DIFFERENT_INFORMATION_FIRST_IDENTITY_PARTIAL_RETAINED",
+      "source_ids": [
+        "tpa_protocol",
+        "tpa_result",
+        "numeric322",
+        "numeric322_math",
+        "numeric322_result"
+      ]
+    }
+  ],
+  "new_model_PF_training_optimizer_GPU_calls": 0,
+  "rag14_exact_minimum_difference": "0.004",
+  "rag_figure_runtime_binding": "UNKNOWN",
+  "source_presence_is_not_execution_proof": true,
+  "all_six_research_goals": "OPEN",
+  "precheck_documentation_correction": "Exact AST menu replaces provisional wording suggesting uniform25Mvar spacing; per-bus cap clarified to named added shunts. No scientific source/result changed."
+}

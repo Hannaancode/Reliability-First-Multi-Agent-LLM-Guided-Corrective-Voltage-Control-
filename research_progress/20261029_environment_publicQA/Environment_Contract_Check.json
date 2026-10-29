@@ -1,0 +1,29 @@
+{
+  "status": "PASS_SEPARATE_SOURCE_AND_ARITHMETIC_CHECK",
+  "at_utc": "2026-10-29T01:59:03.318547+00:00",
+  "checks": [
+    "supplied_RAG_default_limits_and_guard",
+    "RAG_actual_request_limits_forwarded_to_guard",
+    "RAG_caption_minima_and_body_disagreement",
+    "RAG14_decimal_change_is004_not04",
+    "original_exact_nonuniform_Qmenu",
+    "original_per_bus_named_shunt_cap",
+    "original_native_guard_and25budget",
+    "initial50_and_action80_are_distinct",
+    "Graph136_and_pinned_source",
+    "public13_actual_step_uses_BFSWdc",
+    "public13_done_local_strict_open_band",
+    "public13_all500_and_pinned_numeric",
+    "original_closed_endpoint_totals",
+    "322_one_step_saved_root_and_both_endpoints",
+    "322_information_difference_explicit",
+    "all_environments_have_contract_and_unknowns",
+    "RAG_source_not_mislabelled_as_historical_execution",
+    "exact_menu_replaced_provisional_spacing_description"
+  ],
+  "source_files": 21,
+  "matrix_sha256": "6755e952e93ace8355b1893f33361fbb76df4f0a0afae25f3b0fd0bb93410499",
+  "checker_sha256": "e9cc2bccfb6e4e2dca22957426bec4d81b4ae4b03bb406ce82b11f0917cc2d9e",
+  "new_model_PF_derivative_solve_training_GPU_calls": 0,
+  "scope": "Hashes, source AST/constants and selected closed arithmetic only. Human-readable contract interpretation reviewed separately; no new independent physical audit, historical runtime proof or performance result."
+}

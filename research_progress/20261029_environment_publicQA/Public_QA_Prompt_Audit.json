@@ -1,0 +1,12 @@
+{
+  "status": "PASS_ALL150_EXACT_NATIVE_NO_TOOL_PROMPTS_AND_PINNED_INPUTS",
+  "records": 150,
+  "producer_sha256": "9382ca6894e38743ba7d3bda1c350f6a829b5ca98b0da95e5d581fae106e1d23",
+  "independent_reader_sha256": "4767b084572fbde0273f9d24d364fe77473e273f63ff884a965ad572c64ce850",
+  "prompt_pack_sha256": "4f7f488fd204ecc25c7eca4ef46de7bc9a58202bed1630a68d2ad2301b0f24a8",
+  "producer_result_sha256": "ac289f99a5eeab93e3426398610236f09ff21d014d4043fd370a8a08d2848706",
+  "read_admin_labels": false,
+  "producer_imported": false,
+  "new_model_PF_OPF_training_GPU_calls": 0,
+  "limits": "Prompt/input fidelity only; no actual runtime isolation, tokenizer capacity, model performance or scientific superiority established."
+}
