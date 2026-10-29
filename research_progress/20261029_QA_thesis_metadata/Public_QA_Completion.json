@@ -1,0 +1,368 @@
+{
+  "at_utc": "2026-10-29T05:12:25.783893+00:00",
+  "status": "COMPLETE_ALL450_FIXED_ATTEMPTS_INDEPENDENT_SAVED_AUDIT_PASS_NO_SCALE_BENEFIT_ESTABLISHED",
+  "reader_scope": "Pinned saved-source/journal/token-decode/scoring audit; no repeat inference. Reader source emits its audit and owner claim, not a Closed_Manifest. This additive certificate binds the actual reader artifact and endACK without inventing a missing reader phase.",
+  "all_actors_ended": true,
+  "all_three_allocated_T4s_released": true,
+  "active_owned_jobs": 0,
+  "rows": [
+    {
+      "arm": "size05",
+      "model": "Qwen/Qwen2.5-0.5B-Instruct",
+      "primary_correct": 37,
+      "denominator": 150,
+      "primary_accuracy": 0.24666666666666667,
+      "strict_correct": 12,
+      "strict_valid": 65,
+      "unique_raw_outputs": 88,
+      "most_common_raw_outputs": [
+        {
+          "text": "D",
+          "count": 39
+        },
+        {
+          "text": "C",
+          "count": 16
+        },
+        {
+          "text": "A",
+          "count": 10
+        }
+      ],
+      "all_zero_token_streams": 0,
+      "top_token_counts": [
+        [
+          220,
+          1172
+        ],
+        [
+          15,
+          711
+        ],
+        [
+          1124,
+          684
+        ],
+        [
+          279,
+          508
+        ],
+        [
+          16,
+          494
+        ]
+      ],
+      "output_cap_hits": 73,
+      "engineering_warm_all_zero_ids": false,
+      "engineering_cold_all_zero_ids": false,
+      "engineering_warm_cold_equal": true,
+      "runtime": {
+        "revision": "7ae557604adf67be50417f59c2c2f167def9a775",
+        "torch": "2.10.0+cu128",
+        "transformers": "5.5.0",
+        "device": "Tesla T4",
+        "dtype": "float16",
+        "attention": "eager"
+      },
+      "costs": {
+        "science_generations": 150,
+        "engineering_generations": 2,
+        "science_generated_tokens": 19188,
+        "returned_science_generation_seconds": 891.5470727320034,
+        "engineering_generation_seconds": 24.82806833500001,
+        "worker_wall_seconds": 2913.51348511,
+        "host_wall_seconds": 3066.75,
+        "supervisor_wall_seconds": 2916.209704218,
+        "coordination_arm_elapsed_seconds": 3073.3120000000054,
+        "transfer_requests": 779,
+        "transfer_request_seconds": 2646.639999999723,
+        "transfer_status_counts": {
+          "201": 146,
+          "404": 283,
+          "200": 324,
+          "None": 26
+        },
+        "logged_transfer_response_bytes": 187385599,
+        "science_peak_allocated_bytes": 1150888960,
+        "engineering_peak_allocated_bytes": 1167253504,
+        "note": "Host, worker, supervisor, transfer and generation timings overlap and must not be added as independent elapsed time. Preparation, prior failed studies and source review remain separate paid work; these are not deployment latency."
+      },
+      "terminal": "HOST_AND_CHILD_ENDED_RUNTIME_RELEASED_ALL_ARTIFACTS_PRESERVED"
+    },
+    {
+      "arm": "size15",
+      "model": "Qwen/Qwen2.5-1.5B-Instruct",
+      "primary_correct": 0,
+      "denominator": 150,
+      "primary_accuracy": 0.0,
+      "strict_correct": 0,
+      "strict_valid": 0,
+      "unique_raw_outputs": 1,
+      "most_common_raw_outputs": [
+        {
+          "text": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+          "count": 150
+        }
+      ],
+      "all_zero_token_streams": 150,
+      "top_token_counts": [
+        [
+          0,
+          38400
+        ]
+      ],
+      "output_cap_hits": 150,
+      "engineering_warm_all_zero_ids": true,
+      "engineering_cold_all_zero_ids": true,
+      "engineering_warm_cold_equal": true,
+      "runtime": {
+        "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+        "torch": "2.10.0+cu128",
+        "transformers": "5.5.0",
+        "device": "Tesla T4",
+        "dtype": "float16",
+        "attention": "eager"
+      },
+      "costs": {
+        "science_generations": 150,
+        "engineering_generations": 2,
+        "science_generated_tokens": 38400,
+        "returned_science_generation_seconds": 2065.749730407001,
+        "engineering_generation_seconds": 29.08311044700008,
+        "worker_wall_seconds": 2947.473146227,
+        "host_wall_seconds": 3071.625,
+        "supervisor_wall_seconds": 2951.380566637,
+        "coordination_arm_elapsed_seconds": 3080.594000000012,
+        "transfer_requests": 1473,
+        "transfer_request_seconds": 1910.0919999997714,
+        "transfer_status_counts": {
+          "201": 153,
+          "404": 1003,
+          "200": 317
+        },
+        "logged_transfer_response_bytes": 181652192,
+        "science_peak_allocated_bytes": 3251229184,
+        "engineering_peak_allocated_bytes": 3268359168,
+        "note": "Host, worker, supervisor, transfer and generation timings overlap and must not be added as independent elapsed time. Preparation, prior failed studies and source review remain separate paid work; these are not deployment latency."
+      },
+      "terminal": "HOST_AND_CHILD_ENDED_RUNTIME_RELEASED_ALL_ARTIFACTS_PRESERVED"
+    },
+    {
+      "arm": "size3",
+      "model": "Qwen/Qwen2.5-3B-Instruct",
+      "primary_correct": 37,
+      "denominator": 150,
+      "primary_accuracy": 0.24666666666666667,
+      "strict_correct": 37,
+      "strict_valid": 150,
+      "unique_raw_outputs": 4,
+      "most_common_raw_outputs": [
+        {
+          "text": "B",
+          "count": 98
+        },
+        {
+          "text": "C",
+          "count": 29
+        },
+        {
+          "text": "A",
+          "count": 16
+        }
+      ],
+      "all_zero_token_streams": 0,
+      "top_token_counts": [
+        [
+          151645,
+          150
+        ],
+        [
+          33,
+          98
+        ],
+        [
+          34,
+          29
+        ],
+        [
+          32,
+          16
+        ],
+        [
+          35,
+          7
+        ]
+      ],
+      "output_cap_hits": 0,
+      "engineering_warm_all_zero_ids": false,
+      "engineering_cold_all_zero_ids": false,
+      "engineering_warm_cold_equal": true,
+      "runtime": {
+        "revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1",
+        "torch": "2.10.0+cu128",
+        "transformers": "5.5.0",
+        "device": "Tesla T4",
+        "dtype": "float16",
+        "attention": "eager"
+      },
+      "costs": {
+        "science_generations": 150,
+        "engineering_generations": 2,
+        "science_generated_tokens": 300,
+        "returned_science_generation_seconds": 74.45524197900136,
+        "engineering_generation_seconds": 35.53660831499997,
+        "worker_wall_seconds": 1020.0198996299999,
+        "host_wall_seconds": 1146.3910000000033,
+        "supervisor_wall_seconds": 1024.1828122420002,
+        "coordination_arm_elapsed_seconds": 1151.2190000000119,
+        "transfer_requests": 632,
+        "transfer_request_seconds": 848.9279999994906,
+        "transfer_status_counts": {
+          "201": 153,
+          "404": 162,
+          "200": 317
+        },
+        "logged_transfer_response_bytes": 181611228,
+        "science_peak_allocated_bytes": 6491533824,
+        "engineering_peak_allocated_bytes": 6511641600,
+        "note": "Host, worker, supervisor, transfer and generation timings overlap and must not be added as independent elapsed time. Preparation, prior failed studies and source review remain separate paid work; these are not deployment latency."
+      },
+      "terminal": "HOST_AND_CHILD_ENDED_RUNTIME_RELEASED_ALL_ARTIFACTS_PRESERVED"
+    }
+  ],
+  "primary_reader": {
+    "path": "outputs/public_qa_independent_20261029/Independent_Audit.json",
+    "sha256": "7094005f8012edf45b3e499c7ca5ae52839be13b9e3a0b121d39d6457636015d",
+    "exit_code": 0,
+    "elapsed_seconds": 7.187999999994645
+  },
+  "paired": [
+    {
+      "a": "Qwen/Qwen2.5-0.5B-Instruct",
+      "b": "Qwen/Qwen2.5-1.5B-Instruct",
+      "status": "DESCRIPTIVE_COMPLETE150",
+      "b_only_correct": 0,
+      "a_only_correct": 37
+    },
+    {
+      "a": "Qwen/Qwen2.5-0.5B-Instruct",
+      "b": "Qwen/Qwen2.5-3B-Instruct",
+      "status": "DESCRIPTIVE_COMPLETE150",
+      "b_only_correct": 33,
+      "a_only_correct": 33
+    },
+    {
+      "a": "Qwen/Qwen2.5-1.5B-Instruct",
+      "b": "Qwen/Qwen2.5-3B-Instruct",
+      "status": "DESCRIPTIVE_COMPLETE150",
+      "b_only_correct": 37,
+      "a_only_correct": 0
+    }
+  ],
+  "source_bindings": [
+    {
+      "path": "outputs/public_qa_independent_20261029/Independent_Audit.json",
+      "sha256": "7094005f8012edf45b3e499c7ca5ae52839be13b9e3a0b121d39d6457636015d"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size05/Host_End.json",
+      "sha256": "5233511c7c7bb900994ab32f116993f3895c240d14edf8e680f50d5b5e4f0bf4"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size05/Remote_End.json",
+      "sha256": "f785fcb8e4bf6616fb49fd6411aeec2bde8704617af042025ab59e7d6d6a5157"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size05/Supervisor_Reaped.json",
+      "sha256": "3dfb271be25b844ff0e4bbbdb86abec0e8f111b71bac39b18967e0edece7bc6a"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size05/Transfer_Costs.json",
+      "sha256": "c19b5bc9a3af07dbc5653edeb11cace8130bdbf22f1e89dd44e4e86ff8aedfb7"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size05/study/Result.json",
+      "sha256": "9f3845e6b56342d479860a8048505a9b28a69df893e8fee09038f815103303cc"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size05/study/Closed_Manifest.json",
+      "sha256": "51474789420ba2b52641c3c7c8506f9dc895246ad4ab6b326fad5156f9e2c416"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size05/study/Actual_Integration.json",
+      "sha256": "865eef3e3429fa695725605d55cfd8bb8d718fdada45a924852bb155f454279f"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size15/Host_End.json",
+      "sha256": "4d9a5bcbb6c696c79e7feb76b5b4a0bd8ef72e1482b6e4de3115dff9bbc31f9c"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size15/Remote_End.json",
+      "sha256": "6680352da69f8fe3188e236a1e6436e0d4ae3873a5e4d5158daf962a756f2ccf"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size15/Supervisor_Reaped.json",
+      "sha256": "c57be7944bdc7dd408086b01dda0bac69d66240e84e7da8d92615940aeb43e35"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size15/Transfer_Costs.json",
+      "sha256": "7c263ae37bed56c7315e76bd8f6d48a554f3731775a8d7d7a3596a8bf56263fe"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size15/study/Result.json",
+      "sha256": "24be1ab4cca65a002b8678412d2b406b1b4964de9be413dc8f9afe6bd53d0390"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size15/study/Closed_Manifest.json",
+      "sha256": "8a4fb88411ed0f1acd6b8e20bfd74f2cc602ae9c7a6eb87b80dd62a5271cd203"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size15/study/Actual_Integration.json",
+      "sha256": "13482edfbdf52f7c1b4ff089a1b5bf509ac27ace55b864dc37b505860aa0a7e4"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size3/Host_End.json",
+      "sha256": "4831d430046dfb3f4c007c156f5ef1a3cb5a607547c4e51b02bdc1de91f3df9d"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size3/Remote_End.json",
+      "sha256": "939ad23b781e3da237dad06eaea2ab94724de03bc2a2cc12ea252c51093f22fc"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size3/Supervisor_Reaped.json",
+      "sha256": "3faba06f930b898f1b54c0390cb95cd16c98fff8e7dae1d9b4a3eeb1e41feaf3"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size3/Transfer_Costs.json",
+      "sha256": "ba6284651f9bdec52e55e1eca3756a4a0519bcd04817bd920481feb523895a00"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size3/study/Result.json",
+      "sha256": "41ef02f66dc2e82cf569865e0d52f212fae4db6b49606846b8d01bb1dba6a6d3"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size3/study/Closed_Manifest.json",
+      "sha256": "56f36c1e37749b87d87311d15865262e0ebeba308ae26a1cce16d64bfead440e"
+    },
+    {
+      "path": "outputs/public_qa_execution_20261029/size3/study/Actual_Integration.json",
+      "sha256": "023c9944f3b180137bf7bd161ad3430888f5c61fa970faf341846b0c0a93eac3"
+    }
+  ],
+  "total_actual_generations": 456,
+  "science_generations": 450,
+  "engineering_generations": 6,
+  "new_model_PF_OPF_training_calls_for_this_closure": 0,
+  "study_new_PF_OPF_training_calls": 0,
+  "decision": "STOP_FIXED_INTERVENTION_NO_RETRY_OR_OUTCOME_RETUNING. Operational scores retained; size capability/causal failure explanation unresolved. 3B strict formatting and strict accuracy improve over0.5B, but native-parser accuracy ties; no size or system superiority follows.",
+  "limitations": [
+    "150 correlated questions from one public circuit; not150 independent grids.",
+    "Public pretraining contamination unknown; not unused confirmation.",
+    "No private adapter or RAG retrieval; not full original-paper system performance.",
+    "Host download/setup/transfer/release costs remain separate and must be included with worker costs.",
+    "No comparison to historical author accuracy without verified matching input, model, tool and runtime contracts.",
+    "No external author score is claimed beaten. Three-model public QA transfer is not the private trained control adapter, original RAG pipeline or matched adapted-scale experiment.",
+    "All six final goals remain OPEN."
+  ],
+  "diagnosis": "outputs/public_qa_completion_20261029/Saved_Output_Diagnosis.json"
+}

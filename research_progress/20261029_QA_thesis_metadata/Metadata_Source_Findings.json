@@ -1,0 +1,226 @@
+{
+  "status": "PASS_SOURCE_COUNTEREXAMPLES_AND15_STRUCTURED_METADATA_FIXTURES",
+  "at_utc": "2026-10-29T05:39:21.091425+00:00",
+  "historical_source_counterexamples": [
+    {
+      "case": "empty_claims",
+      "original_source_accepts": true,
+      "returned_claims": 0,
+      "model_calls": 0,
+      "stubbed_generation": true
+    },
+    {
+      "case": "nonentailing_claim",
+      "original_source_accepts": true,
+      "returned_claims": 1,
+      "model_calls": 0,
+      "stubbed_generation": true
+    },
+    {
+      "case": "first_doc_citation_mismatch",
+      "claim_source_id": 1,
+      "actual_link_source": "LL_A",
+      "expected_claim_source": "LL_B",
+      "mismatch": true
+    },
+    {
+      "case": "wrong_page_present_type",
+      "answer": "page99",
+      "context": "page3",
+      "original_flags": [],
+      "counterexample": "metadata class exists but value is different"
+    },
+    {
+      "case": "wrong_year_present_type",
+      "answer": "published in 2025",
+      "context": "published in 2020",
+      "original_flags": [],
+      "counterexample": "metadata class exists but value is different"
+    },
+    {
+      "case": "wrong_url_present_type",
+      "answer": "See https://example.invalid/wrong",
+      "context": "See https://example.invalid/right",
+      "original_flags": [],
+      "counterexample": "metadata class exists but value is different"
+    }
+  ],
+  "new_prototype_results": [
+    {
+      "case": "correct_page",
+      "expected": "VERIFIED_METADATA_ONLY",
+      "result": {
+        "status": "VERIFIED_METADATA_ONLY",
+        "evidence_id": "A",
+        "field": "page",
+        "value": 3,
+        "source_sha256": "16af40c669c27b447fa539a7561ab17d864d316ae65564ab064ad0083a7a5c99",
+        "semantic_answer_truth": "NOT_ASSESSED",
+        "out_of_scope_refusal": "NOT_ASSESSED"
+      },
+      "pass": true
+    },
+    {
+      "case": "wrong_page",
+      "expected": "REJECTED",
+      "result": {
+        "status": "REJECTED",
+        "reason": "value_not_equal_to_cited_source_metadata",
+        "evidence_id": "A",
+        "field": "page"
+      },
+      "pass": true
+    },
+    {
+      "case": "unknown_equation",
+      "expected": "NOT_STATED",
+      "result": {
+        "status": "NOT_STATED",
+        "reason": "field_not_in_trusted_metadata",
+        "evidence_id": "A",
+        "field": "equation"
+      },
+      "pass": true
+    },
+    {
+      "case": "wrong_doc_field",
+      "expected": "REJECTED",
+      "result": {
+        "status": "REJECTED",
+        "reason": "value_not_equal_to_cited_source_metadata",
+        "evidence_id": "B",
+        "field": "page"
+      },
+      "pass": true
+    },
+    {
+      "case": "unknown_id",
+      "expected": "REJECTED",
+      "result": {
+        "status": "REJECTED",
+        "reason": "unknown_evidence_id"
+      },
+      "pass": true
+    },
+    {
+      "case": "bool_page",
+      "expected": "REJECTED",
+      "result": {
+        "status": "REJECTED",
+        "reason": "value_not_equal_to_cited_source_metadata",
+        "evidence_id": "A",
+        "field": "page"
+      },
+      "pass": true
+    },
+    {
+      "case": "string_page",
+      "expected": "REJECTED",
+      "result": {
+        "status": "REJECTED",
+        "reason": "value_not_equal_to_cited_source_metadata",
+        "evidence_id": "A",
+        "field": "page"
+      },
+      "pass": true
+    },
+    {
+      "case": "extra_request_key",
+      "expected": "REJECTED",
+      "result": {
+        "status": "REJECTED",
+        "reason": "invalid_request_schema"
+      },
+      "pass": true
+    },
+    {
+      "case": "second_cited_doc",
+      "expected": "BOUND_CITATIONS_ONLY",
+      "result": {
+        "status": "BOUND_CITATIONS_ONLY",
+        "citations": [
+          {
+            "evidence_id": "B",
+            "source_sha256": "e1d8cdfaa36b9d14f8448f4cdc89066411055f199dfda083510b84d5985c07ec",
+            "document_id": "LL_B",
+            "page": 7,
+            "url": "https://example.invalid/B"
+          }
+        ],
+        "semantic_answer_truth": "NOT_ASSESSED"
+      },
+      "pass": true
+    },
+    {
+      "case": "empty_citation",
+      "expected": "REJECTED",
+      "result": {
+        "status": "REJECTED",
+        "reason": "no_cited_evidence"
+      },
+      "pass": true
+    },
+    {
+      "case": "unknown_citation",
+      "expected": "REJECTED",
+      "result": {
+        "status": "REJECTED",
+        "reason": "unknown_or_unbound_citation"
+      },
+      "pass": true
+    },
+    {
+      "case": "changed_active_source",
+      "expected": "REJECTED",
+      "result": {
+        "status": "REJECTED",
+        "reason": "unbound_or_changed_active_source"
+      },
+      "pass": true
+    },
+    {
+      "case": "duplicate_id",
+      "expected": "REJECTED",
+      "result": {
+        "status": "REJECTED",
+        "reason": "duplicate_evidence_id"
+      },
+      "pass": true
+    },
+    {
+      "case": "tampered_source_bytes",
+      "rejected": true,
+      "reason": "source_identity_mismatch",
+      "pass": true
+    },
+    {
+      "case": "untyped_loader_metadata",
+      "rejected": true,
+      "reason": "invalid_typed_metadata",
+      "pass": true
+    }
+  ],
+  "historical_summary_only": {
+    "printed_case_headers": 11,
+    "unique_printed_ids": 11,
+    "full200_per_case_recovery": false,
+    "reported_total": 200,
+    "impossible_n": 28,
+    "reported_impossible_fail": 0.893,
+    "out_of_scope_n": 25,
+    "reported_out_of_scope_fail": 0.36,
+    "summary_sha256": "044d117f2c7278a632640efb0569dcc36409cf295a9c7934e0af6bb004e58d2a"
+  },
+  "workflow_seconds": 0.41461209999397397,
+  "new_model_retrieval_PF_training_GPU_calls": 0,
+  "pydantic_fixture_version": "2.14.1",
+  "scope_limits": [
+    "Executed selected original functions with synthetic stub responses, not a historical model replay.",
+    "Historical runtime dependencies and full200rawcase file remain unknown.",
+    "Category-presence regex misses wrong values in shown counterexamples; do not recalculate historical89.3% without exact rawcases.",
+    "New validator covers structured metadata and citedsource binding only; no arbitrary prose truth, semantic relevance or out-of-scope refusal guarantee.",
+    "Trusted loader must attest actual metadata extraction and source bytes. SHA identity is not factual authority.",
+    "No actual answering integration or pretrained inference performed. T12 remainsPARTIAL."
+  ],
+  "launch_ready": false
+}

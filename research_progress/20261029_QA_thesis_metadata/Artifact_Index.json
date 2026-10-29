@@ -1,0 +1,198 @@
+{
+  "members": [
+    {
+      "path": "work/close_public_qa_comparison_20261029.py",
+      "bytes": 14551,
+      "sha256": "fcc6cd6c92cd4bb4c09d15174b938e807b31bb8855e48779ed15e7f470895665"
+    },
+    {
+      "path": "work/close_public_qa_comparison_v2_20261029.py",
+      "bytes": 14783,
+      "sha256": "552ea1b8e003b498d7c589178a33090c5dbd3a3355166ff76e0126ee0689f22c"
+    },
+    {
+      "path": "work/inference_numerical_admission_gate_20261029.py",
+      "bytes": 4238,
+      "sha256": "497f2bd43df227f97cdba2fcf7711ca22f27cd29a46a5d6539c5e3cd1a9700d5"
+    },
+    {
+      "path": "work/check_inference_numerical_admission_gate_20261029.py",
+      "bytes": 3184,
+      "sha256": "0eec20d9fa3b222b449d96e9c2b82712ff025711635126b2cc3b21d53648ab09"
+    },
+    {
+      "path": "work/check_raw_logit_observer_tensor_20261029.py",
+      "bytes": 3386,
+      "sha256": "e48562016be630ef0a4ad00796b7bb007832913c97e7cd2af2e0815435a4e3f6"
+    },
+    {
+      "path": "work/reconcile_common118_DER_admission_20261029.py",
+      "bytes": 5606,
+      "sha256": "ed104c9c852f10b4fd277fa22a41db2accf7fab2cc44781f03ec235c2b83dbfc"
+    },
+    {
+      "path": "work/source_metadata_admission_20261029.py",
+      "bytes": 3834,
+      "sha256": "bbf6dc095a803a27cde93a460d664b5cbb1cfbc9e8b7678c4de1713d1909cfdc"
+    },
+    {
+      "path": "work/check_source_metadata_admission_20261029.py",
+      "bytes": 10068,
+      "sha256": "a38410719204ef59c8bc3fe7dc8e58526cb7c5e34b7a1275e4a08293c7b24e2e"
+    },
+    {
+      "path": "work/close_cohort_reference_thesis_20261029.py",
+      "bytes": 12039,
+      "sha256": "80f563886be14c4a80564e6b9592947057b9228b1a63c756a48df6c1f9225960"
+    },
+    {
+      "path": "work/integrate_thesis_caption_and_QA_20261029.py",
+      "bytes": 9585,
+      "sha256": "a983dcb6c10c7e857d22d042c5920525a1a463ac03a2ecb49c975cf98d406f6c"
+    },
+    {
+      "path": "work/repair_thesis_caption_drawing_preservation_20261029.py",
+      "bytes": 2902,
+      "sha256": "1dcf5f3a866cefb9164351fb5f664a3b2ded5025ba8e7527ae262e56e71e0479"
+    },
+    {
+      "path": "work/integrate_thesis_caption_and_QA_v2_20261029.py",
+      "bytes": 9758,
+      "sha256": "9aab3ec1d50d5e1ad14190d85f1b61e28f666830a4eb7b091269d7d564e8bf2b"
+    },
+    {
+      "path": "work/extract_internal_submission_checklist_20261029.py",
+      "bytes": 1948,
+      "sha256": "f6696da3a58215e89969db73f0d6f4f31086292c90ad39c5495ed427545bef35"
+    },
+    {
+      "path": "work/render_caption_QA_v2_final_20261029.py",
+      "bytes": 1909,
+      "sha256": "e95730eda5bd3369e40f50cd4233cc50ac4b345c16c615761b3bb22da9488f51"
+    },
+    {
+      "path": "work/close_caption_QA_thesis_20261029.py",
+      "bytes": 12199,
+      "sha256": "db4189c2977775cad7080ae4f78886a0f5cff1f3c3add89b823a00a27c80bfcd"
+    },
+    {
+      "path": "work/save_reviewed_QA_thesis_and_metadata_20261029.py",
+      "bytes": 11918,
+      "sha256": "d2bfd32b9ad7f9705430dc8b764330376e3cab1b0b83b7fc9a0af78b1cd82b82"
+    },
+    {
+      "path": "outputs/public_qa_completion_20261029/Verified_Completion.json",
+      "bytes": 14115,
+      "sha256": "28568127228edccf08e037f11c3938976d5c2d8cccfdcb41e2c3a58d14ad6e98"
+    },
+    {
+      "path": "outputs/public_qa_completion_20261029/Saved_Output_Diagnosis.json",
+      "bytes": 1713,
+      "sha256": "26f55ce21a570522884ddf6a0152eb00096583f3224e214483af346a1d99ceaa"
+    },
+    {
+      "path": "outputs/public_qa_completion_20261029/Results_And_Next_Decision.md",
+      "bytes": 1747,
+      "sha256": "b788f39b2f06673578995b4e9a7eaf847ed9ec59da4dce8e5e434b1cfceae8b5"
+    },
+    {
+      "path": "outputs/public_qa_completion_preparation_20261029/Preserved_Closure_Assertion_Failure.json",
+      "bytes": 484,
+      "sha256": "71339f7095c667b7be8595121b67610e9062677b067026fe4c83829863cbebd0"
+    },
+    {
+      "path": "outputs/inference_numerical_admission_20261029/Software_And_Saved_Evidence_Check.json",
+      "bytes": 2331,
+      "sha256": "3c02f7b080b3adb47455e9c1ea1daef90b080140b224fc8b20b2405116132cfd"
+    },
+    {
+      "path": "outputs/inference_numerical_admission_20261029/Synthetic_Probe_Design.json",
+      "bytes": 1007,
+      "sha256": "9bd75666899055799016097783a36034d3ffabda54ca5da3ec5dc2b2eccf1b6d"
+    },
+    {
+      "path": "outputs/inference_numerical_admission_20261029/tensor_hook/Result.json",
+      "bytes": 2789,
+      "sha256": "1af78f8fdad109a0a4605d5f871f464e3ce28288d10e62104926d7291f034c81"
+    },
+    {
+      "path": "outputs/common118_DER_admission_correction_20261029/Corrected_Source_Admission.json",
+      "bytes": 11570,
+      "sha256": "93919ca3c3c2d7d45e872539abbc47810a26793e49c0d74e0e4b920dc2dfe07a"
+    },
+    {
+      "path": "outputs/common118_DER_admission_correction_20261029/Decision.md",
+      "bytes": 1070,
+      "sha256": "4739a4725fa137b2b540281a2056912f5ee24e99c063428d8fd8ed7a9e39fb96"
+    },
+    {
+      "path": "outputs/source_metadata_admission_20261029/Source_Counterexamples_And_Prototype_Check.json",
+      "bytes": 6628,
+      "sha256": "d3ae76a880322cae6652f3120b73b80244e276bb8f7974fec9681de2293c342b"
+    },
+    {
+      "path": "outputs/source_metadata_admission_20261029/Protocol.json",
+      "bytes": 1792,
+      "sha256": "b5504b160ee23b8169223ffdca7ceef7ce567d163b6b3a9e1cada77572e55e44"
+    },
+    {
+      "path": "outputs/source_metadata_admission_20261029/Findings_And_Next_Decision.txt",
+      "bytes": 1640,
+      "sha256": "e2e2b421ae1b50a3ed2579026d1e94055a758b465badb241179df911983d9272"
+    },
+    {
+      "path": "outputs/thesis_bibliography_review_20261029/Verified_Reference_Register.json",
+      "bytes": 77450,
+      "sha256": "d5212d7aa51236a5a8a13da3036947505234223812c888994ac34b05146acdf3"
+    },
+    {
+      "path": "outputs/thesis_method_versions_20261029/Method_Version_Register.json",
+      "bytes": 47843,
+      "sha256": "44458ecbc7f6cebca15c811e66095d40ca9e87b57477ff49d56af525fc5433ab"
+    },
+    {
+      "path": "outputs/thesis_contribution_claim_review_20261029/Contribution_Claim_Review.json",
+      "bytes": 6688,
+      "sha256": "e52aeef96bca174ff53d23dae565fed83ba9728ed8af497f28dbff35f5c838da"
+    },
+    {
+      "path": "outputs/thesis_cohort_use_20261029/Cohort_Use_Register.json",
+      "bytes": 12322,
+      "sha256": "fe4368eede2b9362c7126a1561b2bd4ab9495420535340ef267c7ca00d9a2ccf"
+    },
+    {
+      "path": "outputs/thesis_cohorts_references_20261029/Final_Visual_And_Evidence_QA.json",
+      "bytes": 4665,
+      "sha256": "76dd52408dad0ad89772621b0296620584c88285e8cc8b9d34af409304c7a472"
+    },
+    {
+      "path": "outputs/thesis_caption_QA_v2_20261029/Final_Visual_And_Evidence_QA.json",
+      "bytes": 3368,
+      "sha256": "6fe9ceb283c158a264a8c9e0cc7be0da8c9434ff30d3cfdc7d3ee6f8fa9f3374"
+    },
+    {
+      "path": "outputs/thesis_caption_QA_v2_20261029/Visual_Review_Record.json",
+      "bytes": 1205,
+      "sha256": "890bc667f4b9ee0182e4743ca6ebadd375977f731953bdb2b0145005954075e0"
+    },
+    {
+      "path": "outputs/thesis_caption_QA_v2_20261029/Internal_Checklist_Extraction.json",
+      "bytes": 506,
+      "sha256": "037d0be7bde26c90c7b3c2cfb1bf5ec19de142a2903f8b1acc74f1b2290ca5d9"
+    },
+    {
+      "path": "outputs/public_qa_scale_design_20261029/Focused_Method_Review_And_Decisions.md",
+      "bytes": 5253,
+      "sha256": "f455490775598ad14655a12b9ae4d5a462c6ce2ce260dd8f91e2a293c4ee5a5f"
+    }
+  ],
+  "raw_backup_complete": false,
+  "excluded": [
+    "privateweights/NETs",
+    "rawquestions/circuit/labels/tokenpacks/modeloutputs",
+    "rawnotebooks/transcripts",
+    "thirdpartysource/rawabstracts",
+    "fullthesisDOCX/PDF",
+    "credentials/runtimeproxydata"
+  ]
+}

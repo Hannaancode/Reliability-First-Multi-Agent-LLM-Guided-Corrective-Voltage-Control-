@@ -1,0 +1,107 @@
+{
+  "at_utc": "2026-10-29T05:34:35.321985+00:00",
+  "status": "PASS_REVIEWED_WORKING_THESIS_CAPTIONS_AND_QA",
+  "pages": 130,
+  "tables": 19,
+  "figures": 22,
+  "references": 35,
+  "page_bound_index_entries": 53,
+  "docx_sha256": "07a1693af2e5735065b288c24346b80457f50f4311a90aa11961a9336c52fa1d",
+  "pdf_sha256": "688e8ba319141ffa4a07a225cbc8fbbb2080f75f32534611a256b13cb92b1f38",
+  "all22_original_media_bytes_order_relationships_and_extents_preserved": true,
+  "all18_prior_tables_unchanged": true,
+  "permitted_changed_old_paragraph_instances": 37,
+  "all_other_old_paragraphs_preserved": true,
+  "new_QA_table_exact_fixed_results": true,
+  "PDF_embedded_image_occurrences": 22,
+  "visual_review": {
+    "status": "PASS_OVERVIEW_ALL130_AND_CHANGED_DETAIL_PAGES",
+    "all_page_contact_ranges": [
+      [
+        1,
+        24
+      ],
+      [
+        25,
+        48
+      ],
+      [
+        49,
+        72
+      ],
+      [
+        73,
+        96
+      ],
+      [
+        97,
+        120
+      ],
+      [
+        121,
+        130
+      ]
+    ],
+    "detailed_pages": [
+      5,
+      7,
+      41,
+      43,
+      45,
+      46,
+      47,
+      48,
+      49,
+      52,
+      54,
+      57,
+      58,
+      59,
+      60,
+      63,
+      78,
+      80,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      91,
+      92,
+      104,
+      105,
+      124,
+      125
+    ],
+    "pdf_sha256": "688e8ba319141ffa4a07a225cbc8fbbb2080f75f32534611a256b13cb92b1f38",
+    "observations": "All22 original figures render as real images, captions legible and attached to their figures; new QA table and failure explanation fit on page105 without a trailing orphan. AppendixC is absent and contents/references remain navigable. Existing source figures retain original quality.",
+    "limits": "Working thesis; title/admin/final research decisions remain open. All-page overview plus changed full-page detail, not fresh full-size review of every unchanged page."
+  },
+  "new_science": 0,
+  "source_bindings": [
+    {
+      "path": "outputs\\thesis_caption_scope_20261029\\Caption_Clarifications.json",
+      "sha256": "7ebacd36b275ad284125afc08e910c3986b4e85a8ac33322b80332e0447c9135"
+    },
+    {
+      "path": "outputs\\public_qa_completion_20261029\\Verified_Completion.json",
+      "sha256": "28568127228edccf08e037f11c3938976d5c2d8cccfdcb41e2c3a58d14ad6e98"
+    },
+    {
+      "path": "outputs\\full_system_comparison_20261021\\Provided_Multiagent_Paper_Extracted.txt",
+      "sha256": "7b08456d3ec77a2c6b952e16fc68829a44190495d9c7aff0cc4d6bbff99c9d6a"
+    }
+  ],
+  "preserved_failed_layouts": [
+    "outputs/thesis_caption_QA_20261029/Failed_Caption_Clear_Draft.docx",
+    "outputs/thesis_caption_QA_20261029/Drawing_Preservation_Repair.json"
+  ],
+  "layout_failure_resolution": "Oldp.clear removed drawings; later raw drawingXML repair lacked media relationships. Both failed layouts retained. Thisv2 rebuilt from pristine approved128page base, preserved original drawing relationships and exact media; final rendering independently inspected.",
+  "limitations": [
+    "No final university submission approval.",
+    "No new model advantage established by documentation.",
+    "T21 lineage and T33 comprehensive terminology review remain open."
+  ]
+}

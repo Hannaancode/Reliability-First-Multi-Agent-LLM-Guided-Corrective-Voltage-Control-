@@ -1,0 +1,70 @@
+{
+  "at_utc": "2026-10-29T05:42:47.720955+00:00",
+  "status": "CLOSED_PUBLIC_QA_AND_REVIEWED_THESIS_READY_FOR_NEXT_SCOPED_WORK",
+  "all_six_final_goals": "OPEN",
+  "priority_order": [
+    "G3",
+    "G1",
+    "G2",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "thesis_complete": 19,
+  "thesis_total": 35,
+  "newly_completed_this_run": [
+    "T20",
+    "T26",
+    "T28",
+    "T32",
+    "T34"
+  ],
+  "thesis_current": "outputs/thesis_caption_QA_v2_20261029/Hannaan_Thesis_Caption_And_QA_Update.docx",
+  "thesis_qa": "outputs/thesis_caption_QA_v2_20261029/Final_Visual_And_Evidence_QA.json",
+  "public_QA_completion": "outputs/public_qa_completion_20261029/Verified_Completion.json",
+  "public_QA_fixed_intervention": "STOPPED_NO_OUTCOME_RESCUE",
+  "owned_jobs": [],
+  "GPU_assignments": [],
+  "waiting_timer": null,
+  "actual_usage_lifecycle": "ACTIVE goal; no assumed quota reset or promise of ongoing background compute",
+  "source_metadata_progress": "outputs/source_metadata_admission_20261029/Source_Counterexamples_And_Prototype_Check.json",
+  "numerical_admission": "outputs/inference_numerical_admission_20261029/tensor_hook/Result.json",
+  "external118_source_correction": "outputs/common118_DER_admission_correction_20261029/Corrected_Source_Admission.json",
+  "next_ordered_tasks": [
+    {
+      "task": "G3 common118 external-control admission",
+      "action": "Use corrected4PV+4diesel inventory. Establish real capability/profile data for native inverter role, or separately name a common-shunt algorithm adaptation with equal observations/actions/training/resources. Do not invent ratings or count allsgens asPV. No trainedpolicy ready."
+    },
+    {
+      "task": "T12 source-metadata reliability",
+      "action": "Integrate typed citation validator with authoritative byte-bound source loader and output rendering. Evaluate exact metadata values, supported-answer positives and refusal negatives under a frozen future contract; keep arbitrary prose entailment separate."
+    },
+    {
+      "task": "G4/G2 future inference engineering",
+      "action": "Bind tested raw-logit observer to actual source/runtime/owner/persistent stop and independent reader. Only new non-test engineering identities under a separately fixed protocol may diagnose numerical behavior; old150QAitems and stoppedscale studies must not be rerun for rescue."
+    },
+    {
+      "task": "G1 new mechanism",
+      "action": "Before any new joint-allocation campaign, compare exact action/operation/stock semantics against prior complete and failed branch studies; freeze novelty-relative mechanism and equal numerical controls, relevant attempt identity coverage and full cost. No automaticphysicslaunch."
+    },
+    {
+      "task": "Open thesis source gaps",
+      "action": "T04later137rawjoin,T09fullcost,T11historical99percent,T13lineage,T14matchedRAG,T21holdouts andadmin/remainingitems stay open. Preserve all16remaining scopes without inventing evidence."
+    }
+  ],
+  "stop_rules": [
+    "No oldowner/readerrun/retrain or scientific retry.",
+    "No retuning failed gates or weakened controls.",
+    "No GPU allocation merely because profiles may have time.",
+    "No claim of final LLM/fullsecurity/zero-all/superiority."
+  ],
+  "publication_scope": "Own code and compact evidence only; not a complete private raw backup",
+  "public_QA_native_correct": {
+    "0.5B": 37,
+    "1.5B": 0,
+    "3B": 37
+  },
+  "public_QA_denominator_each": 150,
+  "public_QA_failure": "1.5B150repeated-tokenresponses; numericalcauseUNKNOWN; oldoutcomesneverreplaced",
+  "new_literature_review": "Four targeted primary sources;3fullHTMLrelevantsections+1abstract. Prior art distinguishes safeoptimization/learnedPFwarmstarts/graphACOPF/constrainedMARL; no novelty/superiority claim."
+}
