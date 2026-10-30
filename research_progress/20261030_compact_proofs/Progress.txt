@@ -1,0 +1,7 @@
+Compact proof publication for30October2026
+Own code, bounded generated proofs, retained pre-entry failure evidence, and exact task/resume copies.
+This is not a raw backup, full scientific release, new experiment or claim of completed final goals.
+Excluded: rawQA/transcripts,NET/NPZ/checkpoints/fullDOCX,dependencies/credentials and live scientific outputs.
+Exact resume source: outputs/research_resumption_20261028/Current_Resume.json
+Exact resume status: VERIFIED_PARALLEL_EVIDENCE_AND_CURRENT_THESIS_SAVED_NUMERICAL_OWNER_LIVE
+Historical raw evidence referenced by proofs remains local; publication references do not imply its inclusion.

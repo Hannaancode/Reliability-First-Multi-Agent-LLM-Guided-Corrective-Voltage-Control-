@@ -1,0 +1,958 @@
+{
+  "at_utc": "2026-10-30T14:55:13.975792+00:00",
+  "status": "FROZEN_LOCAL_COMPACT_PROOF_SNAPSHOT_NOT_PUBLISHED",
+  "scope": "Compact own-code and generated-proof publication, not a raw backup or self-contained scientific release.",
+  "members": [
+    {
+      "path": "work/nonlinear13_receding_policy_engine_v2_20261030.py",
+      "bytes": 45883,
+      "sha256": "e992f37c58a0514f1a350f368da5f70af60110bde3501f408d1cf3bfa8c83e01",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/nonlinear13_receding_acquisition_engine_20261030.py",
+      "bytes": 27826,
+      "sha256": "5af12953502f361da649d8eb860c9b9629b2327ab31331b346c3d36f62848045",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/nonlinear13_math_receipt_bank_20261030.py",
+      "bytes": 11446,
+      "sha256": "86ece4ff01e75126338febbb33830f2df4a14b1f24c33021358c00191d71bf01",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/nonlinear13_saved_math_reader_20261030.py",
+      "bytes": 29096,
+      "sha256": "f0af83c73c3c141b56831feb297d881a50820f3bcc2b058d85038a3a9971f87a",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/nonlinear13_acquisition_reader_20261030.py",
+      "bytes": 41384,
+      "sha256": "f3065aa63e8d9dcd06a6505743821c23c38c08078868a78e2d5e14edddb21f40",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/nonlinear13_current_state_v2_20261030.py",
+      "bytes": 8291,
+      "sha256": "f37b1c597bc90ebcc05a7dc0434d04cdc9e64ef70b3f5cf31e05d1e6734aadf5",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/nonlinear13_current_state_20261029.py",
+      "bytes": 20739,
+      "sha256": "7aedb462393e08412ba1d68c67c768414a17a6162e865971fb433672dd581ebb",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/nonlinear13_preserved_solver_v3_20261029.py",
+      "bytes": 10003,
+      "sha256": "4cb2f8b28c4c3875603a726fa641a09c6315f0f880c13025ab4af539fcc4858e",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/nonlinear13_receding_policy_engine_20261029.py",
+      "bytes": 26757,
+      "sha256": "d3355ada555f2bd320fda03e09cec0f3c94128263420571051f28c352a763705",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/nonlinear500_paid_snapshot_v2_20261029.py",
+      "bytes": 3284,
+      "sha256": "a6924abedb853fc6f758d468d10beb871a756b3ad82679fabeb4cf563f95b0ae",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/remaining85_certified_loader_20261029.py",
+      "bytes": 2927,
+      "sha256": "86926fed74cf66cf255c4276fd13a4bd1cb751ef840f75b40116497d84762aa3",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/remaining85_nonlinear_kernel_20261029.py",
+      "bytes": 7142,
+      "sha256": "784b0b14068c2017719a3734861289df798d45fbf55bb427fbefa2d64a1c7439",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/remaining85_source_binder_v2_20261029.py",
+      "bytes": 11513,
+      "sha256": "43b854056b9fda0ecec1cdbaacfa33b2e2d38064201c7940302c72782f5e743d",
+      "category": "current_own_numerical_sources"
+    },
+    {
+      "path": "work/run_nonlinear500_receding_acquisition_20261030.py",
+      "bytes": 11714,
+      "sha256": "0f60e4c422536dd91828dd92cab4de9fea62d1a90583a18e95d591538b4740c3",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/audit_nonlinear500_receding_acquisition_20261030.py",
+      "bytes": 7259,
+      "sha256": "8c0998ed84871e9ff1e77939744504eabfb9654ddca81308a0e1762691986908",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/coordinate_nonlinear500_receding_acquisition_20261030.py",
+      "bytes": 3801,
+      "sha256": "d9ee71deeb58da173780ffc0706a4419efb3c3265398445cb63baffc5c24bca4",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/freeze_nonlinear500_receding_acquisition_20261030.py",
+      "bytes": 8125,
+      "sha256": "1b90b8557708b3859d5d97aab7e7339d5cee36c2b062b682b5b7809d16f640a0",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/run_nonlinear500_receding_acquisition_v2_20261030.py",
+      "bytes": 11907,
+      "sha256": "fb36e44592cbd850c790f38881e4339b208a3e6e09229fcbca5e31dbf6a7146b",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/audit_nonlinear500_receding_acquisition_v2_20261030.py",
+      "bytes": 7469,
+      "sha256": "dbbe22cec46ba21e35fccf944c3169e7b74218c652b48bc6dee969f6d4502c82",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/coordinate_nonlinear500_receding_acquisition_v2_20261030.py",
+      "bytes": 3807,
+      "sha256": "28a47282892168135e2e519790e7ffa0611db19aaf43c5e0e04dfd1f82485236",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/freeze_nonlinear500_receding_acquisition_v2_20261030.py",
+      "bytes": 9990,
+      "sha256": "1d8e060376dda12194ec729c8c72dbbafc6df1ed8306dd57552718c1986421d5",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/nonlinear500_isolated_owner_runtime_20261030.py",
+      "bytes": 10054,
+      "sha256": "a5136842c5cb05e3fbe67bbdb89c4fb184f0f32495ef9b66ad5290613c97a272",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/prepare_nonlinear500_owner_v2_sources_20261030.py",
+      "bytes": 6624,
+      "sha256": "0f59a143d316441e831786f1b1a42d8f0bbec32b8133ef828b9404e5f74c8088",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/check_nonlinear500_owner_v2_source_20261030.py",
+      "bytes": 7044,
+      "sha256": "2543950f5909385aaf46e7327593c5f829e864bd18c9dffaf082a97082f382ca",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/coordinate_acquisition_source_bound_owner_20261030.py",
+      "bytes": 7833,
+      "sha256": "f35be8ffc24ec3e6e4cd0227a02c856839a14eed1708bc878e52e0341194cede",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/check_acquisition_actual_runtime_20261030.py",
+      "bytes": 3003,
+      "sha256": "28eac7f466d0cbe525f32f013fe28044af7817bf9aa03ef2acd065d0af0d8299",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "work/prepare_nonlinear500_readiness_index_20261030.py",
+      "bytes": 3155,
+      "sha256": "aa736763873accbf63429f05ea2d1dd6b94ce3aeda29c9a545ac26f10c8a8d38",
+      "category": "retained_v1_owner_and_new_v2_sources"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_engine_independent_review_20261030/Review.json",
+      "bytes": 4933,
+      "sha256": "61e5b5d2eaf62fb328f854dce0e1c5bc1cb36457dce5200d82f0b2a958e408e2",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_policy_v2_preparation_20261030/Results.json",
+      "bytes": 2318,
+      "sha256": "1939707e6b1dcf556eeb1f6327470084d400ee96fdcd91a8ace0cdec331a2646",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_policy_v2_preparation_20261030/Final_Repair_Status.json",
+      "bytes": 760,
+      "sha256": "417c15c43c9362912cc8bdb10e9fbc48d7c4bbc9ce4af6fd534841efaf3ef879",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_policy_v2_preparation_20261030/Terminal_Deadline_Check.json",
+      "bytes": 522,
+      "sha256": "0ecad477ba3d3ab34114ac4db3b7f13ce184fc1ff81a5a0b2927c7515c1253be",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_policy_v2_preparation_20261030/Source_Lock.json",
+      "bytes": 2610,
+      "sha256": "8d2863089cf61995f04879f60493099da10878fef086dad857be858df72fda97",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_acquisition_preparation_20261030/Results.json",
+      "bytes": 1398,
+      "sha256": "f15660640af0104e123e4e31e52d16a6467ab290d682009b3116d242e6e9380d",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_acquisition_preparation_20261030/Independent_Review.json",
+      "bytes": 3477,
+      "sha256": "046019755467cb95f7b1ba400a37f47d9ea0fc97ddb2c05445bfca84e963a947",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_acquisition_preparation_20261030/Final_Closure_Status.json",
+      "bytes": 1302,
+      "sha256": "62f5bbcd0d9bc6742cd01ecb49381000486fc0fbc7162d789c5f4ec656b8eec0",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_acquisition_preparation_20261030/Mechanical_Closure_Check.json",
+      "bytes": 579,
+      "sha256": "d75815cc207472afce4eacdfcf050215edf3f800a400aff3158cd84b2e1229ce",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_acquisition_preparation_20261030/Metadata_Bounds_Check.json",
+      "bytes": 544,
+      "sha256": "73d145928341e5dcd4bb68ca7820524c7c6b3d8b2309ff2450f13696916ea92a",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_acquisition_preparation_20261030/Budget_Check.json",
+      "bytes": 1149,
+      "sha256": "7d3e4e021289832b156d5d78f31edef126a44d4c47c102beacb887f872f56b8f",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_receding_acquisition_preparation_20261030/Source_Lock.json",
+      "bytes": 999,
+      "sha256": "837440733c6c3fbf51ad2565c84a405fc4525aed911f08fab7691d04fc3837aa",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_math_bank_preparation_20261030/Results.json",
+      "bytes": 1203,
+      "sha256": "68655576d041b61d0fa6dbfe2707dcdd121bc162d401275f24fd060a019e6bfc",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_math_bank_review_repairs_20261030/Results.json",
+      "bytes": 563,
+      "sha256": "0007b0c521ced41c8a7f78253af94bd5d43850065a2dfa398406268e29749610",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_saved_math_reader_preparation_20261030/Results.json",
+      "bytes": 11295,
+      "sha256": "3c0bf48c9aa62e145683bca373db91bb4074ffb7cbd90834dce9b3d64f7629ae",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_saved_math_reader_preparation_20261030/Readiness.json",
+      "bytes": 6668,
+      "sha256": "35ebd96523398a6823956a90a59e59c5ff865492e0871cacae39fa332729a3c5",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_saved_math_reader_preparation_20261030/Bank_Final_Review.json",
+      "bytes": 2600,
+      "sha256": "fc186b2b2cc2d97fdc9e6baf85103ea02be995ce60bf70d0f52eaed3d07fdadc",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_saved_math_reader_preparation_20261030/Bank_Source_Review.json",
+      "bytes": 3028,
+      "sha256": "8e26bc9d8f3245705b60c4c39cff25a3419565b9081d59fa1ca611563745df3a",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_acquisition_reader_preparation_20261030/Results.json",
+      "bytes": 8792,
+      "sha256": "b71808c884deee07e1d567e90b1822b036709df2b4d1345e81e0fd8686561437",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_acquisition_reader_preparation_20261030/Readiness.json",
+      "bytes": 4828,
+      "sha256": "331639f8b92f54f98a175d33b4806ed403fa581fcf88e43b9115524181edb328",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_current_state_v2_preparation_20261030/Result.json",
+      "bytes": 1479,
+      "sha256": "2f254d89ee8b1f5ecee6a67b7686689b8f3e72b0f87cfddf12076f2647f4bbb5",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_current_state_v2_preparation_20261030/Independent_Review.json",
+      "bytes": 2750,
+      "sha256": "1e07ead09023cd1c2e72ce98a0586b58857a26ab3886ec57c27c996fadc0141c",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear13_current_state_v2_preparation_20261030/Changed_Path_Stub_Checks.json",
+      "bytes": 611,
+      "sha256": "0123a6c8a9dd25165cb04edd7277475dfdf91f9dd3890dea99271c7113165b24",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_acquisition_owner_review_20261030/Review.json",
+      "bytes": 7857,
+      "sha256": "cfbc999e1ffe9166f1b4713ec3335ccff33d34d205c8fea043edaedb4132404c",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_acquisition_owner_review_20261030/Initial_Mock_Findings.json",
+      "bytes": 3296,
+      "sha256": "7f15ef188b19760a88905ec16d1b0789dae1c0d64dfe361f443f06afa5147313",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/acquisition_source_bound_owner_preparation_20261030/Results.json",
+      "bytes": 1335,
+      "sha256": "d10d972d9f37d92a26c20fa1b2b73fe909952673e31bcea37aa080ce8ff876da",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_acquisition_setup_failure_20261030/Independent_Diagnosis.json",
+      "bytes": 11574,
+      "sha256": "281239aee3cda882dfe51ea84489e604f8d453ad602331f606a5ea40c7ae8f8c",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_acquisition_setup_failure_20261030/Fresh_Terminal_Source_Absence.json",
+      "bytes": 1054,
+      "sha256": "98338544e6504b77d208be820264e0a55b2fa9eb799b0544c4e3b50df5f2cd34",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_actual_runtime_admission_20261030/Result.json",
+      "bytes": 5289,
+      "sha256": "35668f69677ce962398e58988e38b1f2517611c40570f1d1ea10de36cc9b6b6b",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_coordination_20261030/End_ACK.json",
+      "bytes": 1241,
+      "sha256": "b6187b96528b4e305f34f162c54fe2acd7c34e4f139f9b756eeb7ce88d72a1fe",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_coordination_20261030/Failure.json",
+      "bytes": 668,
+      "sha256": "d329a96485dc09829ef70c20e4484ab1c255bc380e0b7849dd3e071f11ae1787",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_handoff_20261030/Completion.json",
+      "bytes": 1552,
+      "sha256": "196330e3b569abaa49078538ed2c6023528de7417fb14b468950122bb13ef418",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_handoff_20261030/Primary_Owner_Protocol.json.End.json",
+      "bytes": 71,
+      "sha256": "80a450d1f36f2a88485c0f0c45c07de51c3f249293edae6fd5c3ebe4ff9bfb34",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v2_source_preparation_20261030/Source_And_Admission_Check.json",
+      "bytes": 23651,
+      "sha256": "c7a1343caa6f3ef69ecb1b82e112ddd5a949ac4c52e64ccbeeced1e585334274",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v2_source_preparation_20261030/Source_Preparation.json",
+      "bytes": 1818,
+      "sha256": "f45dabd6a18bb913fb91e194c5625a067e716c15ba65d534221eb613276c53e5",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v2_source_preparation_20261030/Independent_Source_Review.json",
+      "bytes": 6420,
+      "sha256": "8b7b0e19f3c6e5812cfe4acfdb39822e89b36ae44d40fa242e4733e63dbb8170",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_acquisition_readiness_20261030/Final_Prospective_Protocol_Review.json",
+      "bytes": 4157,
+      "sha256": "56530fd305cfb501d0ed2636ea70b0c32fc2a9415eb081832c7dca4abd08794e",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/nonlinear500_acquisition_readiness_20261030/Readiness_Index.json",
+      "bytes": 3842,
+      "sha256": "c40461267cc18c1f5b66e9aeed8ce882f4d7a132129c47ee606cd509e1f7f29b",
+      "category": "bounded_software_runtime_and_closed_failure_proofs"
+    },
+    {
+      "path": "outputs/thesis_evidence_updates_20261030/Evidence_Update_Record.json",
+      "bytes": 23891,
+      "sha256": "2f9f6275930a9b977b061f1b32269608b27f6779eed30aa05e9967d62d13c536",
+      "category": "thesis_update_records"
+    },
+    {
+      "path": "outputs/thesis_evidence_updates_20261030/Source_Addendum.json",
+      "bytes": 2069,
+      "sha256": "f0f3dc8c2e277112a1b47e802555a72a2dc5c7df6bf4490166da71b49dbf89eb",
+      "category": "thesis_update_records"
+    },
+    {
+      "path": "outputs/thesis_evidence_updates_20261030/Structural_Preservation_Check.json",
+      "bytes": 1644,
+      "sha256": "7b8a5ebeda62bb0722f92f3745e642614c5864f686bb294935bfee9eae88098a",
+      "category": "thesis_update_records"
+    },
+    {
+      "path": "outputs/thesis_evidence_updates_20261030/Postwrite_Section_And_Content_Check.json",
+      "bytes": 826,
+      "sha256": "5e5bf7d402e5b8913f56e32f87ebc37b40b6869989e1875003a08edc875f0a36",
+      "category": "thesis_update_records"
+    },
+    {
+      "path": "outputs/thesis_evidence_updates_20261030/Initial_Structural_Check_Finding.json",
+      "bytes": 667,
+      "sha256": "8a572cecd3f2710d9e184f23447a96da8ac07b5ba42e144a92a6151d76fbdd73",
+      "category": "thesis_update_records"
+    },
+    {
+      "path": "outputs/thesis_evidence_updates_20261030/Chaptered_Change_And_Evidence_Report.txt",
+      "bytes": 4161,
+      "sha256": "7423ccf0c72cb40f44a586dd507943cc406e8eb6f0a7668250d3b037978f66e8",
+      "category": "thesis_update_records"
+    },
+    {
+      "path": "outputs/thesis_evidence_updates_postwrite_20261030/Postwrite_Self_Review.json",
+      "bytes": 5630,
+      "sha256": "da72603f714d8564c15d428dcca69694c3fa0ed3bbd4c495d9ee256e78caa5e8",
+      "category": "thesis_postwrite_and_literal_criteria"
+    },
+    {
+      "path": "outputs/thesis_evidence_updates_postwrite_20261030/Remaining_Eight_Literal_Closure_Assessment.json",
+      "bytes": 9308,
+      "sha256": "8e19038b77d4ecc6664ec093bf133163a56159bba191a69beca59da036c1deed",
+      "category": "thesis_postwrite_and_literal_criteria"
+    },
+    {
+      "path": "outputs/thesis_evidence_updates_postwrite_20261030/Postwrite_Review_And_Blockers.txt",
+      "bytes": 2310,
+      "sha256": "9f91d892aaca8e87859e3576dd10ac527c597b29e1b8bf61ec598c808f43f1af",
+      "category": "thesis_postwrite_and_literal_criteria"
+    },
+    {
+      "path": "outputs/thesis_remaining_item_review_20261030/Review.json",
+      "bytes": 6267,
+      "sha256": "f023bec8116f1b3b930687a1f3a775c9d9bb73e28b3f942dc6413d48912fe398",
+      "category": "thesis_postwrite_and_literal_criteria"
+    },
+    {
+      "path": "outputs/thesis_remaining_item_review_20261030/Administrative_Pending_Record.json",
+      "bytes": 1057,
+      "sha256": "f186c4051b3ac3e331958b14e21dc554fa1fd3cd15cef3d344841ae6185b037b",
+      "category": "thesis_postwrite_and_literal_criteria"
+    },
+    {
+      "path": "outputs/nerc_membership_recovery_20261030/Findings.json",
+      "bytes": 3825,
+      "sha256": "86e07b107247b92d12e782776714bc2da8edea0657c63460ba347d5698ee60ff",
+      "category": "T13_summary_proofs"
+    },
+    {
+      "path": "outputs/nerc_membership_recovery_20261030/Postwrite_Custody_And_Scope_Review.json",
+      "bytes": 4623,
+      "sha256": "19c1075867379d6fdb90add69f621576eb591a85b1746631292bcd5d39fcdb23",
+      "category": "T13_summary_proofs"
+    },
+    {
+      "path": "outputs/nerc_membership_recovery_20261030/Historical_Case_Join_Summary.json",
+      "bytes": 1442,
+      "sha256": "4df698884ab1756d4e47b72badb2bab286cad68b92c01fc6ab00b9410e78ebff",
+      "category": "T13_summary_proofs"
+    },
+    {
+      "path": "outputs/nerc_membership_recovery_20261030/Source_Bindings.json",
+      "bytes": 4955,
+      "sha256": "d1eb2a63ef6f57e7f3e15509df1d9e1bb2afc90e1afe60640264e35efe174279",
+      "category": "T13_summary_proofs"
+    },
+    {
+      "path": "outputs/nerc_membership_recovery_20261030/Protocol.json",
+      "bytes": 1673,
+      "sha256": "f27e26793535f1616654eb9f04caee48d59632f9854a8209bf396a6edd458749",
+      "category": "T13_summary_proofs"
+    },
+    {
+      "path": "outputs/research_resumption_20261028/Current_Resume.json",
+      "bytes": 20106,
+      "sha256": "d99b0e78c9c87450c1b1421d6ab88f200a712727ec6186f83bbb25106374bfa7",
+      "category": "current_resume_and_task_copies"
+    },
+    {
+      "path": "outputs/research_resumption_20261030/Exact_Resume.json",
+      "bytes": 2449,
+      "sha256": "5ea00611a2fcfbca921b2874a92f4e33442c0578474aa855424edc01d4a7ef7c",
+      "category": "historical_1159_resume_retention"
+    },
+    {
+      "path": "outputs/research_tasks_20261014/Tasks.json",
+      "bytes": 73343,
+      "sha256": "f0e279d61c3820074e416b39160befe4271e66a4abfed373396851087d2f9eda",
+      "category": "current_resume_and_task_copies"
+    },
+    {
+      "path": "outputs/thesis_research_closure_20261028/Tasks.json",
+      "bytes": 47455,
+      "sha256": "8b2f8d571abd0e5f1b4d6a7099eac411794462aa58d6cadd5e4bf468e9c306ea",
+      "category": "current_resume_and_task_copies"
+    },
+    {
+      "path": "outputs/research_progress_publication_20261030/Prepare_Compact_Publication.py",
+      "bytes": 11145,
+      "sha256": "92c52e0e2b6e87c0734a652c67913873830eae6a23c8a604ed1767954263c5fc",
+      "category": "publication_machinery"
+    },
+    {
+      "path": "outputs/research_progress_publication_20261030/Publication_Allowlist.json",
+      "bytes": 62476,
+      "sha256": "48a314ab1701b1e43ec5dbcc97ead8b55b9902271c83c8544afb9a3d9f89b2d8",
+      "category": "publication_machinery"
+    },
+    {
+      "path": "outputs/research_progress_publication_20261030/Publication_Exclusions.json",
+      "bytes": 1975,
+      "sha256": "d961ff13fa5cbc00cc2c11c37fe5011320183ce19de9e818ac14865181e6fd98",
+      "category": "publication_machinery"
+    },
+    {
+      "path": "outputs/research_progress_publication_20261030/GitHub_Verification_Contract.json",
+      "bytes": 1307,
+      "sha256": "092e99fd8715b497d772990a0b46a891a971d936bdf6fa3b127141614883550b",
+      "category": "publication_machinery"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_preparation_20261030/Protocol.json",
+      "bytes": 18094,
+      "sha256": "8ce099e9a57491825c0aacfbd299101578fcd19009edd57620c142afa14a988e",
+      "category": "bounded_original_protocol_or_changed_path_proof"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_preparation_20261030/Primary_Owner_Protocol.json",
+      "bytes": 436,
+      "sha256": "e40a0710b861e9d4f85bb3777d9c6aa4ab1a7e9c2734b1f56d8f569405bd7fdc",
+      "category": "bounded_original_protocol_or_changed_path_proof"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_preparation_20261030/Reader_Owner_Protocol.json",
+      "bytes": 447,
+      "sha256": "d78ae7b7bb3c7ed063048c14a876043766c75f27ce24ac706829f868a8761a59",
+      "category": "bounded_original_protocol_or_changed_path_proof"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_preparation_20261030/Frozen_Preparation_Manifest.json",
+      "bytes": 958,
+      "sha256": "bb618aacd4406ebf904c4b05e0f58859d45aaeacef7820b4d792ec7301e0f592",
+      "category": "bounded_original_protocol_or_changed_path_proof"
+    },
+    {
+      "path": "outputs/nonlinear13_current_state_v2_preparation_20261030/cursor_cap_changed_paths/Result.json",
+      "bytes": 1321,
+      "sha256": "0a4ed601173fe4e9a3cdcd36acfb8bd834415caaaef607fc5dfd91e414036f04",
+      "category": "bounded_original_protocol_or_changed_path_proof"
+    },
+    {
+      "path": "outputs/research_progress_publication_20261030/Synthetic_Machinery_Check.json",
+      "bytes": 2080,
+      "sha256": "9a9002c7b52427ef347e1c2bec11f7b2b22f84bef86302eb10c04a95b6bf2de2",
+      "category": "bounded_original_protocol_or_changed_path_proof"
+    },
+    {
+      "path": "work/run_nonlinear500_receding_acquisition_v3_20261030.py",
+      "bytes": 11910,
+      "sha256": "d15ebfa20d17a578bb1cc91851a44cecbc0d25e86c7109fbb7ee55cc6a646e3d",
+      "category": "frozen_v3_own_source_and_admission_machinery"
+    },
+    {
+      "path": "work/audit_nonlinear500_receding_acquisition_v3_20261030.py",
+      "bytes": 7472,
+      "sha256": "00f80a53cd3c321a587196ced8c29ed4c5a403ca3a3204d07bac2203c76816a7",
+      "category": "frozen_v3_own_source_and_admission_machinery"
+    },
+    {
+      "path": "work/coordinate_nonlinear500_receding_acquisition_v3_20261030.py",
+      "bytes": 3807,
+      "sha256": "25c263192aeee4056a0f43b9d9525d6b32f793711452b3cfe72863a64d8fe9ef",
+      "category": "frozen_v3_own_source_and_admission_machinery"
+    },
+    {
+      "path": "work/freeze_nonlinear500_receding_acquisition_v3_20261030.py",
+      "bytes": 11212,
+      "sha256": "1d54e82828c46a7248352a74f90c530d570c3b237d28c00667b7b16321212799",
+      "category": "frozen_v3_own_source_and_admission_machinery"
+    },
+    {
+      "path": "work/nonlinear500_isolated_owner_runtime_v3_20261030.py",
+      "bytes": 16724,
+      "sha256": "924178706e651a533093f62e72bbe1ed51f92bf44ba19dc6d6b098e7e7b81ae1",
+      "category": "frozen_v3_own_source_and_admission_machinery"
+    },
+    {
+      "path": "work/prepare_nonlinear500_owner_v3_sources_20261030.py",
+      "bytes": 1942,
+      "sha256": "13300ef9139c501d46e1c91b71893c64506fe944b5bb84c873d54e142b88bd6b",
+      "category": "frozen_v3_own_source_and_admission_machinery"
+    },
+    {
+      "path": "work/check_nonlinear500_owner_v3_source_20261030.py",
+      "bytes": 5918,
+      "sha256": "91ef2c303001f16898df2cb739ed8e2cbab86cf18592486627f12c46e35584f6",
+      "category": "frozen_v3_own_source_and_admission_machinery"
+    },
+    {
+      "path": "work/prepare_nonlinear500_v3_readiness_index_20261030.py",
+      "bytes": 1844,
+      "sha256": "6ecb79a2309c0c56183d8ba318f7e166880de67b43674f463b1fda96d2ef193c",
+      "category": "frozen_v3_own_source_and_admission_machinery"
+    },
+    {
+      "path": "work/check_frozen_v3_actual_host_runtime_20261030.py",
+      "bytes": 3141,
+      "sha256": "c5cb0afb421be2498be590f231c5760346f99a1b0d29005c2618f034a5742942",
+      "category": "frozen_v3_own_source_and_admission_machinery"
+    },
+    {
+      "path": "work/save_actual_v3_acquisition_checkpoint_20261030.py",
+      "bytes": 7960,
+      "sha256": "e9f09f9fa7a061c761846a7e4ef21bec016e553d83d4305543de2af3ae5b54e2",
+      "category": "frozen_v3_own_source_and_admission_machinery"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_preparation_20261030/Protocol.json",
+      "bytes": 26778,
+      "sha256": "1e71232539b687b6fbdfb727d81aef770143c520cf0b6fa2ed5c77403ad0d742",
+      "category": "frozen_v3_protocol_and_source_reviews"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_preparation_20261030/Primary_Owner_Protocol.json",
+      "bytes": 445,
+      "sha256": "027a5a4d93e8b556e770fc91c3769550f100e361680135ecd470af7b56c6e3d7",
+      "category": "frozen_v3_protocol_and_source_reviews"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_preparation_20261030/Reader_Owner_Protocol.json",
+      "bytes": 456,
+      "sha256": "3debdb06558898dd3c93c468f28a7041061a84e89b18f8531078c253bc4fe5f8",
+      "category": "frozen_v3_protocol_and_source_reviews"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_preparation_20261030/Frozen_Preparation_Manifest.json",
+      "bytes": 970,
+      "sha256": "b5c618a4346fdac3ea5f9a249a99a15fc09a8474f9875920721dabb73e1a56ea",
+      "category": "frozen_v3_protocol_and_source_reviews"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_source_preparation_20261030/Source_And_Host_Binding_Check.json",
+      "bytes": 21831,
+      "sha256": "9ea50616d6af094fb685f4d071d7013958752ddb4ed9931fab697fe7ec8707e9",
+      "category": "frozen_v3_protocol_and_source_reviews"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_source_preparation_20261030/Independent_Source_Review.json",
+      "bytes": 6516,
+      "sha256": "71d8ac0f61f38d773247f0b2cb45c7bc68056925268e39e8227fc709d235a1d6",
+      "category": "frozen_v3_protocol_and_source_reviews"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_source_preparation_20261030/Readiness_Index.json",
+      "bytes": 5044,
+      "sha256": "89137cc94c935c3cddb3c67696565277235d5c38c5c5f58693fbebd44d92a962",
+      "category": "frozen_v3_protocol_and_source_reviews"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_source_preparation_20261030/Final_Prospective_Protocol_Review.json",
+      "bytes": 6606,
+      "sha256": "cbb0297c1175167f8144ecafff91772455de38124bb51847400001ba9c5f2b89",
+      "category": "frozen_v3_protocol_and_source_reviews"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_source_preparation_20261030/Closed_Source_Preparation_Manifest.json",
+      "bytes": 2201,
+      "sha256": "687f2d4cc978cb7ae0ba91d084293cb7a1c1d45c78f31a442056e64e9b7980bc",
+      "category": "frozen_v3_protocol_and_source_reviews"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_source_preparation_20261030/Fresh_Prelaunch_Process_Check.json",
+      "bytes": 310,
+      "sha256": "b1ab5bd4801adc4ee19672a3d82beb19c1c59bd95c542e96b5bcd5b24f1b53c6",
+      "category": "frozen_v3_protocol_and_source_reviews"
+    },
+    {
+      "path": "outputs/nonlinear500_actual_host_runtime_admission_20261030/Result.json",
+      "bytes": 13909,
+      "sha256": "95b074385e9c7ce59296b2b204c97f1362ee040312d3298fa1a4dc417865dcb4",
+      "category": "actual_HOST_admission_metadata"
+    },
+    {
+      "path": "outputs/nonlinear500_actual_host_runtime_admission_v2_20261030/Result.json",
+      "bytes": 14773,
+      "sha256": "67027722a078e14c187c1937b1e60dff8f04dd0ae64e1dd0264a2c396ed11abb",
+      "category": "actual_HOST_admission_metadata"
+    },
+    {
+      "path": "outputs/nonlinear500_frozen_v3_host_admission_20261030/Result.json",
+      "bytes": 16128,
+      "sha256": "095e4643b282a3d4a6bb204610e9223c6657eea62bbd0d3be53cdc9ee44559a9",
+      "category": "actual_HOST_admission_metadata"
+    },
+    {
+      "path": "outputs/nonlinear500_v2_setup_access_failure_20261030/Independent_Diagnosis.json",
+      "bytes": 6534,
+      "sha256": "faec18cad4801543d55ba644b86d304ad22c84d6cb17cc2a84179491e5ba9abd",
+      "category": "retained_v2_zero_entry_failure_and_protocol"
+    },
+    {
+      "path": "outputs/nonlinear500_v2_setup_access_failure_20261030/Fresh_Terminal_Source_Absence.json",
+      "bytes": 685,
+      "sha256": "785f30b4326d3f95d8c45b02daba378f94efee14f9eb718eb7d119903a9b455f",
+      "category": "retained_v2_zero_entry_failure_and_protocol"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v2_coordination_20261030/End_ACK.json",
+      "bytes": 1244,
+      "sha256": "60bac54e180ccbc9812fb5c2ac2bc3dcbbefbd11f3ccb693920370ea3fe79fcc",
+      "category": "retained_v2_zero_entry_failure_and_protocol"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v2_coordination_20261030/Failure.json",
+      "bytes": 668,
+      "sha256": "d329a96485dc09829ef70c20e4484ab1c255bc380e0b7849dd3e071f11ae1787",
+      "category": "retained_v2_zero_entry_failure_and_protocol"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v2_handoff_20261030/Completion.json",
+      "bytes": 1555,
+      "sha256": "6f7cd5d8307b1aa910119ebb41e6fac870ad6e853075ddccd1cf298e8a31373e",
+      "category": "retained_v2_zero_entry_failure_and_protocol"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v2_handoff_20261030/Primary_Owner_Protocol.json.End.json",
+      "bytes": 71,
+      "sha256": "1a110b76b78298270466e7d5a1fbca52c252f198cc67f72f5464629598cd402e",
+      "category": "retained_v2_zero_entry_failure_and_protocol"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v2_preparation_20261030/Protocol.json",
+      "bytes": 24265,
+      "sha256": "e289a9a46b491038189daccaf843f18401caa9fe90031d6fcc7ecc2db4ebabfd",
+      "category": "retained_v2_zero_entry_failure_and_protocol"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v2_preparation_20261030/Primary_Owner_Protocol.json",
+      "bytes": 445,
+      "sha256": "ca677a4a0cbde383bfc6b3bf2381fa7cfe8fbe3962f3edfa86570284427a6f1a",
+      "category": "retained_v2_zero_entry_failure_and_protocol"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v2_preparation_20261030/Reader_Owner_Protocol.json",
+      "bytes": 456,
+      "sha256": "52c2ab44237deb14571ba4f8dddf1678a989f9075b4450061a0f1c170ba1c35b",
+      "category": "retained_v2_zero_entry_failure_and_protocol"
+    },
+    {
+      "path": "outputs/nonlinear500_receding_acquisition_v2_preparation_20261030/Frozen_Preparation_Manifest.json",
+      "bytes": 970,
+      "sha256": "afad3b4ec9b0359cb3c73a3a382e543df1662821b645c27d64d23e77ff9029a9",
+      "category": "retained_v2_zero_entry_failure_and_protocol"
+    },
+    {
+      "path": "outputs/nonlinear500_v3_live_checkpoint_20261030/Exact_Resume.json",
+      "bytes": 8452,
+      "sha256": "6d70def855d65fb3aed975966546c4fa0c625a43ccdd939f56ec603b3a821beb",
+      "category": "current_owned_run_checkpoint_resume"
+    },
+    {
+      "path": "outputs/rag500_source_membership_recovery_20261030/Protocol.json",
+      "bytes": 5843,
+      "sha256": "6ef3be4069ec0b3c4c4e3e38a201aa929695c63effb2eb27e9862366c12707ae",
+      "category": "RAG500_saved_content_join_aggregate_method"
+    },
+    {
+      "path": "outputs/rag500_source_membership_recovery_20261030/Analysis_Source_Binding.json",
+      "bytes": 377,
+      "sha256": "e7fb18806ee2994441e002733046f4a21a527ed53bd73973e42d0aab4a26446e",
+      "category": "RAG500_saved_content_join_aggregate_method"
+    },
+    {
+      "path": "outputs/rag500_source_membership_recovery_20261030/Aggregate_Findings.json",
+      "bytes": 4043,
+      "sha256": "d2b831e1bbcb64582d36b917bc942ceca452ffaa89f27cdd1c62b74cb5fa06b0",
+      "category": "RAG500_saved_content_join_aggregate_method"
+    },
+    {
+      "path": "outputs/rag500_source_membership_recovery_20261030/Content_Identity_Clarification.json",
+      "bytes": 3857,
+      "sha256": "318c191627b08fd967a84b8c452b739e9dbb2e14f16be0c94fe82cce8aab273d",
+      "category": "RAG500_saved_content_join_aggregate_method"
+    },
+    {
+      "path": "outputs/rag500_source_membership_recovery_20261030/Accounting_Check.json",
+      "bytes": 600,
+      "sha256": "9947471a058c3d29b565185dbe959d20a20892280ab0a6f863cd47dc3e8bbce0",
+      "category": "RAG500_saved_content_join_aggregate_method"
+    },
+    {
+      "path": "outputs/rag500_source_membership_recovery_20261030/Compact_Findings.txt",
+      "bytes": 1598,
+      "sha256": "8d68768b841019e86c5c0b2aaaa37aa3f1389c5eb62c4a9f144d08e2e67da749",
+      "category": "RAG500_saved_content_join_aggregate_method"
+    },
+    {
+      "path": "outputs/rag500_source_membership_recovery_20261030/Join_Saved500_Questions.py",
+      "bytes": 10969,
+      "sha256": "35f7ea3860dbced04f3ccd4ed9f791a1dbd643c3e8ad904de74ca7e15abbb00b",
+      "category": "RAG500_saved_content_join_aggregate_method"
+    },
+    {
+      "path": "outputs/thesis_rag500_lineage_update_20261030/Source_Change_Record.json",
+      "bytes": 11129,
+      "sha256": "714bbb3b979fd6f7c364b571c05b14f191277c6063c3a39125c52e9be3459232",
+      "category": "current_additive_thesis_record"
+    },
+    {
+      "path": "outputs/thesis_rag500_lineage_update_20261030/Self_Review.json",
+      "bytes": 1834,
+      "sha256": "64980e216af444df7ec27d528a6a9cb75d5e0d7aca8a56b49be47adab87add90",
+      "category": "current_additive_thesis_record"
+    },
+    {
+      "path": "outputs/thesis_rag500_lineage_update_20261030/Update_Note.txt",
+      "bytes": 1177,
+      "sha256": "e52e22a9dc061906014f4c855dfe0aea3eb953b2f43bfa59aebd98c2f63b0aac",
+      "category": "current_additive_thesis_record"
+    },
+    {
+      "path": "outputs/thesis_evidence_updates_independent_prose_20261030/Review.json",
+      "bytes": 6826,
+      "sha256": "06b545e1cd1bfd3375abffedf92204c631d0364531af6940bf6fef6ef00779a4",
+      "category": "current_additive_thesis_record"
+    },
+    {
+      "path": "work/build_original118_component_ledger_20261030.py",
+      "bytes": 18640,
+      "sha256": "343bf99d920988a1fa33f2e6b05f03e6d1228b2006bf8d51f776adfb06791aef",
+      "category": "component_accounting_compact_method"
+    },
+    {
+      "path": "outputs/original118_component_ledger_20261030/Protocol.json",
+      "bytes": 23006,
+      "sha256": "c6e850efe0e3a4c6f94e019c608d306781b155f27ed49b11b6372bda2db58203",
+      "category": "component_accounting_compact_method"
+    },
+    {
+      "path": "outputs/original118_component_ledger_20261030/Results.json",
+      "bytes": 13192,
+      "sha256": "4bde0f6567634c589c6141f6b4d8b4318d49385024f3c43d19022c46f7050d20",
+      "category": "component_accounting_compact_method"
+    },
+    {
+      "path": "outputs/original118_component_ledger_20261030/Cost_Lineage.json",
+      "bytes": 8848,
+      "sha256": "9c8d495cc56a2e7ddb90d4307bc61aca1b1bbdb9277c332ffdf182e9a818b686",
+      "category": "component_accounting_compact_method"
+    },
+    {
+      "path": "outputs/original118_component_ledger_20261030/Offline_Selector_Ledger.json",
+      "bytes": 3730,
+      "sha256": "105a958196f39442e1ff490e600952c50fe6a62ae5c67f2842be088a88a2195f",
+      "category": "component_accounting_compact_method"
+    },
+    {
+      "path": "outputs/parallel_lineage_component_independent_20261030/Compact_Review.json",
+      "bytes": 5846,
+      "sha256": "643b13dea39bb92d92be79b8737ea323cf6faccb5098625c57ec4966827079e0",
+      "category": "independent_RAG500_component_and_prose_review"
+    },
+    {
+      "path": "outputs/thesis_component_attribution_update_20261030/Build_Additive_Component_Update.py",
+      "bytes": 20098,
+      "sha256": "0a72ae34b74b7334472df877890d1e2c15c2b665e12d671b1f364be9e5aa2a83",
+      "category": "own_final_component_thesis_edit_method"
+    },
+    {
+      "path": "outputs/thesis_component_attribution_update_20261030/Source_Change_Record.json",
+      "bytes": 7955,
+      "sha256": "92eb4849e3d1872d126e335c69bd8073227ad2214b274f3eb4d5a12edb819e20",
+      "category": "final_component_thesis_compact_change_record"
+    },
+    {
+      "path": "outputs/thesis_component_attribution_update_20261030/Self_Review.json",
+      "bytes": 2534,
+      "sha256": "67689f8138fe038e9488cf8febf4b5412637cd44e32eb03bd2bf57b4297b4ba8",
+      "category": "final_component_thesis_author_self_review_not_independent"
+    },
+    {
+      "path": "outputs/thesis_component_attribution_update_20261030/Update_Note.txt",
+      "bytes": 1263,
+      "sha256": "b03ed4c584641731298c02a2d982eaaaeaa2374972a2c822e1d39276e94e2109",
+      "category": "final_component_thesis_compact_scope_note"
+    },
+    {
+      "path": "work/save_parallel_evidence_and_thesis_20261030.py",
+      "bytes": 7839,
+      "sha256": "aa8cfc7e0a403c7bc38424e100f74f53584e0420d99752e2e06d42500cf7daf2",
+      "category": "own_completed_evidence_checkpoint_method"
+    },
+    {
+      "path": "outputs/thesis_component_parent_review_20261030/Review.json",
+      "bytes": 1136,
+      "sha256": "2e532849f6873775d943858d446c37168b07a3a06aee2af7013f777186a79feb",
+      "category": "parent_independent_final_component_DOCX_content_review"
+    },
+    {
+      "path": "outputs/parallel_evidence_checkpoint_20261030/Exact_Resume.json",
+      "bytes": 7431,
+      "sha256": "5c9f1b07eacc7597c3f62c20d86534bd7b89ef2ddc4d775185ae82a76a80e945",
+      "category": "current_verified_parallel_evidence_and_thesis_checkpoint"
+    },
+    {
+      "path": "outputs/G4_next_comparison_gap_review_20261030/Gap_And_Admission_Note.json",
+      "bytes": 9744,
+      "sha256": "79bc42c5807f174562b5f9f4c1efdd1268a46b23f8621ac24ff87aef7d5d0726",
+      "category": "compact_G4_gap_and_admission_note"
+    },
+    {
+      "path": "outputs/parallel_evidence_checkpoint_20261030/User_Title_Approval_Deferral.json",
+      "bytes": 226,
+      "sha256": "cb4e0a8232ba75ea7a58c00afd13766f2d50c8cc9292af64e1edff9e14dcdbcf",
+      "category": "user_title_approval_responsibility_decision_record"
+    },
+    {
+      "path": "outputs/research_progress_publication_20261030/Check_New_Exclusions_Only.py",
+      "bytes": 4107,
+      "sha256": "ff11b8e2fafe330a6f1cf8f9d88c2c1be838275d6f99763142e8429816819ede",
+      "category": "targeted_publication_exclusion_check_method"
+    },
+    {
+      "path": "outputs/research_progress_publication_20261030/Exclusion_Change_Record.json",
+      "bytes": 2864,
+      "sha256": "2baf7c886909a1673b31a27cba06212ff47ccb328643c1281270de400414fc9d",
+      "category": "targeted_publication_exclusion_change_proof"
+    }
+  ],
+  "archive_sha256": "d1ba119a7b62446b794f938980d30f48a8b513ef8234cd68bda303fd768fbc46",
+  "archive_member_bytes": 1224203,
+  "allowlist_sha256": "48a314ab1701b1e43ec5dbcc97ead8b55b9902271c83c8544afb9a3d9f89b2d8",
+  "builder_sha256": "92c52e0e2b6e87c0734a652c67913873830eae6a23c8a604ed1767954263c5fc",
+  "parent_readiness_authorization_sha256": "0a73bed78efaf7eb2941ffa69d023d3e1a645b1d25121676be053b600810d011",
+  "exact_resume_source": "outputs/research_resumption_20261028/Current_Resume.json",
+  "exact_resume_sha256": "d99b0e78c9c87450c1b1421d6ab88f200a712727ec6186f83bbb25106374bfa7",
+  "no_complete_raw_backup_claim": true,
+  "published_to_GitHub": false
+}

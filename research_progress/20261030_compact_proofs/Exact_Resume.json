@@ -1,0 +1,351 @@
+{
+  "at_utc": "2026-10-30T14:35:57.146249+00:00",
+  "status": "VERIFIED_PARALLEL_EVIDENCE_AND_CURRENT_THESIS_SAVED_NUMERICAL_OWNER_LIVE",
+  "actual_goal_tool": "ACTIVE verified30October; actual usage/lifecycle governs",
+  "all_six_final_goals": "OPEN",
+  "bounded_main_request_complete": [
+    "G4 matched size comparison; adverse results retained; G4.3 conditional follow-on OPEN"
+  ],
+  "priority_order": [
+    "G3",
+    "G1",
+    "G2",
+    "G4",
+    "G5",
+    "G6"
+  ],
+  "owned_scientific_jobs": [
+    {
+      "source": "work/run_nonlinear500_receding_acquisition_v3_20261030.py",
+      "pid": 2932,
+      "parent_pid": 2940
+    }
+  ],
+  "GPU_assignments": [],
+  "waiting_timer": null,
+  "thesis_requirements_complete": 27,
+  "thesis_requirements_total": 35,
+  "thesis_current": "outputs/thesis_citations_integrated_20261029/Hannaan_Thesis_Citations_And_Current_Results.docx",
+  "thesis_content_qa": "outputs/thesis_citations_integrated_20261029/Independent_Citation_Integration_Check.json",
+  "thesis_evidence_index": "outputs/thesis_citations_integrated_20261029/Thesis_Evidence_Navigation.json",
+  "thesis_counts": {
+    "tables": 23,
+    "figures": 22,
+    "references": 71
+  },
+  "pagination": "Explicitly delegated to user; no new PDF, page count or visual layout certification.",
+  "open_thesis_items": [
+    "T01",
+    "T02",
+    "T04",
+    "T05",
+    "T11",
+    "T13",
+    "T21",
+    "T29"
+  ],
+  "common_tolerance": {
+    "rule": "Same1e-8 p.u. allowance for all methods; retrospective user-requested engineering analysis, not new confirmation.",
+    "wholeband500": {
+      "our_numerical": 415,
+      "safe_ddpg": 262,
+      "linear": 258,
+      "ddpg": 363
+    },
+    "remaining_ours": 85,
+    "evidence": "outputs/public13_voltage_magnitude_analysis_20261029/Independent_Arithmetic_Check.json",
+    "historical_strict_scores_preserved": true,
+    "LLM_superiority": false
+  },
+  "next_physical_mechanism": "outputs/remaining85_mechanism_review_20261029/Prospective_Launch_Gates.json",
+  "latest_diagnosis": "All85 rejected candidates violate a previously normal bus despite affine predicted guard satisfaction.81UV/4OV. Prediction error dominates rounding; no new performance claim.",
+  "nonlinear_adapter": "work/remaining85_nonlinear_kernel_20261029.py",
+  "nonlinear_readiness": "All500 initial inputbindings independentlyPASS; equations/Jacobians/wrapper/mockpreservation gatesPASS; firstactual2stageproposalPASS. Full receding worker/current-state continuoushistory/cost/clock/cache/replay integration still missing.",
+  "current_LLM_readiness": "Causal LLM goal remains unachieved. No new model study ready; common118 environment/reward/splits/actor versusqueryhistory/controls/source and loader gates remain.",
+  "GPU_readonly_evidence": "outputs/colab_eligibility_readonly_20261029/Results.json",
+  "GPU_limits": "All3 profiles eligibleT4 with0assignments at08:27UTC; no free-hour/reset/lifetime guarantee or fallback after denial.",
+  "usage_observation": {
+    "usedPercent": 74,
+    "remainingPercent": 26,
+    "ordinaryUsageAllowed": true,
+    "not_a_reset_prediction": true
+  },
+  "next_ordered_actions": [
+    "Leave current source/settings/bounds unchanged. Never duplicate/restart this owner or its one pinned first reader.",
+    "Sole coordinator follows actual closed primary termination with one partial-aware saved-evidence reader; inspect actual EndACK/Result/Manifest/IndependentAudit/Completion at terminal.",
+    "Missing identities and partial/failure costs remain UNKNOWN/retained; no automatic new physics, extension or performance rollout.",
+    "Finish all500 historical THEORY source-lineage DOCX integration and all4-root component ledger in parallel.",
+    "Publish compact own source/proofs/current resume with fresh GitHub lease and exact downloaded-byte verification.",
+    "Only if the actual live result is the sole ready dependency, schedule one estimated check and delete it at terminal."
+  ],
+  "standing_constraints": "Preserve frozen original model/network/controller/settings/locked62bank, all adverse/partial/UNKNOWN, literal DFF+DFFALT+unchanged DSE with full BOTH/model/training/preparation/failure costs. No guaranteed winner, scientific retries, favorable worlds, quota evasion, purchases or fallback after denial.",
+  "latest_exact_execution_state": "outputs/parallel_evidence_checkpoint_20261030/Exact_Resume.json",
+  "nonlinear_first_proposal": {
+    "primary": "outputs/nonlinear13_first_proposal_execution_20261029/Result.json",
+    "independent": "outputs/nonlinear13_first_proposal_independent_20261029/Independent_Audit.json",
+    "status": "COMPLETE_ADMITTED_FIRST_NUMERICAL_PROPOSAL_ONLY",
+    "actual_optimizer_returns": 2,
+    "native_SLSQP_calls": 18,
+    "all70_calculation_returns_verified": true,
+    "max_algebra_difference": 7.105427357601002e-15,
+    "actual_control_commits": 0,
+    "model_PF_GPU_calls": 0,
+    "first_seed0_proposal_must_be_reused_not_rerun": true
+  },
+  "nonlinear_initial_input_evidence": "outputs/nonlinear500_input_binding_independent_20261029/Independent_Audit.json",
+  "nonlinear_current_state_limits": "outputs/nonlinear13_current_state_independent_review_20261029/Independent_Review.json",
+  "paid_history_registry": "outputs/nonlinear500_paid_registry_20261029/Result.json",
+  "paid_history_review": "outputs/nonlinear500_paid_registry_independent_20261029/Independent_Review.json",
+  "paid_lookup_source": "work/nonlinear500_paid_lookup_v2_20261029.py",
+  "first_saved_physics_join": "outputs/nonlinear13_first_proposal_paid_join_v2_20261029/Result.json",
+  "first_saved_physics_join_limits": "Exact already-paid firstaction,12UVto12UV/0OV,guardPASS,predictionerror2.7034293692551614e-9. No new physics,actualcommit,trajectory or restorationgain.",
+  "common118_DFF_history": "outputs/common118_history_recovery_20261029/Result.json",
+  "common118_history_limits": "All33 DFFselected-action prefixes recovered29commits; internalcandidate rejectionsunknown29states, futurelearnedactorhistoriesunknown. No newlearnedpolicyadmission.",
+  "today_new_verified_evidence": [
+    "Bounded E1-E6 controller repairs and exact initial typed state reuse independently reviewed",
+    "Numerical custody, independent saved-math/acquisition readers, bounded owner/handoff source checks passed; prospectiveall500 protocol frozen, final review pending",
+    "T13 source grouping recovered196rows and215printed occurrences/60rows; historical4396membership/train-test remainUNKNOWN"
+  ],
+  "actual_saved_cursor_limits": [
+    "before_vm null in preserved old fixture; current engine uses current_vm.",
+    "Old shape_hash scalar type claim overstated; new synthetic engine checks distinguish bool/int/float.",
+    "PF3 historical primary timer0.0470000000204891seconds and independent timer0.0 recovered; zero reading is not free. Full runtime/clock/RNG restore not certified."
+  ],
+  "verified_GitHub_receipt": "outputs/receding_preparation_checkpoint_20261029/Verified_GitHub_Receipt.json",
+  "last_verified_GitHub": "9975917a60c65bdc515d3c644e1b2aad46410168",
+  "publication_updated_at_utc": "2026-10-29T10:04:41.7908112Z",
+  "latest_verified_GitHub": "9975917a60c65bdc515d3c644e1b2aad46410168",
+  "new_work_publication": "Compact publication being finalized; raw data/weights/full DOCX stay local.",
+  "pause_requested_by_human": false,
+  "automatic_continuation_allowed": true,
+  "goal_tool_transition": "Earlier requested pause revoked by direct human resumption; actual goal is active.",
+  "previous_goal_turn_classification": "Substantive implementation progress, not blocked",
+  "current_agents": {
+    "remaining85_mechanism": "Remaining thesis T01/T29 evidence review",
+    "citation_reconciliation": "Additive DOCX evidence update",
+    "completion_criteria_review": "Final prospective protocol review"
+  },
+  "latest_review": {
+    "path": "outputs/nonlinear13_receding_engine_independent_review_20261029/Review.json",
+    "sha256": "f7d50184c6750082d3858b8bbd38186895ddc3ce4c736238855c5b7ea84fa3d6",
+    "status": "CHANGES_REQUIRED_TWO_EXECUTABLE_PAID_PATH_DEFECTS_AND_BOUNDED_SEMANTIC_GAPS"
+  },
+  "latest_review_publication": "Local saved; not included in last published compact snapshot. Publish with next authorized research update.",
+  "actual_goal": "ACTIVE",
+  "original_attempt": {
+    "source": "work/run_nonlinear500_receding_acquisition_20261030.py",
+    "status": "SETUP_FAILURE_BEFORE_OWNER_CLAIM_OR_SCIENTIFIC_ENTRY",
+    "cause": "Missing psutil in original physics environment",
+    "new_scientific_calls": 0,
+    "all_500_scientific_identities": "UNENTERED",
+    "original_authenticated_chain_end": "UNKNOWN_UNCLAIMED",
+    "original_logs_preserved": "outputs/nonlinear500_receding_acquisition_coordination_20261030",
+    "independent_diagnosis": "outputs/nonlinear500_acquisition_setup_failure_20261030/Independent_Diagnosis.json",
+    "fresh_source_absence": "outputs/nonlinear500_acquisition_setup_failure_20261030/Fresh_Terminal_Source_Absence.json",
+    "restart_permitted": false
+  },
+  "isolated_runtime": {
+    "certificate": "outputs/nonlinear500_actual_runtime_admission_20261030/Result.json",
+    "status": "PASS_NEW_ACTUAL_RUNTIME_IMPORT_PROCESS_CLOCK_ADMISSION_ONLY",
+    "package": "psutil==7.2.2",
+    "isolated_directory": "work/owner_runtime_dependencies_20261030",
+    "original_environment_modified": false,
+    "actual_imports_clock_process_and_argv": "PASS",
+    "scientific_calls": 0,
+    "setup_costs": {
+      "pip_cached_wheel_copy_tool_seconds": 6.9392261,
+      "pip_isolated_install_tool_seconds": 2.3279989,
+      "actual_runtime_check_seconds": 14.98399999999674
+    },
+    "scope": "Dependency and runtime readiness only; no performance result."
+  },
+  "current_thesis": {
+    "path": "outputs/thesis_component_attribution_update_20261030/Hannaan_Thesis_Component_Attribution_Updated_20261030.docx",
+    "sha256": "9a0c098ea173ab079669836b21b8d05857a31fa15a450801d018baf5f6f4c7ec",
+    "bytes": 8413363,
+    "title": "Evaluating Language Model Assistance for Power System Knowledge and Voltage Control",
+    "contents": "Recovered source grouping, all500 historical THEORY QA lineage and all4-root component execution ledger.",
+    "references": 71,
+    "tables": 24,
+    "inline_figures": 22,
+    "PAGEREF_fields": 58,
+    "sections": 3,
+    "independent_content_review": "outputs/thesis_component_parent_review_20261030/Review.json",
+    "visual_layout_review": "NOT_PERFORMED_NO_PDF_OR_SCREEN_BY_USER_DIRECTION",
+    "supervisor_title_approval": "DEFERRED_TO_USER_NOT_APPROVED"
+  },
+  "goal": "ACTIVE",
+  "primary_live": true,
+  "coordinator_live": true,
+  "actual_primary": {
+    "actual_pid": 2932,
+    "parent_pid": 2940,
+    "source_sha256": "d15ebfa20d17a578bb1cc91851a44cecbc0d25e86c7109fbb7ee55cc6a646e3d",
+    "actual_argv": [
+      "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_nonlinear500_receding_acquisition_v3_20261030.py"
+    ],
+    "protocol_ref": {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_execution_20261030/Runtime_Protocol.json",
+      "sha256": "cbe5e2a8a5ff405f5fee9982d7fdb94675545efd5e93823915f4a98faa919418"
+    },
+    "owner_started_monotonic": 372466.828,
+    "original_deadline_monotonic": 379666.828,
+    "clock_domain": {
+      "host": "DESKTOP-P5NN990",
+      "boot_time_unix": 1792995485.1976688,
+      "monotonic_implementation": "GetTickCount64()"
+    },
+    "at_utc": "2026-10-30T13:45:53.467044+00:00"
+  },
+  "actual_bound_ACK": {
+    "actual_pid": 2932,
+    "actual_parent_pid": 2940,
+    "actual_command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_nonlinear500_receding_acquisition_v3_20261030.py",
+    "parent_command": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\physics_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_nonlinear500_receding_acquisition_v3_20261030.py",
+    "fresh_exact_source_PID_parent_command": true,
+    "at_utc": "2026-10-30T13:46:01.015135+00:00",
+    "protocol_sha256": "cbe5e2a8a5ff405f5fee9982d7fdb94675545efd5e93823915f4a98faa919418",
+    "campaign_id": "nonlinear500_receding_acquisition_v3_20261030",
+    "actual_argv": [
+      "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_nonlinear500_receding_acquisition_v3_20261030.py"
+    ],
+    "clock_domain": {
+      "host": "DESKTOP-P5NN990",
+      "boot_time_unix": 1792995485.1976688,
+      "monotonic_implementation": "GetTickCount64()"
+    },
+    "owner_started_monotonic": 372466.828,
+    "absolute_deadline_monotonic": 379666.828,
+    "original_deadline_monotonic": 379666.828,
+    "numerical_acquisition_authorized": true,
+    "frozen_preparation_protocol": {
+      "path": "outputs/nonlinear500_receding_acquisition_v3_preparation_20261030/Protocol.json",
+      "sha256": "1e71232539b687b6fbdfb727d81aef770143c520cf0b6fa2ed5c77403ad0d742"
+    }
+  },
+  "actual_coordinator": {
+    "actual_pid": 11808,
+    "parent_pid": 13180,
+    "source_sha256": "25c263192aeee4056a0f43b9d9525d6b32f793711452b3cfe72863a64d8fe9ef"
+  },
+  "actual_processes": [
+    {
+      "ProcessId": 13180,
+      "ParentProcessId": 25496,
+      "CommandLine": "\"C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\physics_env\\Scripts\\python.exe\" -X utf8 work/coordinate_nonlinear500_receding_acquisition_v3_20261030.py"
+    },
+    {
+      "ProcessId": 11808,
+      "ParentProcessId": 13180,
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/coordinate_nonlinear500_receding_acquisition_v3_20261030.py"
+    },
+    {
+      "ProcessId": 25576,
+      "ParentProcessId": 11808,
+      "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\physics_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\coordinate_acquisition_source_bound_owner_20261030.py --protocol outputs\\nonlinear500_receding_acquisition_v3_preparation_20261030\\Primary_Owner_Protocol.json"
+    },
+    {
+      "ProcessId": 24296,
+      "ParentProcessId": 25576,
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\coordinate_acquisition_source_bound_owner_20261030.py --protocol outputs\\nonlinear500_receding_acquisition_v3_preparation_20261030\\Primary_Owner_Protocol.json"
+    },
+    {
+      "ProcessId": 2940,
+      "ParentProcessId": 24296,
+      "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\physics_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_nonlinear500_receding_acquisition_v3_20261030.py"
+    },
+    {
+      "ProcessId": 2932,
+      "ParentProcessId": 2940,
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\run_nonlinear500_receding_acquisition_v3_20261030.py"
+    }
+  ],
+  "exec_session_id": 65202,
+  "frozen_protocol": "outputs/nonlinear500_receding_acquisition_v3_preparation_20261030/Protocol.json",
+  "source_protocol_sha256": "1e71232539b687b6fbdfb727d81aef770143c520cf0b6fa2ed5c77403ad0d742",
+  "final_independent_readiness": "outputs/nonlinear500_receding_acquisition_v3_source_preparation_20261030/Final_Prospective_Protocol_Review.json",
+  "actual_HOST_admission": "outputs/nonlinear500_frozen_v3_host_admission_20261030/Result.json",
+  "science_seconds": 7200,
+  "reader_seconds": 7200,
+  "process_seconds": 7500,
+  "original_deadline_monotonic": 379666.828,
+  "registered_cases": 500,
+  "case_order": "0..499 unchanged",
+  "horizon": 100,
+  "new_PF_model_GPU_training_entry_enabled": false,
+  "numerical_costs": "Actual live journals; final counts and evidence pending independent reader. Counts are not completion.",
+  "physical_rule": "Reuse only exact verified old paid receipts. Missing/unsafe/unclosed paths UNKNOWN; no new PF or whole500 performance claim from acquisition.",
+  "first_paid_numerical_proposal": "Mandatory old receipt reuse; no repeated first computation.",
+  "old_v1_failure": "Missing dependency; independent zero-science diagnosis and unknown unclaimed original chain retained.",
+  "old_v2_failure": "Runtime source read access denied; independent zero-science diagnosis and unknown unclaimed original chain retained.",
+  "access_repair": "Only public isolated dependency read/execute access for HOME corrected; source bytes/original scientific environment unchanged. Initial partial ACL repair and failed HOST inventory check retained.",
+  "parallel_evidence": {
+    "thesis_independent_prose_review": "outputs/thesis_evidence_updates_independent_prose_20261030/Review.json",
+    "RAG500_source_match": "outputs/rag500_source_membership_recovery_20261030/Aggregate_Findings.json",
+    "RAG500_ambiguity": "outputs/rag500_source_membership_recovery_20261030/Content_Identity_Clarification.json",
+    "T05": "All4-root per-commit descriptive attribution ledger in preparation; no causal claim."
+  },
+  "active_scientific_resume": "outputs/nonlinear500_v3_live_checkpoint_20261030/Exact_Resume.json",
+  "verified_parallel_findings": {
+    "RAG500": {
+      "questions": 500,
+      "distinct_printed_questions": 500,
+      "all500_have_exact_THEORY_question_reference_match": true,
+      "THEORY_question_occurrences": 575,
+      "THEORY_exact_QA_occurrences": 511,
+      "unique_exact_QA_identity_cases": 489,
+      "duplicate_exact_QA_identity_cases": 11,
+      "questions_with_alternative_corpus_answers": 46,
+      "NERC_cross_corpus_exact_QA_cases": 4,
+      "runtime_index_training_split_and_99percent_accuracy": "UNKNOWN",
+      "evidence": "outputs/rag500_source_membership_recovery_20261030/Content_Identity_Clarification.json"
+    },
+    "T05": {
+      "cases": 4,
+      "commits": 102,
+      "HGVF": {
+        "direct": [
+          51,
+          132,
+          4
+        ],
+        "guided": [
+          13,
+          38,
+          1
+        ],
+        "fallback": [
+          9,
+          30,
+          3
+        ],
+        "total": [
+          73,
+          200,
+          8
+        ]
+      },
+      "DFF_alternative": [
+        29,
+        175,
+        8
+      ],
+      "tuple_schema": [
+        "commits",
+        "net_recorded_UV_reduction",
+        "net_strict_OV_change"
+      ],
+      "each_branch_initial_OV": 3,
+      "each_branch_final_OV": 11,
+      "causal_benefit": "NOT_ESTABLISHED",
+      "per_component_costs": "UNKNOWN",
+      "full_branch_and_interrupted_cost_refs_retained": true,
+      "evidence": "outputs/original118_component_ledger_20261030/Results.json"
+    },
+    "independent_review": "outputs/parallel_lineage_component_independent_20261030/Compact_Review.json",
+    "G4": "outputs/G4_next_comparison_gap_review_20261030/Gap_And_Admission_Note.json",
+    "future_frontier_design": "outputs/native13_first_missing_frontier_design_20261030/Prospective_Design.json"
+  },
+  "actual_new_numerical_result": "LIVE_ACQUISITION_NOT_INDEPENDENTLY_CLOSED; no new full500 performance or LLM claim.",
+  "title_approval_user_decision": "outputs/parallel_evidence_checkpoint_20261030/User_Title_Approval_Deferral.json"
+}
