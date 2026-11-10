@@ -1,0 +1,11 @@
+{
+  "single_owner": {
+    "source": "work/g5_disabled_frontier_20261109/reader.py",
+    "sha256": "06fa3702b363e145cc3ab77293ab76db2cec8277c2f54ce874b5bf4be05a5224",
+    "output": "outputs/g5_disabled_frontier_20261109/reader",
+    "coordination": "outputs/g5_disabled_frontier_20261109/reader_coordination",
+    "python": "work/vcsa_module_env/Scripts/python.exe",
+    "bound_seconds": 150
+  },
+  "require_ended_claims": []
+}

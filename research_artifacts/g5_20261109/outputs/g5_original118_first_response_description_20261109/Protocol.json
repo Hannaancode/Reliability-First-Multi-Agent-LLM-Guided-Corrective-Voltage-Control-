@@ -1,0 +1,19 @@
+{
+  "scope": "ALL4 fixed first responses, enabled inherited and disabled newly closed; cold replica excluded from denominator",
+  "parser": "Unchanged original extract_json -> normalize_action -> validate_action_against_candidates; no repair or reprompt",
+  "outcomes": [
+    "raw_text",
+    "parsed",
+    "normalized_action",
+    "parse_valid",
+    "parse_error",
+    "valid_action",
+    "valid_reason"
+  ],
+  "no_performance_gate_or_physical_claim": true,
+  "source_hashes": {
+    "work\\original_reflection_serving_pure_20261022.py": "922b79fee994b4edb876928d5d5ca54857853bd95ac61d0ea669978567d38faf",
+    "work\\g5_original118_numeric_proposal_preparation_20261109\\direct_slot_contract.py": "36bef0f797cb2cf8b6a41392779ef9a4705cebdacf76e4939f1f0b3433905f0a"
+  },
+  "audit_sha256": "0e95827de12832d26cc7808783c72c74bfcc3409a29d9c4e4635676a721f21f4"
+}

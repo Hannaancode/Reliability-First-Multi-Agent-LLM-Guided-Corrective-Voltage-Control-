@@ -1,0 +1,42 @@
+{
+  "status": "NO_SPECIFIC_KNOWN_PRIOR_MATCH_IN_DECLARED_TREATMENT_ROSTER_NOT_UNIVERSAL_ABSENCE",
+  "new_identity": "Pinned actual2026 original118 base/quantized runtime, private adapter disabled on every autoregressive generation forward, four exact registered initial token sequences, fixed original384-token greedy generation. The fifth call is an explicitly planned paid cold replica of the first.",
+  "declared_finite_roster": [
+    {
+      "class": "Six closed original118 enabled serving hosts",
+      "evidence": "Original_Enabled_Runtime_Binding.json and the already independently verified465-record six-host request history",
+      "actual_logical_requests": 459,
+      "actual_cold_replicas": 6,
+      "treatment": "Actual saved enabled layer-state flags and common immutable model inventory; source enforces enabled state and never enters a disabled context around generation.",
+      "disposition": "Different treatment from the proposed disabled arm. Their enabled responses and full endpoints remain paid/reused as enabled evidence only, never as disabled answers."
+    },
+    {
+      "class": "Named stopped native13 adapter-disabled diagnostic",
+      "source": "work/run_native13_adapter_disabled_remote_20261021.py",
+      "input_source": "outputs/native13_adapter_disabled_diagnostic_preparation_20261021/All6_Messages_And_Token_IDs.json",
+      "actual_generation_scope": "Six original native13 primary contexts and six cold counterparts; no new calls in this preparation.",
+      "exact_token_matches_to_new_four": 0,
+      "disposition": "Exact saved input-token sequences differ for every pair. Preserve its stopped0/6 valid result; no native13 inference or study is repeated."
+    },
+    {
+      "class": "Two older security pilot roots,24 trials and156 generation calls",
+      "source": "work/security/run_gpu_development.py",
+      "source_sha256": "a3a137b7c0ef8e231df32bb7a342e0ff9902a600a77e0c19dc4ad6e31cc4e9d4",
+      "source_bound_prior_review": "outputs/security_pilot_serving_domain_source_assessment_20261102/Source_Assessment.json",
+      "source_treatment": "Loads the original private adapter through FastLanguageModel.from_pretrained and for_inference, then calls its generation wrapper; inspected source has no disabled-adapter context. Retrieval_off means retrieval off, not LoRA off.",
+      "actual_runtime_limit": "Saved per-call tensor token IDs and enabled/disabled layer-state assertions are not recovered for these pilots. Source intent is not promoted to an independently observed activation-state proof.",
+      "disposition": "No specific matching disabled original118 generation is identified. Keep the older actual-input/mode uncertainty disclosed; neither different raw message text nor default loading intent is a universal no-repeat certificate. No pilot rerun is proposed."
+    },
+    {
+      "class": "Previously reviewed teacher adaptation and frozen encoder studies",
+      "evidence": "outputs/f118_actual_completion_handoff_20261022/Verified_Results_And_Costs.json and existing matched-scale closure",
+      "disposition": "Frozen encoder feature forwards are not autoregressive generation identities. Adapted public-model checkpoints are different weights/treatments. Their source-defined stopped interventions remain stopped; none licenses repeating its original call. No broad old training/encoder archive scan or inferred token disjointness was performed."
+    }
+  ],
+  "specific_old_matching_token_base_mode_generation_identified": false,
+  "all_historical_generations_exhaustively_known": false,
+  "no_repeat_admission_interpretation": "The parent specifies finite known relevant treatments and requests, not an impossible universal absence theorem. Unresolved older domains remain limitations. If a specific matching or unresolved exact identity is found before entry, stop and preserve it; do not silently repeat it or use another account.",
+  "engineering_only": "This supports reviewing the new four-plus-one original-role attribution diagnostic. It does not admit a full trajectory, prove causal superiority, remove future paid physical-history checks, or imply the original paper base revision is recovered.",
+  "new_model_tokenizer_native_PF_optimizer_network_calls": 0,
+  "old_audits_or_archives_rerun": 0
+}

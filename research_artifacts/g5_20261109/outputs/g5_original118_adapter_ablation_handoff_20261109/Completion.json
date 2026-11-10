@@ -1,0 +1,16 @@
+{
+  "status": "TERMINAL_REVIEW_ACTUAL_ROLE_RESULTS",
+  "roles": {
+    "Primary": {
+      "exit_code": 0,
+      "at_utc": "2026-11-09T11:51:11.284940+00:00"
+    },
+    "Reader": {
+      "exit_code": 0,
+      "at_utc": "2026-11-09T11:51:19.790825+00:00"
+    }
+  },
+  "no_science_retry": true,
+  "new_model_PF_optimizer_calls_by_coordinator": 0,
+  "at_utc": "2026-11-09T11:51:19.863640+00:00"
+}

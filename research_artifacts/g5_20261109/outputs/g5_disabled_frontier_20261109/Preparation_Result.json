@@ -1,0 +1,12 @@
+{
+  "status": "PREPARED_ONLY",
+  "protocol_ref": {
+    "path": "outputs/g5_disabled_frontier_20261109/Protocol.json",
+    "bytes": 7514,
+    "sha256": "66c4f53cd1b9daaf2bc85efd71a8283e722f8febddbd07780d1f0a48c132858f"
+  },
+  "bridge_checks": 14,
+  "new_native_model_PF_controller_calls": 0,
+  "workflow_seconds": 1.737839600071311,
+  "independent_source_gate_needed": true
+}

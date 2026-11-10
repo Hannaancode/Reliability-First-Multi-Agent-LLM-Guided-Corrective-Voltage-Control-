@@ -1,0 +1,309 @@
+{
+  "status": "COMPLETE_NEW_CAUSAL_SCHEMA_JOIN_NO_FIT_NO_EXACT_CHRONOLOGICAL_DATA_ADMISSION",
+  "scope": "All saved original TRAIN records joined to prior audited identities; old population counts, world split, tokenization and performance audits reused, never rerun.",
+  "original_population_reused": {
+    "FIT_worlds": 85,
+    "HELD_worlds": 24,
+    "components": 107,
+    "FIT_pairs": 340,
+    "HELD_pairs": 96,
+    "HELD_unique_inputs": 92,
+    "HELD_nonnull_pairs": 72,
+    "all_rows": 16000,
+    "all_world_pairs": 436,
+    "all_unique_inputs": 432,
+    "shared_FIT_HELD_inputs": 0,
+    "shared_FIT_HELD_F32_matrix_inputs": 0,
+    "unknown_HELD_encoding_symbols": [],
+    "encoding_collisions": {
+      "fit_f64": 0,
+      "held_f64": 0,
+      "fit_tree_f32": 0,
+      "held_tree_f32": 0
+    },
+    "contradictory_matrix_action_classes": {
+      "fit_f64": 0,
+      "held_f64": 0,
+      "fit_tree_f32": 0,
+      "held_tree_f32": 0
+    },
+    "FIT_action_classes": 24,
+    "HELD_unseen_action_pairs": 4,
+    "conflicting_exact_inputs": 0,
+    "coordinator_HELD_rows_descriptive_only": 228
+  },
+  "materialized_raw_ref": {
+    "path": "work\\e\\training_provenance\\zone_agent_train.jsonl",
+    "bytes": 112587174,
+    "sha256": "7b22162d0abd92ccb64473fcef5bb300ee12416ce22ea6ce03e60fefaa9154eb"
+  },
+  "new_join_identity_matches": 16000,
+  "user_schema_signatures": [
+    {
+      "user_fields": [
+        "local_measurements",
+        "scenario_id",
+        "scenario_type",
+        "severity",
+        "zone"
+      ],
+      "local_fields": [
+        "boundary_voltages",
+        "bus_voltages",
+        "gen_status",
+        "sgen_status",
+        "storage_status",
+        "tie_line_flows",
+        "total_load_mvar",
+        "total_load_mw"
+      ],
+      "multiplicity": 16000
+    }
+  ],
+  "distinct_original_input_message_hashes": 436,
+  "distinct_system_message_hashes": 4,
+  "history_feedback_step_fields_found": [],
+  "assistant_only_fields": {
+    "state_summary": 16000,
+    "fault_detected": 16000,
+    "zone": 16000,
+    "min_voltage_pu": 16000,
+    "max_voltage_pu": 16000,
+    "n_undervoltage": 16000,
+    "n_overvoltage": 16000,
+    "proposed_action": 16000,
+    "verification": 16000,
+    "confidence": 16000,
+    "candidate_action_for_coordinator": 845,
+    "requires_coordinator_review": 845,
+    "autonomous_local_action_allowed": 845
+  },
+  "assistant_only_verification_fields": {
+    "verdict": 16000,
+    "reason": 3882,
+    "old_global": 12963,
+    "old_local_min_v": 845,
+    "trials": 845,
+    "original_verdict": 845,
+    "best_local_candidate_trial": 845,
+    "action_schema_note": 12118,
+    "new_global": 12118,
+    "selected_trial": 12118,
+    "n_trials": 12118
+  },
+  "current_voltage_schema": {
+    "all_worlds_have_four_nonoverlap_zone_packets": true,
+    "worlds_with_all118_saved_bus_voltages": 105,
+    "incomplete_worlds": [
+      {
+        "world_sha256": "73a92522c0effc5099888f1935846a933d40fbc4f7c96cb5df8563f34270e1d4",
+        "missing_bus_fields": [
+          116
+        ]
+      },
+      {
+        "world_sha256": "8472524527232f0d16deac65793f7e122f67c1991eac9c4ccca561955141e7b8",
+        "missing_bus_fields": [
+          116
+        ]
+      },
+      {
+        "world_sha256": "c3f3a5da91168cf7567428469866f94048323e4c43a2a128107881e38db6730a",
+        "missing_bus_fields": [
+          116
+        ]
+      },
+      {
+        "world_sha256": "ef4cceefc8af4c476fb5110ee60103c1e37efbfc04449583a209a3cc9f977ba6",
+        "missing_bus_fields": [
+          116
+        ]
+      }
+    ],
+    "current_only_projection_admission": "Conditional source projection only; missingbus neverzeroimputed, native/simultaneous history binding remainsunknown",
+    "lowest8_cutoff_tie_pairs": 0,
+    "minimum_tie_pairs": 0,
+    "precision": "Use recorded numbers exactly; this does not prove identity to the unrecorded full-precision NET or a simultaneous chronological state."
+  },
+  "label_dispositions_all_pairs_and_multiplicities": {
+    "NULL_WITH_GLOBAL_UV": 101,
+    "NULL_WITH_GLOBAL_UV_multiplicity": 3732,
+    "LEGAL_OBSERVED_SINGLE_TEACHER_CHOICE": 331,
+    "LEGAL_OBSERVED_SINGLE_TEACHER_CHOICE_multiplicity": 12118,
+    "SOURCE_SKIPPED_GLOBAL_ZERO": 4,
+    "SOURCE_SKIPPED_GLOBAL_ZERO_multiplicity": 150
+  },
+  "observed_positive_Q_pair_counts": {
+    "150.0": 151,
+    "25.0": 31,
+    "100.0": 91,
+    "75.0": 22,
+    "50.0": 36
+  },
+  "original_Q_grid": [
+    25,
+    50,
+    75,
+    100,
+    125,
+    150,
+    200,
+    250,
+    300
+  ],
+  "Q_without_positive_teacher_example": [
+    125,
+    200,
+    250,
+    300
+  ],
+  "all_current_catalog_candidate_pairs": 37152,
+  "aliases_existing_connected_components": [
+    {
+      "component_sha256": "1941acc0893c991a347b8259a2fd8fcd343bf538f955089627e1225ea355979f",
+      "worlds": [
+        {
+          "world_sha256": "6ebb860d1a5745dc0362bb9887c0e120f1a1d61090cd29cc2758543bb0d914ff",
+          "scenario_ids": [
+            "fed_combined_load_1p35_line_92_MG2"
+          ]
+        },
+        {
+          "world_sha256": "cee1301a0de772e758b9bc0cf142d8820d99c10ba33603c45b9d8d2f813c5834",
+          "scenario_ids": [
+            "fed_combined_load_1p35_line_91_MG2"
+          ]
+        }
+      ]
+    },
+    {
+      "component_sha256": "2648bb035b491f939e9bba5dba122b16081c55481467f39b3040bcb2531e59d8",
+      "worlds": [
+        {
+          "world_sha256": "303fad315354d01991aa627d93c3c3509a518eaa7e439f523375ec9db789a094",
+          "scenario_ids": [
+            "fed_combined_load_1p5_line_92_MG2"
+          ]
+        },
+        {
+          "world_sha256": "5d8d1d6fbd54cb69da38e305f170fb7bc588d4d1011b4070f8921b25c4fd133a",
+          "scenario_ids": [
+            "fed_combined_load_1p5_line_91_MG2"
+          ]
+        }
+      ]
+    }
+  ],
+  "four_current_engineering_root_membership": [
+    {
+      "case_id": "fed_combined_load_1p5_line_35_MG1",
+      "training_world_name_match": true,
+      "saved_partition": "FIT",
+      "claim": "Name membership only; not same native state or unused confirmation."
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_36_MG1",
+      "training_world_name_match": true,
+      "saved_partition": "HELD",
+      "claim": "Name membership only; not same native state or unused confirmation."
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "training_world_name_match": true,
+      "saved_partition": "FIT",
+      "claim": "Name membership only; not same native state or unused confirmation."
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_127_MG3",
+      "training_world_name_match": false,
+      "saved_partition": null,
+      "claim": "Name membership only; not same native state or unused confirmation."
+    }
+  ],
+  "causal_field_join": [
+    {
+      "field": "zone, local min/max/counts/UV map/lowest8 and candidate domain",
+      "admission": "Reconstructible from saved local voltages and source zone/anchor constants; existing source tie rules remain, no native call needed."
+    },
+    {
+      "field": "global current UV map/count and severity instruction",
+      "admission": "Four saved zone packets can supply a static world union. This is extra training context compared with original zone-only SFT; do not call it byte-identical shared training information. Simultaneous state/source binding remains required."
+    },
+    {
+      "field": "failed-short and candidate-filtered chronological verifier feedback, prior operations/stock",
+      "admission": "Absent from all original user records. Absence is not proof that a historical prefix is empty; cannot synthesize later Reflection states or outcomes."
+    },
+    {
+      "field": "format-repair request error and attempted malformed answer",
+      "admission": "Not supplied by static SFT records. Exact first-prompt data cannot silently become repair-prompt training."
+    },
+    {
+      "field": "assistant verification/summary/confidence/coordinator fields",
+      "admission": "Teacher-side labels, not causal actor input; no global observations or physical rewards may be extracted from these as if observed at the input."
+    },
+    {
+      "field": "scenario id/type/severity",
+      "admission": "Grouping/provenance only for the new direct control. The source Reflection messages omit these administrative fields; do not feed them to the predictor."
+    }
+  ],
+  "candidate_conditioned_tree_verdict": {
+    "exact_original_chronological_imitation_dataset_ready": false,
+    "pure_demonstration_indicator_possible": "For each preserved record and source-legal candidate, selected-by-this-teacher is a defined categorical fact; a nonselection indicator is not a measured unsafe action, bad reward, or inferior physical action.",
+    "genuine_method_choice": "A named demonstration-agreement ranker could preserve every record and an explicit NULL teacher class, with class/multiplicity/world weighting declared before fit. At source-forced-positive inference it could condition on the legal positive catalog, just as the original prompt forces the old SFT model. This is a new constrained-decoding adaptation, not exact historical prompt reproduction or proven strong control.",
+    "no_silent_rescue": "Do not drop null-with-globalUV rows, invent their best positive action, fill missing histories with empty, or label unqueried actions as physical failures/rewards. No positive examples exist for all nine Q classes; scoreability is not learned support.",
+    "complete_population_preserved": true
+  },
+  "preserved_first_metadata_failure": {
+    "path": "outputs/g5_original118_training_schema_join_20261109/Preserved_First_Metadata_Failure.json",
+    "bytes": 527,
+    "sha256": "f306bf71d04d21be1d4a8d63fc17e066ec4a8a685849b7fc771d3a51cb507860"
+  },
+  "smallest_next_data_operation": "Before any fit, bind the original TRAIN generator snapshot construction/zone-message provenance to the existing109 four-zone records. Then, as one metadata-only operation, materialize all436 static-current projections including all missingbus/chronology/null dispositions with explicit unavailable-history flags and original teacher/null classes, retaining16000 multiplicities and old107 connected-component grouping. Freeze whether this named static demonstration-agreement target is the intended numeric control; do not claim those projections are exact chronological Reflection messages. If exact chronological training is required, an already-paid complete source-bound prefix/feedback join is necessary and must keep evaluation roots out of unused confirmation.",
+  "new_calls": {
+    "native": 0,
+    "PF": 0,
+    "model": 0,
+    "tokenizer": 0,
+    "fit": 0,
+    "old_audit_or_scoring_rerun": 0
+  },
+  "source_refs": [
+    {
+      "path": "work/e/audit/run_reflection_v4_safety_envelope.py",
+      "bytes": 34373,
+      "sha256": "d4b329413c91a64828ced63a0554d67e4f70d46726fc8c3ba3556d8714d9e81e"
+    },
+    {
+      "path": "work/e/audit/phase2g_llm_guided_rescue_runner.py",
+      "bytes": 20685,
+      "sha256": "e81270c556d13eab830b76136ef49cd27a5563ed8d1de92344bdd8a37ea09028"
+    },
+    {
+      "path": "work/e/audit/phase2g_rescue_runner.py",
+      "bytes": 22032,
+      "sha256": "6e2f33faf63c3e6d314680455f478e63102f6361453b43c9a454022a832b84ed"
+    },
+    {
+      "path": "work/e/pack/testbeds/federation_4mg_ieee118_metadata.json",
+      "bytes": 7050,
+      "sha256": "e63d8296ae50a7454a9c239013a0a13ede92aea2ce76de496ea4e9b704e5921a"
+    },
+    {
+      "path": "work/run_original_role_numeric_gate_20261011.py",
+      "bytes": 23618,
+      "sha256": "848eacf85070652756935c5a23afe259317447df56c3769658946fd6e1d0b830"
+    },
+    {
+      "path": "outputs/critical_research_reset_20261010/original_role_numeric_gate_20261011/execution/All_Row_Identities.json",
+      "bytes": 5240452,
+      "sha256": "de2ab5010d40b4aa6c9dfdb9b5e7357daaa32ad66490b73ca18b0211d060a21d"
+    },
+    {
+      "path": "outputs/critical_research_reset_20261010/original_role_numeric_gate_20261011/execution/World_Components.json",
+      "bytes": 22409,
+      "sha256": "0c5464464abda9495d26d06113c4fa4ee8a85446dad759e4f4ebb0ad3ecbe8e8"
+    }
+  ],
+  "elapsed_metadata_seconds": 9.741172199952416,
+  "G5_or_benchmark_complete": false
+}

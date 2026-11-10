@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "checks": [
+    "exact_raw_primary_0",
+    "cold_paid_cursor_0",
+    "unmeasured_stops_0",
+    "exact_raw_primary_1",
+    "cold_paid_cursor_1",
+    "unmeasured_stops_1",
+    "exact_raw_primary_2",
+    "cold_paid_cursor_2",
+    "unmeasured_stops_2",
+    "exact_raw_primary_3",
+    "cold_paid_cursor_3",
+    "unmeasured_stops_3",
+    "enabled_treatment_rejected",
+    "changed_causal_message_rejected"
+  ],
+  "count": 14,
+  "new_native_controller_model_PF_tokenizer_calls": 0,
+  "scope": "New paid-response bridge only; no old audits rerun"
+}

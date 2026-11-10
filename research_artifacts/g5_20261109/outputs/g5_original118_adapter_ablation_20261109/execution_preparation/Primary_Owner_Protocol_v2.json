@@ -1,0 +1,11 @@
+{
+  "single_owner": {
+    "source": "work/g5_original118_adapter_ablation_20261109/host_v2.py",
+    "sha256": "c1b4682302e240099b404e2a0fded74b6bc9c0db29a92db34d9064dceb09f322",
+    "output": "outputs/g5_original118_adapter_ablation_execution_20261109",
+    "coordination": "outputs/g5_original118_adapter_ablation_coordination_20261109",
+    "python": "work/colab_access_env/Scripts/python.exe",
+    "bound_seconds": 4200
+  },
+  "require_ended_claims": []
+}

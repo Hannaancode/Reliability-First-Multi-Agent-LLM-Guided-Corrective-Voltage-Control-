@@ -1,0 +1,13 @@
+{
+  "status": "PREPARED_ONLY_INDEPENDENT_REVIEW_AND_FRESH_OWNERSHIP_REQUIRED",
+  "protocol_ref": {
+    "path": "outputs/g5_initializer_observation_20261109/Protocol.json",
+    "bytes": 6874,
+    "sha256": "d0958eeb523abdc198dea80a8f210aad60cfa746697d8fc32c0a3f528c6a08a1"
+  },
+  "new_native_JSON_decode_controller_model_PF_calls": 0,
+  "previous_owner_and_successful_checks_rerun": false,
+  "source_only_statement_gate": true,
+  "workflow_seconds": 0.31816540006548166,
+  "command": "work/vcsa_module_env/Scripts/python.exe -X utf8 work/g5_initializer_observation_20261109/coordinate.py"
+}

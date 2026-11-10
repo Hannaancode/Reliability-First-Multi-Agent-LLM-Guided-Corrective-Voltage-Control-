@@ -1,0 +1,11 @@
+{
+  "single_owner": {
+    "source": "work/g5_conditional_archived_start_20261109/reader.py",
+    "sha256": "94cdfd7212a48f48b12080ef9ea8e85d03ad5ed60ed7443f3f73d44e7ce07937",
+    "output": "outputs/g5_conditional_archived_start_20261109/reader",
+    "coordination": "outputs/g5_conditional_archived_start_20261109/reader_coordination",
+    "python": "work/vcsa_module_env/Scripts/python.exe",
+    "bound_seconds": 150
+  },
+  "require_ended_claims": []
+}

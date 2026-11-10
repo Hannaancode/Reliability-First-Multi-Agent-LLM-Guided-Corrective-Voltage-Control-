@@ -1,0 +1,36 @@
+{
+  "started_at_utc": "2026-11-09T11:46:28.198093+00:00",
+  "stage": "closed_complete_or_partial_science_preserved",
+  "expected_account": "abdulhannaan2002@gmail.com",
+  "runtime_allocated": true,
+  "runtime_released": true,
+  "allocation_requests": 1,
+  "science_started": true,
+  "actual_preserved_packages": 7,
+  "updated_at_utc": "2026-11-09T11:51:08.699567+00:00",
+  "notebook_hash": "72d293a9-484f-4699-beed-c7bfc92a10f4",
+  "endpoint": "gpu-t4-s-usw4b1-3ppmqympqq4dy",
+  "remote_progress": {
+    "stage": "complete_preserving",
+    "costs": {
+      "model_load_attempts": 2,
+      "model_load_returns": 2,
+      "generation_attempts": 5,
+      "generation_returns": 5,
+      "pretrained_forward_attempts": 144,
+      "pretrained_forward_returns": 144,
+      "generated_tokens": 144,
+      "PF_optimizer_backward_training_calls": 0
+    },
+    "updated_unix": 1794225047.4407878
+  },
+  "remote_exit_code": 0,
+  "scientific_process_ended": true,
+  "guardian_ended": true,
+  "all_actual_closed_artifacts_preserved": true,
+  "preserved_archive": {
+    "bytes": 342044,
+    "sha256": "69abc06cd6212b28efbe13193ca91fe77b6a83ea2d2c052f75629a1c027238c4"
+  },
+  "finished_at_utc": "2026-11-09T11:51:08.699567+00:00"
+}

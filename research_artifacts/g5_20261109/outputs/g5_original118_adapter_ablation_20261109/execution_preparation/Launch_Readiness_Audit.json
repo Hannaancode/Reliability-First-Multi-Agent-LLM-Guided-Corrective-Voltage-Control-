@@ -1,0 +1,69 @@
+{
+  "passed": true,
+  "status": "ROOT_SOURCE_AND_LOCAL_OWNERSHIP_ADMITTED_REMOTE_ASSIGNMENT_STILL_REQUIRED",
+  "expected_independent_source_review_status": "PASS_ORIGINAL118_DISABLED_ENGINEERING_SOURCE",
+  "source_hashes": {
+    "work/g5_original118_adapter_ablation_20261109/host.py": "17893ba3d573b0c910fc6eed8245428c62b7075db5356c205e7d1426206daff2",
+    "work/g5_original118_adapter_ablation_20261109/remote_owner.py": "0c3d2b7d4b3b6f665fedaed29d3bfa4e582b38ac7dc15d35d7718eefb42686c7",
+    "work/g5_original118_adapter_ablation_20261109/guardian.py": "42753f03e8d51fa9544cfa6be68e7a00e104a888a92ab4f14ac7ccbd2a73259b",
+    "work/g5_original118_adapter_ablation_20261109/saved_reader.py": "be538f9a6f2fe4c28e5659759800908c9e595250ae4bfaedc8584ebe4ad1f7eb",
+    "work/g5_original118_adapter_ablation_20261109/contract.py": "5c3c69ca55564f68cbc1e2b26ca2a7103d4c21584d147bbc172c0bb1ee22e5eb",
+    "work/g5_original118_adapter_ablation_20261109/coordinator.py": "b3abb04bda0a319f9f4077da22b8e03271548e4154d01932516467a186117a61",
+    "work/g5_original118_adapter_ablation_20261109/build_execution.py": "3e7a7862a083e120159a866a2f8c5de156c93d5ad9660fde9de201bc44610023",
+    "work/google_account_profile.py": "a142e222200673d251ed1f4c8d2eac09353ae95ba17158f4f358d125107375bf",
+    "work/public_size_local_preservation_v2.py": "e9d970c2c56546ea585380d58079651370bfd3110be79f03c89b6a7ad53b2687",
+    "work/coordinate_single_source_bound_owner_20261020.py": "bb924cbd647517e472c87d945f29fa00707d10907c596d46371d3bc71eb04d02",
+    "work/coordinate_native_inverter_linear_reference_20261020.py": "40c6607c598cb77dfb9945dbeae3353aa77baed65ea21062312d405cd1cb5975",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/All4_Original_Inputs.json": "10ca87ac2afb1f0c7d7bad121fb9655f29a89285f6e3eeede7444146c675aca5",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Cloud_Payload_Manifest.json": "ba52d82c847e246204937a28c0e25d07d29f14d943ece6d80c25ded2daf89c41",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Direct_Human_Authority.json": "cf5cffdde4998fe59b6162794d47736190929089e346767774f069286851bd23",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Frozen_Engineering_Protocol.json": "4e2735ffff065804a94a98bade2e6eb2cf9b4a31795265f0236c8c050c969193",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Host_Reuse_Delta.json": "23a58934acb7b9ac49c8451c339c2fed78b586af412755170bae46e94ff618a3",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Original_Enabled_Runtime_Binding.json": "1213c4970eecae3c2497d378cfb5f858702e0104d4f4676a686bef5ffc55f8bd",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Primary_Owner_Protocol.json": "3996ac488b19cb9fd3af0d40f6c3b4ea4ad1f88badc7cd52ae3beec7baf3d249",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Reader_Owner_Protocol.json": "e875dc91b97fa141eeae2ee59775003ae81934440802dd6567a4ba011f2678fa",
+    "work/g5_original118_adapter_ablation_20261109/saved_reader_v2.py": "467de146e0a4361d18b3dbf0792b4989751f953d6a51a406a63e238fff0ff9db",
+    "work/g5_original118_adapter_ablation_20261109/coordinator_v2.py": "c7d0fd62a37e19c23b31d96dc0a52eb4b763af5b4a7b0ac20f5e3b0a1fcf2d49",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Reader_Owner_Protocol_v2.json": "08aaa1a1170a2809b95ff448606d7d97609cd267989cb8b16b9fc2d42ece8bd3",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Finite_Treatment_History_Disposition.json": "4ec67e222355df8f5a10c0491762f2f5b42f96fdef5baaeae069f16a9fde6728",
+    "work/g5_original118_adapter_ablation_20261109/host_v2.py": "c1b4682302e240099b404e2a0fded74b6bc9c0db29a92db34d9064dceb09f322",
+    "work/g5_original118_adapter_ablation_20261109/saved_reader_v3.py": "70b46b02150b58b36c1cd409cd662cb41fd5e59524371afaa8b19c6d98961f35",
+    "work/g5_original118_adapter_ablation_20261109/coordinator_v3.py": "6f5350c9b18ea558163fdd5eb5d9ec52a8a7359e0d5db84a9b53916a25bc460e",
+    "work/g5_original118_adapter_ablation_20261109/finalize_local_admission_v2.py": "bdafc037bfd2c917ea9b6a58325269a2460089e1aa380972a1ab689a1e998a49",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Primary_Owner_Protocol_v2.json": "61157dfeabd18bdb0d6ec81204de4ed66cdfe0786d6fbf2708bf56065ed096fa",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Reader_Owner_Protocol_v3.json": "55eb62d3ef83aad035dbbe6f19173f8af31e843e0792399e6aa155f6ce5486ee",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Local_Denial_Boundary_Checks.json": "75c10ff89878fcba82cb17c0efa10381a227bfd50a66013fe0925b4c8ee0a3b2",
+    "outputs/g5_original118_adapter_ablation_20261109/independent_source/Independent_Source_Review.json": "8ca18ceebcfc569631e7851839c8158d2e0971a823d25292bce1b472828382f5"
+  },
+  "protocol_ref": {
+    "path": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Frozen_Engineering_Protocol.json",
+    "bytes": 13191,
+    "sha256": "4e2735ffff065804a94a98bade2e6eb2cf9b4a31795265f0236c8c050c969193"
+  },
+  "all_private_files_verified_during_new_allowlisted_packaging": true,
+  "old_archives_or_scientific_audits_rerun": false,
+  "actual_software_owner_model_GPU_PF_network_calls": 0,
+  "workflow_seconds": 4.7355630999663845,
+  "delta": "Additive local definite-denial recovery guard; remote scientific payload/mode/generation/bounds unchanged. Previous source/protocols retained. Saved reader and coordinator only update exact host protocol path.",
+  "coordinator_source": "work/g5_original118_adapter_ablation_20261109/coordinator_v3.py",
+  "reader_owner_protocol": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Reader_Owner_Protocol_v3.json",
+  "finite_history_disposition_ref": {
+    "path": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Finite_Treatment_History_Disposition.json",
+    "bytes": 4286,
+    "sha256": "4ec67e222355df8f5a10c0491762f2f5b42f96fdef5baaeae069f16a9fde6728"
+  },
+  "primary_owner_protocol": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Primary_Owner_Protocol_v2.json",
+  "independent_source_review_status": "PASS_ORIGINAL118_DISABLED_ENGINEERING_SOURCE",
+  "at_utc": "2026-11-09T11:46:08.153170+00:00",
+  "root_review": "Exact original4input disabledprimary plusonefreshcold; frozen original generation/weights/parser; no enabledrerun/native13restart/trajectories. Returnedoutputdurability, actualmodekeys, source/custody/closure, no denialfallback reviewed. Host must verify fixedaccount identity and zeroexistingassignments before oneT4allocation.",
+  "independent_source_review_ref": {
+    "path": "outputs/g5_original118_adapter_ablation_20261109/independent_source/Independent_Source_Review.json",
+    "sha256": "8ca18ceebcfc569631e7851839c8158d2e0971a823d25292bce1b472828382f5"
+  },
+  "fresh_ownership_ref": {
+    "path": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Root_Fresh_Ownership.json",
+    "sha256": "f82e336eb10aa5536c5d3bed631d6bb3bbd34d7712cbc718996acaf950be1d79"
+  },
+  "historical_scope": "Finite known relevant roster only; older unmatched/unknown provenance not reclassified.",
+  "performance_or_training_admitted": false
+}

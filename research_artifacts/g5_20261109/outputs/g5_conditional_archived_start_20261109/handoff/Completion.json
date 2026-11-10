@@ -1,0 +1,12 @@
+{
+  "roles": {
+    "owner": {
+      "exit_code": 1
+    },
+    "reader": {
+      "exit_code": 0
+    }
+  },
+  "status": "TERMINAL_REVIEW_ACTUAL_EVIDENCE",
+  "no_model_allocation_PF_calls_by_coordinator": true
+}

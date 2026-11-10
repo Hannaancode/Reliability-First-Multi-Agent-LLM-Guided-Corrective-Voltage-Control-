@@ -1,0 +1,1008 @@
+[
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_000.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.4611219000071287
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_001.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.453456599963829
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_002.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.3188932000193745
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_003.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.4602210000157356
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_004.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.458697099937126
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_005.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.480122199980542
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_006.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.3483092000242323
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_007.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.488659100024961
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_008.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.338255299953744
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_009.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.459993700031191
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_010.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.3196996999904513
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_011.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.325189600000158
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_012.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.5048246999504045
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_013.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.3517273999750614
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_014.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.4619869999587536
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_015.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.4923999999882653
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/public_size_input_016.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 334,
+    "seconds": 2.2254815999185666
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.5926856000442058
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.158803700003773
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1645574000431225
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1896377999801189
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1613294000271708
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.6165847999509424
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.6049815000733361
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.5932037000311539
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1806175999809057
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.169723100028932
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.6023132000118494
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.5923395999707282
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1702348999679089
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1773769999854267
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.6108531000791118
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.7803164999932051
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1734726000577211
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.154566299985163
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1323745000408962
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.5981380000011995
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.6056167000206187
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1528798999497667
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.7791277999058366
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1624921000329778
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1603695000521839
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1665976999793202
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1420778000028804
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1840147000038996
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 490,
+    "seconds": 0.5821973000420257
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup.log",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 13284,
+    "seconds": 0.6229417000431567
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_setup_exit.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 490,
+    "seconds": 1.1452746000140905
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_environment.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 1351,
+    "seconds": 0.5879397999960929
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.140373699949123
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 331,
+    "seconds": 1.1372090999502689
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1431762999854982
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.182023899978958
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 331,
+    "seconds": 1.1353546000318602
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1563088999828324
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.5931896000402048
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 331,
+    "seconds": 1.1516356999054551
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1452946999343112
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1587232999736443
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 665,
+    "seconds": 0.60294549993705
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_000/descriptor.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 1732,
+    "seconds": 1.151737799984403
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_000/part_0000.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 1560,
+    "seconds": 1.1374052000464872
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_000/ack.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 348,
+    "seconds": 1.1412867000326514
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1621408000355586
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.6361384999472648
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 665,
+    "seconds": 1.1831718999892473
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1724261000053957
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1656013999599963
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 665,
+    "seconds": 0.7964803000213578
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.5941523000365123
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 865,
+    "seconds": 0.6002494000131264
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 1001,
+    "seconds": 1.1530258000129834
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_001/descriptor.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 2407,
+    "seconds": 1.148510199971497
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_001/part_0000.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 103286,
+    "seconds": 1.1627669000299647
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_001/ack.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 348,
+    "seconds": 1.182229399913922
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.599925999995321
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 865,
+    "seconds": 1.1719724000431597
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 1337,
+    "seconds": 1.1560777999693528
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_002/descriptor.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 1999,
+    "seconds": 1.1621646999847144
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_002/part_0000.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 58234,
+    "seconds": 1.370652599958703
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_002/ack.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 348,
+    "seconds": 1.1575934999855235
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.5755968999583274
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 865,
+    "seconds": 1.1606623000698164
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 1673,
+    "seconds": 1.137727600056678
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_003/descriptor.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 1999,
+    "seconds": 0.5918854000046849
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_003/part_0000.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 55508,
+    "seconds": 1.342164000030607
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_003/ack.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 348,
+    "seconds": 1.170419399975799
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 0.5850352999987081
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 869,
+    "seconds": 1.1472289999946952
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 2009,
+    "seconds": 1.1480984999798238
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_004/descriptor.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 1999,
+    "seconds": 1.1752854998921975
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_004/part_0000.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 55418,
+    "seconds": 1.3634430000092834
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_004/ack.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 348,
+    "seconds": 0.6012050000717863
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1407338000135496
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 869,
+    "seconds": 1.1735416000010446
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 2009,
+    "seconds": 1.1699896999634802
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.168729200027883
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 869,
+    "seconds": 1.1585225000744686
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 2345,
+    "seconds": 1.1695559000363573
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_005/descriptor.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 2801,
+    "seconds": 7.13744619989302
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_005/part_0000.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 150473,
+    "seconds": 1.5103873000480235
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_005/ack.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 348,
+    "seconds": 0.6045891999965534
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.154183099977672
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 849,
+    "seconds": 1.1544856999535114
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 2681,
+    "seconds": 1.1670488000381738
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_006/descriptor.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 1975,
+    "seconds": 1.177879000082612
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_006/part_0000.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 48948,
+    "seconds": 1.3564872000133619
+  },
+  {
+    "method": "PUT",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer/package_006/ack.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 201,
+    "response_bytes": 348,
+    "seconds": 0.6072248999262229
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": false,
+    "http_status": 404,
+    "seconds": 1.1514497000025585
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science/progress.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 849,
+    "seconds": 1.1695692000212148
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_transfer",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 2681,
+    "seconds": 0.6016338999615982
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 513,
+    "seconds": 1.1409544999478385
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_closed_descriptor.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 14831,
+    "seconds": 1.2039070000173524
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_closed_parts/file_00009_part_0000.bin",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 135830,
+    "seconds": 1.495761699974537
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_science.log",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 1555,
+    "seconds": 0.5897189000388607
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_exit.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 513,
+    "seconds": 1.161275100079365
+  },
+  {
+    "method": "GET",
+    "artifact": "content/hiergrid_execution/outputs/public_size_guardian_End.json",
+    "attempt": 1,
+    "returned": true,
+    "http_status": 200,
+    "response_bytes": 693,
+    "seconds": 1.1691009999485686
+  }
+]

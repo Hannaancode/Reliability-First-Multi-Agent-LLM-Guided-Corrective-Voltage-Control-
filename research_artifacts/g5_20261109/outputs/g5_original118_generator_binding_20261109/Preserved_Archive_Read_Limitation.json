@@ -1,0 +1,8 @@
+{
+  "status": "OPTIONAL_ARCHIVE_MEMBER_COMPRESSION_UNSUPPORTED",
+  "source_sha256": "1ee6a2687d9633a1dde1bb3c281a5773780f8ecce859971ec2661b1d9dda41bd",
+  "exception": "NotImplementedError: That compression method is not supported",
+  "stage": "Before any training-record scan; original recovered desktop source remains readable.",
+  "archive_member_byte_equality": "UNKNOWN_NOT_READ",
+  "new_native_model_PF_calls": 0
+}

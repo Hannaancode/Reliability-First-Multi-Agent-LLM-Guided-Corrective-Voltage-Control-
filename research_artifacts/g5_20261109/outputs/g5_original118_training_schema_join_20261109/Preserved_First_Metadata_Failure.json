@@ -1,0 +1,9 @@
+{
+  "status": "METADATA_SCHEMA_ASSUMPTION_FAILED_NO_NATIVE_MODEL_TRAINING",
+  "source_sha256": "8a3af1c6f790aebf4f42834a0d7777ae6b17894ac304554ad0152b73f9840dd7",
+  "failure": "assert set(map(int,v))==set(zones[z]) at line62",
+  "new_row_identity_join_completed_before_failed_assertion": 16000,
+  "new_field_coverage_diagnosis": "Four MG4 packet worlds omit bus116; preserve unknown rather than zero-fill.",
+  "no_old_audit_or_scoring_or_tokenization_repeated": true,
+  "no_result_from_failed_metadata_script": true
+}

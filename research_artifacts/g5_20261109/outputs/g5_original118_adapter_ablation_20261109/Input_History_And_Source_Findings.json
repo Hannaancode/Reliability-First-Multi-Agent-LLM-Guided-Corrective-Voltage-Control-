@@ -1,0 +1,146 @@
+{
+  "status": "FINITE_METADATA_AND_SOURCE_PREPARATION_COMPLETE",
+  "original_enabled_hosts": [
+    "case0",
+    "old_case1",
+    "old_case2",
+    "old_case3",
+    "suffix_case1",
+    "suffix_case3"
+  ],
+  "logical_requests": 459,
+  "separately_paid_cold_replicas": 6,
+  "all465_share_adapter_tokenizer_contract": true,
+  "all465_share_actual_model_inventory": true,
+  "old_native13_disabled_exact_token_matches_to_four_original_inputs": [],
+  "disabled_original118_arm_found_in_named_original_six_host_roster": false,
+  "universal_original_disabled_history_absence": false,
+  "earlier_unjoined_scope": [
+    {
+      "domain": "Earlier original/private-model development and two security pilots before this six-host source roster",
+      "rule": "No universal absence or permission inferred; require finite source/input exclusion or exact attempt records before serving.",
+      "status": "UNKNOWN_RELEVANT_HISTORY_NOT_JOINED"
+    },
+    {
+      "domain": "Actual target tokenizer token IDs and current serving runtime/weights/RNG ownership",
+      "rule": "Different prompt JSON alone is not proof of different tokenizer input.",
+      "status": "UNKNOWN_NOT_EXECUTED_THIS_METADATA_QUERY"
+    }
+  ],
+  "initial_prefix_lengths": [
+    2243,
+    2371,
+    2281,
+    2244
+  ],
+  "new_model_tokenizer_native_PF_training_calls": 0,
+  "old_audit_reruns": 0,
+  "source_refs": [
+    {
+      "path": "work/g5_original118_adapter_ablation_20261109/contract.py",
+      "bytes": 2421,
+      "sha256": "5c3c69ca55564f68cbc1e2b26ca2a7103d4c21584d147bbc172c0bb1ee22e5eb"
+    },
+    {
+      "path": "work/g5_original118_adapter_ablation_20261109/remote_owner.py",
+      "bytes": 11104,
+      "sha256": "07137a1b6c77316b500ffbaac3d262e174525978fd485057114f8150d9995c37"
+    },
+    {
+      "path": "work/candidate_process_pretrained_loader_native13_v2_20261020.py",
+      "bytes": 5473,
+      "sha256": "8e401bad5e0c59f634371ff65830d41475108edd7317685c0c41f0f3c3c8c7c2"
+    },
+    {
+      "path": "work/original_reflection_serving_pure_20261022.py",
+      "bytes": 2761,
+      "sha256": "922b79fee994b4edb876928d5d5ca54857853bd95ac61d0ea669978567d38faf"
+    },
+    {
+      "path": "work/original_reflection_tokenizer_tensor_view_v2_20261022.py",
+      "bytes": 920,
+      "sha256": "f2fac57c05d97f4135b10c62581c392412a16f72e4a995ecd600d603878d8c7b"
+    },
+    {
+      "path": "work/public_size_u61_preservation.py",
+      "bytes": 3658,
+      "sha256": "df4d5fa2a41142c272a6cc433a88b9e4146d217742edf46df32d7ba10680e45e"
+    }
+  ],
+  "input_refs": [
+    {
+      "path": "outputs/original118_finite_model_history_query_20261102/execution/Finite_Original118_Request_History_LOCAL_ONLY.json",
+      "bytes": 2527592,
+      "sha256": "766a88530a911041068779f490addf14486fd1c22fc93c03475518d45130e97d"
+    },
+    {
+      "path": "outputs/native13_adapter_disabled_diagnostic_preparation_20261021/All6_Messages_And_Token_IDs.json",
+      "bytes": 50517,
+      "sha256": "cb679415558d5d2dbe8b6fbf3ab2e14f60397304627a7b400136dc0c0b59cb98"
+    },
+    {
+      "path": "outputs/reflection118_chronological_preparation_20261022/Frozen_Engineering_Protocol.json",
+      "bytes": 7134,
+      "sha256": "e87e1d71060d46b21a947ad62269855e465ef13b40ebe9e1b4595b9f5b720a73"
+    },
+    {
+      "path": "outputs/original118_matched_analysis_preparation_20261023/Protocol.json",
+      "bytes": 4457,
+      "sha256": "0be16c025cdf165ef86f0e09c4e3d94f9ec91c5cf602743f18a0fcbc57035b29"
+    },
+    {
+      "path": "outputs/reflection118_chronological_preparation_20261022/Frozen_Engineering_Protocol.json",
+      "bytes": 7134,
+      "sha256": "e87e1d71060d46b21a947ad62269855e465ef13b40ebe9e1b4595b9f5b720a73"
+    },
+    {
+      "path": "outputs/r118chrono_20261022/staged/study/response_00000.json",
+      "bytes": 23354,
+      "sha256": "5ac432524037e2e5fcf12a1579ffc3d27e996f4305d9901e15d363f786e9adb3"
+    },
+    {
+      "path": "outputs/reflection118_remaining_cases_v2_preparation_20261023/case_01/Frozen_Engineering_Protocol.json",
+      "bytes": 15170,
+      "sha256": "7a20d15f31461eeb02b8a6c9d15a585f9c96f6fa575660f351decd20231c324c"
+    },
+    {
+      "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_01/staged/study/response_00000.json",
+      "bytes": 24536,
+      "sha256": "a5360fc00131dd72762099f5a8ecd6bcdb8a87f61dc1a644cfd556591b3883ce"
+    },
+    {
+      "path": "outputs/reflection118_remaining_cases_v2_preparation_20261023/case_02/Frozen_Engineering_Protocol.json",
+      "bytes": 15170,
+      "sha256": "4351095a40b7bb64b221ec21854b80ff83eff647d5575e1b7f239f61564f9302"
+    },
+    {
+      "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_02/staged/study/response_00000.json",
+      "bytes": 23720,
+      "sha256": "293ee6b2f29f455a2155cd4a17f49203c76eb4b0a7305aa2d7613750cc3bdc05"
+    },
+    {
+      "path": "outputs/reflection118_remaining_cases_v2_preparation_20261023/case_03/Frozen_Engineering_Protocol.json",
+      "bytes": 15173,
+      "sha256": "da12d2269ff05dd4b1ed8fb0894cc3fdf588fad16abcdf3c35f83e0d020f33b3"
+    },
+    {
+      "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_03/staged/study/response_00000.json",
+      "bytes": 23375,
+      "sha256": "7f065975ca2de5f2ace8328c7f28238f843638e465def852334681e4bd7a9c38"
+    }
+  ],
+  "known_enabled_owner_sources": [
+    {
+      "path": "work/run_reflection118_model_service_remote_20261022.py",
+      "bytes": 8892,
+      "sha256": "40761cb76c50250cdefc8c70c74bdb7809e2471f293b5915bf81f76f17e447cf"
+    },
+    {
+      "path": "work/run_reflection118_remaining_model_remote_20261023.py",
+      "bytes": 9026,
+      "sha256": "2aecbe1c074f4fe2bacefc4a4b056369ada3942b9dfcd549f6be5a86a137d567"
+    }
+  ],
+  "actual_read_bytes": 2737332,
+  "workflow_seconds": 0.5489585000323132
+}

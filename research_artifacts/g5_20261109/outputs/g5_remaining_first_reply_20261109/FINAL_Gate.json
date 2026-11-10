@@ -1,0 +1,11 @@
+{
+  "status": "PASS_G5_REMAINING_FIRST_PAID_REPLY_SOURCE",
+  "protocol_sha256": "b6f97acb61d371e0268c676c3aaeadc0a31618464ad8334b1e829cbeb15255af",
+  "independent_review_sha256": "851d8d2597a4d4633b61b197c80781652344133440b4e84467c2b015ba09b26f",
+  "fresh_ownership": "Root_Fresh_Custody.json",
+  "full_snapshot_equality_unchanged": true,
+  "no_new_PF_or_model_allowed": true,
+  "conditional_archived_initial_state_only": true,
+  "prior_partial_preserved": true,
+  "at_utc": "2026-11-09T14:15:53.8904498Z"
+}

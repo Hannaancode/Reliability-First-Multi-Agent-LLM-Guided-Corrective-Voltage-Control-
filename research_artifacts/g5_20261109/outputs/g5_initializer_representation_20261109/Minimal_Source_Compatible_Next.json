@@ -1,0 +1,65 @@
+{
+  "status": "CONCRETE_NEXT_METHOD_CHOICE_NO_EXECUTION",
+  "existing_initial_evidence": {
+    "paid_record_ref": {
+      "path": "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/pf_000000.json",
+      "sha256": "082af100560b4a406ebedbe2779c02ee3aab4300aab3723d1edc7bb9bcca7f19",
+      "bytes": 831
+    },
+    "root_binding_ref": {
+      "path": "outputs/registered_severe_federation_root_binding_20261022/All4_Registered_Solved_Root_Bindings.json",
+      "sha256": "273504a4ec913ff8ddd9d729216223c36c7ead9453381dc75b2ab80715d22b3b",
+      "bytes": 11809
+    },
+    "exact_source_payload_sha256": "e3cfb229962f51bbb380644bd7e2bc85c1f82d7d51a7d3f1c9465979000f01a2",
+    "initial_PF_seconds_already_paid": 4.769765800097957,
+    "original_closed_reader_ref": {
+      "path": "outputs/r118chrono_audit_20261022/Independent_Audit.json",
+      "sha256": "0cc862d332c1448c9e27d57324a7eee520302c055af713316f2cee5876268991",
+      "bytes": 1280
+    },
+    "reader_complete_branches": [
+      {
+        "method": "reflection_v2",
+        "scenario_id": "fed_combined_load_1p5_line_35_MG1",
+        "base_uv": 56,
+        "final_uv": 7,
+        "final_vmin": 0.9322110650841953,
+        "final_deficit": 0.07608029853018439,
+        "full_restoration": false,
+        "accepted_actions": 17,
+        "llm_direct": 14,
+        "llm_guided": 3,
+        "fallback": 0,
+        "guided_tests": 333,
+        "fallback_tests": 144,
+        "llm_direct_tests": 41,
+        "llm_direct_accepted_tests": 21,
+        "stop_reason": "no_accepted_action",
+        "strict_OV": 2
+      }
+    ],
+    "source_reader_contract": "Original causal replay used unchanged controller, exact kwargs, frames_equal then restore_exact paid after; not full historical backend argument equality."
+  },
+  "historical_backend_argument_identity": "UNKNOWN_NOT_STORED_IN_THIS_INITIAL_RECORD; current paired native preparations cannot retroactively certify historical argument bytes",
+  "recommended_minimal_route": {
+    "name": "Explicit common archived solved-initializer conditional adapter comparison",
+    "why": "Both source-enabled study and future disabled arm can start from the same already verified paid solved NET; do not repeat initial nonlinear solve merely to satisfy changed representation instrumentation.",
+    "needed_binding": [
+      "Bind exact original solved payload and paid initial return reference, case/recipe/source/kwargs and all initializer costs.",
+      "Define the precise controller entry after the already-paid successful initializer; retain original subsequent metrics, zone messages, parsing, verifier, resource/cap, selection and chronology.",
+      "Prove the new entry produces the exact recorded initial causal messages/tokens and native scientific state from that common solved input; reuse disabled first reply, never regenerate it or enabled outputs.",
+      "Preserve all dtype/cache/block/alias differences explicitly; do not claim the failed raw pre-initializer identity passed.",
+      "Label the contrast conditional on the common archived initializer and current serving model. Existing enabled endpoints are reused only within their certified source/state scope; stronger unrecorded historical backend equality stays unknown.",
+      "Freeze independently reviewed source/owner/reader/cold/fullcost gates before any new physical/model entry."
+    ],
+    "not_automatic_authority": true
+  },
+  "alternative_stricter_route": {
+    "name": "Prospective paired current backend preparation",
+    "scope": "A current input-to-backend comparison may establish current conversion equivalence with0solver calls; it cannot prove actual historical backend identity.",
+    "not_required_for_conditional_shared_solved_initializer": "Do not incur this extra conversion cost unless the chosen comparison contract needs it."
+  },
+  "strong_numeric_control_and_full_trajectory_status": "Still unfinished. This initializer diagnosis neither proves adapter benefit nor supplies a same-information numerical provider.",
+  "new_scientific_calls_or_campaign_admission": false
+}

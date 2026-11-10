@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "checks": [
+    "exact_supported_input_admitted_without_restore",
+    "typed_value_preserved_then_stop",
+    "alias_preserved_then_stop",
+    "kwargs_preserved_then_stop",
+    "capture_failure_retained_no_PF_translation",
+    "AssertionError_escapes_original_Exception_handler",
+    "TimeoutError_escapes_original_Exception_handler",
+    "OSError_escapes_original_Exception_handler"
+  ],
+  "count": 8,
+  "new_native_controller_model_PF_calls": 0,
+  "fixture_only_no_old_suite_rerun": true,
+  "source_ref": {
+    "path": "work/g5_disabled_initializer_diagnosis_20261109/admission_capture.py",
+    "bytes": 3264,
+    "sha256": "dcf10850039fec40ef768bffeaa4141615381f2e0970027ddc01a8e0292ef5b5"
+  }
+}

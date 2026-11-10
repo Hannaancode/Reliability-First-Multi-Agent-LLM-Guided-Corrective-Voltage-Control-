@@ -1,0 +1,237 @@
+{
+  "status": "SAVED_ACTUAL_SIX_ENABLED_SERVING_RUNTIMES_AND_IMMUTABLE_BASE_MATCH",
+  "hosts": [
+    {
+      "id": "case0",
+      "artifact_refs": {
+        "environment": {
+          "path": "outputs/r118chrono_20261022/staged/public_size_environment.json",
+          "bytes": 725,
+          "sha256": "106e904d0c5e7aec0408a140975833cf8d21ca366792e482ba2a9985f692b8ba"
+        },
+        "loader": {
+          "path": "outputs/r118chrono_20261022/staged/study/primary_Loader_Proof.json",
+          "bytes": 414,
+          "sha256": "1a377e7d08c6c2f867aadfd2050e6f335c54e7fbff3ad5f9246e5f3e63ad572d"
+        },
+        "immutable": {
+          "path": "outputs/r118chrono_20261022/staged/study/primary_Immutable_Before.json",
+          "bytes": 232991,
+          "sha256": "25eb42ee7db8aacb96ffc15db881af8c4188b9d47a34bc4a9bd6e2fa5a0c3194"
+        },
+        "enabled": {
+          "path": "outputs/r118chrono_20261022/staged/study/primary_Actual_Enabled_Adapter_State.json",
+          "bytes": 10084,
+          "sha256": "bf20401cfd4c6ee7cdea4e7fa489059ee3b7223c36da6dfb98b403d94f4f9212"
+        }
+      },
+      "inherited_closed_descriptor_ref": {
+        "bytes": 43102,
+        "path": "outputs/r118chrono_20261022/remote_closed_descriptor.json",
+        "sha256": "c52052e900b1ca7be3378ff548131963a5c79bf128f702deb108ebeccd6bc113"
+      },
+      "inherited_audit_ref": {
+        "bytes": 1280,
+        "path": "outputs/r118chrono_audit_20261022/Independent_Audit.json",
+        "sha256": "0cc862d332c1448c9e27d57324a7eee520302c055af713316f2cee5876268991"
+      }
+    },
+    {
+      "id": "old_case1",
+      "artifact_refs": {
+        "environment": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_01/staged/public_size_environment.json",
+          "bytes": 725,
+          "sha256": "106e904d0c5e7aec0408a140975833cf8d21ca366792e482ba2a9985f692b8ba"
+        },
+        "loader": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_01/staged/study/primary_Loader_Proof.json",
+          "bytes": 415,
+          "sha256": "9b617d0339721f86dccdfe2228f9d5c5e8ba6753cdd8c403ad3cbca79f340e28"
+        },
+        "immutable": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_01/staged/study/primary_Immutable_Before.json",
+          "bytes": 232991,
+          "sha256": "25eb42ee7db8aacb96ffc15db881af8c4188b9d47a34bc4a9bd6e2fa5a0c3194"
+        },
+        "enabled": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_01/staged/study/primary_Actual_Enabled_Adapter_State.json",
+          "bytes": 10084,
+          "sha256": "bf20401cfd4c6ee7cdea4e7fa489059ee3b7223c36da6dfb98b403d94f4f9212"
+        }
+      },
+      "inherited_closed_descriptor_ref": {
+        "bytes": 17208,
+        "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_01/remote_closed_descriptor.json",
+        "sha256": "06b5df6c6db9383ea84b6c2f0edf7eee8fbc07b160c51e5e0fbadbb727096360"
+      },
+      "inherited_audit_ref": {
+        "bytes": 1943,
+        "path": "outputs/reflection118_remaining_cases_v2_independent_20261023/case_01/Independent_Audit.json",
+        "sha256": "b36d173715538ee532128c78ecbf70b5ed30623f1eadc97c618e30cda8f49e7b"
+      }
+    },
+    {
+      "id": "old_case2",
+      "artifact_refs": {
+        "environment": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_02/staged/public_size_environment.json",
+          "bytes": 725,
+          "sha256": "106e904d0c5e7aec0408a140975833cf8d21ca366792e482ba2a9985f692b8ba"
+        },
+        "loader": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_02/staged/study/primary_Loader_Proof.json",
+          "bytes": 414,
+          "sha256": "09d3333912696c1a6ed7165e83346b7d4475851633abf03291292d1720fc741e"
+        },
+        "immutable": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_02/staged/study/primary_Immutable_Before.json",
+          "bytes": 232991,
+          "sha256": "25eb42ee7db8aacb96ffc15db881af8c4188b9d47a34bc4a9bd6e2fa5a0c3194"
+        },
+        "enabled": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_02/staged/study/primary_Actual_Enabled_Adapter_State.json",
+          "bytes": 10084,
+          "sha256": "bf20401cfd4c6ee7cdea4e7fa489059ee3b7223c36da6dfb98b403d94f4f9212"
+        }
+      },
+      "inherited_closed_descriptor_ref": {
+        "bytes": 52087,
+        "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_02/remote_closed_descriptor.json",
+        "sha256": "abe9b40ebb6f310a156fd4223245b1fb77f815e7a9ebd8895089e82c35f2feb8"
+      },
+      "inherited_audit_ref": {
+        "bytes": 2486,
+        "path": "outputs/reflection118_remaining_cases_v2_independent_20261023/case_02/Independent_Audit.json",
+        "sha256": "c4e98b13f69055ba951ecbc7c48ba11c8ca8cd8ebc322b124dbbf1fb1750244e"
+      }
+    },
+    {
+      "id": "old_case3",
+      "artifact_refs": {
+        "environment": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_03/staged/public_size_environment.json",
+          "bytes": 725,
+          "sha256": "106e904d0c5e7aec0408a140975833cf8d21ca366792e482ba2a9985f692b8ba"
+        },
+        "loader": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_03/staged/study/primary_Loader_Proof.json",
+          "bytes": 414,
+          "sha256": "f83fc1b7bb3404bc2177c9571d8ea4f4977669ed8e43e4e3db4be82b7c716fc8"
+        },
+        "immutable": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_03/staged/study/primary_Immutable_Before.json",
+          "bytes": 232991,
+          "sha256": "25eb42ee7db8aacb96ffc15db881af8c4188b9d47a34bc4a9bd6e2fa5a0c3194"
+        },
+        "enabled": {
+          "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_03/staged/study/primary_Actual_Enabled_Adapter_State.json",
+          "bytes": 10084,
+          "sha256": "bf20401cfd4c6ee7cdea4e7fa489059ee3b7223c36da6dfb98b403d94f4f9212"
+        }
+      },
+      "inherited_closed_descriptor_ref": {
+        "bytes": 18240,
+        "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_03/remote_closed_descriptor.json",
+        "sha256": "dc3cd7b282190a5d46666a663ae06dbf23afdd9624107aa57198d61a230cfe84"
+      },
+      "inherited_audit_ref": {
+        "bytes": 1946,
+        "path": "outputs/reflection118_remaining_cases_v2_independent_20261023/case_03/Independent_Audit.json",
+        "sha256": "4430235c7333755832eb6e89551c181d00f7414e3c523865f3a1e16d5005175d"
+      }
+    },
+    {
+      "id": "suffix_case1",
+      "artifact_refs": {
+        "environment": {
+          "path": "outputs/original_missing_suffix_execution_20261028/case_01/staged/public_size_environment.json",
+          "bytes": 725,
+          "sha256": "106e904d0c5e7aec0408a140975833cf8d21ca366792e482ba2a9985f692b8ba"
+        },
+        "loader": {
+          "path": "outputs/original_missing_suffix_execution_20261028/case_01/staged/study/primary_Loader_Proof.json",
+          "bytes": 414,
+          "sha256": "7e477cf7dd92806faa1d44002f76054ba42bf5510a265eb47c547a0983bff3cd"
+        },
+        "immutable": {
+          "path": "outputs/original_missing_suffix_execution_20261028/case_01/staged/study/primary_Immutable_Before.json",
+          "bytes": 232991,
+          "sha256": "25eb42ee7db8aacb96ffc15db881af8c4188b9d47a34bc4a9bd6e2fa5a0c3194"
+        },
+        "enabled": {
+          "path": "outputs/original_missing_suffix_execution_20261028/case_01/staged/study/primary_Actual_Enabled_Adapter_State.json",
+          "bytes": 10084,
+          "sha256": "bf20401cfd4c6ee7cdea4e7fa489059ee3b7223c36da6dfb98b403d94f4f9212"
+        }
+      },
+      "inherited_closed_descriptor_ref": {
+        "bytes": 41733,
+        "path": "outputs/original_missing_suffix_execution_20261028/case_01/remote_closed_descriptor.json",
+        "sha256": "062ae9ed6c1e04fd1b022edc47cd7ee3ed1c21f7c3787ceb017d3685dad324cb"
+      },
+      "inherited_audit_ref": {
+        "bytes": 2927,
+        "path": "outputs/original_missing_suffix_independent_20261028/case_01/Independent_Audit.json",
+        "sha256": "8a4dc35bf3666afecc0c448fd27da4e7a99fad2bab0d4f3cea92583d42269f91"
+      }
+    },
+    {
+      "id": "suffix_case3",
+      "artifact_refs": {
+        "environment": {
+          "path": "outputs/original_missing_suffix_execution_20261028/case_03/staged/public_size_environment.json",
+          "bytes": 725,
+          "sha256": "106e904d0c5e7aec0408a140975833cf8d21ca366792e482ba2a9985f692b8ba"
+        },
+        "loader": {
+          "path": "outputs/original_missing_suffix_execution_20261028/case_03/staged/study/primary_Loader_Proof.json",
+          "bytes": 414,
+          "sha256": "529c7e1bc6ca12fc87c1107b4c24077d905d34f91f14ace1187614016661be55"
+        },
+        "immutable": {
+          "path": "outputs/original_missing_suffix_execution_20261028/case_03/staged/study/primary_Immutable_Before.json",
+          "bytes": 232991,
+          "sha256": "25eb42ee7db8aacb96ffc15db881af8c4188b9d47a34bc4a9bd6e2fa5a0c3194"
+        },
+        "enabled": {
+          "path": "outputs/original_missing_suffix_execution_20261028/case_03/staged/study/primary_Actual_Enabled_Adapter_State.json",
+          "bytes": 10084,
+          "sha256": "bf20401cfd4c6ee7cdea4e7fa489059ee3b7223c36da6dfb98b403d94f4f9212"
+        }
+      },
+      "inherited_closed_descriptor_ref": {
+        "bytes": 16852,
+        "path": "outputs/original_missing_suffix_execution_20261028/case_03/remote_closed_descriptor.json",
+        "sha256": "ef1387b163b47d7acf03d0a219cf28f6077c793a6cd3f8aa3435cbda3b4c815e"
+      },
+      "inherited_audit_ref": {
+        "bytes": 2920,
+        "path": "outputs/original_missing_suffix_independent_20261028/case_03/Independent_Audit.json",
+        "sha256": "7dec7e2acff734e7324c26da28260c764db0ffe68581334c9ef0092d48356705"
+      }
+    }
+  ],
+  "common_actual_environment": {
+    "base_revision": "10413c288cb9629acdf60b3e0229f3ba75efe413",
+    "base_weight_sha256": "81aaf58f48650c8e1480ad451f870f6f1e9d69a2e824fb46ee340c890f466f32",
+    "config_sha256": "af6d42e9f775a1ff4a5bc6e64adfb1b05daf0e00b818105e23192627818f93ed",
+    "versions": {
+      "torch": "2.10.0+cu128",
+      "transformers": "5.5.0",
+      "peft": "0.19.1",
+      "bitsandbytes": "0.49.2",
+      "accelerate": "1.13.0"
+    },
+    "exact_dependency_count": 111,
+    "dependency_differences": {}
+  },
+  "canonical_immutable_inventory_ref": {
+    "path": "outputs/r118chrono_20261022/staged/study/primary_Immutable_Before.json",
+    "bytes": 232991,
+    "sha256": "25eb42ee7db8aacb96ffc15db881af8c4188b9d47a34bc4a9bd6e2fa5a0c3194"
+  },
+  "scope": "Exact current2026 original118 serving runtimes and preserved quantized/base parameter-buffer inventories, with source-copied private adapter. NOT recovery of the historical paper SFT base revision.",
+  "historical_paper_base_revision": "UNRECOVERED",
+  "new_model_tokenizer_PF_calls": 0
+}

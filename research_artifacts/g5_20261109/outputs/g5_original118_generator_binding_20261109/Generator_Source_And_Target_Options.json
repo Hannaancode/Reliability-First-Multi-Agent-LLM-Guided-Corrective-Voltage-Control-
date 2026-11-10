@@ -1,0 +1,174 @@
+{
+  "status": "COMPLETE_SCOPED_GENERATOR_AND_TEACHER_ROLE_BINDING_NO_WEIGHT_INTERVENTION",
+  "generator_source_ref": {
+    "path": "C:\\Users\\HOME\\Desktop\\multi agentic llm  power systesm\\phase2a_extract_zone_data_corrected.py",
+    "bytes": 27284,
+    "sha256": "4b04fa40ecb338bb96e16fceedf0000bc5cb05ea57be87d71bdd8e00144ee339"
+  },
+  "named_bundled_member": {
+    "archive_path": "C:\\Users\\HOME\\Desktop\\multi agentic llm  power systesm\\multi agentic llm.zip",
+    "member": "phase2a_extract_zone_data_corrected.py",
+    "directory_only": {
+      "member_size": 27284,
+      "compression_type": 9,
+      "CRC_from_directory_only": 2491714870
+    },
+    "member_byte_equality": "UNKNOWN_UNSUPPORTED_COMPRESSION; no alternate extraction performed",
+    "archive_rehash_performed": false
+  },
+  "function_source_spans": {
+    "run_extraction": {
+      "start_line": 593,
+      "end_line": 682,
+      "AST_sha256": "3cf52708f2a00a0c04f438c751799047cb0ed40b06a18d860270d30dca47c507"
+    },
+    "extract_zone_state": {
+      "start_line": 244,
+      "end_line": 360,
+      "AST_sha256": "7cdcc2ae93cc96454778b4fa7df3513a88dc7caa90d9817d83b9b16d4162b802"
+    },
+    "generate_corrective_action": {
+      "start_line": 400,
+      "end_line": 503,
+      "AST_sha256": "59989de6a098538b4c5a1b9545cdd520acd50f21a5c9438557798e287da366ef"
+    },
+    "candidate_buses": {
+      "start_line": 381,
+      "end_line": 397,
+      "AST_sha256": "86cf5e7f7a416b52e9033294ca5975163470ab66944f1b08ee0e1c73e37dd230"
+    },
+    "build_training_record": {
+      "start_line": 509,
+      "end_line": 587,
+      "AST_sha256": "68a7d63dd49a9f45a1c63aabadadcce3d0ce3f1483c76f25f6629abd90dc60fc"
+    },
+    "run_pf": {
+      "start_line": 119,
+      "end_line": 133,
+      "AST_sha256": "8af8d54d457bce1ba57b6f2d3fad47e5f088806d1083d232d2fabe8d66467310"
+    }
+  },
+  "simultaneous_state_source_argument": {
+    "source_semantics": "run_extraction creates one scenario NET, solves it once, then extracts all four zones from that same variable. generate_corrective_action computes old_global on that NET and runs every candidate on copy.deepcopy(solved_net); no selected candidate is committed to the source NET. Thus the recovered generator defines simultaneous pre-action zone snapshots, not a four-zone chronological rollout.",
+    "observed_support": {
+      "all436_current_fields_match_their_previously_audited_pair": "PASS",
+      "all436_assistant_local_counts_extrema_match_saved_current_fields": "PASS",
+      "worlds_with_old_global_in_representative_labels": 108,
+      "worlds_with_multiple_distinct_old_global_records": 0,
+      "old_global_observed_minmax_UV_OV_mismatches": [],
+      "shared_tie_flow_field_conflicts": []
+    },
+    "exact_lineage_limit": "No saved native full-state hash or original execution/source receipt joins every four-zone TRAIN packet to this exact generator execution. The augmentation/relabel source that added coordinator candidates is not recovered by the narrow named-source inspection. The source and saved cross-zone fields support a common static snapshot, but exact simultaneous native-state provenance remains CONDITIONAL, not certified.",
+    "bus116": "The generator omits a bus voltage if res_bus lacks its row or pandas.isna(value). Four saved worlds omit116. The precise historical missing-row versus NaN cause is UNKNOWN; no voltage is filled in and no complete global map is claimed for them."
+  },
+  "teacher_policy": {
+    "local_decision_not_global_forced_proposal": true,
+    "positive_Q_source_grid": [
+      25,
+      50,
+      75,
+      100,
+      150
+    ],
+    "candidate_scope": "Worst bus plus next-lowest UV bus, at most two; not the Reflection candidate union.",
+    "null_rules": "NO_ACTION_NEEDED when local UV=0; NO_AUTOMATIC_ACTION when local UV and OV coexist; otherwise no globally accepted candidate returns NO_VERIFIED_ACTION_FOUND before the later coordinator-label transformation.",
+    "acceptance": "Local minimum must improve >1e-5; global minimum may not worsen >1e-5; global maximum<=1.06; overloaded line and transformer counts may not increase.",
+    "score": "(local UV count decreases [Boolean], local minimum improvement, -Q). This is not Reflection global UV-count ordering.",
+    "solver_source": "NR/init auto/Qlimits/checkconnectivity/tolerance1e-6/max_iteration120/numbaFalse; source only, no replay."
+  },
+  "all_pair_local_null_reasons_and_multiplicities": {
+    "NO_LOCAL_UV": 41,
+    "NO_LOCAL_UV_multiplicity": 1548,
+    "LOCAL_UV_ONLY_GLOBAL_POLICY_WITHHELD": 23,
+    "LOCAL_UV_ONLY_GLOBAL_POLICY_WITHHELD_multiplicity": 845,
+    "POSITIVE_TEACHER_ACTION": 331,
+    "POSITIVE_TEACHER_ACTION_multiplicity": 12118,
+    "LOCAL_UV_AND_OV": 41,
+    "LOCAL_UV_AND_OV_multiplicity": 1489
+  },
+  "coordinator_candidate_limit": {
+    "pairs": 23,
+    "original_nulls_preserved": true,
+    "all23_actual_best_local_trial_accepted_by_policy_false": true,
+    "example_observed_maximum": 1.1151952989664429,
+    "meaning": "A local improvement is already recorded, but its global acceptance failed. These are unapproved proposals, never safe winners or replacement positive reward labels."
+  },
+  "serving_role_difference": {
+    "source_ref": {
+      "path": "work\\e\\audit\\run_reflection_v4_safety_envelope.py",
+      "bytes": 34373,
+      "sha256": "d4b329413c91a64828ced63a0554d67e4f70d46726fc8c3ba3556d8714d9e81e"
+    },
+    "required": "When globalUV>0, propose one legal bus and one of nine Qs; do not return null. Direct response is a proposal; unchanged verifier decides safety. All four zones are asked even when a zone is locally healthy or already overvoltage.",
+    "not_a_causal_model_failure_explanation": "The source-role mismatch is verified; no claim is made that it caused a given generation, null response, bus error, benchmark result, or all old failures. The original labels are coherent with their original local-action policy."
+  },
+  "original_model_input_recipe": {
+    "notebook_ref": {
+      "path": "C:\\Users\\HOME\\Downloads\\phase_2A_Lora_traininf_1ipynb.ipynb",
+      "bytes": 5979170,
+      "sha256": "477d57275f0c65fe9fed119f6ed80bdedc29b78f3983353675f5f044dd98f6c6"
+    },
+    "source_cell_refs": [
+      {
+        "cell_index_zero_based": 14,
+        "source_sha256": "d8c8805c3358210ee0a1639bb96462752264cb70a108d37bda487ed2af749f09",
+        "lines": 80,
+        "role": "Preserve old proposed_action/null and coordinator flags while compacting assistant"
+      },
+      {
+        "cell_index_zero_based": 21,
+        "source_sha256": "fd9850e8cf3af1b8611b14652a500ce42444e9947f52475775ef210a2ad09d7e",
+        "lines": 72,
+        "role": "Build ultra-compact actor input from assistant zone/extrema/counts/state_summary"
+      },
+      {
+        "cell_index_zero_based": 36,
+        "source_sha256": "dc4618c95ffa0112062c8cd51a758c7ad24d3a059a885c37e9d155d2c0d7f8a3",
+        "lines": 90,
+        "role": "Same ultra-compact reconstruction directly from original grouped-split labels"
+      },
+      {
+        "cell_index_zero_based": 39,
+        "source_sha256": "114d85123221d764ef8ea7c693919a435d881d68a58689421a96fcf6c2717710",
+        "lines": 100,
+        "role": "Original ultra model training/loading recipe; inspected source only, not executed"
+      }
+    ],
+    "finding": "Recovered ultra-compact recipe retains nullable local-action targets and coordinator flags and constructs input using teacher zone statistics/state_summary. Reflection instead supplies globalUV, explicit candidate/Q menus and chronological feedback. Source inspection does not recertify exact historical runtime/training token bytes or rerun old audits."
+  },
+  "all_record_target_options": [
+    {
+      "option": "Preserve original local diagnosis/permission target for all436 records",
+      "admitted_semantics": "No relabeling; all16000 multiplicities and old107 connected-component grouping stay. Useful faithful numerical imitation reference, but not an exact direct forced-proposal task."
+    },
+    {
+      "option": "Named role-alignment adaptation separating proposal from permission",
+      "admitted_semantics": "The331 existing teacher actions and23 explicit coordinator candidates can be transcribed with their original approval distinction. Remaining82 null records have no recorded positive proposal; retain their null/UNKNOWN target disposition, never invent a bus/Q or call exclusion a balanced complete target. The same prepared corpus and loss masks must be shared with numerical controls and declared before fit. Four Q values still lack positive teacher examples.",
+      "blocker": "An all-record forced-positive response target is not supplied by the existing data; objective/data construction is a prospective methodological decision, not an automatic fit gate."
+    },
+    {
+      "option": "Exact chronological proposal supervision from already-paid source-bound histories",
+      "admitted_semantics": "Join exact original messages, menus, feedback, current state and saved query receipts. Keep returned, unsafe, failed and unentered labels separate; use only observed actions/outcomes, retain development exposure. This can support a genuinely different weight intervention without reopening old stopped scale work.",
+      "blocker": "Requires its own complete causal data join and split/weight/query-cost contract; the static TRAIN file cannot supply absent chronology."
+    }
+  ],
+  "recommended_smallest_next_operation": "A saved-only label-availability manifest for the proposed role-alignment corpus: all436 original pairs with331 verified local actions,23 explicitly unapproved coordinator proposals and82 unavailable positive proposals. Bind exact source prompt/target roles and old multiplicities/components, then freeze one declared objective shared with a strong numerical learner before any fit. Do not automatically promote rejected candidates, drop null worlds or synthesize all-nine-Q rewards.",
+  "new_cost_scope": {
+    "raw_input_bytes_read_for_selected_row_scan": 112587174,
+    "raw_input_rows_parsed": 436,
+    "metadata_elapsed_seconds": 0.5128425000002608,
+    "native_model_tokenizer_PF_fit_calls": 0,
+    "old_token_count_split_performance_audit_reruns": 0
+  },
+  "prior_schema_ref": {
+    "path": "outputs\\g5_original118_training_schema_join_20261109\\Causal_Schema_Join_And_Next.json",
+    "bytes": 12479,
+    "sha256": "e468fb4622390200c95b8e6227d3bff5ae6e014a1abc26725bd32db1661d2172"
+  },
+  "pair_evidence_ref": {
+    "path": "outputs\\g5_original118_generator_binding_20261109\\All436_Source_Reason_Bindings.json",
+    "bytes": 362519,
+    "sha256": "c7fca04772de4a3d7bde9a4e9dc1cfa982b75a13516da39e592354adac516de4"
+  },
+  "G5_complete": false
+}

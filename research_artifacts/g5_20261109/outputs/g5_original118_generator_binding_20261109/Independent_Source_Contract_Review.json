@@ -1,0 +1,19 @@
+{
+  "status": "PASS_NARROW_INDEPENDENT_SOURCE_SPAN_AND_DISPOSITION_REVIEW",
+  "checks": [
+    "generator_bytes_bound",
+    "source_span_run_extraction",
+    "source_span_extract_zone_state",
+    "source_span_generate_corrective_action",
+    "source_span_candidate_buses",
+    "source_span_build_training_record",
+    "source_span_run_pf",
+    "saved_disposition_denominators",
+    "serving_source_and_literal_instruction"
+  ],
+  "checks_passed": 9,
+  "report_sha256": "cafaf57986b6d3219eb19ea1cef209271d68f3477aabd1aceaa92e669da03a09",
+  "scope": "Root read generator local-null conditions, independent candidate copies, same scenario NET zone loop, original score, and source serving instruction. Source hashes/spans and existing disposition arithmetic checked; no raw436 record or16000token audit repeated.",
+  "limitation": "No recovered augmentation execution lineage or historical full-state hash; no causal performance attribution or weight-update target adopted.",
+  "new_model_PF_fit_calls": 0
+}

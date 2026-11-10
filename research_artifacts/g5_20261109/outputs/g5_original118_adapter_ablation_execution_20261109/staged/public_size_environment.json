@@ -1,0 +1,18 @@
+{
+  "gpu": "Tesla T4",
+  "exact_dependency_count": 111,
+  "dependency_differences": {},
+  "base_revision": "10413c288cb9629acdf60b3e0229f3ba75efe413",
+  "base_weight_sha256": "81aaf58f48650c8e1480ad451f870f6f1e9d69a2e824fb46ee340c890f466f32",
+  "base_snapshot": "/content/hiergrid_execution/cache/huggingface/hub/models--unsloth--qwen2.5-0.5b-instruct-unsloth-bnb-4bit/snapshots/10413c288cb9629acdf60b3e0229f3ba75efe413",
+  "config_sha256": "af6d42e9f775a1ff4a5bc6e64adfb1b05daf0e00b818105e23192627818f93ed",
+  "private_model_loaded": false,
+  "learned_forwards": 0,
+  "versions": {
+    "torch": "2.10.0+cu128",
+    "transformers": "5.5.0",
+    "peft": "0.19.1",
+    "bitsandbytes": "0.49.2",
+    "accelerate": "1.13.0"
+  }
+}

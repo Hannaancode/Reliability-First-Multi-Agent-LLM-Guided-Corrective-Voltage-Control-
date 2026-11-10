@@ -1,0 +1,181 @@
+{
+  "status": "FROZEN_ENGINEERING_PACKAGE_AWAITING_INDEPENDENT_SOURCE_GATE_NO_ALLOCATION",
+  "question": "Can the pinned original model with its private adapter disabled serve the exact original118 causal role without changing messages, parser or generation settings?",
+  "adapter_mode": "ORIGINAL118_PRIVATE_LORA_DISABLED",
+  "case_order": [
+    "fed_combined_load_1p5_line_35_MG1",
+    "fed_combined_load_1p5_line_36_MG1",
+    "fed_combined_load_1p5_line_84_MG2",
+    "fed_combined_load_1p5_line_127_MG3"
+  ],
+  "root_hashes": {
+    "fed_combined_load_1p5_line_35_MG1": "e3cfb229962f51bbb380644bd7e2bc85c1f82d7d51a7d3f1c9465979000f01a2",
+    "fed_combined_load_1p5_line_36_MG1": "88d05409063d46a68839267bd1a414cbf69ad52dc6123f1eae3f305aefdac628",
+    "fed_combined_load_1p5_line_84_MG2": "bb48ea15e244e9504f465d93b246098789f96893f4e731a1f284e0c49a059b9f",
+    "fed_combined_load_1p5_line_127_MG3": "d3b481cd440bf1cadec6686591380ac3630174026ca3f89daa948113b56f1fec"
+  },
+  "planned_generations": {
+    "primary": 4,
+    "cold_first_only": 1
+  },
+  "planned_model_loads": 2,
+  "science_process_seconds": 900,
+  "science_process_closure_allowance_seconds": 120,
+  "setup_seconds": 1800,
+  "collector_seconds": 2100,
+  "storage_bound_bytes": 1073741824,
+  "seed": 20261022,
+  "base_for_new_experiment": {
+    "repo": "unsloth/qwen2.5-0.5b-instruct-unsloth-bnb-4bit",
+    "revision": "10413c288cb9629acdf60b3e0229f3ba75efe413",
+    "public_weight_sha256": "81aaf58f48650c8e1480ad451f870f6f1e9d69a2e824fb46ee340c890f466f32",
+    "historical_original_SFT_base_revision": "UNRECOVERED;newpinnedbaseidentitymustbedisclosed"
+  },
+  "private_adapter_tokenizer_unchanged": {
+    "adapter_config.json": "54ea23e4928539176674f335abb5eb66d70af1aec99969346c74b4bf4bc3b849",
+    "adapter_model.safetensors": "a9749cf75e11948b3e830b595536a3599d89c062f7ffa725968b996106863c98",
+    "chat_template.jinja": "cd8e9439f0570856fd70470bf8889ebd8b5d1107207f67a5efb46e342330527f",
+    "README.md": "9c030f4863930abdff629e1a2faa9121742d73b63d4147f2ea23aca670f7985c",
+    "tokenizer.json": "bd5948af71b4f56cf697f7580814c7ce8b80595ef985544efcacf716126a2e31",
+    "tokenizer_config.json": "ecb8c112cb1632122a76aec9f5bb3250b10c59cbbee94a0e1b03f2d94e1bebf8"
+  },
+  "original_serving_sources": {
+    "work/e/audit/phase2g_multiagent_llm_runner.py": "92730de74f76e21c97ea1a20bd9aa8dde33371a8e5d47b5dc896a7e204660de4",
+    "work/e/audit/phase2g_rescue_runner.py": "6e2f33faf63c3e6d314680455f478e63102f6361453b43c9a454022a832b84ed",
+    "work/e/audit/phase2g_llm_guided_rescue_runner.py": "e81270c556d13eab830b76136ef49cd27a5563ed8d1de92344bdd8a37ea09028",
+    "work/e/audit/run_reflection_v4_safety_envelope.py": "d4b329413c91a64828ced63a0554d67e4f70d46726fc8c3ba3556d8714d9e81e",
+    "work/e/pack/scripts/phase2d_iterative_blackboard_v0.py": "ee9555bc049f2183fc74a906b2f873c6b6758d426a653c1702fefdb70be750e7",
+    "work/e/audit/phase2d_iterative_blackboard_v2_deficit_aware.py": "195fac86531338226bade792421aaee2eb6d91a421545a615486320b41148c71"
+  },
+  "immutable_inference_contract": {
+    "adapter_mode": "ORIGINAL118_PRIVATE_LORA_DISABLED",
+    "base_for_new_experiment": {
+      "repo": "unsloth/qwen2.5-0.5b-instruct-unsloth-bnb-4bit",
+      "revision": "10413c288cb9629acdf60b3e0229f3ba75efe413",
+      "public_weight_sha256": "81aaf58f48650c8e1480ad451f870f6f1e9d69a2e824fb46ee340c890f466f32",
+      "historical_original_SFT_base_revision": "UNRECOVERED;newpinnedbaseidentitymustbedisclosed"
+    },
+    "private_adapter_tokenizer_unchanged": {
+      "adapter_config.json": "54ea23e4928539176674f335abb5eb66d70af1aec99969346c74b4bf4bc3b849",
+      "adapter_model.safetensors": "a9749cf75e11948b3e830b595536a3599d89c062f7ffa725968b996106863c98",
+      "chat_template.jinja": "cd8e9439f0570856fd70470bf8889ebd8b5d1107207f67a5efb46e342330527f",
+      "README.md": "9c030f4863930abdff629e1a2faa9121742d73b63d4147f2ea23aca670f7985c",
+      "tokenizer.json": "bd5948af71b4f56cf697f7580814c7ce8b80595ef985544efcacf716126a2e31",
+      "tokenizer_config.json": "ecb8c112cb1632122a76aec9f5bb3250b10c59cbbee94a0e1b03f2d94e1bebf8"
+    },
+    "generation_source_sha256": "92730de74f76e21c97ea1a20bd9aa8dde33371a8e5d47b5dc896a7e204660de4",
+    "do_sample": false,
+    "num_beams": 1,
+    "max_new_tokens": 384,
+    "use_cache": true,
+    "seed": 20261022,
+    "attention_backend": "sdpa",
+    "base_quantization": "original pinned NF4",
+    "actual_environment": {
+      "base_revision": "10413c288cb9629acdf60b3e0229f3ba75efe413",
+      "base_weight_sha256": "81aaf58f48650c8e1480ad451f870f6f1e9d69a2e824fb46ee340c890f466f32",
+      "config_sha256": "af6d42e9f775a1ff4a5bc6e64adfb1b05daf0e00b818105e23192627818f93ed",
+      "versions": {
+        "torch": "2.10.0+cu128",
+        "transformers": "5.5.0",
+        "peft": "0.19.1",
+        "bitsandbytes": "0.49.2",
+        "accelerate": "1.13.0"
+      },
+      "exact_dependency_count": 111,
+      "dependency_differences": {}
+    },
+    "actual_base_immutable_inventory_sha256": "25eb42ee7db8aacb96ffc15db881af8c4188b9d47a34bc4a9bd6e2fa5a0c3194"
+  },
+  "remote_source_hashes": {
+    "work/g5_original118_ablation_contract.py": "5c3c69ca55564f68cbc1e2b26ca2a7103d4c21584d147bbc172c0bb1ee22e5eb",
+    "work/run_g5_original118_adapter_disabled_remote_20261109.py": "0c3d2b7d4b3b6f665fedaed29d3bfa4e582b38ac7dc15d35d7718eefb42686c7",
+    "work/candidate_process_pretrained_loader_native13_v2_20261020.py": "8e401bad5e0c59f634371ff65830d41475108edd7317685c0c41f0f3c3c8c7c2",
+    "work/original_reflection_serving_pure_20261022.py": "922b79fee994b4edb876928d5d5ca54857853bd95ac61d0ea669978567d38faf",
+    "work/original_reflection_tokenizer_tensor_view_v2_20261022.py": "f2fac57c05d97f4135b10c62581c392412a16f72e4a995ecd600d603878d8c7b",
+    "work/public_size_u61_preservation.py": "df4d5fa2a41142c272a6cc433a88b9e4146d217742edf46df32d7ba10680e45e",
+    "work/g5_original118_ablation_guardian.py": "42753f03e8d51fa9544cfa6be68e7a00e104a888a92ab4f14ac7ccbd2a73259b",
+    "work/native13_lora_setup_remote_v2_20261020.py": "491eae959f9deccd873d929d7552c9b0c6edc9ef71ec6fca451bd48249f92caf",
+    "work/native13_lora_environment_check_v2_20261020.py": "2087d02c5cf6c3a98eeb78cf90cdae47e7a5d8ce6ef3b1a5f6ab00586387756a",
+    "work/frozen_gpu_requirements.txt": "8c930de469e7f41e7e5cee5993e67e697f445288b35b600ffe28e5495db9630f",
+    "work/frozen_dependency_closure.txt": "02213429329b8d07cce2b74bbe3c94a0ffd32580a1b4ad322dc4409b42c5835d",
+    "work/uv_bootstrap_version.txt": "b1b7a5c1ef000e41e59d49a43910ea15625feaaef3b7062cbbf7dab1d4a4a6b6",
+    "work/e/audit/phase2g_multiagent_llm_runner.py": "92730de74f76e21c97ea1a20bd9aa8dde33371a8e5d47b5dc896a7e204660de4",
+    "work/e/audit/phase2g_rescue_runner.py": "6e2f33faf63c3e6d314680455f478e63102f6361453b43c9a454022a832b84ed",
+    "work/e/audit/phase2g_llm_guided_rescue_runner.py": "e81270c556d13eab830b76136ef49cd27a5563ed8d1de92344bdd8a37ea09028",
+    "work/e/audit/run_reflection_v4_safety_envelope.py": "d4b329413c91a64828ced63a0554d67e4f70d46726fc8c3ba3556d8714d9e81e",
+    "work/e/pack/scripts/phase2d_iterative_blackboard_v0.py": "ee9555bc049f2183fc74a906b2f873c6b6758d426a653c1702fefdb70be750e7",
+    "work/e/audit/phase2d_iterative_blackboard_v2_deficit_aware.py": "195fac86531338226bade792421aaee2eb6d91a421545a615486320b41148c71"
+  },
+  "remote_file_mapping": {
+    "work/g5_original118_ablation_contract.py": "work/g5_original118_adapter_ablation_20261109/contract.py",
+    "work/run_g5_original118_adapter_disabled_remote_20261109.py": "work/g5_original118_adapter_ablation_20261109/remote_owner.py",
+    "work/candidate_process_pretrained_loader_native13_v2_20261020.py": "work/candidate_process_pretrained_loader_native13_v2_20261020.py",
+    "work/original_reflection_serving_pure_20261022.py": "work/original_reflection_serving_pure_20261022.py",
+    "work/original_reflection_tokenizer_tensor_view_v2_20261022.py": "work/original_reflection_tokenizer_tensor_view_v2_20261022.py",
+    "work/public_size_u61_preservation.py": "work/public_size_u61_preservation.py",
+    "work/g5_original118_ablation_guardian.py": "work/g5_original118_adapter_ablation_20261109/guardian.py",
+    "work/native13_lora_setup_remote_v2_20261020.py": "work/native13_lora_setup_remote_v2_20261020.py",
+    "work/native13_lora_environment_check_v2_20261020.py": "work/native13_lora_environment_check_v2_20261020.py",
+    "work/frozen_gpu_requirements.txt": "work/frozen_gpu_requirements.txt",
+    "work/frozen_dependency_closure.txt": "work/frozen_dependency_closure.txt",
+    "work/uv_bootstrap_version.txt": "work/uv_bootstrap_version.txt",
+    "work/e/audit/phase2g_multiagent_llm_runner.py": "work/e/audit/phase2g_multiagent_llm_runner.py",
+    "work/e/audit/phase2g_rescue_runner.py": "work/e/audit/phase2g_rescue_runner.py",
+    "work/e/audit/phase2g_llm_guided_rescue_runner.py": "work/e/audit/phase2g_llm_guided_rescue_runner.py",
+    "work/e/audit/run_reflection_v4_safety_envelope.py": "work/e/audit/run_reflection_v4_safety_envelope.py",
+    "work/e/pack/scripts/phase2d_iterative_blackboard_v0.py": "work/e/pack/scripts/phase2d_iterative_blackboard_v0.py",
+    "work/e/audit/phase2d_iterative_blackboard_v2_deficit_aware.py": "work/e/audit/phase2d_iterative_blackboard_v2_deficit_aware.py"
+  },
+  "fixed_profile": {
+    "public_0_5B": {
+      "account": "abdulhannaan2002@gmail.com"
+    }
+  },
+  "engineering_acceptance": [
+    "Actual exact base/private tensor/tokenizer identity and 168 unmerged layer states disabled during EVERY actual forward; zero trainable parameters.",
+    "All4 full causal token sequences equal existing receipts, no truncation, no message or source-generation changes.",
+    "Actual raw token/text outcomes all retained even if malformed, null or no legal action; no success-based case or prompt choice.",
+    "A genuinely fresh second model load repeats only first disabled context as the predeclared separately charged cold replica, exact tokens/text and immutable quantized/private tensor inventories.",
+    "Every actual attempt/return/failure/cost plus checkpoint/RNG and owner/assignment/transport/preservation closure independently bound."
+  ],
+  "technical_failure_rule": "Preserve all artifacts and stop; no retry, other-account fallback, old budget extension or scientific call replacement.",
+  "no_performance_gate": "Invalid/null outputs do not fail engineering and do not authorize output repair; full controller decides their consequences later under original parser/fallback.",
+  "old_science": "All enabled trajectories/requests and the native13 disabled study stay closed and are not rerun.",
+  "future_receipt_reuse": "Keep four new primary disabled outputs under exact model-mode/input keys for later original controller invocation; never serve an enabled response in the disabled arm or repeat these primary calls.",
+  "native_and_training_calls_admitted": 0,
+  "ready_gpu": false,
+  "remaining_before_allocation": [
+    "Independent current source/input review and saved-only partial-aware reader implementation/source lock.",
+    "One exact original-profile host/coordinator/remote-child ownership and assignment protocol, setup/dependency lock, bounded process/collector/release/preservation implementation.",
+    "Scoped original118 disabled-arm prior-history review; finite known six enabled hosts and old native13 input exclusion are not a universal absence certificate.",
+    "Packaging/privacy/source manifest bound to the actual original same account; no allocation merely because a profile is eligible."
+  ],
+  "profiles": {
+    "public_0_5B": {
+      "account": "abdulhannaan2002@gmail.com"
+    }
+  },
+  "historical_actual_environment": {
+    "base_revision": "10413c288cb9629acdf60b3e0229f3ba75efe413",
+    "base_weight_sha256": "81aaf58f48650c8e1480ad451f870f6f1e9d69a2e824fb46ee340c890f466f32",
+    "config_sha256": "af6d42e9f775a1ff4a5bc6e64adfb1b05daf0e00b818105e23192627818f93ed",
+    "versions": {
+      "torch": "2.10.0+cu128",
+      "transformers": "5.5.0",
+      "peft": "0.19.1",
+      "bitsandbytes": "0.49.2",
+      "accelerate": "1.13.0"
+    },
+    "exact_dependency_count": 111,
+    "dependency_differences": {}
+  },
+  "historical_immutable_inventory_sha256": "25eb42ee7db8aacb96ffc15db881af8c4188b9d47a34bc4a9bd6e2fa5a0c3194",
+  "runtime_binding_ref": {
+    "path": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Original_Enabled_Runtime_Binding.json",
+    "bytes": 11369,
+    "sha256": "1213c4970eecae3c2497d378cfb5f858702e0104d4f4676a686bef5ffc55f8bd"
+  },
+  "request_key_scope": "Transport/case provenance identity; no universal prior-input-disjointness claim. All4 exact token inputs are pairwise distinct. Future global inference reuse must also bind actual token/model/adapter-mode/decode/RNG identity.",
+  "returned_output_preservation": "Observed generation return marker, full raw token sequence saved before postchecks, decoded text saved before RNG/footer; closure writes within fixed1020sec process envelope. Unpreserved return stays UNKNOWN."
+}

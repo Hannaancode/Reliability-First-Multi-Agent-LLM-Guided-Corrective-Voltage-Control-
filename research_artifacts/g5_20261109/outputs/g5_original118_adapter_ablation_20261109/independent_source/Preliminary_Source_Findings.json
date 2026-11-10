@@ -1,0 +1,72 @@
+{
+  "status": "PRELIMINARY_SOURCE_REVIEW_REQUIRE_NARROW_READER_DELTA_AND_HISTORY_GATE",
+  "source_refs": {
+    "remote_owner.py": {
+      "path": "work/g5_original118_adapter_ablation_20261109/remote_owner.py",
+      "sha256": "0c3d2b7d4b3b6f665fedaed29d3bfa4e582b38ac7dc15d35d7718eefb42686c7",
+      "bytes": 13715
+    },
+    "saved_reader.py": {
+      "path": "work/g5_original118_adapter_ablation_20261109/saved_reader.py",
+      "sha256": "be538f9a6f2fe4c28e5659759800908c9e595250ae4bfaedc8584ebe4ad1f7eb",
+      "bytes": 13665
+    },
+    "contract.py": {
+      "path": "work/g5_original118_adapter_ablation_20261109/contract.py",
+      "sha256": "5c3c69ca55564f68cbc1e2b26ca2a7103d4c21584d147bbc172c0bb1ee22e5eb",
+      "bytes": 2421
+    },
+    "guardian.py": {
+      "path": "work/g5_original118_adapter_ablation_20261109/guardian.py",
+      "sha256": "42753f03e8d51fa9544cfa6be68e7a00e104a888a92ab4f14ac7ccbd2a73259b",
+      "bytes": 3956
+    },
+    "coordinator.py": {
+      "path": "work/g5_original118_adapter_ablation_20261109/coordinator.py",
+      "sha256": "b3abb04bda0a319f9f4077da22b8e03271548e4154d01932516467a186117a61",
+      "bytes": 2986
+    },
+    "host.py": {
+      "path": "work/g5_original118_adapter_ablation_20261109/host.py",
+      "sha256": "17893ba3d573b0c910fc6eed8245428c62b7075db5356c205e7d1426206daff2",
+      "bytes": 19012
+    },
+    "build_execution.py": {
+      "path": "work/g5_original118_adapter_ablation_20261109/build_execution.py",
+      "sha256": "3e7a7862a083e120159a866a2f8c5de156c93d5ad9660fde9de201bc44610023",
+      "bytes": 14615
+    }
+  },
+  "confirmed_source_properties": [
+    "four_original_contexts_in_fixed_order_plus_exact_first_cold_only",
+    "mode_mandatory_in_request_identity_and_return",
+    "every_actual_forward_requires168disabled_unmerged_layers",
+    "no_enabled_generation_training_or_native_call_in_source",
+    "new_return_marker_and_full_tokens_before_postchecks",
+    "decoded_text_before_RNG_footer",
+    "two_fresh_model_loads_same_pinned_base_private_tensor_inventory",
+    "900second_science_and120closure_bound_no_model_retry",
+    "one_fixed_profile_and_assignment_no_denial_retry_or_fallback",
+    "old07137_source_and_original_failures_retained"
+  ],
+  "remaining_findings": [
+    {
+      "id": "REMOTE_CUSTODY_JOIN",
+      "status": "REQUIRES_READER_METADATA_CHECK",
+      "detail": "Explicitly join remote_claim PID/parent/source to descriptor science_pid, child_identity, guardian_claim and captured command/start identity."
+    },
+    {
+      "id": "FINAL_CLOSURE_PARTIAL",
+      "status": "REQUIRES_READER_PARTIAL_BRANCH",
+      "detail": "All5 complete per-response receipts do not establish final cold/publication closure. Require complete Results plus exit0 and no Failure for full PASS; otherwise retain structured partial outcomes/costs."
+    },
+    {
+      "id": "TREATMENT_HISTORY_SCOPE",
+      "status": "SEPARATE_ALLOCATION_GATE_UNKNOWN",
+      "detail": "Earlier private/security pilots remain unjoined in source findings. Six enabled-runtime matching is not universal absence of prior original118 adapter-disabled calls."
+    }
+  ],
+  "saved9_boundary_checks_reused_not_rerun": true,
+  "new_tests_native_model_GPU_network_calls": 0,
+  "review_scope": "Source readiness only; root handles final admission and runtime."
+}

@@ -1,0 +1,41 @@
+{
+  "status": "PASS_SOFTWARE_ONLY",
+  "checks": [
+    {
+      "label": "all4_exact_original_messages_and_token_ids",
+      "pass": true
+    },
+    {
+      "label": "enabled_treatment_refused_as_disabled_input",
+      "pass": true
+    },
+    {
+      "label": "world_order_substitution_refused",
+      "pass": true
+    },
+    {
+      "label": "truncated_original_tokens_refused",
+      "pass": true
+    },
+    {
+      "label": "enabled_response_output_field_refused",
+      "pass": true
+    },
+    {
+      "label": "enabled_model_contract_key_refused",
+      "pass": true
+    },
+    {
+      "label": "correct_disabled_receipt_identity_accepted_software_only",
+      "pass": true
+    },
+    {
+      "label": "enabled_return_never_reused_for_disabled",
+      "pass": true
+    },
+    {
+      "label": "all4_exact_token_inputs_disjoint_from_old_native13_disabled_six",
+      "pass": true
+    }
+  ]
+}

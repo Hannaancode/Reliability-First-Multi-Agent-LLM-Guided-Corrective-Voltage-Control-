@@ -1,0 +1,112 @@
+{
+  "status": "PASS_ORIGINAL118_DISABLED_ENGINEERING_SOURCE",
+  "passed": true,
+  "checks_passed": 26,
+  "checks": [
+    "fixed_all4_original_context_order_plus_one_declared_first_cold",
+    "exact_original_token_sequences_and_private_tokenizer_gate_no_truncation",
+    "mode_mandatory_in_input_request_key_and_return_identity",
+    "original_generate_response_AST_384greedy_no_parser_rescue",
+    "loaded_private_tensor_copy_exact_and_zero_trainable_parameters",
+    "two_fresh_same_base_model_loads_no_enabled_generation",
+    "168_disabled_unmerged_layer_states_before_every_observed_forward",
+    "return_marker_and_complete_raw_tokens_before_postchecks",
+    "decoded_text_retained_before_RNG_footer",
+    "all_null_invalid_adverse_outputs_retained_no_quality_gate",
+    "same_actual_six_enabled_runtime_inventory_binding_scoped_to2026_serving",
+    "historical_paper_SFT_base_revision_remains_unknown",
+    "finite_known_treatment_history_disclosed_no_specific_matching_disabled_identity",
+    "old_native13_disabled_inputs_differ_stopped_study_not_reentered",
+    "actual_remote_child_parent_guardian_source_command_start_identity_join",
+    "fresh_guardian_terminal_probe_and_artifact_closure_before_release",
+    "saved_reader_requires_fullResults_exit0_noFailure_for_complete",
+    "all5_receipt_but_final_failure_remains_structured_partial",
+    "900science_plus120closure_and_local4200_600_bounds_unchanged",
+    "one_original_profile_one_assignment_no_account_fallback",
+    "definite401403429_precludes_recovery_GET_or_closed_retry",
+    "uncertain_transport_recovery_only_same_assignment_identity",
+    "no_native_PF_optimizer_backward_or_training_in_actual_remote_source",
+    "allowlisted_package_and_current_sources_exactly_bound",
+    "additive_local_fixes_preserve_original_sources_and_payload",
+    "saved9_input_boundaries_and10_denial_checks_reused_without_rerun"
+  ],
+  "prepared_launch_bindings_ref": {
+    "path": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Prepared_Launch_Bindings_v4.json",
+    "bytes": 6118,
+    "sha256": "f83e49cf1e94134b2889dc4328d14560ec1312211795c58b54993a47e395b9ab"
+  },
+  "protocol_ref": {
+    "path": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Frozen_Engineering_Protocol.json",
+    "bytes": 13191,
+    "sha256": "4e2735ffff065804a94a98bade2e6eb2cf9b4a31795265f0236c8c050c969193"
+  },
+  "active_primary": {
+    "source": "work/g5_original118_adapter_ablation_20261109/host_v2.py",
+    "sha256": "c1b4682302e240099b404e2a0fded74b6bc9c0db29a92db34d9064dceb09f322",
+    "output": "outputs/g5_original118_adapter_ablation_execution_20261109",
+    "coordination": "outputs/g5_original118_adapter_ablation_coordination_20261109",
+    "python": "work/colab_access_env/Scripts/python.exe",
+    "bound_seconds": 4200
+  },
+  "active_reader": {
+    "source": "work/g5_original118_adapter_ablation_20261109/saved_reader_v3.py",
+    "sha256": "70b46b02150b58b36c1cd409cd662cb41fd5e59524371afaa8b19c6d98961f35",
+    "output": "outputs/g5_original118_adapter_ablation_independent_20261109",
+    "coordination": "outputs/g5_original118_adapter_ablation_reader_coordination_20261109",
+    "python": "work/vcsa_module_env/Scripts/python.exe",
+    "bound_seconds": 600
+  },
+  "active_coordinator_ref": {
+    "path": "work/g5_original118_adapter_ablation_20261109/coordinator_v3.py",
+    "bytes": 3046,
+    "sha256": "6f5350c9b18ea558163fdd5eb5d9ec52a8a7359e0d5db84a9b53916a25bc460e"
+  },
+  "reviewed_exact_pin_count": 30,
+  "finite_history_disposition_ref": {
+    "path": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Finite_Treatment_History_Disposition.json",
+    "bytes": 4286,
+    "sha256": "4ec67e222355df8f5a10c0491762f2f5b42f96fdef5baaeae069f16a9fde6728"
+  },
+  "original_enabled_runtime_binding_ref": {
+    "path": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Original_Enabled_Runtime_Binding.json",
+    "bytes": 11369,
+    "sha256": "1213c4970eecae3c2497d378cfb5f858702e0104d4f4676a686bef5ffc55f8bd"
+  },
+  "reused_software_checks": [
+    {
+      "path": "outputs/g5_original118_adapter_ablation_20261109/Software_Boundary_Checks.json",
+      "bytes": 933,
+      "sha256": "09150533f922c3327d02b35d311549119241ece75b2ea180ea9caacf58e67228"
+    },
+    {
+      "path": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Local_Denial_Boundary_Checks.json",
+      "bytes": 1244,
+      "sha256": "75c10ff89878fcba82cb17c0efa10381a227bfd50a66013fe0925b4c8ee0a3b2"
+    }
+  ],
+  "preliminary_findings_ref": {
+    "path": "outputs/g5_original118_adapter_ablation_20261109/independent_source/Preliminary_Source_Findings.json",
+    "bytes": 3388,
+    "sha256": "780c78644e5311a462da7cf1522e1fe65d8f13c14d7ef82535419bad61fe3f71"
+  },
+  "resolved_preliminary_findings": [
+    "REMOTE_CUSTODY_JOIN",
+    "FINAL_CLOSURE_PARTIAL"
+  ],
+  "history_clarification": "Finite known relevant source/treatment/input roster is sufficient for this new role. Generic older unknowns are disclosed limitations, not a requirement to prove universal absence. A concrete matching or unresolved exact disabled identity would still block entry. This supersedes any broader admission-barrier reading of the preliminary note.",
+  "actual_calls_by_reviewer": {
+    "native": 0,
+    "model": 0,
+    "GPU": 0,
+    "network": 0,
+    "old_audit_rerun": 0,
+    "old_test_suite_rerun": 0
+  },
+  "limitations": [
+    "Source engineering only: no actual GPU allocation, model outputs or complete trajectory yet.",
+    "Root must perform fresh actual PID/parent/command/source/claim/assignment admission before one launch.",
+    "No paper-era base revision recovery, all-history absence, performance win or causal LLM-superiority conclusion.",
+    "Current immutable runtime comparison is to actual2026 enabled-serving evidence; legacy training and preparation costs remain inherited.",
+    "Full trajectories require separately prepared causal controller state/paid physical history/common protection and full costs."
+  ]
+}

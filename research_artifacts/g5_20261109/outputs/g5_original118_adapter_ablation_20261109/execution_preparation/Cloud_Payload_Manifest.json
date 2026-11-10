@@ -1,0 +1,8 @@
+{
+  "archive": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Original118_Disabled_Four_Causal_Inputs_Only.zip",
+  "bytes": 34861413,
+  "sha256": "bc43868d2752bdabd0f78b87d7afcaedadc2bd0785f0c7f61e33b3048748d299",
+  "members": 27,
+  "human_authority_source": "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Direct_Human_Authority.json",
+  "human_authority_sha256": "cf5cffdde4998fe59b6162794d47736190929089e346767774f069286851bd23"
+}

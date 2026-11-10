@@ -1,0 +1,7 @@
+{
+  "raw_text": "```json\n{\n  \"bus\": \"20\",\n  \"q_mvar\": 150\n}\n```",
+  "request_key": "f20e905198564bd5da5f6d11ca7d4b525293b75064be77d7d3bdb5da0e8dc00d",
+  "adapter_mode": "ORIGINAL118_PRIVATE_LORA_DISABLED",
+  "case_id": "fed_combined_load_1p5_line_127_MG3",
+  "replica": "primary"
+}

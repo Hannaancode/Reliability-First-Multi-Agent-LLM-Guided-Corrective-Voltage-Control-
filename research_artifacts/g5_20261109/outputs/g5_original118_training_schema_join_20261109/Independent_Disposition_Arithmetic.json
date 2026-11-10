@@ -1,0 +1,22 @@
+{
+  "status": "PASS_INDEPENDENT_SAVED_DISPOSITION_ARITHMETIC_ONLY",
+  "at_utc": "2026-11-09T11:48:31.878502+00:00",
+  "counts": {
+    "NULL_WITH_GLOBAL_UV": 101,
+    "LEGAL_OBSERVED_SINGLE_TEACHER_CHOICE": 331,
+    "SOURCE_SKIPPED_GLOBAL_ZERO": 4
+  },
+  "multiplicities": {
+    "NULL_WITH_GLOBAL_UV": 3732,
+    "LEGAL_OBSERVED_SINGLE_TEACHER_CHOICE": 12118,
+    "SOURCE_SKIPPED_GLOBAL_ZERO": 150
+  },
+  "complete_chronological_native_join": false,
+  "null_labels_may_be_valid_for_original_local_role": true,
+  "static_union_not_proven_simultaneous_native_state": true,
+  "raw16000_source_rejoin_or_tokenization_repeated": false,
+  "model_PF_training_calls": 0,
+  "result_sha256": "e468fb4622390200c95b8e6227d3bff5ae6e014a1abc26725bd32db1661d2172",
+  "dispositions_sha256": "470253a93a57477cb58de9919376ba8f344472288a08aa377758e7902395245d",
+  "performance_effect": "UNMEASURED; no oldfailure causal explanation or superiority claim."
+}

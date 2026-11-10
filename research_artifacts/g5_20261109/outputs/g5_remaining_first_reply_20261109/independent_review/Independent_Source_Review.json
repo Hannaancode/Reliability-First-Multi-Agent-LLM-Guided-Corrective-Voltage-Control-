@@ -1,0 +1,66 @@
+{
+  "status": "PASS_G5_REMAINING_FIRST_PAID_REPLY_SOURCE",
+  "scope": "NARROW_SOURCE_DELTA_ONLY_NOT_RUNTIME_RESULT_OR_LAUNCH",
+  "protocol_ref": {
+    "path": "outputs/g5_remaining_first_reply_20261109/Protocol.json",
+    "bytes": 19293,
+    "sha256": "b6f97acb61d371e0268c676c3aaeadc0a31618464ad8334b1e829cbeb15255af"
+  },
+  "protocol_sha256": "b6f97acb61d371e0268c676c3aaeadc0a31618464ad8334b1e829cbeb15255af",
+  "metadata_check_count": 21,
+  "metadata_checks": [
+    "exact frozen work/g5_remaining_first_reply_20261109/owner.py",
+    "exact frozen work/g5_remaining_first_reply_20261109/reader.py",
+    "exact frozen work/g5_remaining_first_reply_20261109/coordinate.py",
+    "exact frozen work/g5_remaining_first_reply_20261109/continuation.py",
+    "exact frozen work/g5_remaining_first_reply_20261109/paid_prefix.py",
+    "exact frozen work/g5_remaining_first_reply_20261109/prepare.py",
+    "exact frozen outputs/g5_remaining_first_reply_20261109/owner_Protocol.json",
+    "exact frozen outputs/g5_remaining_first_reply_20261109/reader_Protocol.json",
+    "exact frozen outputs/g5_remaining_first_reply_20261109/Historical_Cost_Bindings.json",
+    "exact saved first-decision reference bytes",
+    "reference belongs to closed prior owner manifest",
+    "prior independent closed-reference validation and partial status retained",
+    "remaining paid first reply was unconsumed; old scientific calls zero",
+    "prior owner and reader terminal recorded",
+    "unchanged continuation.py",
+    "unchanged paid_prefix.py",
+    "exact owner source and absolute process bound",
+    "exact reader source and absolute process bound",
+    "fixed finite work closure and storage bounds",
+    "prior failure and complete cost provenance retained",
+    "fixed first root with all-four eventual scope"
+  ],
+  "source_inspection_check_count": 9,
+  "source_inspection_checks": [
+    "Owner compares entire supported actual snapshot to frozen same-boundary reference before cached reply; no field stripping, cache mutation, tolerant comparison or fallback.",
+    "Original post-initializer continuation AST construction and raw paid-prefix bridge are byte-identical to prior reviewed sources.",
+    "Paid bridge checks exact causal messages, request contract hash, token IDs, disabled treatment, primary identity and unchanged RNG; durable reserve/ready records precede returned raw text.",
+    "Second generation persists unmeasured pending request and raises BaseException Frontier; public native wrapper persists full snapshot/kwargs and stops before solver body.",
+    "Owner source profile prohibits native conversion/solver/model bodies; no initializer call is allowed; parsed outputs are not repaired.",
+    "Pending causal fields and RNG, paid cursor and historical costs are saved; no full suspended-frame restart proof is claimed.",
+    "Reader is saved-only, requires closed actual chain, verifies complete manifest/full reference/source proof/exact message/paid journal and zero science; partial is retained.",
+    "Coordinator refuses existing destinations, pins both role protocols via main source map and checks one final protocol gate before spawn; root must fresh-check actual ownership.",
+    "Comparison remains explicitly conditional on archived solved initial state; historical backend provenance and full-trajectory/same-information/LLM superiority remain unproved."
+  ],
+  "prior_reference_ref": {
+    "path": "outputs/g5_conditional_archived_start_20261109/owner/Actual_First_Decision_Start.json",
+    "bytes": 900931,
+    "sha256": "33143abbc527f8f145e927c5c22421ad5304c7068d25bf0286c908efea05c8a3"
+  },
+  "constraints": [
+    "Root alone owns actual launch and fresh exact PID/parent/command/source/custody check.",
+    "Only unconsumed first paid reply and ensuing previously unentered frontier; necessary prefix/decode overhead remains charged.",
+    "Any whole-snapshot or message mismatch stops as a preserved partial; do not repair caches or relax comparison.",
+    "No old owner restart, native or model call, old audit rerun or fixture rerun was performed during this review."
+  ],
+  "review_execution": {
+    "stdlib_metadata_only": true,
+    "native_imports": 0,
+    "NET_decodes": 0,
+    "controller_calls": 0,
+    "PF_model_calls": 0,
+    "fixture_runs": 0,
+    "prior_audit_reruns": 0
+  }
+}

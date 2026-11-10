@@ -1,0 +1,35 @@
+{
+  "kind": "PROSPECTIVE_SAVED_METADATA_SUPPORT_CENSUS_NOT_TRAINING",
+  "population": "All direct_HGVF_records in the existing four-root component ledger, in original ledger order. No outcome filtering.",
+  "fixed_worlds": [
+    "fed_combined_load_1p5_line_35_MG1",
+    "fed_combined_load_1p5_line_36_MG1",
+    "fed_combined_load_1p5_line_84_MG2",
+    "fed_combined_load_1p5_line_127_MG3"
+  ],
+  "causal_input_fields": [
+    "zone_state",
+    "global_uv",
+    "candidate_buses",
+    "action"
+  ],
+  "target": "Original native verifier accepted boolean for a non-null proposal with an explicitly converged returned candidate result. Rejection is not necessarily unsafe: all original reason strings retained.",
+  "no_action_rule": "Null and pretest records remain in population but are not negative physical labels or avoided-PF opportunities.",
+  "unresolved_rule": "Nonconvergence, missing before/after/converged/accepted, or source mismatch cannot fabricate a binary physical label.",
+  "leakage_rule": "No verifier/before/after/score/response/commit outcome or future history enters the feature packet. Source zone/global/candidate/action fields are copied only.",
+  "context_limit": "This is a NEW named action-conditioned critic packet, not the exact historical generation prompt: feedback memory and token IDs are not recovered here.",
+  "split_rule": "No random row split. Four outage worlds share the same registered base and all are inspected development. No unused confirmation or disconnected split is asserted.",
+  "work_bound_seconds": 60,
+  "read_bound_bytes": 16777216,
+  "cost_scope": "One metadata census, source JSON reads, hashes and serialization only. Prior model/PF/preparation/training/failure costs retained by reference, not zeroed.",
+  "not_authorized": [
+    "training",
+    "GPU allocation",
+    "inference",
+    "PF",
+    "native decode",
+    "controller calls",
+    "old audit rerun",
+    "policy or guard modification"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "initializer_and_old_branch_costs": "All original paid initializer, controller/model/training/setup/verification/failure costs retained, unknowns not zero",
+  "prior_cost_ref": {
+    "path": "outputs/g5_disabled_frontier_20261109/Historical_Cost_Bindings.json",
+    "bytes": 1078,
+    "sha256": "f746b7a1fb67c0da643d2fd3a343584f46ce2d65156a7dcfd4e5d70ce785068a"
+  },
+  "failed_prefix_result_ref": {
+    "path": "outputs/g5_disabled_frontier_20261109/owner/Result.json",
+    "bytes": 1141,
+    "sha256": "806c019bce81abc6ee59e1dfc7a43ab942ac2e9107feaabf8fa83d888fee92fb"
+  },
+  "input_observation_result_ref": {
+    "path": "outputs/g5_initializer_observation_20261109/owner/Result.json",
+    "bytes": 1335,
+    "sha256": "4ff365b7e4385693ffa23ac4eecfe264bc8d6bc47aa466b7e6c12a94b5640cf2"
+  },
+  "representation_diagnosis_ref": {
+    "path": "outputs/g5_initializer_representation_20261109/Saved_Input_Representation_Diagnosis.json",
+    "bytes": 7023,
+    "sha256": "20afda9e2bb0a184d35de52e0f955713f90e501ec0810e5bcf655f2e4549d9cc"
+  },
+  "prior_engineering_model_call_count": 5,
+  "new_engineering_after_NET_decode_cost": "Exactly one required new load of the archived solved input, charged setup,0PF/model"
+}

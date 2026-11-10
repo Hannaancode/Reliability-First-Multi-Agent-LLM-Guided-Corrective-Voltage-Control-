@@ -1,0 +1,100 @@
+{
+  "status": "COMPLETE_SAVED_CAUSAL_FIELD_SUPPORT_CENSUS_TRAINING_NOT_READY",
+  "population_rows": 308,
+  "counts": {
+    "OBSERVED_NATIVE_ACCEPTED": 68,
+    "OBSERVED_NATIVE_REJECTED": 124,
+    "PRETEST_OR_NULL_NOT_PHYSICAL_NEGATIVE": 116
+  },
+  "world_counts": {
+    "fed_combined_load_1p5_line_35_MG1": {
+      "OBSERVED_NATIVE_ACCEPTED": 21,
+      "OBSERVED_NATIVE_REJECTED": 20,
+      "PRETEST_OR_NULL_NOT_PHYSICAL_NEGATIVE": 31
+    },
+    "fed_combined_load_1p5_line_36_MG1": {
+      "OBSERVED_NATIVE_ACCEPTED": 20,
+      "OBSERVED_NATIVE_REJECTED": 46,
+      "PRETEST_OR_NULL_NOT_PHYSICAL_NEGATIVE": 34
+    },
+    "fed_combined_load_1p5_line_84_MG2": {
+      "PRETEST_OR_NULL_NOT_PHYSICAL_NEGATIVE": 29,
+      "OBSERVED_NATIVE_ACCEPTED": 20,
+      "OBSERVED_NATIVE_REJECTED": 43
+    },
+    "fed_combined_load_1p5_line_127_MG3": {
+      "PRETEST_OR_NULL_NOT_PHYSICAL_NEGATIVE": 22,
+      "OBSERVED_NATIVE_REJECTED": 15,
+      "OBSERVED_NATIVE_ACCEPTED": 7
+    }
+  },
+  "reason_counts": {
+    "ACCEPTED": 68,
+    "hard_overvoltage": 106,
+    "no_action": 116,
+    "hard_overvoltage;deficit_increased;no_improvement": 5,
+    "deficit_increased;no_improvement": 6,
+    "no_improvement": 5,
+    "deficit_increased": 2
+  },
+  "unique_labeled_feature_packets": 192,
+  "feature_packets_with_conflicting_observed_labels": 0,
+  "worlds": 4,
+  "all_inspected_development": true,
+  "disconnected_training_confirmation_split_certified": false,
+  "exact_prompt_token_and_memory_join": "NOT_DONE; this is a restricted new critic interface",
+  "same_state_alternative_preferences": "NOT_CERTIFIED; scalar before metrics and iteration are not native state equality",
+  "accepted_is_optimal": false,
+  "unsafe_means_any_rejection": false,
+  "full_hidden_feedback_reconstruction_claim": false,
+  "new_model_PF_optimizer_training_native_calls": 0,
+  "new_scientific_labels": 0,
+  "old_audit_reruns": 0,
+  "read_bytes": 1409874,
+  "workflow_seconds": 0.2232186000328511,
+  "original_ledger_ref": {
+    "path": "outputs/original118_component_ledger_20261030/QA_LOCAL_ONLY/Verifier_Ledger.json",
+    "bytes": 395325,
+    "sha256": "54d93c5febe766591c32ffdf57438172c37ea5af2ab48ff7d4f91fa5336f66cf"
+  },
+  "source_refs": [
+    {
+      "path": "outputs/original118_component_ledger_20261030/QA_LOCAL_ONLY/Verifier_Ledger.json",
+      "bytes": 395325,
+      "sha256": "54d93c5febe766591c32ffdf57438172c37ea5af2ab48ff7d4f91fa5336f66cf"
+    },
+    {
+      "path": "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/Result.json",
+      "bytes": 235179,
+      "sha256": "5bbf2c98b38277aab821412e37b032a24682e244bc1e6c5f9f7e29932cf626ed"
+    },
+    {
+      "path": "outputs/original_missing_suffix_execution_20261028/case_01/local_controller/fed_combined_load_1p5_line_36_MG1/reflection_v2/Result.json",
+      "bytes": 317888,
+      "sha256": "492e369d1f46b8c78ec399fb6eed878cea1d1c293249fd81bb31fa5195e2f992"
+    },
+    {
+      "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_02/local_controller/fed_combined_load_1p5_line_84_MG2/reflection_v2/Result.json",
+      "bytes": 306534,
+      "sha256": "a96790c40bd6faf35dd25db2119767e5b04351d55d1a0eafe091b26b37fb46fd"
+    },
+    {
+      "path": "outputs/original_missing_suffix_execution_20261028/case_03/local_controller/fed_combined_load_1p5_line_127_MG3/reflection_v2/Result.json",
+      "bytes": 154948,
+      "sha256": "20b8636cd315bf494c1331629084d378bcc2a66d30d23d942be467b514271d06"
+    }
+  ],
+  "support_ref": {
+    "path": "outputs/g5_verifier_critic_support_20261109/Causal_Support_Rows.json",
+    "bytes": 630101,
+    "sha256": "c465ae9ab82d3d9529be0201d2642ad83ed2d4d4eed44b14fa011e8efe643803"
+  },
+  "independent_census_review": "PENDING; prior physical audits are inherited, not rerun",
+  "training_blockers": [
+    "Only four related inspected development worlds; no disconnected unused confirmation.",
+    "Exact frozen tokenizer/loader and whole-context label mask for the NEW critic interface are not implemented or tested.",
+    "Same-input numerical and architecture/reference controls and prospective improvement/budget gates are not frozen.",
+    "No validated query policy, full-menu preservation, false-veto prevention or fresh protected complete trajectory comparison.",
+    "Existing component timings do not prove new critic inference plus training cost is less than saved PF cost."
+  ]
+}

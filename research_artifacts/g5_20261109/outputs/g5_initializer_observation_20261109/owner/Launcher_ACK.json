@@ -1,0 +1,8 @@
+{
+  "actual_pid": 29316,
+  "actual_parent_pid": 23448,
+  "actual_command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_initializer_observation_20261109\\owner.py",
+  "parent_command": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\physics_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_initializer_observation_20261109\\owner.py",
+  "fresh_exact_source_PID_parent_command": true,
+  "at_utc": "2026-11-09T13:21:54.589102+00:00"
+}

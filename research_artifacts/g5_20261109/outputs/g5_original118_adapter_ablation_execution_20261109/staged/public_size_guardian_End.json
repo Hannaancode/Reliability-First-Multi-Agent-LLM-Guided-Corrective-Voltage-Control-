@@ -1,0 +1,8 @@
+{
+  "actual_pid": 1260,
+  "parent_pid": 433,
+  "source_sha256": "42753f03e8d51fa9544cfa6be68e7a00e104a888a92ab4f14ac7ccbd2a73259b",
+  "all_actual_child_artifacts_closed": true,
+  "scientific_exit_code": 0,
+  "workflow_seconds": 97.750912545
+}

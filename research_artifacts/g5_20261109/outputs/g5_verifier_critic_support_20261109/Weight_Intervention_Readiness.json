@@ -1,0 +1,104 @@
+{
+  "status": "SAVED_SUPPORT_CENSUS_COMPLETE_WEIGHT_INTERVENTION_PROPOSED_UNVALIDATED_NOT_ADMITTED",
+  "goal": "G5",
+  "counts_unchanged": {"G5_subtasks_completed": 0, "G5_subtasks_total": 3, "main_goals_complete": 1, "main_goals_total": 6, "thesis_tasks_complete": 29, "thesis_tasks_total": 35},
+  "why_G5_is_0_of_3": [
+    "G5.1 requires a source-supported causal contribution and complete attribution protocol; descriptive UV benefit, an available GPU or changing weights is not that protocol.",
+    "G5.2 requires matched fresh-inference complete physical comparisons of the specific intervention with strong controls and full costs. Earlier imitation/encoder failures and descriptive original hybrid episodes do not satisfy this intervention's comparison.",
+    "G5.3 requires an unused authorized confirmation and independent incremental-contribution result; the inspected development worlds are not unused confirmation."
+  ],
+  "verified_prior_results": {
+    "original_four_development_roots": "DFF 51 residual UV/11 OV, HG-VF 26/11, offline HG-SE 20/12. The offline selector pays BOTH branches; this is descriptive, not equal-cost causal attribution. Three HGVF UV wins and one loss are retained.",
+    "matched_imitation": "Public adapted0.5B 41.6667% and1.5B 53.125% exact teacher action versus numerical72.9167%; fixed numerical gate failed and remains stopped.",
+    "frozen_encoder_readout": "Private0.5B linear71.875%, public1.5B linear64.5833%, public0.5B linear59.375%; strongest same-current numerical linear75%, fixed80% gate failed. Six outputs, all costs and training-overlap limitations remain.",
+    "one_step_feedback_route": "Same-bus feedback5/8 full-table best versus Jacobian6/8; conditional model training stopped. New dataset labels do not revive it."
+  },
+  "new_support": {
+    "result": "outputs/g5_verifier_critic_support_20261109/Support_Census_Result.json",
+    "independent_review": "outputs/g5_verifier_critic_support_20261109/Independent_Metadata_Review.json",
+    "all_original_records": 308,
+    "unique_non_null_observed_native_targets": 192,
+    "native_accepted": 68,
+    "native_rejected": 124,
+    "null_or_pretest_retained_not_negative_physical_labels": 116,
+    "worlds": 4,
+    "unused_confirmation_worlds": 0,
+    "new_model_PF_training_native_calls": 0,
+    "interpretation": "These are restricted causal feature packets and inherited original verifier labels. Accepted is not optimal; rejected is not necessarily electrically unsafe. Exact original prompt memory/token IDs and exact same-native-state alternative targets are not recovered here."
+  },
+  "rejected_relaunch": {
+    "candidate": "A LoRA action-conditioned verifier-risk classifier used to rank paid queries",
+    "decision": "DO_NOT_TRAIN_AS_A_NEW_MECHANISM",
+    "reason": "Substantive overlap with stopped relational native admissibility classifier and VCSA physical process/support/abstention heads. New four-root records or a simpler head alone do not establish a materially different mechanism.",
+    "evidence": [
+      "outputs/llm_value_relational_adaptation_research_20261009/Implemented_Method_and_Next_Learning_Gates.md",
+      "outputs/llm_value_development/Scientific_Novel_Contribution_VCSA_20261008.md",
+      "outputs/llm_value_development/Critical_Literature_Review_and_VAC_LoRA_Plan.md"
+    ],
+    "DPO_disposition": "NOT_SELECTED. No exact same-prompt/action paired preferences were certified by this census; one-step accepted/rejected labels across different causal contexts cannot be manufactured into DPO preferences."
+  },
+  "one_conditional_weight_intervention": {
+    "name": "Original-LOCAL delayed recoverability value adaptation",
+    "status": "PROPOSED_UNVALIDATED_DATA_BLOCKED",
+    "question": "Can an action-conditioned copy of the original language model predict which legal original LOCAL action leaves a better endpoint under the SAME frozen numerical continuation, when one-step scores disagree with delayed recovery?",
+    "mechanism": "Add a separately named trainable adapter/value readout on an immutable copy of the original base and private adapter. Supervise a delayed terminal protected outcome for each measured current-state/action pair under a fixed, source-identified remaining-horizon numerical continuation. Inputs contain only current causal packet, candidate action, remaining original operation/cap state and actual prior history if exactly recovered; terminal observations stay targets only.",
+    "action_role": "Original source LOCAL add-shunt action and original legal Q/candidate/cap/parser contract. No donor or reallocation action is silently encoded as a LOCAL target.",
+    "deployment_role": "Initially only a paid-query ordering hypothesis. Preserve the entire native action universe and original exact verifier/guard; no learned bypass, unsupported-action deletion or false-veto safety claim. Any bounded query policy needs a separately frozen complete physical protocol.",
+    "not_the_old_roles": [
+      "Not single-action teacher imitation or frozen encoder readout; target is a controlled continuation endpoint rather than a teacher's string.",
+      "Not one-step admissibility, voltage residual, current-state reconstruction or same-bus feedback; a complete delayed outcome is required.",
+      "Not a root selector choosing among already completed controller branches; action-conditioned alternatives must share an exact current physical state and the same downstream continuation.",
+      "The earlier two-step and full-receding numerical studies are related research, not new evidence of an LLM contribution. A longer horizon or altered objective alone cannot restart their stopped conditional learning route. This proposal requires an independently assessed distinct target/control problem before any scientific launch."
+    ],
+    "strong_controls": [
+      "Original frozen private adapter/current model with the same causal packet and paid query allowance.",
+      "Same-architecture copied model with frozen body/readout-only learning, and adapter-disabled/pretraining attribution control with explicitly disclosed initialization and compute.",
+      "Strong same-input numerical learner/ranker trained on exactly the same delayed labels, with matched world weighting and fixed data/splits; include the strongest feasible current physics numerical policy without withholding its information.",
+      "Original literal DFF plus DFF-ALT with unchanged selector and FULL BOTH costs remains a separately reported primary endpoint control, even if its information or compute is larger."
+    ],
+    "new_weight_initialization": "No existing stopped intervention checkpoint may initialize this branch. Original weights remain byte-frozen. Exact architecture/rank/trainable masks/optimizer/epochs are deliberately NOT frozen or launched before valid delayed targets exist; arbitrary hyperparameters would manufacture readiness.",
+    "claim_limit": "A development diagnostic may establish feasibility, never superiority, novelty, guaranteed success or unused confirmation."
+  },
+  "cheapest_next_support_gate": {
+    "name": "Saved-only source-compatible paired-continuation admission census",
+    "new_science": 0,
+    "population_rule": "Only declared existing closed source-indexed studies, retaining all adverse/partial/unknown outcomes and exact original order. Do not search for winning examples or create a random row split.",
+    "required_pair_keys": [
+      "Exact same current native input/state identity, not matching scalar metrics or a world name",
+      "Distinct legal original LOCAL first actions, each with its actual returned primary receipt and charged first verification",
+      "Identical frozen continuation source/settings/remaining operation budget/cap/no-refund rule after the respective first action",
+      "Complete independently reviewed terminal path including every rejected/failed action, cold state, model/numerical/physical costs and terminal strict UV/OV",
+      "Causal pre-action original input/token/context and all conditioning features; no terminal fields in the input",
+      "World/family/source grouping sufficient to keep aliases and connected histories together"
+    ],
+    "pass_meaning": "At least one exact causal pair permits only a bounded data/target engineering example. Training requires adequate predeclared world support and controls; an unused confirmation remains separately required for G5.3.",
+    "current_finite_evidence": [
+      "The 192 newly indexed labels are one-step original verifier outcomes, not delayed terminal targets.",
+      "The four original HGVF/DFF completed trajectories use different policies; terminal endpoints cannot be attached to every visited hypothetical action or used as controlled same-continuation labels.",
+      "The saved full_receding_paid_campaign actual Result has only two closed line35 branches, immediate1_followup16 and breadth4_followup4; six other declared branches are missing/UNKNOWN. Different policies and reallocation actions fail this proposal's same-continuation/original-LOCAL target requirement.",
+      "The live1319 one-step menu study is not read by this G5 work and cannot provide delayed labels or restore G5 merely by closing more one-step physics."
+    ],
+    "present_disposition": "NO_ELIGIBLE_DELAYED_PAIR_CERTIFIED_FROM_INSPECTED_SOURCES. This is a scoped support finding, not proof that no suitable artifact exists anywhere.",
+    "exact_next_refs": [
+      "outputs/g5_verifier_critic_support_20261109/Causal_Support_Rows.json",
+      "outputs/original118_component_ledger_20261030/QA_LOCAL_ONLY/Commit_Ledger.json",
+      "outputs/full_receding_paid_campaign_20261015/actual/Result.json",
+      "outputs/full_receding_paid_campaign_20261015/human_requested_pause_20261015/Final_Audit_Result_And_Partial_Limits.json"
+    ],
+    "if_absent": "Stop this candidate at data readiness. Any genuinely new delayed-target measurement requires its own prospective exact-source/ownership/history/preservation/strong-control/full-cost protocol; it cannot repeat old physics or extend old budgets."
+  },
+  "readiness_matrix": [
+    {"gate": "Current original action/verifier observations", "status": "SCOPED_PASS", "evidence": "192 labeled unique packets; original no-action records retained separately"},
+    {"gate": "Risk-critic distinctness", "status": "FAIL_FOR_RELAUNCH", "evidence": "Overlaps stopped VCSA/relational classifier mechanisms"},
+    {"gate": "Delayed target support", "status": "NOT_CERTIFIED", "evidence": "No exact same-state/original-LOCAL/same-continuation delayed pair certified"},
+    {"gate": "Actual original loader and cold model state", "status": "HISTORICAL_ONLY", "evidence": "Earlier original118 models ran; this new adapter/value interface has not been executed"},
+    {"gate": "Exact new causal token/context/loss mask", "status": "NOT_READY", "evidence": "Metadata packet is not the historical full prompt or a tested token sequence"},
+    {"gate": "Training/control/architecture protocol", "status": "NOT_FROZEN", "evidence": "Required controls specified; actual targets and support must precede hyperparameter or resource selection"},
+    {"gate": "Connected-world development grouping", "status": "LIMITED", "evidence": "Four related inspected worlds; no independent row split allowed"},
+    {"gate": "Unused confirmation", "status": "ABSENT_IN_THIS_PACKET", "evidence": "All four inspected development roots"},
+    {"gate": "Economic superiority", "status": "UNKNOWN", "evidence": "New model inference/training cost versus avoided paid PF is unmeasured; prior component timings incomplete"},
+    {"gate": "GPU or training launch", "status": "NOT_ADMITTED", "evidence": "Compute availability cannot repair absent causal targets or undefined intervention"}
+  ],
+  "parallel_coordination": "Root owns live1319 physics. Document/scientific peers own G3 native packet engineering and first saved-only reader. This G5 saved-only lane does not duplicate them.",
+  "final_next_action": "Independently review this distinctness/readiness decision, then only the finite saved-pair support gate if a concrete source-compatible candidate can be identified. No renamed stopped critic, DPO, GPU allocation or scientific launch."
+}

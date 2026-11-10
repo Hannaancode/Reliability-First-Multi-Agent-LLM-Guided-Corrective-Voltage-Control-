@@ -1,0 +1,18 @@
+{
+  "identity": {
+    "actual_pid": 1260,
+    "parent_pid": 433,
+    "source_sha256": "42753f03e8d51fa9544cfa6be68e7a00e104a888a92ab4f14ac7ccbd2a73259b",
+    "protocol_sha256": "4e2735ffff065804a94a98bade2e6eb2cf9b4a31795265f0236c8c050c969193",
+    "proc_start_identity": "28684",
+    "started_unix": 1794224958.256514
+  },
+  "returned_remote_observation": [
+    {
+      "output_type": "stream",
+      "name": "stdout",
+      "text": "{\"actual_guardian_pid\": 1260, \"ended_or_reaped_zombie\": true, \"original_start_identity\": \"28684\"}\n"
+    }
+  ],
+  "fresh_remote_probe_passed": true
+}

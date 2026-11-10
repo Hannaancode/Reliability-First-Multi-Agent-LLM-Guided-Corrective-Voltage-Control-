@@ -1,0 +1,28 @@
+{
+  "status": "PASS_LOCAL_ONLY_DENIAL_BOUNDARY",
+  "checks": [
+    "definite_401_no_GET",
+    "definite_403_no_GET",
+    "definite_429_no_GET",
+    "Timeout_exact_assignment_recovery_only",
+    "ConnectionError_exact_assignment_recovery_only",
+    "HTTPError_exact_assignment_recovery_only",
+    "not_uncertain_RuntimeError_allocating_one_selected_T4_False",
+    "not_uncertain_HTTPError_allocating_one_selected_T4_False",
+    "not_uncertain_Timeout_preconditions_False",
+    "not_uncertain_Timeout_allocating_one_selected_T4_True"
+  ],
+  "count": 10,
+  "actual_network_GPU_model_native_calls": 0,
+  "preserved_source_ref": {
+    "path": "work/g5_original118_adapter_ablation_20261109/host.py",
+    "bytes": 19012,
+    "sha256": "17893ba3d573b0c910fc6eed8245428c62b7075db5356c205e7d1426206daff2"
+  },
+  "new_source_ref": {
+    "path": "work/g5_original118_adapter_ablation_20261109/host_v2.py",
+    "bytes": 19661,
+    "sha256": "c1b4682302e240099b404e2a0fded74b6bc9c0db29a92db34d9064dceb09f322"
+  },
+  "scope": "Definite denial never triggers exact-assignment recovery GET or closed-artifact retry; only uncertain assignment transport permits exact identity recovery. Cleanup/release remains required when a runtime was actually allocated."
+}

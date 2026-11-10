@@ -1,0 +1,22 @@
+{
+  "status": "COMPLETE_ALL4_ORIGINAL118_DISABLED_FIRST_INPUTS_AND_ONE_COLD",
+  "costs": {
+    "model_load_attempts": 2,
+    "model_load_returns": 2,
+    "generation_attempts": 5,
+    "generation_returns": 5,
+    "pretrained_forward_attempts": 144,
+    "pretrained_forward_returns": 144,
+    "generated_tokens": 144,
+    "PF_optimizer_backward_training_calls": 0
+  },
+  "cold_first_context_exact": true,
+  "adapter_mode": "ORIGINAL118_PRIVATE_LORA_DISABLED",
+  "raw_invalid_or_null_outputs_retained": true,
+  "no_response_quality_gate": true,
+  "original_parser_or_controller_executed": false,
+  "full_trajectory_or_LLM_advantage_claim": false,
+  "planned_primary_responses_reserved_for_future_exact_mode_reuse": 4,
+  "workflow_seconds": 89.127813129,
+  "journal_last_before_result": "c260e3768291eada3bea8bbed80df9f81d85540def43c0ac20963504070f24bd"
+}

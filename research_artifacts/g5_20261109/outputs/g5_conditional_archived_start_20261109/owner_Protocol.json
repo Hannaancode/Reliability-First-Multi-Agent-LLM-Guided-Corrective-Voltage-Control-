@@ -1,0 +1,11 @@
+{
+  "single_owner": {
+    "source": "work/g5_conditional_archived_start_20261109/owner.py",
+    "sha256": "e6478d6ac62ec4b3e030ddeca5ce4803dac36197814dabf02b5372d9c36a1629",
+    "output": "outputs/g5_conditional_archived_start_20261109/owner",
+    "coordination": "outputs/g5_conditional_archived_start_20261109/owner_coordination",
+    "python": "work/physics_env/Scripts/python.exe",
+    "bound_seconds": 330
+  },
+  "require_ended_claims": []
+}

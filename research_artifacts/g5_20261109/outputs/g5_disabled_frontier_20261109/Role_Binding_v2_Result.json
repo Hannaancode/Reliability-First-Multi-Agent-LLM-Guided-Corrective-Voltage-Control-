@@ -1,0 +1,17 @@
+{
+  "status": "PREPARED_REQUIRES_INDEPENDENT_SOURCE_GATE",
+  "protocol_ref": {
+    "path": "outputs/g5_disabled_frontier_20261109/Protocol_v2.json",
+    "sha256": "b795d01585eef91d632ec6ba14ac59426716e7ea3d14138d2a6cf5de9c3b65f8",
+    "bytes": 9582
+  },
+  "source_only": true,
+  "previous_protocol_ref": {
+    "path": "outputs/g5_disabled_frontier_20261109/Protocol.json",
+    "sha256": "66c4f53cd1b9daaf2bc85efd71a8283e722f8febddbd07780d1f0a48c132858f",
+    "bytes": 7514
+  },
+  "old_checks_rerun": false,
+  "native_model_PF_controller_calls": 0,
+  "command": "work/vcsa_module_env/Scripts/python.exe -X utf8 work/g5_disabled_frontier_20261109/coordinate_v2.py"
+}

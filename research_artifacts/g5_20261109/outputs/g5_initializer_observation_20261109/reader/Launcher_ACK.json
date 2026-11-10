@@ -1,0 +1,8 @@
+{
+  "actual_pid": 19364,
+  "actual_parent_pid": 23816,
+  "actual_command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_initializer_observation_20261109\\reader.py",
+  "parent_command": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_initializer_observation_20261109\\reader.py",
+  "fresh_exact_source_PID_parent_command": true,
+  "at_utc": "2026-11-09T13:22:21.625196+00:00"
+}

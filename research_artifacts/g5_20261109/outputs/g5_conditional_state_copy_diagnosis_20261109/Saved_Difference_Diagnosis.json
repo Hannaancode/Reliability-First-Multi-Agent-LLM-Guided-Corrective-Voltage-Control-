@@ -1,0 +1,166 @@
+{
+  "at_utc": "2026-11-09T13:45:38.518Z",
+  "status": "SAVED_RECORD_DIFF_COMPLETE_NOT_RUNTIME_ADMISSION",
+  "source_refs": {
+    "owner/Result.json": {
+      "path": "outputs/g5_conditional_archived_start_20261109/owner/Result.json",
+      "bytes": 915,
+      "sha256": "f8a7634d01b75569d7d46d189a4c2600ea9674ce748cbaee86b552882e59ab75"
+    },
+    "reader/Independent_Audit.json": {
+      "path": "outputs/g5_conditional_archived_start_20261109/reader/Independent_Audit.json",
+      "bytes": 1281,
+      "sha256": "20b652f471d4ef1176b4b784dcacf75b37054325d0a0ea5e9d5ac9fef92eb2b3"
+    },
+    "handoff/Completion.json": {
+      "path": "outputs/g5_conditional_archived_start_20261109/handoff/Completion.json",
+      "bytes": 219,
+      "sha256": "d012ea29cb68ab2cab021bef70d0821f4a6dc4b8efff245278ded8f1fe062230"
+    },
+    "owner/Actual_First_Decision_Start.json": {
+      "path": "outputs/g5_conditional_archived_start_20261109/owner/Actual_First_Decision_Start.json",
+      "bytes": 900931,
+      "sha256": "33143abbc527f8f145e927c5c22421ad5304c7068d25bf0286c908efea05c8a3"
+    },
+    "owner/Archived_Common_Start.json": {
+      "path": "outputs/g5_conditional_archived_start_20261109/owner/Archived_Common_Start.json",
+      "bytes": 901495,
+      "sha256": "2d8e9b0b988fd780c7c5c1bb50e20a54d4f1a884a3ff2a9e268177a000b0d3c4"
+    }
+  },
+  "method": "Recursive exact JSON comparison of the two preserved typed state records; no Python import, NET decode, controller, model, solver, or subprocess execution.",
+  "differences": [
+    {
+      "path": "/full_fingerprint/sha256",
+      "before": "676831af3335186e60ae509156f776a0feb50c34032f272c394bf42762cef971",
+      "after": "f75fe6b687fb34bc4cfab002ae592a62a9bb053b8c841dea3c8eae68fca8384d"
+    },
+    {
+      "path": "/full_typed_mapping/1/3/1/5/9/1/1/2/1/1/0/1/2/1/0",
+      "before": [
+        [
+          "builtins.str",
+          "_cache"
+        ],
+        [
+          "builtins.dict",
+          [
+            [
+              [
+                "builtins.str",
+                "numpy_dtype"
+              ],
+              [
+                "numpy.dtypes.Int64DType",
+                "<i8",
+                "[('', '<i8')]"
+              ]
+            ],
+            [
+              [
+                "builtins.str",
+                "kind"
+              ],
+              [
+                "builtins.str",
+                "i"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "after": {
+        "absent": true
+      }
+    },
+    {
+      "path": "/full_typed_mapping/1/8/1/5/15/1/1/2/1/1/0/1/2/1/0",
+      "before": [
+        [
+          "builtins.str",
+          "_cache"
+        ],
+        [
+          "builtins.dict",
+          [
+            [
+              [
+                "builtins.str",
+                "numpy_dtype"
+              ],
+              [
+                "numpy.dtypes.Int64DType",
+                "<i8",
+                "[('', '<i8')]"
+              ]
+            ],
+            [
+              [
+                "builtins.str",
+                "kind"
+              ],
+              [
+                "builtins.str",
+                "i"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "after": {
+        "absent": true
+      }
+    },
+    {
+      "path": "/full_typed_mapping/1/10/1/5/8/1/1/2/1/1/0/1/2/1/0",
+      "before": [
+        [
+          "builtins.str",
+          "_cache"
+        ],
+        [
+          "builtins.dict",
+          [
+            [
+              [
+                "builtins.str",
+                "numpy_dtype"
+              ],
+              [
+                "numpy.dtypes.Int64DType",
+                "<i8",
+                "[('', '<i8')]"
+              ]
+            ],
+            [
+              [
+                "builtins.str",
+                "kind"
+              ],
+              [
+                "builtins.str",
+                "i"
+              ]
+            ]
+          ]
+        ]
+      ],
+      "after": {
+        "absent": true
+      }
+    }
+  ],
+  "affected_fields": [
+    "sgen",
+    "gen",
+    "shunt"
+  ],
+  "finding": "Only three removed dtype _cache entries (numpy_dtype and kind) and consequent top fingerprint hash differ in these saved records. All other represented fields, values and alias descriptors compare equal.",
+  "limits": [
+    "No change to frozen equality gate or partial outcome.",
+    "Representation-local equality outside these paths is not proof of historical backend equivalence, complete causal state, full controller replay, or physical performance.",
+    "No old owner restarted; paid disabled reply uses remain zero."
+  ],
+  "next": "Diagnose and specify an exact source-preserving copy/cache treatment before any distinct first-entry continuation. Reuse these snapshots; do not rerun the completed observation.",
+  "new_model_PF_or_training_calls": 0
+}

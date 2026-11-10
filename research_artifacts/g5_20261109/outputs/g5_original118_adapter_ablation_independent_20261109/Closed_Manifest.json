@@ -1,0 +1,16 @@
+{
+  "members": {
+    "Independent_Audit.json": {
+      "bytes": 48160,
+      "sha256": "0e95827de12832d26cc7808783c72c74bfcc3409a29d9c4e4635676a721f21f4"
+    },
+    "Launcher_ACK.json": {
+      "bytes": 754,
+      "sha256": "1e98750510b7a0339e3d6a2098b5650c4d06a09235395cada90288e808ff1e82"
+    },
+    "owner.claim": {
+      "bytes": 170,
+      "sha256": "a67536ac8467c0c629744e80a4cab0435d14e7ddb8f2fed5f155c8131b0932b4"
+    }
+  }
+}

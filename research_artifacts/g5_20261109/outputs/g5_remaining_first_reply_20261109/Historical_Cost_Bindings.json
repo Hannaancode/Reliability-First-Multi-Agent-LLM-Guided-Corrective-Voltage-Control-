@@ -1,0 +1,35 @@
+{
+  "prior_historical_costs_ref": {
+    "path": "outputs/g5_conditional_archived_start_20261109/Historical_Cost_Bindings.json",
+    "bytes": 1216,
+    "sha256": "a9f1d601e31352b974033343b75c2a0613fe129968e1458e376c6615de920ae4"
+  },
+  "prior_partial_owner_result_ref": {
+    "path": "outputs/g5_conditional_archived_start_20261109/owner/Result.json",
+    "bytes": 915,
+    "sha256": "f8a7634d01b75569d7d46d189a4c2600ea9674ce748cbaee86b552882e59ab75"
+  },
+  "prior_partial_audit_ref": {
+    "path": "outputs/g5_conditional_archived_start_20261109/reader/Independent_Audit.json",
+    "bytes": 1281,
+    "sha256": "20b652f471d4ef1176b4b784dcacf75b37054325d0a0ea5e9d5ac9fef92eb2b3"
+  },
+  "prior_owner_workflow_seconds": 11.78200000000652,
+  "prior_reader_workflow_seconds": 4.984000000054948,
+  "prior_owner_counts": {
+    "archived_after_decode_entries": 1,
+    "archived_after_decode_returns": 1,
+    "logical_generation_calls": 1,
+    "paid_disabled_reply_uses": 0,
+    "logical_native_query_intents": 0,
+    "candidate_shunt_constructions": 0,
+    "new_initializer_calls": 0,
+    "new_model_calls": 0,
+    "new_PF_calls": 0,
+    "native_input_conversions": 0,
+    "actual_commits": 0
+  },
+  "all_prior_training_model_physics_preparation_failure_costs_remain_paid": true,
+  "new_setup": "One necessary saved after-NET decode and source-prefix reconstruction, separately charged; no new initializer/model/PF.",
+  "reference_reuse": "Prior actual first-decision JSON/source proof reused without rerunning its observation owner."
+}

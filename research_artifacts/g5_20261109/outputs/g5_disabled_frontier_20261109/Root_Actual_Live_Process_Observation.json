@@ -1,0 +1,41 @@
+{
+  "at_utc": "2026-11-09T12:23:56.6211456Z",
+  "processes": [
+    {
+      "ProcessId": 6984,
+      "ParentProcessId": 27376,
+      "CreationDate": "2026-11-09T15:23:37.396508+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe\" -B -X utf8 work/g5_disabled_frontier_20261109/coordinate_v2.py"
+    },
+    {
+      "ProcessId": 30492,
+      "ParentProcessId": 6984,
+      "CreationDate": "2026-11-09T15:23:37.452856+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -B -X utf8 work/g5_disabled_frontier_20261109/coordinate_v2.py"
+    },
+    {
+      "ProcessId": 11800,
+      "ParentProcessId": 30492,
+      "CreationDate": "2026-11-09T15:23:53.381082+03:00",
+      "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\coordinate_single_source_bound_owner_20261020.py --protocol outputs\\g5_disabled_frontier_20261109\\reader_Protocol_v2.json"
+    },
+    {
+      "ProcessId": 15828,
+      "ParentProcessId": 11800,
+      "CreationDate": "2026-11-09T15:23:53.482431+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\coordinate_single_source_bound_owner_20261020.py --protocol outputs\\g5_disabled_frontier_20261109\\reader_Protocol_v2.json"
+    },
+    {
+      "ProcessId": 29744,
+      "ParentProcessId": 15828,
+      "CreationDate": "2026-11-09T15:23:53.720767+03:00",
+      "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_disabled_frontier_20261109\\reader_v2.py"
+    },
+    {
+      "ProcessId": 4792,
+      "ParentProcessId": 29744,
+      "CreationDate": "2026-11-09T15:23:53.806498+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_disabled_frontier_20261109\\reader_v2.py"
+    }
+  ]
+}

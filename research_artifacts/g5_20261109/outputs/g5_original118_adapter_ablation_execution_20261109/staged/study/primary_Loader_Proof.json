@@ -1,0 +1,13 @@
+{
+  "pretrained_loaded": true,
+  "four_bit_base": true,
+  "pinned_HF_PEFT_SDPA_backend": true,
+  "independent_adapter_name": "candidate_process_copy",
+  "trainable_body_parameters": 0,
+  "model_load_seconds": 6.083662314000037,
+  "exact_copied_tensors": 336,
+  "exact_copied_parameters": 8798208,
+  "source_tensor_values_identical": true,
+  "actual_layer_count": 168,
+  "enabled_disabled_restored_unmerged": true
+}

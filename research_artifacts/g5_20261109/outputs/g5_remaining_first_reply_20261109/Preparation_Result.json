@@ -1,0 +1,20 @@
+{
+  "status": "PREPARED_UNENTERED_FIRST_PAID_REPLY_REQUIRES_INDEPENDENT_SOURCE_REVIEW",
+  "protocol_ref": {
+    "path": "outputs/g5_remaining_first_reply_20261109/Protocol.json",
+    "bytes": 19293,
+    "sha256": "b6f97acb61d371e0268c676c3aaeadc0a31618464ad8334b1e829cbeb15255af"
+  },
+  "first_decision_reference": {
+    "path": "outputs/g5_conditional_archived_start_20261109/owner/Actual_First_Decision_Start.json",
+    "bytes": 900931,
+    "sha256": "33143abbc527f8f145e927c5c22421ad5304c7068d25bf0286c908efea05c8a3"
+  },
+  "source_ast_tail_and_paid_reply_helper_unchanged": true,
+  "full_supported_snapshot_equality_not_relaxed": true,
+  "new_native_controller_parser_model_PF_calls": 0,
+  "old_observation_owners_readers_or_fixtures_rerun": false,
+  "workflow_seconds": 0.5449644000036642,
+  "launch_allowed_by_preparation": false,
+  "command": "work/vcsa_module_env/Scripts/python.exe -X utf8 work/g5_remaining_first_reply_20261109/coordinate.py"
+}

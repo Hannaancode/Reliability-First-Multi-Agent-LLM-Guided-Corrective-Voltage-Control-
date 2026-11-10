@@ -1,0 +1,8 @@
+{
+  "actual_pid": 22800,
+  "actual_parent_pid": 11160,
+  "actual_command": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_original118_adapter_ablation_20261109\\host_v2.py",
+  "parent_command": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\colab_access_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_original118_adapter_ablation_20261109\\host_v2.py",
+  "fresh_exact_source_PID_parent_command": true,
+  "at_utc": "2026-11-09T11:46:28.113386+00:00"
+}

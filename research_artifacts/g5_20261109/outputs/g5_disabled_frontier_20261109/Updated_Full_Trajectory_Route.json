@@ -1,0 +1,30 @@
+{
+  "status": "ENGINEERING_COMPLETE_NEXT_FINITE_CAUSAL_FRONTIER_PREPARED_NOT_LAUNCHED",
+  "new_engineering_audit": {
+    "path": "outputs/g5_original118_adapter_ablation_independent_20261109/Independent_Audit.json",
+    "bytes": 48160,
+    "sha256": "0e95827de12832d26cc7808783c72c74bfcc3409a29d9c4e4635676a721f21f4"
+  },
+  "four_full_disabled_episodes_ready": false,
+  "first_response_adverse_evidence": "All four raw outputs preserved unchanged; no validity rescue. Exact original parser, including conditional reprompt, determines continuation.",
+  "ready_next_scope": "Two saved before/after decodes plus one base JSON decode; original read-only metrics/parser and hypothetical candidate preparation; zero native conversions/PF/model. Reuse initial result only after full typed input and exact kwargs equality.",
+  "next_launch_command": "work/vcsa_module_env/Scripts/python.exe -X utf8 work/g5_disabled_frontier_20261109/coordinate.py",
+  "required_before_launch": [
+    "Independent owner/reader source gate bound to this Protocol",
+    "Fresh exact all-owner/PID/parent/source/claim absence and one fixed CPU assignment",
+    "Protocol storage/runtime/bounds/source checks admitted; no GPU"
+  ],
+  "after_actual_frontier": [
+    "Bind exact pending model message+tokens+adapter mode, or find exact paid pending native input; never infer missing means unexecuted.",
+    "Adapt frozen disabled remote generation to causal service, reuse returned tokens on failure and this paid first reply; do not use enabled answers or repeat cold generation.",
+    "Complete exact full controller checkpoint/RNG/paid-history restoration at first actual disabled commit; current prefix journal alone is insufficient.",
+    "Freeze all4 full trajectories, future newly executed first-only independent physical verification, partial handling, same source metrics and total costs before performance."
+  ],
+  "strong_controls": "Original DFF and literal DFF+DFFALT/FULLBOTH remain strong system references; message-only fitted numerical proposal control is not ready and hidden NET/Ybus baselines are not same information.",
+  "scope_limits": [
+    "Four fixed inspected development roots, no unused confirmation",
+    "Adapter ablation isolates only current serving treatment; historical paper SFT base revision remains unknown",
+    "No guarantee adapter-enabled improves system outcome; original adverse enabled-vs-DFF gate remains failed",
+    "All six main tasks retain their existing status"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PREPARED_NOT_LAUNCHED",
+  "protocol_ref": {
+    "path": "outputs/g5_conditional_archived_start_20261109/Protocol.json",
+    "bytes": 13196,
+    "sha256": "ff7aae70eb4eee5f230389dcb1d418cb6fd2b12b82a7c806528590087b136f8a"
+  },
+  "new_native_controller_parser_PF_model_calls": 0,
+  "old_successful_fixtures_or_readers_rerun": false,
+  "workflow_seconds": 0.5252761000301689,
+  "command": "work/vcsa_module_env/Scripts/python.exe -X utf8 work/g5_conditional_archived_start_20261109/coordinate.py"
+}

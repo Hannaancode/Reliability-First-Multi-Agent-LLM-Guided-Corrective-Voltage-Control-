@@ -1,0 +1,33 @@
+{
+  "number": 6,
+  "label": "closed_original118_disabled_engineering",
+  "members": {
+    "Results.json": {
+      "bytes": 852,
+      "sha256": "b125abdb033f33957f3bc3865e765e9675ee1770c472ee4e64e27be10485493e"
+    },
+    "cold_Immutable_After.json": {
+      "bytes": 232991,
+      "sha256": "25eb42ee7db8aacb96ffc15db881af8c4188b9d47a34bc4a9bd6e2fa5a0c3194"
+    },
+    "cold_Private_Copy_After.json": {
+      "bytes": 113,
+      "sha256": "7809d226f18e023b54aa7da7978ca0f6dd175b5cb1449512ea13fb831b505a6b"
+    }
+  },
+  "parts": [
+    {
+      "name": "part_0000.bin",
+      "bytes": 35499,
+      "sha256": "d85630f6246386245dbdcbdcfa6e0fa4c425ea905e4dd9562f2b9cd705ec1bb4"
+    }
+  ],
+  "archive_bytes": 35499,
+  "archive_sha256": "d85630f6246386245dbdcbdcfa6e0fa4c425ea905e4dd9562f2b9cd705ec1bb4",
+  "journal_offset": 98670,
+  "journal_previous_sha256": "2d3670a82a7e9c60e9ef952da4c558305144c7a04eb2d19c9e0adc60a179f677",
+  "journal_delta_bytes": 309,
+  "journal_delta_sha256": "7ff50bccb4ba657cecf916b605078e7e83b9c7ff01e06d85ce8563590669cdd3",
+  "journal_prefix_bytes": 98979,
+  "journal_prefix_sha256": "1ab8598c0d2ffa8c9ef214809c4287cb5cce981b06bafe1d4f5fcd2b151ef839"
+}

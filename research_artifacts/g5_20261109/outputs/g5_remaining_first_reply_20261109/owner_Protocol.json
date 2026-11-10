@@ -1,0 +1,11 @@
+{
+  "single_owner": {
+    "source": "work/g5_remaining_first_reply_20261109/owner.py",
+    "sha256": "206181ceaf929cbf0e9cc2589cabced200f4e5e4353b1c3f4cc6feee8d5c9f7c",
+    "output": "outputs/g5_remaining_first_reply_20261109/owner",
+    "coordination": "outputs/g5_remaining_first_reply_20261109/owner_coordination",
+    "python": "work/physics_env/Scripts/python.exe",
+    "bound_seconds": 330
+  },
+  "require_ended_claims": []
+}

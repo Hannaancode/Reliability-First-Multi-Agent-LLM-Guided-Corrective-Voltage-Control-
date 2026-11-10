@@ -1,0 +1,22 @@
+{
+  "status": "PASS_FIRST_INDEPENDENT_SAVED_METADATA_JOIN_ONLY",
+  "checks": {
+    "all308_ordered_source_joins": true,
+    "all_source_bytes_bound": true,
+    "exact_restricted_input_fields": true,
+    "null_pretest_never_negative": true,
+    "rejections_keep_original_reasons": true,
+    "accepted_not_optimal_or_marginal_effect": true,
+    "no_same_state_pair_certification": true,
+    "all_four_inspected_not_confirmation": true
+  },
+  "counts": {
+    "OBSERVED_NATIVE_ACCEPTED": 68,
+    "OBSERVED_NATIVE_REJECTED": 124,
+    "PRETEST_OR_NULL_NOT_PHYSICAL_NEGATIVE": 116
+  },
+  "source_result_sha256": "c7323f19b8103678da96dbabc0bb77a92c49aec1c6ffc01aa9a817cc1d0e1dad",
+  "new_PF_model_training_native_calls": 0,
+  "elapsed_seconds": 0.053003799985162914,
+  "limitations": "Verifies saved extraction only; physical audits inherited. No full original prompt/native state identity/latent information sufficiency/novelty/causal advantage/training admission established."
+}

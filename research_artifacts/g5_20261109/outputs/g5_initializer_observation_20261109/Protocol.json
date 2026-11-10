@@ -1,0 +1,91 @@
+{
+  "status": "PROSPECTIVE_DISTINCT_UNRECORDED_INITIAL_INPUT_OBSERVATION_NOT_FAILED_OWNER_RESTART",
+  "source_v0": "work/e/pack/scripts/phase2d_iterative_blackboard_v0.py",
+  "source_reflection": "work/e/audit/run_reflection_v4_safety_envelope.py",
+  "exact_initializer_statements": [
+    "net = copy.deepcopy(base_net)",
+    "net = v2.v0.apply_scenario_to_net(net, scenario, zones)",
+    "conv, err = v2.v0.run_pf(net)"
+  ],
+  "base_net": "work/e/pack/testbeds/federation_4mg_ieee118.json",
+  "zones": "work/e/pack/testbeds/federation_4mg_ieee118_metadata.json",
+  "recipe": "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_35_MG1.json",
+  "codec_source": "work/native13_candidate_reconstruction_v10_label_graph_20261101.py",
+  "profile_source": "work/security_scientific_state_profile_20261102.py",
+  "admission_source": "work/g5_disabled_initializer_diagnosis_20261109/admission_capture.py",
+  "saved_input_snapshot": "outputs/g5_disabled_frontier_20261109/owner/Saved_Initial_Before.json",
+  "paid_initial_record": "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/pf_000000.json",
+  "science_seconds": 300,
+  "closure_seconds": 30,
+  "reader_seconds": 120,
+  "storage_bound_bytes": 268435456,
+  "runtime_versions": {
+    "numpy": "2.0.2",
+    "scipy": "1.16.3",
+    "pandas": "2.3.3",
+    "pandapower": "3.4.0"
+  },
+  "runtime_image_sha256": {
+    "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\physics_env\\Scripts\\python.exe": "9f91cee2e1b13d9779ab252507aeee120c379e2543ffe85f63cad129b58ba230",
+    "C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe": "3c48fbdcc2ed5c55290e39bef50bd6b1da76f43f3069a4a2624d0b8876a605f5",
+    "C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python312.dll": "69b91d62f73a21a0aac361c1ffe2e970bf5762756073e8e2acd36e6e2f516133",
+    "C:\\Windows\\System32\\conhost.exe": "a26a1ffb81a61281ffa55cb7778cc3fb0ff981704de49f75f51f18b283fba7a2"
+  },
+  "old_failure_ref": {
+    "path": "outputs/g5_disabled_frontier_20261109/owner/Result.json",
+    "bytes": 1141,
+    "sha256": "806c019bce81abc6ee59e1dfc7a43ab942ac2e9107feaabf8fa83d888fee92fb"
+  },
+  "old_partial_audit_ref": {
+    "path": "outputs/g5_disabled_frontier_20261109/reader/Independent_Audit.json",
+    "bytes": 1149,
+    "sha256": "2fea0c1f16bd08d2b8579a2ee4bb698b4c4587675e3419ba3f655942a65a22c3"
+  },
+  "old_clocks_ended_not_extended": true,
+  "new_observable": "Actual initializer NET typed snapshot and exact kwargs that previous failed owner computed or attempted but did not durably preserve.",
+  "scope": "One base JSON decode, original deepcopy/apply_scenario/run_pf prefix; intercept BEFORE public runpp body. Full controller, metrics, prompt, model, physical conversion/solver, restoration and commits are forbidden.",
+  "old_NET_redecode": false,
+  "mismatch_is_observation_not_failure_or_entry_permission": true,
+  "stronger_trajectory_or_native_mapping_still_unknown": true,
+  "no_relaxed_projection": true,
+  "snapshot_scope": {
+    "compared": "profile.live_snapshot full_fingerprint and full_typed_mapping, without reduced scientific projection",
+    "included": [
+      "every supported stored native mapping field/value/type",
+      "native class and ADict flag",
+      "recorded cross-field object aliases",
+      "column Index label bits and object alias groups",
+      "supported stored array/block/index strides and buffer overlap"
+    ],
+    "excluded": [
+      "pickle-byte serialization equality",
+      "Python object or pandas manager addresses",
+      "arbitrary unsupported extension values or whole interpreter state"
+    ],
+    "unsupported": "Fail closed; no type/missing-field fill or normalization fallback."
+  },
+  "source_input_sha256": {
+    "work/g5_initializer_observation_20261109/owner.py": "59bacc0de3cb89eb3b56fedd6b785465d9a19f3aeec7eb0001f3dc643464321d",
+    "work/g5_initializer_observation_20261109/reader.py": "a54078c1eedd64c9d69459e81070520e0a5bbc36b0828dcc4aa211d93654a047",
+    "work/g5_initializer_observation_20261109/coordinate.py": "170de1ecf4c1b6a7a13618d8b23f1e86d121096ed3ef36c50bdbbef943003ad0",
+    "work/g5_initializer_observation_20261109/prepare.py": "14cb0a4adc001139739cb3ab7bdd5ae64ea05b7abc58bd13b6617e8e345b7a0a",
+    "work/e/pack/scripts/phase2d_iterative_blackboard_v0.py": "ee9555bc049f2183fc74a906b2f873c6b6758d426a653c1702fefdb70be750e7",
+    "work/e/audit/run_reflection_v4_safety_envelope.py": "d4b329413c91a64828ced63a0554d67e4f70d46726fc8c3ba3556d8714d9e81e",
+    "work/e/pack/testbeds/federation_4mg_ieee118.json": "fe9b4b552c4a2c056c8f22196c15f81ed9a2815082506b7795510455511c84d4",
+    "work/e/pack/testbeds/federation_4mg_ieee118_metadata.json": "e63d8296ae50a7454a9c239013a0a13ede92aea2ce76de496ea4e9b704e5921a",
+    "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_35_MG1.json": "08938f18867ba469d32a4a874837b8a20bd00e9125f4dc4105685313914eff8e",
+    "work/native13_candidate_reconstruction_v10_label_graph_20261101.py": "d1ad038d7b03e4787f98c2f337e1405c27f5d49b2c4bc2456a382842178f6a39",
+    "work/security_scientific_state_profile_20261102.py": "1a5e346f4c25d52a286cb5bf3120fee13ca3c67d38d1458a4539e58f147dd3fd",
+    "work/g5_disabled_initializer_diagnosis_20261109/admission_capture.py": "dcf10850039fec40ef768bffeaa4141615381f2e0970027ddc01a8e0292ef5b5",
+    "outputs/g5_disabled_frontier_20261109/owner/Saved_Initial_Before.json": "f399fbe5e6fac70c0151b2e1ddf2e89e11e656bb8a0b4328f8fe708d38ec0bde",
+    "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/pf_000000.json": "082af100560b4a406ebedbe2779c02ee3aab4300aab3723d1edc7bb9bcca7f19",
+    "outputs/g5_disabled_frontier_20261109/owner/Result.json": "806c019bce81abc6ee59e1dfc7a43ab942ac2e9107feaabf8fa83d888fee92fb",
+    "outputs/g5_disabled_frontier_20261109/reader/Independent_Audit.json": "2fea0c1f16bd08d2b8579a2ee4bb698b4c4587675e3419ba3f655942a65a22c3",
+    "outputs/g5_disabled_frontier_20261109/owner_coordination/End_ACK.json": "e1d2844a62aa0e61b613a2a52b2f186c7d7c992e6a6bf039967f4e4a62e50988",
+    "outputs/g5_disabled_frontier_20261109/reader_coordination/End_ACK.json": "4d588d8d597793b34342513c45ea340a3049794a5c8321cf8d01b574dde5e9e6",
+    "work/coordinate_single_source_bound_owner_20261020.py": "bb924cbd647517e472c87d945f29fa00707d10907c596d46371d3bc71eb04d02",
+    "work/coordinate_native_inverter_linear_reference_20261020.py": "40c6607c598cb77dfb9945dbeae3353aa77baed65ea21062312d405cd1cb5975",
+    "outputs/g5_initializer_observation_20261109/owner_Protocol.json": "0d9e8f5e4772ba7c15437b0779d78f04742045c846b58bcdf36bed14337ea66c",
+    "outputs/g5_initializer_observation_20261109/reader_Protocol.json": "05ca8be5c67291df54b900605147821c92ff6d020915031682d87883ab19f6df"
+  }
+}

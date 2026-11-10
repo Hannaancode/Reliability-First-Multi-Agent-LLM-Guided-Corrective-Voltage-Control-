@@ -1,0 +1,187 @@
+{
+  "status": "SOURCE_BOUND_NUMERIC_DIRECT_ROLE_MAPPING_COMPLETE_NO_TRAINED_PROVIDER_ADMITTED",
+  "scientific_recommendation": "Reuse the verified ExtraTrees algorithm/conditioning recipe as a separately named exact-original-message proposal adaptation; do not reuse its incompatible saved estimator or restart its stopped study.",
+  "original_hook": "work/reflection118_chronological_core_20261022.py controller replaces only runner.base_runner.generate_response with model_provider(messages). Return exactly one compact JSON per source request; original parser/repair/verify/refinement/fallback/priority/commit remain untouched.",
+  "same_information": [
+    "Exact ordered original messages only, including candidate list, global UV map, local extrema/lowest entries, failed-short list and the actually truncated feedback text.",
+    "No NET, full Ybus, voltage angles, full omitted non-UV voltages, active set, current unqueried outcomes or offline teacher ranking.",
+    "Format-repair requests contain only their own actual source messages; no undeclared retained first-prompt memory."
+  ],
+  "allowance": {
+    "proposal_slot": "One numerical prediction and one returned direct proposal per original primary request; second request only if unchanged original parser triggers it.",
+    "additional_candidate_PF_queries": 0,
+    "direct_verifier_calls": "Exactly unchanged source call at the direct slot; cap/invalid rejection semantics remain original.",
+    "query_economics": "Full guided/fallback menus remain governed by unchanged original source and fully paid. Different proposed buses may legitimately change realized guided queries. This is not identical realized cost; freeze a common declared allowance and report all realized costs, failures and bound censoring. Never prune DFF to match a weak budget."
+  },
+  "control_admission_map": [
+    {
+      "control": "Original DFF/DFF-ALT/literal D-SE",
+      "use": "Unchanged strong full-system reference with both branches/full BOTH costs.",
+      "exact_direct_slot_same_information": false,
+      "reason": "It evaluates physical menus using simulator state and queries unavailable to a single original prompt proposal."
+    },
+    {
+      "control": "Correct-mask current Jacobian/LP and numeric lookahead",
+      "use": "Strong physics-informed system/control reference only.",
+      "exact_direct_slot_same_information": false,
+      "reason": "Requires Ybus, complex state, solver active set and paid derivatives/solves beyond prompt information. Giving those to all actors defines a different named task."
+    },
+    {
+      "control": "Completed original-role ExtraTrees",
+      "use": "Reuse algorithm, typed-feature masks, FIT-only conditioning, world weighting and closed-reload discipline.",
+      "old_evidence": "72.9167% held equal-world exact teacher action on96pairs/24worlds; teacher imitation, not physical advantage.",
+      "exact_saved_estimator_direct_admission": false,
+      "reason": "Old input is zone plus ALL local_measurements, old decoder permits null and multi-bus actions up to450; original Reflection-v4 message is different and demands one candidate bus and one originalQ. Missing fields cannot be filled silently."
+    },
+    {
+      "control": "Completed nearest-current/weighted-prior controls",
+      "use": "Additional same-encoding diagnostics after new data admission, not strongest numerical substitute by themselves.",
+      "exact_saved_estimator_direct_admission": false,
+      "reason": "Same old feature/action-support mismatch."
+    },
+    {
+      "control": "TableGraphProcessControl",
+      "use": "Potential richer same-resource learned reference only in a separately admitted shared-information task.",
+      "exact_direct_slot_same_information": false,
+      "reason": "Its full table/graph input contains information absent from original messages; old process studies remain stopped."
+    }
+  ],
+  "proposed_unchanged_tree_recipe": {
+    "n_estimators": 512,
+    "criterion": "gini",
+    "max_depth": null,
+    "min_samples_split": 2,
+    "min_samples_leaf": 1,
+    "max_features": 1.0,
+    "bootstrap": false,
+    "n_jobs": 2,
+    "random_state": 20261011,
+    "class_weight": null
+  },
+  "minimal_next_changes_in_order": [
+    "Bind exact causal ORIGINAL prompt/label records by world and chronological state; confirm which training labels and resources are shared with the original trained LoRA. Do not turn these four inspected engineering roots or archived evaluation outputs into unused holdout.",
+    "Declare a numerical encoder consuming all actually exposed feedback/current information with missingness and precision explicitly retained. The new slot contract preserves full messages but is NOT that feature encoder.",
+    "Resolve complete current candidate-action score support. The old24-class learned catalog does not cover the whole variable original menu. A candidate-conditioned ExtraTrees ranker is a new methodological adaptation requiring declared labels/objective before fit; no zero-filled unseen classes or fallback heuristic.",
+    "Freeze dataset split, one-fit/no-outcome-sweep recipe, paired training/inference budgets, full costs and checkpoint/cold reader. Only then fit the new named control and produce source-bound predictions.",
+    "Use the pure one-slot decoder at the existing messages-only provider boundary; prove original parser/validator compatibility on admitted outputs before any physical continuation. Freeze protected trajectory/receipt-reuse/ownership/independent reader protocol before comparing outcomes."
+  ],
+  "critical_methodological_choice_not_silently_resolved": "New numerical action support/learning target: direct joint-class imitation versus candidate-conditioned ranking. Ranking is implementable and avoids unseen-class omission, but requires complete causally valid labels/objective; no new fit or claim is admitted by this design.",
+  "four_initial_inputs_contract_only": [
+    {
+      "case_id": "fed_combined_load_1p5_line_35_MG1",
+      "messages_sha256": "f615797a29c3e6ec49921d3cdb6045987c7e256052eb122ab7439158a8b9334b",
+      "kind": "PRIMARY",
+      "candidate_bus_count": 9,
+      "candidate_action_count": 81,
+      "candidate_catalog_sha256": "5d2fa75aeb142eeae97cbe6211b846e74cc39259594c9d7e74c5c93d18ce9553",
+      "new_predictions": 0
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_36_MG1",
+      "messages_sha256": "be0c1a38d8c2289df2f930b08cd4c148d699699479b53bb6ee7563e77a52b8b5",
+      "kind": "PRIMARY",
+      "candidate_bus_count": 11,
+      "candidate_action_count": 99,
+      "candidate_catalog_sha256": "230898e8c6d42b5a67497a28dfd5eff9d5406d1e8bdfb3cb6215e3f3ad27f476",
+      "new_predictions": 0
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "messages_sha256": "71c7f3b600cad1ca73cd14ff98c1fa9f63ca262d33058af25e1829b52f26c315",
+      "kind": "PRIMARY",
+      "candidate_bus_count": 9,
+      "candidate_action_count": 81,
+      "candidate_catalog_sha256": "5d2fa75aeb142eeae97cbe6211b846e74cc39259594c9d7e74c5c93d18ce9553",
+      "new_predictions": 0
+    },
+    {
+      "case_id": "fed_combined_load_1p5_line_127_MG3",
+      "messages_sha256": "57a0eb456db4c2ba66114881ccda723fdbd80840767121cb1700ad246b93b56a",
+      "kind": "PRIMARY",
+      "candidate_bus_count": 9,
+      "candidate_action_count": 81,
+      "candidate_catalog_sha256": "5d2fa75aeb142eeae97cbe6211b846e74cc39259594c9d7e74c5c93d18ce9553",
+      "new_predictions": 0
+    }
+  ],
+  "new_bridge_source": {
+    "path": "work/g5_original118_numeric_proposal_preparation_20261109/direct_slot_contract.py",
+    "sha256": "36bef0f797cb2cf8b6a41392779ef9a4705cebdacf76e4939f1f0b3433905f0a",
+    "bytes": 4779
+  },
+  "synthetic_checks": [
+    "fixed_first_tie_in_full_original_catalog",
+    "single_max_single_legal_compact_proposal",
+    "foreign_input_rejected",
+    "wrong_estimator_rejected",
+    "hidden_extra_query_rejected",
+    "missing_candidate_class_rejected",
+    "hidden_current_field_rejected",
+    "nonfinite_score_rejected"
+  ],
+  "genuinely_new_calls": {
+    "PF": 0,
+    "model": 0,
+    "trained_numeric_predictions": 0,
+    "native_decode": 0,
+    "optimizer_or_fit": 0,
+    "old_audits": 0
+  },
+  "remaining_blockers": [
+    "Exact shared causal training-data/label join and world split",
+    "Full original-message numeric encoder",
+    "Declared full legal-action scoring support",
+    "Actual new fitted estimator plus source/cold/source-compatible parser evidence",
+    "Matched complete protected trajectories/fullcost/unused confirmation"
+  ],
+  "strong_numeric_baseline_ready": false,
+  "benchmark_or_G5_complete": false,
+  "no_controller_source_edits": true,
+  "source_refs": [
+    {
+      "path": "work/e/audit/run_reflection_v4_safety_envelope.py",
+      "sha256": "d4b329413c91a64828ced63a0554d67e4f70d46726fc8c3ba3556d8714d9e81e",
+      "bytes": 34373
+    },
+    {
+      "path": "work/e/audit/phase2g_llm_guided_rescue_runner.py",
+      "sha256": "e81270c556d13eab830b76136ef49cd27a5563ed8d1de92344bdd8a37ea09028",
+      "bytes": 20685
+    },
+    {
+      "path": "work/reflection118_chronological_core_20261022.py",
+      "sha256": "16a6026229c91597765e98359ebf78475a0651f8f68ff712deee7b1766f97c8c",
+      "bytes": 4494
+    },
+    {
+      "path": "work/run_original_role_numeric_gate_20261011.py",
+      "sha256": "848eacf85070652756935c5a23afe259317447df56c3769658946fd6e1d0b830",
+      "bytes": 23618
+    },
+    {
+      "path": "work/candidate_process_numerical_predictor.py",
+      "sha256": "a1194078e03a5b8af7156cce8338fb141256e4be884d2362fd4ccb354a985c8f",
+      "bytes": 4654
+    },
+    {
+      "path": "work/actual_mask_jacobian_engineering_20261014.py",
+      "sha256": "93f0f0848a7fa1c043749318ba0e7d498744a7d112bc1c7439ef087f2991b4bc",
+      "bytes": 13291
+    },
+    {
+      "path": "work/g5_original118_numeric_proposal_preparation_20261109/direct_slot_contract.py",
+      "sha256": "36bef0f797cb2cf8b6a41392779ef9a4705cebdacf76e4939f1f0b3433905f0a",
+      "bytes": 4779
+    },
+    {
+      "path": "outputs/g3_common118_protocol_20261109/Source_Bound_Admission_Protocol.json",
+      "sha256": "c1f1b1773ed1a4878b1ebc5225567eca7d9fe7f393d44d06d331d37afa9ed366",
+      "bytes": 21160
+    }
+  ],
+  "old_control_result_ref": {
+    "path": "outputs/critical_research_reset_20261010/original_role_numeric_gate_20261011/execution/Results.json",
+    "sha256": "100b09f13cf3b8803557037a1289a79504e56498290717200612f5dd18ac248c",
+    "bytes": 38169
+  }
+}

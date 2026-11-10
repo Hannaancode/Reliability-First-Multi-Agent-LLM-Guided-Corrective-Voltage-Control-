@@ -1,0 +1,111 @@
+{
+  "status": "FROZEN_PROSPECTIVE_CPU_PAID_DISABLED_FRONTIER_REQUIRES_INDEPENDENT_GATE",
+  "case_index": 0,
+  "case_id": "fed_combined_load_1p5_line_35_MG1",
+  "source_input_sha256": {
+    "work/g5_disabled_frontier_20261109/owner.py": "dd879e480ade420a1daf7e72db4d02b1b69a5a22f1b9928e4ddc8fd9d516303f",
+    "work/g5_disabled_frontier_20261109/reader.py": "06fa3702b363e145cc3ab77293ab76db2cec8277c2f54ce874b5bf4be05a5224",
+    "work/g5_disabled_frontier_20261109/coordinate.py": "51eea2b99d1473168f74f9347dce1e98ad0931231322b4dccfad72d50bb8981d",
+    "work/g5_disabled_frontier_20261109/paid_prefix.py": "ff27b5132ae01f7d44f9956f777e72b5a6d37fdd948413471337f4ca49189214",
+    "work/g5_disabled_frontier_20261109/prepare.py": "c4b31c847b4cf8708092ca4337935160266dfb8fefcc671007a582763c926b9c",
+    "work/e/audit/phase2g_multiagent_llm_runner.py": "92730de74f76e21c97ea1a20bd9aa8dde33371a8e5d47b5dc896a7e204660de4",
+    "work/e/audit/phase2g_rescue_runner.py": "6e2f33faf63c3e6d314680455f478e63102f6361453b43c9a454022a832b84ed",
+    "work/e/audit/phase2g_llm_guided_rescue_runner.py": "e81270c556d13eab830b76136ef49cd27a5563ed8d1de92344bdd8a37ea09028",
+    "work/e/audit/run_reflection_v4_safety_envelope.py": "d4b329413c91a64828ced63a0554d67e4f70d46726fc8c3ba3556d8714d9e81e",
+    "work/e/pack/scripts/phase2d_iterative_blackboard_v0.py": "ee9555bc049f2183fc74a906b2f873c6b6758d426a653c1702fefdb70be750e7",
+    "work/e/audit/phase2d_iterative_blackboard_v2_deficit_aware.py": "195fac86531338226bade792421aaee2eb6d91a421545a615486320b41148c71",
+    "work/frozen_physics_loader.py": "7f0dcb958be9144dbcec0793b5e85b7fe33a50ee1796e126030ff5fba43991a4",
+    "work/native13_candidate_reconstruction_v10_label_graph_20261101.py": "d1ad038d7b03e4787f98c2f337e1405c27f5d49b2c4bc2456a382842178f6a39",
+    "work/security_scientific_state_profile_20261102.py": "1a5e346f4c25d52a286cb5bf3120fee13ca3c67d38d1458a4539e58f147dd3fd",
+    "work/coordinate_single_source_bound_owner_20261020.py": "bb924cbd647517e472c87d945f29fa00707d10907c596d46371d3bc71eb04d02",
+    "work/coordinate_native_inverter_linear_reference_20261020.py": "40c6607c598cb77dfb9945dbeae3353aa77baed65ea21062312d405cd1cb5975",
+    "outputs/g5_disabled_frontier_20261109/Paid_First_Response_Bundle.json": "990a3fe5cb98d13465990707f89b0b0802e9ba75e0be07683171160370abcbce",
+    "outputs/g5_original118_adapter_ablation_independent_20261109/Independent_Audit.json": "0e95827de12832d26cc7808783c72c74bfcc3409a29d9c4e4635676a721f21f4",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Frozen_Engineering_Protocol.json": "4e2735ffff065804a94a98bade2e6eb2cf9b4a31795265f0236c8c050c969193",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Original_Enabled_Runtime_Binding.json": "1213c4970eecae3c2497d378cfb5f858702e0104d4f4676a686bef5ffc55f8bd",
+    "outputs/g5_original118_adapter_ablation_20261109/execution_preparation/Finite_Treatment_History_Disposition.json": "4ec67e222355df8f5a10c0491762f2f5b42f96fdef5baaeae069f16a9fde6728",
+    "outputs/g5_original118_adapter_ablation_execution_20261109/staged/study/primary_Original_00.json": "10b9126e53d4a876ca1d63a4663fcc5f733828534775468e37f37433ee18878f",
+    "outputs/g5_original118_adapter_ablation_execution_20261109/staged/study/primary_Original_01.json": "4c0d0879ca73407d4b6883db0d31c485eb61b39b1fb22a1d55868b2f1cfb65ed",
+    "outputs/g5_original118_adapter_ablation_execution_20261109/staged/study/primary_Original_02.json": "bc31fd7138236e056eb3621822f460caa52107779351ff12d35e2f7426ffbb59",
+    "outputs/g5_original118_adapter_ablation_execution_20261109/staged/study/primary_Original_03.json": "a8ff549c63d47ce5efbff5ad9f61b8dc6ccd9745b88919ca49c3e144ee062fed",
+    "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/pf_000000.json": "082af100560b4a406ebedbe2779c02ee3aab4300aab3723d1edc7bb9bcca7f19",
+    "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/pf_000000_before.zlib": "67b375a1638901893b460df9dcfa653d8af22d4aaff772c81798a33fedab87cb",
+    "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/pf_000000_after.zlib": "609a3767607ec4f22c10f67f637d6ca602c65cac4b078a990c1914a02a94ef16",
+    "work/e/pack/testbeds/federation_4mg_ieee118.json": "fe9b4b552c4a2c056c8f22196c15f81ed9a2815082506b7795510455511c84d4",
+    "work/e/pack/testbeds/federation_4mg_ieee118_metadata.json": "e63d8296ae50a7454a9c239013a0a13ede92aea2ce76de496ea4e9b704e5921a",
+    "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_35_MG1.json": "08938f18867ba469d32a4a874837b8a20bd00e9125f4dc4105685313914eff8e",
+    "outputs/g5_disabled_frontier_20261109/Historical_Cost_Bindings.json": "f746b7a1fb67c0da643d2fd3a343584f46ce2d65156a7dcfd4e5d70ce785068a",
+    "work/g5_disabled_frontier_20261109/owner_v2.py": "862f82a5774019c1f20af7db5e19df5eb95204bf62921e4457eb350dff0d1095",
+    "work/g5_disabled_frontier_20261109/reader_v2.py": "318b71193dad876a405bd7262a3969e7dfa0914ad263053421639e785ebf85ed",
+    "work/g5_disabled_frontier_20261109/coordinate_v2.py": "932d92b1e177ccb3a0b09955fce2ff6b183469738860758444d741354c9ae336",
+    "work/g5_disabled_frontier_20261109/bind_role_protocols_v2.py": "6f9732398c247685c570204f357c983f265da670517a5fd84a2aae126062c112",
+    "outputs/g5_disabled_frontier_20261109/owner_Protocol_v2.json": "c2e0ff100ca5bb6a4e3bc4abc8b599a62a2aa52ed31712c3d86514873477946a",
+    "outputs/g5_disabled_frontier_20261109/reader_Protocol_v2.json": "62fdf9bb48c6b7825522d67e81ddc6ec4cb5018ae57efc705c4618c6d0a42164"
+  },
+  "base_net": "work/e/pack/testbeds/federation_4mg_ieee118.json",
+  "zones": "work/e/pack/testbeds/federation_4mg_ieee118_metadata.json",
+  "recipe": "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_35_MG1.json",
+  "initial_record": "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/pf_000000.json",
+  "seed": 20261022,
+  "codec_source": "work/native13_candidate_reconstruction_v10_label_graph_20261101.py",
+  "profile_source": "work/security_scientific_state_profile_20261102.py",
+  "owner_science_seconds": 300,
+  "closure_seconds": 30,
+  "reader_seconds": 120,
+  "storage_bound_bytes": 268435456,
+  "historical_costs_ref": {
+    "path": "outputs/g5_disabled_frontier_20261109/Historical_Cost_Bindings.json",
+    "bytes": 1078,
+    "sha256": "f746b7a1fb67c0da643d2fd3a343584f46ce2d65156a7dcfd4e5d70ce785068a"
+  },
+  "model_mode": "ORIGINAL118_PRIVATE_LORA_DISABLED",
+  "source_controller": "UNCHANGED_ORIGINAL_REFLECTION_V4",
+  "native_scope": "Two saved before/after decodes plus one base JSON decode; original read-only metrics/parser and hypothetical candidate preparation; zero native conversions/PF/model. Reuse initial result only after full typed input and exact kwargs equality.",
+  "stop": "Before second generation or first subsequent native PP call, whichever is reached first. Native frontier is unbound, not necessarily unexecuted.",
+  "cold_scope": "Persistent paid reply journal only; full warm-cold controller continuation remains unproved.",
+  "no_full_trajectory_or_G5_completion": true,
+  "no_external_method_or_same_information_claim": true,
+  "original_enabled_results_untouched": true,
+  "runtime_versions": {
+    "numpy": "2.0.2",
+    "scipy": "1.16.3",
+    "pandas": "2.3.3",
+    "pandapower": "3.4.0"
+  },
+  "runtime_image_sha256": {
+    "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\physics_env\\Scripts\\python.exe": "9f91cee2e1b13d9779ab252507aeee120c379e2543ffe85f63cad129b58ba230",
+    "C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe": "3c48fbdcc2ed5c55290e39bef50bd6b1da76f43f3069a4a2624d0b8876a605f5",
+    "C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python312.dll": "69b91d62f73a21a0aac361c1ffe2e970bf5762756073e8e2acd36e6e2f516133",
+    "C:\\Windows\\System32\\conhost.exe": "a26a1ffb81a61281ffa55cb7778cc3fb0ff981704de49f75f51f18b283fba7a2"
+  },
+  "runtime_admission_scope": "Exact same pinned physics environment; no model import, tokenizer or native solve admitted.",
+  "role_protocols": {
+    "owner": {
+      "path": "outputs/g5_disabled_frontier_20261109/owner_Protocol_v2.json",
+      "sha256": "c2e0ff100ca5bb6a4e3bc4abc8b599a62a2aa52ed31712c3d86514873477946a",
+      "bytes": 423
+    },
+    "reader": {
+      "path": "outputs/g5_disabled_frontier_20261109/reader_Protocol_v2.json",
+      "sha256": "62fdf9bb48c6b7825522d67e81ddc6ec4cb5018ae57efc705c4618c6d0a42164",
+      "bytes": 430
+    }
+  },
+  "revision": "Additive exact role-protocol pins; owner/reader/coordinator all require same Protocol_v2 digest and independently bound FINAL_Gate. Original prepared source retained, zero execution.",
+  "snapshot_scope": {
+    "compared": "profile.live_snapshot full_fingerprint and full_typed_mapping, without reduced scientific projection",
+    "included": [
+      "every supported stored native mapping field/value/type",
+      "native class and ADict flag",
+      "recorded cross-field object aliases",
+      "column Index label bits and object alias groups",
+      "supported stored array/block/index strides and buffer overlap"
+    ],
+    "excluded": [
+      "pickle-byte serialization equality",
+      "Python object or pandas manager addresses",
+      "arbitrary unsupported extension values or whole interpreter state"
+    ],
+    "unsupported": "Fail closed; no type/missing-field fill or normalization fallback."
+  }
+}

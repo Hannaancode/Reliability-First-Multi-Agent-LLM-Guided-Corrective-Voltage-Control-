@@ -1,0 +1,11 @@
+{
+  "single_owner": {
+    "source": "work/g5_initializer_observation_20261109/reader.py",
+    "sha256": "a54078c1eedd64c9d69459e81070520e0a5bbc36b0828dcc4aa211d93654a047",
+    "output": "outputs/g5_initializer_observation_20261109/reader",
+    "coordination": "outputs/g5_initializer_observation_20261109/reader_coordination",
+    "python": "work/vcsa_module_env/Scripts/python.exe",
+    "bound_seconds": 150
+  },
+  "require_ended_claims": []
+}

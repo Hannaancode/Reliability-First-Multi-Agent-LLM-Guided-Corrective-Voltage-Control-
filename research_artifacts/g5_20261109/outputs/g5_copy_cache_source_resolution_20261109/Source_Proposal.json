@@ -1,0 +1,124 @@
+{
+  "status": "SOURCE_ONLY_SCOPED_COPY_CACHE_RESOLUTION_NOT_RUNTIME_ADMISSION",
+  "source_refs": {
+    "native_deepcopy": {
+      "path": "work/physics_env/Lib/site-packages/pandapower/auxiliary.py",
+      "bytes": 94885,
+      "sha256": "e6f8b67a42a3d76dc375603159415af7d14a469e1b23134d34fd4e87b57fd73f",
+      "line": 291
+    },
+    "dataframe_deepcopy": {
+      "path": "work/physics_env/Lib/site-packages/pandas/core/generic.py",
+      "bytes": 476871,
+      "sha256": "a6a4b494c8896a26c1abe527e6a0d567ea9863dc55726b7bec3c852ff9f81809",
+      "line": 6844
+    },
+    "block_manager_copy": {
+      "path": "work/physics_env/Lib/site-packages/pandas/core/internals/managers.py",
+      "bytes": 82601,
+      "sha256": "79dc96a251c4a774f3b751f208b6dfaf54fdbc2b45e797b5f560fe5a3b8db0dc",
+      "line": 576
+    },
+    "block_copy": {
+      "path": "work/physics_env/Lib/site-packages/pandas/core/internals/blocks.py",
+      "bytes": 101163,
+      "sha256": "266aad3b7bdde6109ae949d3fb2ac20907a53bffc496256d7b9f47383497ace5",
+      "line": 817
+    },
+    "masked_copy_and_simple_new": {
+      "path": "work/physics_env/Lib/site-packages/pandas/core/arrays/masked.py",
+      "bytes": 56578,
+      "sha256": "a9aedf24209246efea9c660cd9c8bbdcccd7bf9eb07fd4372131a2ff1369f2f5",
+      "line": 1004
+    },
+    "numeric_array_dtype": {
+      "path": "work/physics_env/Lib/site-packages/pandas/core/arrays/numeric.py",
+      "bytes": 9165,
+      "sha256": "955a52a6c1bfebacf640c1e084246861e7fa755249fd06407fdbe4a4b309a242",
+      "line": 261
+    },
+    "shared_integer_dtype_mapping": {
+      "path": "work/physics_env/Lib/site-packages/pandas/core/arrays/integer.py",
+      "bytes": 6470,
+      "sha256": "156b2b833b3f0c1dde1bc557d647f351331c28e1df6be00215087fc55a593c95",
+      "line": 263
+    },
+    "derived_dtype_getters": {
+      "path": "work/physics_env/Lib/site-packages/pandas/core/dtypes/dtypes.py",
+      "bytes": 76055,
+      "sha256": "2289bfe0a5c205ad53f70dfadcb98eea689577c5871397d6c8e2d4a50191e3b6",
+      "line": 1546
+    },
+    "exact_typed_observer": {
+      "path": "work/native13_candidate_reconstruction_v10_label_graph_20261101.py",
+      "bytes": 32515,
+      "sha256": "d1ad038d7b03e4787f98c2f337e1405c27f5d49b2c4bc2456a382842178f6a39",
+      "line": 109
+    },
+    "live_snapshot": {
+      "path": "work/security_scientific_state_profile_20261102.py",
+      "bytes": 13146,
+      "sha256": "1a5e346f4c25d52a286cb5bf3120fee13ca3c67d38d1458a4539e58f147dd3fd",
+      "line": 79
+    },
+    "conditional_source_copy": {
+      "path": "work/g5_conditional_archived_start_20261109/continuation.py",
+      "bytes": 2032,
+      "sha256": "43d796c46d1682904db7135b3ff0648ed764c914f0ca4e754bee0451e99e2f7b"
+    },
+    "actual_saved_difference": {
+      "path": "outputs/g5_conditional_state_copy_diagnosis_20261109/Saved_Difference_Diagnosis.json",
+      "bytes": 4833,
+      "sha256": "cab25d482d864794b5281272ea771934e89375a9395cdce3e7d57b9c6de9e221"
+    },
+    "actual_source_produced_first_decision": {
+      "path": "outputs/g5_conditional_archived_start_20261109/owner/Actual_First_Decision_Start.json",
+      "bytes": 900931,
+      "sha256": "33143abbc527f8f145e927c5c22421ad5304c7068d25bf0286c908efea05c8a3"
+    },
+    "raw_archived_before_copy": {
+      "path": "outputs/g5_conditional_archived_start_20261109/owner/Archived_Common_Start.json",
+      "bytes": 901495,
+      "sha256": "2d8e9b0b988fd780c7c5c1bb50e20a54d4f1a884a3ff2a9e268177a000b0d3c4"
+    }
+  },
+  "observed_scope": "Exactly three missing Int64Dtype cache dictionaries (numpy_dtype=<i8,kind=i), plus resulting fingerprint hash. All other recorded fields, values and aliases match. Prior partial gate stays partial.",
+  "source_cause": [
+    "pandapower ADict.__deepcopy__ delegates ordinary DataFrame values to copy.deepcopy.",
+    "DataFrame.__deepcopy__ delegates to copy(deep=True); BlockManager applies Block.copy, which calls values.copy.",
+    "BaseMaskedArray.copy copies only _data and _mask and returns _simple_new(data,mask). _simple_new constructs a new array with those two attributes; it does not copy the old cached dtype object/state.",
+    "NumericArray.dtype is cached and resolves the new array dtype through IntegerDtype._get_dtype_mapping()/NUMPY_INT_TO_DTYPE, rather than inheriting the old archived dtype cache.",
+    "BaseMaskedDtype.numpy_dtype derives np.dtype(self.type); kind derives self.numpy_dtype.kind. Both getters are cache_readonly. Thus cached object state can differ while exact array data/masks and dtype meaning remain unchanged."
+  ],
+  "why_not_manual_materialization": "The dtype mapping is shared module state. Warming array.dtype.numpy_dtype/kind can mutate a shared singleton and affect other arrays. Do not insert cache values, replace shared mappings, change source copy, or execute getter materialization in this source-only proposal.",
+  "observer_scope": [
+    "require_int64_storage reads vars(array), _data, _mask and any existing _cache; typed Int64Dtype reads existing vars(dtype). It does not request numpy_dtype/kind to reconstruct missing caches.",
+    "live_snapshot binds full typed mapping and full fingerprint, then asserts a second fingerprint equals the first. This checks represented NET invariance, not every possible global-library cache.",
+    "Original table/zone operations may request dtype properties. Source alone does not justify promising exact cache-bit invariance between the immediate post-copy state and first model boundary."
+  ],
+  "minimal_preferred_next_action": {
+    "reference_boundary": "Original controller FIRST DECISION after its required source deepcopy and original observations, not the pre-copy archived object.",
+    "reuse_existing_evidence": "The exact actual source-produced first-decision snapshot is already durably saved in the terminal partial. Reuse this record as the prospective boundary reference; no extra post-copy observation owner is needed.",
+    "prospective_admission": [
+      "Freeze this reference and the exact unchanged source/runtime/input path before any new model or physics call. Preserve both archived-before-copy and source-produced-first-decision raw snapshots and their difference proof.",
+      "In a distinct unentered continuation, reconstruct the same conditional archived-start path and compare the entire supported actual first-decision snapshot to the closed first-decision reference; also require exact causal messages/token treatment match before using the already-paid disabled first reply.",
+      "Do not compare a post-copy state to a pre-copy cache layout and label that physical-input failure. The input contract explicitly remains CONDITIONAL_ARCHIVED_SOLVED_INITIAL_STATE with original source-required copy.",
+      "Do not strip fields, warm caches, weaken voltage/action/verifier thresholds, or reinterpret the old partial as pass. If the exact reference differs again, stop and preserve the difference; no same-run fallback comparator.",
+      "If source observers demonstrably populate only derived caches in a future distinct proposal, a narrowly validated scientific-state predicate could be separately declared while retaining raw records. That is not authorized or implemented here."
+    ],
+    "unchanged_science": "All original controller/post-initializer ASTs, original parser/causal information/guards/resources/Q/costs and all four eventual fixed roots remain unchanged; no favorable case or output selection.",
+    "scope_limit": "This fixes the location of the representation reference before a previously unentered model/physics branch. It does not recover historical backend arguments, demonstrate LLM benefit, or complete any main goal."
+  },
+  "tests_still_needed_not_executed": [
+    "Independent source check of the exact first-decision reference binding and no change to original ASTs.",
+    "A prospectively admitted distinct first-decision continuation must verify full-state/reference and messages equality before paid-reply consumption, preserve all failures/costs and stop at the next missing model/native identity."
+  ],
+  "execution": {
+    "native_or_pandas_imports": 0,
+    "NET_decodes": 0,
+    "controller_or_getter_calls": 0,
+    "PF_model_training_calls": 0,
+    "old_owner_reader_or_fixture_reruns": 0,
+    "new_tests": 0
+  }
+}

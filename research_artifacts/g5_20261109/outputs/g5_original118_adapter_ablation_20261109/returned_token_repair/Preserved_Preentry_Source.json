@@ -1,0 +1,18 @@
+{
+  "status": "PRESERVED_PRE_ENTRY_SOURCE_DEFECT_NO_MODEL_CALLS",
+  "refs": [
+    {
+      "source": "work/g5_original118_adapter_ablation_20261109/remote_owner.py",
+      "snapshot": "outputs\\g5_original118_adapter_ablation_20261109\\returned_token_repair\\remote_owner_before_returned_token_repair.py",
+      "bytes": 11104,
+      "sha256": "07137a1b6c77316b500ffbaac3d262e174525978fd485057114f8150d9995c37"
+    },
+    {
+      "source": "outputs/g5_original118_adapter_ablation_20261109/Engineering_Protocol.json",
+      "snapshot": "outputs\\g5_original118_adapter_ablation_20261109\\returned_token_repair\\Engineering_Protocol_before_returned_token_repair.json",
+      "bytes": 8316,
+      "sha256": "fbad1a38dac0c419d29495d419e2afe6c376174b70b2a9c43f0e02a93ae673f0"
+    }
+  ],
+  "defect": "returned generation tokens were not durable before postreturn assertions or decode"
+}

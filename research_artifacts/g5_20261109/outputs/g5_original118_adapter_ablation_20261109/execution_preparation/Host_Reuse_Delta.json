@@ -1,0 +1,29 @@
+{
+  "status": "ADDITIVE_SOURCE_PREPARATION_NO_HOST_INVOCATION",
+  "original_host_ref": {
+    "path": "work/run_native13_adapter_disabled_colab_20261021.py",
+    "bytes": 17510,
+    "sha256": "1c67d8704f3de17f2d99ae4d2c1569ba0da3e4eac27831f581fb446ceab60377"
+  },
+  "new_host_ref": {
+    "path": "work/g5_original118_adapter_ablation_20261109/host.py",
+    "bytes": 19012,
+    "sha256": "17893ba3d573b0c910fc6eed8245428c62b7075db5356c205e7d1426206daff2"
+  },
+  "changes": [
+    "from urllib.parse import quote",
+    "ROOT=Path(__file__).resolve().parents[1]",
+    "PREP=R/'native13_adapter_disabled_diagnostic_preparation_20261021'",
+    "native13_adapter_disabled_diagnostic_execution_20261021",
+    "work/native13_adapter_disabled_guardian_20261021.py",
+    "session_name='hiergrid-public-size-screen'",
+    "except (requests.exceptions.Timeout,requests.exceptions.ConnectionError,requests.exceptions.HTTPError):",
+    "        ast.parse(code);out=runtime.execute_code(code,allow_stdin=False,timeout=seconds)\n        assert not any(x.get('output_type')=='error' for x in out),'Remote control stage failed'",
+    "        assert ready['passed']",
+    "        for name in ['public_size_science.log','public_size_exit.json']:"
+  ],
+  "guardian_terminal_observation_added": true,
+  "one_fixed_profile_one_assign_no_fallback": true,
+  "explicit_HTTP401_403_429_no_retry": true,
+  "new_network_or_allocation_calls": 0
+}

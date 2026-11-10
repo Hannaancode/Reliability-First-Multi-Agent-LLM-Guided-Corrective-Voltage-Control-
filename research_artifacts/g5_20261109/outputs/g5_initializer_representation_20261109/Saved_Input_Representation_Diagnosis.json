@@ -1,0 +1,218 @@
+{
+  "status": "EXACT_SAVED_PAIR_REPRESENTATION_DIAGNOSIS_NO_REUSE_ADMISSION",
+  "refs": {
+    "actual": {
+      "path": "outputs/g5_initializer_observation_20261109/owner/Actual_Initial_Input_Before_Admission.json",
+      "sha256": "66b7798de43a602fa3c421c59a519a9c4b1fd9305a54ba269e0a780f750e2ec2",
+      "bytes": 452669
+    },
+    "saved": {
+      "path": "outputs/g5_disabled_frontier_20261109/owner/Saved_Initial_Before.json",
+      "sha256": "f399fbe5e6fac70c0151b2e1ddf2e89e11e656bb8a0b4328f8fe708d38ec0bde",
+      "bytes": 453032
+    },
+    "independent_first_comparison": {
+      "path": "outputs/g5_initializer_observation_20261109/reader/Exact_Actual_Input_Differences.json",
+      "sha256": "ab29ba64cac2c91b01e8a16a765bbd164625a7cbf91a475bdd731ecd9cbe4058",
+      "bytes": 10361
+    }
+  },
+  "independent_raw_leaf_structure_differences": 541,
+  "same_NET_field_count": 140,
+  "same_field_order": true,
+  "fully_identical_typed_fields": 137,
+  "changed_typed_fields": [
+    {
+      "NET_field": "sgen",
+      "column": "id_q_capability_characteristic",
+      "column_index": 9,
+      "difference": "Cached Int64Dtype state only: actual empty; saved _cache.numpy_dtype=<i8",
+      "actual_dtype_state": [
+        "builtins.dict",
+        []
+      ],
+      "saved_dtype_state": [
+        "builtins.dict",
+        [
+          [
+            [
+              "builtins.str",
+              "_cache"
+            ],
+            [
+              "builtins.dict",
+              [
+                [
+                  [
+                    "builtins.str",
+                    "numpy_dtype"
+                  ],
+                  [
+                    "numpy.dtypes.Int64DType",
+                    "<i8",
+                    "[('', '<i8')]"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      "all_other_columns_index_labels_attrs_flags_exact": true,
+      "raw_integer_data_bits_equal": true,
+      "raw_mask_bits_equal": true,
+      "raw_data_sha256": "94b46f073c99d2bf89d1f58c5f0d309b172f2b8150ebb307756517e1ba0219af",
+      "raw_mask_sha256": "0e8ea821861efa40c685ab4e38d4cc2b02d349e1cfdf99e0b24def296ffead1a",
+      "all_other_nullable_column_state_equal": true
+    },
+    {
+      "NET_field": "gen",
+      "column": "id_q_capability_characteristic",
+      "column_index": 15,
+      "difference": "Cached Int64Dtype state only: actual empty; saved _cache.numpy_dtype=<i8",
+      "actual_dtype_state": [
+        "builtins.dict",
+        []
+      ],
+      "saved_dtype_state": [
+        "builtins.dict",
+        [
+          [
+            [
+              "builtins.str",
+              "_cache"
+            ],
+            [
+              "builtins.dict",
+              [
+                [
+                  [
+                    "builtins.str",
+                    "numpy_dtype"
+                  ],
+                  [
+                    "numpy.dtypes.Int64DType",
+                    "<i8",
+                    "[('', '<i8')]"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      "all_other_columns_index_labels_attrs_flags_exact": true,
+      "raw_integer_data_bits_equal": true,
+      "raw_mask_bits_equal": true,
+      "raw_data_sha256": "7cc02ed5b971475b4dbb0aed2d109410b8a210a4c6995493ae379f8955489f20",
+      "raw_mask_sha256": "b534b0226d1ee6ec7a0171b2ac039c294d573c8aa89b20c9b539932f20106b4a",
+      "all_other_nullable_column_state_equal": true
+    },
+    {
+      "NET_field": "shunt",
+      "column": "id_characteristic_table",
+      "column_index": 8,
+      "difference": "Cached Int64Dtype state only: actual empty; saved _cache.numpy_dtype=<i8",
+      "actual_dtype_state": [
+        "builtins.dict",
+        []
+      ],
+      "saved_dtype_state": [
+        "builtins.dict",
+        [
+          [
+            [
+              "builtins.str",
+              "_cache"
+            ],
+            [
+              "builtins.dict",
+              [
+                [
+                  [
+                    "builtins.str",
+                    "numpy_dtype"
+                  ],
+                  [
+                    "numpy.dtypes.Int64DType",
+                    "<i8",
+                    "[('', '<i8')]"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      "all_other_columns_index_labels_attrs_flags_exact": true,
+      "raw_integer_data_bits_equal": true,
+      "raw_mask_bits_equal": true,
+      "raw_data_sha256": "3179c36cc8dffb2d7e7eaf2374f0a2c8e2ae46fcc3f5f3f78c1151d359ee29dc",
+      "raw_mask_sha256": "ac7cee6ad084144cfb7bad2f9f81b6e766f3fe9002ba1f420500c9f121284489",
+      "all_other_nullable_column_state_equal": true
+    }
+  ],
+  "logical_physical_table_data_mask_label_values_differ": false,
+  "fingerprint_different_fields": [
+    "sha256",
+    "stored_array_buffer_topology"
+  ],
+  "buffer_layout": {
+    "actual_stored_arrays": 186,
+    "saved_stored_arrays": 185,
+    "only_actual": {
+      "net/load/block/4": [
+        "<f8",
+        [
+          1,
+          99
+        ],
+        [
+          792,
+          8
+        ]
+      ]
+    },
+    "changed_common": {
+      "net/load/block/1": {
+        "actual": [
+          "<f8",
+          [
+            7,
+            99
+          ],
+          [
+            792,
+            8
+          ]
+        ],
+        "saved": [
+          "<f8",
+          [
+            8,
+            99
+          ],
+          [
+            792,
+            8
+          ]
+        ]
+      }
+    },
+    "only_saved": [],
+    "all_other_array_descriptors_exact": true,
+    "both_overlap_pairs_empty": true,
+    "full_logical_load_typed_value_equal": true
+  },
+  "native_class_ADict_flag_crossfield_aliases_column_identity_equal": true,
+  "exact_solver_kwargs_equal": true,
+  "interpretation": "541 raw indexed differences do not mean541 physical-value changes: one extra load block shifts list positions, plus three nullable dtype-cache additions. Strict full snapshot equality correctly failed; this diagnosis does not override it.",
+  "cause_scope": {
+    "historical_before_record_source": "work/run_reflection118_chronological_local_20261022.py line142 explicitly stores copy.deepcopy(net) before actual primary callback",
+    "load_layout": "Observed live7x99 float block plus separate1x99 versus saved8x99. Current pandas deep-copy BlockManager consolidation is source-consistent, but not an actual historical pre-backend capture.",
+    "nullable_cache": "Exact cached numpy_dtype state difference proved. Which historical operation first populated that cache is not recovered; no claim all changes share one cause."
+  },
+  "no_cache_stripping_relaxed_projection_clipping_or_reclassification": true,
+  "new_native_decoder_controller_PF_model_calls": 0,
+  "workflow_seconds": 0.020680699963122606
+}

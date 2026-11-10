@@ -1,0 +1,41 @@
+{
+  "at_utc": "2026-11-09T13:22:10.1359590Z",
+  "processes": [
+    {
+      "ProcessId": 17740,
+      "ParentProcessId": 19184,
+      "CreationDate": "2026-11-09T16:21:51.043959+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe\" -B -X utf8 work/g5_initializer_observation_20261109/coordinate.py"
+    },
+    {
+      "ProcessId": 30196,
+      "ParentProcessId": 17740,
+      "CreationDate": "2026-11-09T16:21:51.088941+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -B -X utf8 work/g5_initializer_observation_20261109/coordinate.py"
+    },
+    {
+      "ProcessId": 24372,
+      "ParentProcessId": 30196,
+      "CreationDate": "2026-11-09T16:21:51.421119+03:00",
+      "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\coordinate_single_source_bound_owner_20261020.py --protocol outputs\\g5_initializer_observation_20261109\\owner_Protocol.json"
+    },
+    {
+      "ProcessId": 9340,
+      "ParentProcessId": 24372,
+      "CreationDate": "2026-11-09T16:21:51.508297+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\coordinate_single_source_bound_owner_20261020.py --protocol outputs\\g5_initializer_observation_20261109\\owner_Protocol.json"
+    },
+    {
+      "ProcessId": 23448,
+      "ParentProcessId": 9340,
+      "CreationDate": "2026-11-09T16:21:51.729667+03:00",
+      "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\physics_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_initializer_observation_20261109\\owner.py"
+    },
+    {
+      "ProcessId": 29316,
+      "ParentProcessId": 23448,
+      "CreationDate": "2026-11-09T16:21:51.840658+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_initializer_observation_20261109\\owner.py"
+    }
+  ]
+}

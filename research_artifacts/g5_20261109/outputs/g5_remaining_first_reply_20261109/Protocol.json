@@ -1,0 +1,239 @@
+{
+  "status": "PROSPECTIVE_REMAINING_FIRST_PAID_REPLY_REQUIRE_REVIEW",
+  "case_order": [
+    "fed_combined_load_1p5_line_35_MG1",
+    "fed_combined_load_1p5_line_36_MG1",
+    "fed_combined_load_1p5_line_84_MG2",
+    "fed_combined_load_1p5_line_127_MG3"
+  ],
+  "common_starts": [
+    {
+      "case_index": 0,
+      "case_id": "fed_combined_load_1p5_line_35_MG1",
+      "paid_record": {
+        "path": "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/pf_000000.json",
+        "bytes": 831,
+        "sha256": "082af100560b4a406ebedbe2779c02ee3aab4300aab3723d1edc7bb9bcca7f19"
+      },
+      "after_descriptor": {
+        "path": "pf_000000_after.zlib",
+        "bytes": 102410,
+        "sha256": "609a3767607ec4f22c10f67f637d6ca602c65cac4b078a990c1914a02a94ef16",
+        "decoded_bytes": 353932,
+        "decoded_sha256": "339a6a8148fbff43ecb507301d5be702b3f585d1bf291068e44ae8606750f549"
+      },
+      "after_input_pinned_on_entry": true,
+      "recipe": "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_35_MG1.json",
+      "original_initializer_cost_seconds": 4.769765800097957,
+      "registered_solved_root_sha256": "e3cfb229962f51bbb380644bd7e2bc85c1f82d7d51a7d3f1c9465979000f01a2",
+      "enabled_reference": "Already independently closed original chronological enabled branch; no enabled replies or physical calls repeated",
+      "new_disabled_full_episode_status": "NOT_EXECUTED"
+    },
+    {
+      "case_index": 1,
+      "case_id": "fed_combined_load_1p5_line_36_MG1",
+      "paid_record": {
+        "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_01/local_controller/fed_combined_load_1p5_line_36_MG1/reflection_v2/pf_000000.json",
+        "bytes": 797,
+        "sha256": "050595a56aaa0fe2b643bb7e25fe9f3ef125c7f49c42b6e69b61fbabb2b4b1f7"
+      },
+      "after_descriptor": {
+        "path": "pf_000000_after.zlib",
+        "bytes": 102349,
+        "sha256": "26e5167b4dfd29e3a52d4aceb153b55eef11de118208c9c54179167f427ec1c4",
+        "decoded_bytes": 353932,
+        "decoded_sha256": "40a33d948e961f2bbd1ed24e6f0bc3428364f230e922e268c11e4af6514dc8e5"
+      },
+      "after_input_pinned_on_entry": true,
+      "recipe": "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_36_MG1.json",
+      "original_initializer_cost_seconds": 2.960756199900061,
+      "registered_solved_root_sha256": "88d05409063d46a68839267bd1a414cbf69ad52dc6123f1eae3f305aefdac628",
+      "enabled_reference": "Already independently closed original chronological enabled branch; no enabled replies or physical calls repeated",
+      "new_disabled_full_episode_status": "NOT_EXECUTED"
+    },
+    {
+      "case_index": 2,
+      "case_id": "fed_combined_load_1p5_line_84_MG2",
+      "paid_record": {
+        "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_02/local_controller/fed_combined_load_1p5_line_84_MG2/reflection_v2/pf_000000.json",
+        "bytes": 797,
+        "sha256": "67c833bf273de7046992cc8ef30bb5eaf1fc13a5bcca864339c137d175e38e26"
+      },
+      "after_descriptor": {
+        "path": "pf_000000_after.zlib",
+        "bytes": 102490,
+        "sha256": "075a57ca865b2b5d434f34330629bb33a591a37b2252bd370117a37dbcc52c73",
+        "decoded_bytes": 353932,
+        "decoded_sha256": "10b3cc91d607e591288267c078e96495afe09165da941c7c3ed499b6922fd41b"
+      },
+      "after_input_pinned_on_entry": true,
+      "recipe": "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_84_MG2.json",
+      "original_initializer_cost_seconds": 0.06277790013700724,
+      "registered_solved_root_sha256": "bb48ea15e244e9504f465d93b246098789f96893f4e731a1f284e0c49a059b9f",
+      "enabled_reference": "Already independently closed original chronological enabled branch; no enabled replies or physical calls repeated",
+      "new_disabled_full_episode_status": "NOT_EXECUTED"
+    },
+    {
+      "case_index": 3,
+      "case_id": "fed_combined_load_1p5_line_127_MG3",
+      "paid_record": {
+        "path": "outputs/reflection118_remaining_cases_v2_execution_20261023/case_03/local_controller/fed_combined_load_1p5_line_127_MG3/reflection_v2/pf_000000.json",
+        "bytes": 797,
+        "sha256": "e0e36d1739d801373885107ceab0321fdcd5ac88878c3af1cf446e02455993ea"
+      },
+      "after_descriptor": {
+        "path": "pf_000000_after.zlib",
+        "bytes": 102406,
+        "sha256": "391d005ff4427b5d344f06671d6c3577b4c06f596cb43b3f62b6a4466a116819",
+        "decoded_bytes": 353956,
+        "decoded_sha256": "405b875aaa86f11f778ed6588158bdec6059eb06975e3a56a5c18d2976c4594f"
+      },
+      "after_input_pinned_on_entry": true,
+      "recipe": "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_127_MG3.json",
+      "original_initializer_cost_seconds": 0.05797640001401305,
+      "registered_solved_root_sha256": "d3b481cd440bf1cadec6686591380ac3630174026ca3f89daa948113b56f1fec",
+      "enabled_reference": "Already independently closed original chronological enabled branch; no enabled replies or physical calls repeated",
+      "new_disabled_full_episode_status": "NOT_EXECUTED"
+    }
+  ],
+  "current_engineering_case_index": 0,
+  "eventual_full_comparison_scope": "All four fixed roots, no favorable selection; currently only first finite entry is prepared.",
+  "conditional_start_definition": "Same exact archived solved NET and original source-required copy/post-initializer statements. Necessary new-process prefix reconstruction is charged; original snapshots/costs and prior failed comparison remain preserved. New work is first paid disabled reply consumption and the following previously unentered source frontier only.",
+  "historical_backend_equality": "UNKNOWN_NOT_CLAIMED; not needed to rerun a nonlinear initializer in this explicitly conditional comparison.",
+  "prevent_weaker_benchmark": [
+    "Keep all four original root cases, all original post-initializer function ASTs/parser/guards/Q/cap/fallback/selection and complete costs.",
+    "No default state repair, no input projection relaxation, no rounding or guard change.",
+    "Full shared-information numerical proposal control remains missing; original DFF/DFFALT/FULLBOTH stay strong references.",
+    "A conditional original118 adapter contrast is not a substitute for complete external benchmark or general LLM superiority."
+  ],
+  "paid_reply_bundle": "outputs/g5_disabled_frontier_20261109/Paid_First_Response_Bundle.json",
+  "reflection_source": "work/e/audit/run_reflection_v4_safety_envelope.py",
+  "zones": "work/e/pack/testbeds/federation_4mg_ieee118_metadata.json",
+  "codec_source": "work/native13_candidate_reconstruction_v10_label_graph_20261101.py",
+  "profile_source": "work/security_scientific_state_profile_20261102.py",
+  "admission_source": "work/g5_disabled_initializer_diagnosis_20261109/admission_capture.py",
+  "seed": 20261022,
+  "science_seconds": 300,
+  "closure_seconds": 30,
+  "reader_seconds": 120,
+  "storage_bound_bytes": 268435456,
+  "runtime_versions": {
+    "numpy": "2.0.2",
+    "scipy": "1.16.3",
+    "pandas": "2.3.3",
+    "pandapower": "3.4.0"
+  },
+  "runtime_image_sha256": {
+    "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\physics_env\\Scripts\\python.exe": "9f91cee2e1b13d9779ab252507aeee120c379e2543ffe85f63cad129b58ba230",
+    "C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe": "3c48fbdcc2ed5c55290e39bef50bd6b1da76f43f3069a4a2624d0b8876a605f5",
+    "C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python312.dll": "69b91d62f73a21a0aac361c1ffe2e970bf5762756073e8e2acd36e6e2f516133",
+    "C:\\Windows\\System32\\conhost.exe": "a26a1ffb81a61281ffa55cb7778cc3fb0ff981704de49f75f51f18b283fba7a2"
+  },
+  "historical_costs_ref": {
+    "path": "outputs/g5_remaining_first_reply_20261109/Historical_Cost_Bindings.json",
+    "bytes": 1528,
+    "sha256": "6c978376e85091428bf26a43b5122874de069b5c34e2b7c0c502d1dbb95341e6"
+  },
+  "no_initial_solver_or_new_model_allowed": true,
+  "next_stop": "First missing disabled generation or unbound native identity before new measurement",
+  "source_entry_delta": "Only base/scenario/initial-PF prefix replaced by archived solved input; all subsequent statements remain exact original ASTs.",
+  "not_a_full_cold_process_or_controller_restart_proof": true,
+  "source_input_sha256": {
+    "work/g5_conditional_archived_start_20261109/owner.py": "e6478d6ac62ec4b3e030ddeca5ce4803dac36197814dabf02b5372d9c36a1629",
+    "work/g5_conditional_archived_start_20261109/reader.py": "94cdfd7212a48f48b12080ef9ea8e85d03ad5ed60ed7443f3f73d44e7ce07937",
+    "work/g5_conditional_archived_start_20261109/coordinate.py": "764f42826c2230484dd9a9a957cda6b5cce97aeb78a7a556fb5a6481aacdda18",
+    "work/g5_conditional_archived_start_20261109/paid_prefix.py": "ff27b5132ae01f7d44f9956f777e72b5a6d37fdd948413471337f4ca49189214",
+    "work/g5_conditional_archived_start_20261109/continuation.py": "43d796c46d1682904db7135b3ff0648ed764c914f0ca4e754bee0451e99e2f7b",
+    "work/g5_conditional_archived_start_20261109/prepare.py": "469374ef6491b1fc5426ba559d6e34f7c16f7f7c2aca0c1cf47cf7deeeda6321",
+    "outputs/g5_disabled_frontier_20261109/Paid_First_Response_Bundle.json": "990a3fe5cb98d13465990707f89b0b0802e9ba75e0be07683171160370abcbce",
+    "work/e/audit/run_reflection_v4_safety_envelope.py": "d4b329413c91a64828ced63a0554d67e4f70d46726fc8c3ba3556d8714d9e81e",
+    "work/e/pack/testbeds/federation_4mg_ieee118_metadata.json": "e63d8296ae50a7454a9c239013a0a13ede92aea2ce76de496ea4e9b704e5921a",
+    "work/native13_candidate_reconstruction_v10_label_graph_20261101.py": "d1ad038d7b03e4787f98c2f337e1405c27f5d49b2c4bc2456a382842178f6a39",
+    "work/security_scientific_state_profile_20261102.py": "1a5e346f4c25d52a286cb5bf3120fee13ca3c67d38d1458a4539e58f147dd3fd",
+    "work/g5_disabled_initializer_diagnosis_20261109/admission_capture.py": "dcf10850039fec40ef768bffeaa4141615381f2e0970027ddc01a8e0292ef5b5",
+    "outputs/g5_conditional_archived_start_20261109/Historical_Cost_Bindings.json": "a9f1d601e31352b974033343b75c2a0613fe129968e1458e376c6615de920ae4",
+    "work/frozen_physics_loader.py": "7f0dcb958be9144dbcec0793b5e85b7fe33a50ee1796e126030ff5fba43991a4",
+    "work/coordinate_single_source_bound_owner_20261020.py": "bb924cbd647517e472c87d945f29fa00707d10907c596d46371d3bc71eb04d02",
+    "work/coordinate_native_inverter_linear_reference_20261020.py": "40c6607c598cb77dfb9945dbeae3353aa77baed65ea21062312d405cd1cb5975",
+    "work/e/audit/phase2g_multiagent_llm_runner.py": "92730de74f76e21c97ea1a20bd9aa8dde33371a8e5d47b5dc896a7e204660de4",
+    "work/e/audit/phase2g_rescue_runner.py": "6e2f33faf63c3e6d314680455f478e63102f6361453b43c9a454022a832b84ed",
+    "work/e/audit/phase2g_llm_guided_rescue_runner.py": "e81270c556d13eab830b76136ef49cd27a5563ed8d1de92344bdd8a37ea09028",
+    "work/e/pack/scripts/phase2d_iterative_blackboard_v0.py": "ee9555bc049f2183fc74a906b2f873c6b6758d426a653c1702fefdb70be750e7",
+    "work/e/audit/phase2d_iterative_blackboard_v2_deficit_aware.py": "195fac86531338226bade792421aaee2eb6d91a421545a615486320b41148c71",
+    "work/e/pack/testbeds/federation_4mg_ieee118.json": "fe9b4b552c4a2c056c8f22196c15f81ed9a2815082506b7795510455511c84d4",
+    "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_35_MG1.json": "08938f18867ba469d32a4a874837b8a20bd00e9125f4dc4105685313914eff8e",
+    "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/pf_000000.json": "082af100560b4a406ebedbe2779c02ee3aab4300aab3723d1edc7bb9bcca7f19",
+    "outputs/reflection118_remaining_cases_v2_execution_20261023/case_01/local_controller/fed_combined_load_1p5_line_36_MG1/reflection_v2/pf_000000.json": "050595a56aaa0fe2b643bb7e25fe9f3ef125c7f49c42b6e69b61fbabb2b4b1f7",
+    "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_36_MG1.json": "98d45437e1361f9fc57e9f1d949ae68f92f372a5e453df859ac7164cfa526268",
+    "outputs/reflection118_remaining_cases_v2_execution_20261023/case_02/local_controller/fed_combined_load_1p5_line_84_MG2/reflection_v2/pf_000000.json": "67c833bf273de7046992cc8ef30bb5eaf1fc13a5bcca864339c137d175e38e26",
+    "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_84_MG2.json": "58cacccd2ca62f05ec446f1e6fc1450caf43c3b004ff47074821655a0f8c2ae0",
+    "outputs/reflection118_remaining_cases_v2_execution_20261023/case_03/local_controller/fed_combined_load_1p5_line_127_MG3/reflection_v2/pf_000000.json": "e0e36d1739d801373885107ceab0321fdcd5ac88878c3af1cf446e02455993ea",
+    "work/e/pack/scenarios/federation/fed_combined_load_1p5_line_127_MG3.json": "769f5add532fe7f4b2b588abb286e4c0c70d672ecb5fd4de50d8d8fc06b961f2",
+    "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/pf_000000_after.zlib": "609a3767607ec4f22c10f67f637d6ca602c65cac4b078a990c1914a02a94ef16",
+    "outputs/g5_conditional_archived_start_20261109/owner_Protocol.json": "a6c69eb69be1677b6256437667384515ed1b694f6211195a25ef60a0e7d40a08",
+    "outputs/g5_conditional_archived_start_20261109/reader_Protocol.json": "ee97f1f58bb6709adb4fddfdfea1e0d879d9601a1c0b872873b82f8e46a58e6b",
+    "work/physics_env/Lib/site-packages/pandapower/auxiliary.py": "e6f8b67a42a3d76dc375603159415af7d14a469e1b23134d34fd4e87b57fd73f",
+    "work/physics_env/Lib/site-packages/pandas/core/generic.py": "a6a4b494c8896a26c1abe527e6a0d567ea9863dc55726b7bec3c852ff9f81809",
+    "work/physics_env/Lib/site-packages/pandas/core/internals/managers.py": "79dc96a251c4a774f3b751f208b6dfaf54fdbc2b45e797b5f560fe5a3b8db0dc",
+    "work/physics_env/Lib/site-packages/pandas/core/internals/blocks.py": "266aad3b7bdde6109ae949d3fb2ac20907a53bffc496256d7b9f47383497ace5",
+    "work/physics_env/Lib/site-packages/pandas/core/arrays/masked.py": "a9aedf24209246efea9c660cd9c8bbdcccd7bf9eb07fd4372131a2ff1369f2f5",
+    "work/physics_env/Lib/site-packages/pandas/core/arrays/numeric.py": "955a52a6c1bfebacf640c1e084246861e7fa755249fd06407fdbe4a4b309a242",
+    "work/physics_env/Lib/site-packages/pandas/core/arrays/integer.py": "156b2b833b3f0c1dde1bc557d647f351331c28e1df6be00215087fc55a593c95",
+    "work/physics_env/Lib/site-packages/pandas/core/dtypes/dtypes.py": "2289bfe0a5c205ad53f70dfadcb98eea689577c5871397d6c8e2d4a50191e3b6",
+    "outputs/g5_conditional_state_copy_diagnosis_20261109/Saved_Difference_Diagnosis.json": "cab25d482d864794b5281272ea771934e89375a9395cdce3e7d57b9c6de9e221",
+    "outputs/g5_conditional_archived_start_20261109/owner/Actual_First_Decision_Start.json": "33143abbc527f8f145e927c5c22421ad5304c7068d25bf0286c908efea05c8a3",
+    "outputs/g5_conditional_archived_start_20261109/owner/Archived_Common_Start.json": "2d8e9b0b988fd780c7c5c1bb50e20a54d4f1a884a3ff2a9e268177a000b0d3c4",
+    "work/g5_remaining_first_reply_20261109/continuation.py": "43d796c46d1682904db7135b3ff0648ed764c914f0ca4e754bee0451e99e2f7b",
+    "work/g5_remaining_first_reply_20261109/coordinate.py": "06cba0d6c6baf150ddc51c64d372e118dae1fecd651f2ac7eb76bb1a7460ce11",
+    "work/g5_remaining_first_reply_20261109/owner.py": "206181ceaf929cbf0e9cc2589cabced200f4e5e4353b1c3f4cc6feee8d5c9f7c",
+    "work/g5_remaining_first_reply_20261109/paid_prefix.py": "ff27b5132ae01f7d44f9956f777e72b5a6d37fdd948413471337f4ca49189214",
+    "work/g5_remaining_first_reply_20261109/prepare.py": "f2b000c37e63cf161c502e05b067cbc9b742fe654c7e7d826b677b66430ce974",
+    "work/g5_remaining_first_reply_20261109/reader.py": "bda43234bbff589a9127ec95c8597ba727b561212bc56b5b857edc03938dd287",
+    "outputs/g5_remaining_first_reply_20261109/owner_Protocol.json": "d8e1e2303df29a0964d279f1b6c282d42bce261312ddc551b3c9a889d4ba80ba",
+    "outputs/g5_remaining_first_reply_20261109/reader_Protocol.json": "bd2dbd85f85bb6780d2531cd0dc61cff46e3c94d4d4b3663d64d2fa851f41c98",
+    "outputs/g5_copy_cache_source_resolution_20261109/Source_Proposal.json": "536ee7ee29f64329dc608da3aa2fd0202fa85558e721a65f2938a0ce72985597",
+    "outputs/g5_remaining_first_reply_20261109/Historical_Cost_Bindings.json": "6c978376e85091428bf26a43b5122874de069b5c34e2b7c0c502d1dbb95341e6",
+    "outputs/g5_conditional_archived_start_20261109/owner/Result.json": "f8a7634d01b75569d7d46d189a4c2600ea9674ce748cbaee86b552882e59ab75",
+    "outputs/g5_conditional_archived_start_20261109/owner/Closed_Manifest.json": "59827b4ef26c4b12fba9ba1f24eb01df7f8037b618182ad2c06673f57254c907",
+    "outputs/g5_conditional_archived_start_20261109/reader/Independent_Audit.json": "20b652f471d4ef1176b4b784dcacf75b37054325d0a0ea5e9d5ac9fef92eb2b3",
+    "outputs/g5_conditional_archived_start_20261109/reader/Closed_Manifest.json": "9de1f204b7fd31b87d834890f4902a1dcb664522f8bd1185aea671e837ca9d86",
+    "outputs/g5_conditional_archived_start_20261109/owner_coordination/End_ACK.json": "e378d4f57b505116d0f3dfd5fd73427301f95b9a84e09bdf286b2029409c3a6b",
+    "outputs/g5_conditional_archived_start_20261109/reader_coordination/End_ACK.json": "0a03d58e66dec239c9ad2ff9db21bdd89bb62cff4756b8e481e1b57398a4b157",
+    "outputs/g5_conditional_archived_start_20261109/handoff/Completion.json": "d012ea29cb68ab2cab021bef70d0821f4a6dc4b8efff245278ded8f1fe062230",
+    "outputs/g5_conditional_archived_start_20261109/Protocol.json": "ff7aae70eb4eee5f230389dcb1d418cb6fd2b12b82a7c806528590087b136f8a"
+  },
+  "source_resolution_proposal_ref": {
+    "path": "outputs/g5_copy_cache_source_resolution_20261109/Source_Proposal.json",
+    "bytes": 8407,
+    "sha256": "536ee7ee29f64329dc608da3aa2fd0202fa85558e721a65f2938a0ce72985597"
+  },
+  "first_decision_reference": {
+    "path": "outputs/g5_conditional_archived_start_20261109/owner/Actual_First_Decision_Start.json",
+    "bytes": 900931,
+    "sha256": "33143abbc527f8f145e927c5c22421ad5304c7068d25bf0286c908efea05c8a3"
+  },
+  "prior_pre_copy_snapshot_ref": {
+    "path": "outputs/g5_conditional_archived_start_20261109/owner/Archived_Common_Start.json",
+    "bytes": 901495,
+    "sha256": "2d8e9b0b988fd780c7c5c1bb50e20a54d4f1a884a3ff2a9e268177a000b0d3c4"
+  },
+  "prior_partial_result_ref": {
+    "path": "outputs/g5_conditional_archived_start_20261109/owner/Result.json",
+    "bytes": 915,
+    "sha256": "f8a7634d01b75569d7d46d189a4c2600ea9674ce748cbaee86b552882e59ab75"
+  },
+  "prior_partial_audit_ref": {
+    "path": "outputs/g5_conditional_archived_start_20261109/reader/Independent_Audit.json",
+    "bytes": 1281,
+    "sha256": "20b652f471d4ef1176b4b784dcacf75b37054325d0a0ea5e9d5ac9fef92eb2b3"
+  },
+  "prior_partial_protocol_ref": {
+    "path": "outputs/g5_conditional_archived_start_20261109/Protocol.json",
+    "bytes": 13196,
+    "sha256": "ff7aae70eb4eee5f230389dcb1d418cb6fd2b12b82a7c806528590087b136f8a"
+  },
+  "first_decision_reference_contract": "Compare complete supported actual first-decision snapshot to the preserved ORIGINAL source-produced snapshot at that same boundary, after original deepcopy and original observations. Never compare it to the pre-copy cache layout; never strip or materialize caches. Mismatch remains a stopped partial.",
+  "new_first_entry_scope": "One fixed first root, previously unconsumed disabled paidreply0; stop before the next missing generation or any native input body. All4 fixed roots remain eventual scope, no case/outcome selection.",
+  "prior_observation_owner_rerun": false,
+  "old_partial_reclassified_as_pass": false
+}

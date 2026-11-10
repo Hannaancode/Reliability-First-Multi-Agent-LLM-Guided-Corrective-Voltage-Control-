@@ -1,0 +1,11 @@
+{
+  "single_owner": {
+    "source": "work/g5_original118_adapter_ablation_20261109/saved_reader_v3.py",
+    "sha256": "70b46b02150b58b36c1cd409cd662cb41fd5e59524371afaa8b19c6d98961f35",
+    "output": "outputs/g5_original118_adapter_ablation_independent_20261109",
+    "coordination": "outputs/g5_original118_adapter_ablation_reader_coordination_20261109",
+    "python": "work/vcsa_module_env/Scripts/python.exe",
+    "bound_seconds": 600
+  },
+  "require_ended_claims": []
+}

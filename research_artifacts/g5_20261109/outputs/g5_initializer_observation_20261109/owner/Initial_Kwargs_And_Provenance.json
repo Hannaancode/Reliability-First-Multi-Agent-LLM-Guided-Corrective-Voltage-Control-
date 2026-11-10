@@ -1,0 +1,1 @@
+{"actual_kwargs": {"algorithm": "nr", "init": "auto", "enforce_q_lims": true, "max_iteration": 50}, "expected_kwargs": {"algorithm": "nr", "init": "auto", "enforce_q_lims": true, "max_iteration": 50}, "paid_source_provenance": {"kind": "PAID_INITIAL_REUSE", "binding": "e3cfb229962f51bbb380644bd7e2bc85c1f82d7d51a7d3f1c9465979000f01a2"}}

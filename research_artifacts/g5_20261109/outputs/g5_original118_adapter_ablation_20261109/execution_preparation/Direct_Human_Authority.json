@@ -1,0 +1,10 @@
+{
+  "scope": "User explicitly requested original-model/G5 contribution work; original full authority to serve original private weights and causal inputs on the fixed own profile persists. Parent explicitly requested this new bounded adapter-off package, no allocation by this preparation.",
+  "export_allowlist": "Only original private adapter/tokenizer, four causal message/token inputs, exact source/dependency metadata. No credentials, NETs, training corpus, original outputs or outcome labels.",
+  "fixed_profile": {
+    "public_0_5B": {
+      "account": "abdulhannaan2002@gmail.com"
+    }
+  },
+  "no_purchases_fallback_or_denial_bypass": true
+}

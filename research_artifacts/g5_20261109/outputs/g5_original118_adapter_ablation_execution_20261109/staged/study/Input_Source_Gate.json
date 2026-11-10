@@ -1,0 +1,6 @@
+{
+  "all4_original_tokens_exact": true,
+  "longest_prefix": 2371,
+  "new_generation_before_gate": 0,
+  "adapter_mode": "ORIGINAL118_PRIVATE_LORA_DISABLED"
+}

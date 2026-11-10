@@ -1,0 +1,41 @@
+{
+  "at_utc": "2026-11-09T11:49:50.3712996Z",
+  "actors": [
+    {
+      "ProcessId": 27088,
+      "ParentProcessId": 1772,
+      "CreationDate": "2026-11-09T14:46:16.022161+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe\" -X utf8 work/g5_original118_adapter_ablation_20261109/coordinator_v3.py"
+    },
+    {
+      "ProcessId": 14564,
+      "ParentProcessId": 27088,
+      "CreationDate": "2026-11-09T14:46:16.060256+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 work/g5_original118_adapter_ablation_20261109/coordinator_v3.py"
+    },
+    {
+      "ProcessId": 18608,
+      "ParentProcessId": 14564,
+      "CreationDate": "2026-11-09T14:46:16.279854+03:00",
+      "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\vcsa_module_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\coordinate_single_source_bound_owner_20261020.py --protocol outputs\\g5_original118_adapter_ablation_20261109\\execution_preparation\\Primary_Owner_Protocol_v2.json"
+    },
+    {
+      "ProcessId": 28284,
+      "ParentProcessId": 18608,
+      "CreationDate": "2026-11-09T14:46:16.40127+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\coordinate_single_source_bound_owner_20261020.py --protocol outputs\\g5_original118_adapter_ablation_20261109\\execution_preparation\\Primary_Owner_Protocol_v2.json"
+    },
+    {
+      "ProcessId": 11160,
+      "ParentProcessId": 28284,
+      "CreationDate": "2026-11-09T14:46:16.663043+03:00",
+      "CommandLine": "C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\colab_access_env\\Scripts\\python.exe -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_original118_adapter_ablation_20261109\\host_v2.py"
+    },
+    {
+      "ProcessId": 22800,
+      "ParentProcessId": 11160,
+      "CreationDate": "2026-11-09T14:46:16.770852+03:00",
+      "CommandLine": "\"C:\\Users\\HOME\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe\" -X utf8 C:\\Users\\HOME\\Documents\\Codex\\2026-10-06\\files-mentioned-by-the-user-hiergrid\\work\\g5_original118_adapter_ablation_20261109\\host_v2.py"
+    }
+  ]
+}

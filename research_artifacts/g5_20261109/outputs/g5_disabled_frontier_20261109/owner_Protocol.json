@@ -1,0 +1,11 @@
+{
+  "single_owner": {
+    "source": "work/g5_disabled_frontier_20261109/owner.py",
+    "sha256": "dd879e480ade420a1daf7e72db4d02b1b69a5a22f1b9928e4ddc8fd9d516303f",
+    "output": "outputs/g5_disabled_frontier_20261109/owner",
+    "coordination": "outputs/g5_disabled_frontier_20261109/owner_coordination",
+    "python": "work/physics_env/Scripts/python.exe",
+    "bound_seconds": 330
+  },
+  "require_ended_claims": []
+}

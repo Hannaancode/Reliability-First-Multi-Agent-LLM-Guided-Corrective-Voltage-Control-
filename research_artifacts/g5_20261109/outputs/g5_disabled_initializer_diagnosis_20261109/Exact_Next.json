@@ -1,0 +1,20 @@
+{
+  "status": "FUTURE_INTEGRATION_SOURCE_HELPER_PREPARED_NO_OWNER_OR_LAUNCH_PROTOCOL",
+  "helper_ref": {
+    "path": "work/g5_disabled_initializer_diagnosis_20261109/admission_capture.py",
+    "bytes": 3264,
+    "sha256": "dcf10850039fec40ef768bffeaa4141615381f2e0970027ddc01a8e0292ef5b5"
+  },
+  "diagnosis_ref": {
+    "path": "outputs/g5_disabled_initializer_diagnosis_20261109/Diagnosis.json",
+    "bytes": 2658,
+    "sha256": "de89a92555c323943a7cf2445a3ccffc7906a99f6d2ce013969e02b30ff54a3b"
+  },
+  "next": "Bind exact current failing initializer observation in a new prospective zero-science boundary owner, preserve complete actual input first; no weaker comparison. Root decides admission.",
+  "costs": {
+    "workflow_seconds": 0.10487289994489402,
+    "actual_saved_NET_decodes": 0,
+    "actual_source_controller_calls": 0,
+    "actual_native_conversions_PF_model_calls": 0
+  }
+}

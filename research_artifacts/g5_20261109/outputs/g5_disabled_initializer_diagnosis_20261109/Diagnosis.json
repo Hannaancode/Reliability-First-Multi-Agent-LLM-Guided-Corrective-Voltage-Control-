@@ -1,0 +1,51 @@
+{
+  "status": "SOURCE_SAVED_ONLY_DIAGNOSIS_COMPLETE_ACTUAL_MISMATCH_DETAIL_UNKNOWN",
+  "actual_closed_result_ref": {
+    "path": "outputs/g5_disabled_frontier_20261109/owner/Result.json",
+    "bytes": 1141,
+    "sha256": "806c019bce81abc6ee59e1dfc7a43ab942ac2e9107feaabf8fa83d888fee92fb"
+  },
+  "partial_independent_review_ref": {
+    "path": "outputs/g5_disabled_frontier_20261109/reader/Independent_Audit.json",
+    "bytes": 1149,
+    "sha256": "2fea0c1f16bd08d2b8579a2ee4bb698b4c4587675e3419ba3f655942a65a22c3"
+  },
+  "source_ref": {
+    "path": "work/e/pack/scripts/phase2d_iterative_blackboard_v0.py",
+    "bytes": 18484,
+    "sha256": "ee9555bc049f2183fc74a906b2f873c6b6758d426a653c1702fefdb70be750e7"
+  },
+  "paid_record_ref": {
+    "path": "outputs/r118chrono_20261022/local_controller/fed_combined_load_1p5_line_35_MG1/reflection_v2/pf_000000.json",
+    "bytes": 831,
+    "sha256": "082af100560b4a406ebedbe2779c02ee3aab4300aab3723d1edc7bb9bcca7f19"
+  },
+  "source_kwargs": {
+    "algorithm": "nr",
+    "init": "auto",
+    "enforce_q_lims": true,
+    "max_iteration": 50
+  },
+  "saved_kwargs": {
+    "algorithm": "nr",
+    "init": "auto",
+    "enforce_q_lims": true,
+    "max_iteration": 50
+  },
+  "kwargs_mismatch_excluded_by_exact_source": true,
+  "exact_initial_failure_unknown": true,
+  "observation_gap": "Actual input snapshot/exception was not durably saved before admission. Either snapshot capture or typed equality could have failed. Do not assert cache-only or other exact cause.",
+  "source_mechanism": "Original run_pf catches Exception. Provider AssertionError/ValueError could become conv=False; outer owner discarded natural controller base_fail result and raised generic unexpected end.",
+  "old_source_and_artifacts_unchanged": true,
+  "no_controller_decodes_native_model_PF_or_old_audit_rerun": true,
+  "mandatory_future_changes": [
+    "Durably preserve actual kwargs/provenance before admission",
+    "Durably preserve actual full supported typed snapshot before equality",
+    "Retain comparison or capture failure details",
+    "Wrap entire provider operational boundary so assertions/time/storage/serialization failures become BaseException, not physical solver failure",
+    "Preserve any original natural controller return including base_fail",
+    "Use separately justified unentered integration namespace/protocol; no old restart, old-clock extension or relaxed projection"
+  ],
+  "remaining_question": "Which actual full typed input field or capture precondition differs; existing saved evidence cannot recover it.",
+  "future_physical_or_model_entry_authorized": false
+}
