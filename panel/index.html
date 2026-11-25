@@ -104,12 +104,12 @@ get("fresh").addEventListener("click",()=>{
 window.addEventListener("message",e=>{
   if(!link||e.origin!==zone||e.source!==link.child||!e.data||typeof e.data!=="object")return;
   const d=e.data;
-  if(d.type==="panel-companion-ready"&&(!d.nonce||d.nonce===link.nonce)&&!link.sent){
+  if(d.type==="panel-companion-ready"&&d.nonce===link.nonce&&!link.sent){
     link.sent=true;link.child.postMessage({type:"panel-request",nonce:link.nonce,case_id:link.caseId},zone);return;
   }
   if(d.type==="panel-connection"&&link.sent&&d.nonce===link.nonce&&typeof d.available==="boolean"){
     const reason=typeof d.message==="string"?d.message.slice(0,320):"";
-    finishLink(d.available?"Companion connected. Confirm the fresh run in the private local window.":((d.paired===true?"This PC is paired. ":"")+"The local companion cannot run this case. "+(reason||"Check authorization, free T4 availability and available RAM in the local window.")));
+    finishLink(d.available?"Companion connected. Confirm the fresh run in the private local window." : (d.paired===true?"This PC is paired. ":"")+(reason||"Check the local companion for PC authorization, free T4 availability and available RAM."));
   }
 });
 window.addEventListener("resize",draw);select(0);
