@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; connect-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer"><title>IEEE 118-bus voltage control · Federation panel</title>
+<style>
+:root{color-scheme:light;--ink:#172f37;--muted:#4a6268;--border:#c7d6d5;--bg:#f5f7f5;--dark:#144941;--accent:#006d5d;--warm:#964718}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.48 Inter,"Segoe UI",Arial,sans-serif}
+main{max-width:1240px;margin:auto;padding:clamp(14px,3.4vw,42px)}h1,h2,h3,p{margin:0}h1{font-size:clamp(33px,5.5vw,62px);line-height:1.05;letter-spacing:-.055em}
+h2{font-size:clamp(24px,3.3vw,35px);line-height:1.14;letter-spacing:-.04em}h3{font-size:19px;letter-spacing:-.023em}.mast{display:flex;justify-content:space-between;align-items:end;gap:15px;flex-wrap:wrap;border-bottom:1px solid var(--border);padding-bottom:17px;margin-bottom:20px}
+.kicker{font-size:13px;color:var(--accent);font-weight:680;letter-spacing:.05em;margin:0 0 6px}.sub,.note,small{color:var(--muted)}.note{font-size:13px;margin-top:6px}
+.layout{display:grid;grid-template-columns:minmax(235px,.72fr) minmax(0,1.9fr);gap:18px}.rail,.card{background:#fff;border:1px solid var(--border);border-radius:10px}.rail{padding:16px}.card{padding:clamp(16px,2.5vw,30px)}
+.rail h2{font-size:21px;margin-bottom:10px}.choices{display:grid;gap:3px}.choices button{width:100%;text-align:left;border:1px solid transparent;padding:8px 10px;font-weight:600}.choices button[aria-pressed=true]{background:#e2f0e8;border-color:#88b2a1;box-shadow:inset 3px 0 var(--accent)}.choices small{font-weight:450;display:block;font-size:12px}
+button,input{font:inherit}button{background:white;color:var(--ink);border:1px solid #8aa39a;border-radius:6px;cursor:pointer;padding:7px 12px;font-weight:580}button:enabled:hover{background:#ecf4ee}button:disabled{opacity:.5;cursor:default}
+.primary{background:var(--dark);border-color:var(--dark);color:white}.primary:enabled:hover{background:#0e3932}:focus-visible{outline:3px solid #157ab0;outline-offset:3px}
+.controls{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:12px 0}.stats{display:grid;grid-template-columns:repeat(4,1fr);background:#edf4ef;border:1px solid var(--border);border-radius:8px;margin:13px 0}
+.stats>div{padding:10px 12px}.stats>div+div{border-left:1px solid var(--border)}.stats span{display:block;font-size:12px;color:var(--muted)}.stats strong{font-size:clamp(19px,2.5vw,30px);letter-spacing:-.035em;font-variant-numeric:tabular-nums}
+.scrub{display:flex;gap:8px;align-items:center;justify-content:space-between;flex-wrap:wrap}.scrub button{padding:4px 9px;font-size:14px}input[type=range]{width:100%;accent-color:var(--accent)}[hidden]{display:none!important}
+canvas{width:100%;height:clamp(155px,25vh,230px);display:block}.chart{border-top:1px solid var(--border);padding-top:10px;margin-top:11px}.charthead{display:flex;gap:10px;align-items:baseline;justify-content:space-between;flex-wrap:wrap}.charthead small{font-size:12px}
+.companion,details{border-top:1px solid var(--border);padding-top:11px;margin-top:12px}.companion output{display:block;margin-top:6px;color:var(--ink);font-size:14px}.companion button{margin-top:6px}summary{color:var(--accent);cursor:pointer;font-weight:600}.scroll{overflow-x:auto}
+table{border-collapse:collapse;margin-top:8px;text-align:left;font-size:13px;width:100%}th,td{padding:4px 7px;border-bottom:1px solid var(--border)}tr[aria-current=true]{background:#e2f0e8}
+@media(max-width:760px){.layout{grid-template-columns:1fr}.choices{grid-template-columns:repeat(2,1fr)}.rail{padding:12px}.rail h2{margin-bottom:6px}.choices button{padding:5px 6px;font-size:14px}}
+@media(max-width:460px){.stats{grid-template-columns:1fr 1fr}.stats>div:nth-child(3){border-left:0}.stats>div:nth-child(n+3){border-top:1px solid var(--border)}.mast{margin-bottom:10px}.layout{gap:10px}.choices small{font-size:11px}}
+</style></head><body>
+<main><header class="mast"><div><p class="kicker">IEEE 118-bus federation</p><h1>Voltage control panel</h1></div>
+<p class="sub">Operating band <strong>0.95–1.05000001 p.u.</strong></p></header>
+<noscript><p>The severe line 40 simulation began with 58 undervoltage buses. All 118 were in band after 11 actions. Enable JavaScript for interactive replay.</p></noscript>
+<div class="layout"><aside class="rail"><h2>Scenario alerts</h2><div id="choices" class="choices" role="group" aria-label="Select a federation disturbance"></div></aside>
+<article class="card"><p class="kicker" id="category"></p><h2 id="title"></h2><p class="sub" id="description"></p>
+<div class="controls"><button class="primary" id="play" type="button">Play measured replay</button><button id="end" type="button">Show endpoint</button></div>
+<div class="scrub"><label for="step" id="stepLabel"></label><div>
+<button id="prev" type="button">Previous</button> <button id="next" type="button">Next</button></div></div>
+<input id="step" type="range" min="0" value="0" step="1">
+<div class="stats"><div><span>Undervoltage buses</span><strong id="uv">58 / 118</strong></div><div><span>Above upper limit</span><strong id="ov">0 / 118</strong></div>
+<div><span>Minimum (p.u.)</span><strong id="vmin"></strong></div><div><span>Maximum (p.u.)</span><strong id="vmax"></strong></div></div>
+<p id="announcement" class="note" aria-live="polite"></p><div class="chart"><div class="charthead"><h3>Undervoltage buses</h3><small>Measured after each committed action</small></div><canvas id="plot" role="img" aria-label="Recorded number of undervoltage buses after each action"></canvas></div>
+<details id="dataTable"><summary>Measurements and precision</summary><p class="note">The public replay presents aggregate measurements from archived simulations of Enhanced C. Each action is a committed shunt addition. Voltage extrema are rounded to four decimals. Both bus counts use the original full-precision readings. Progress through a replay is playback time.</p>
+<div class="scroll"><table><thead><tr><th scope="col">Action</th><th scope="col">UV buses</th><th scope="col">Above limit</th><th scope="col">Minimum (p.u.)</th><th scope="col">Maximum (p.u.)</th></tr></thead><tbody id="table"></tbody></table></div></details>
+<section class="companion" aria-labelledby="freshHead"><h3 id="freshHead">Fresh simulation</h3><p class="note">On the authorized research PC, the local companion opens a private confirmation window. The measured replay works on any device.</p>
+<button type="button" id="fresh">Open local T4 confirmation</button><output id="connection" aria-live="polite"></output></section>
+</article></div></main><script type="application/json" id="series">[{"id":"fed_combined_load_1p5_line_40_MG1","title":"Line 40 · MG1","category":"Combined disturbance","description":"1.50× load · line 40 open · MG1 static generators offline","series":[[58,0,0.7927,1.05],[49,0,0.8616,1.05],[44,0,0.8701,1.05],[33,0,0.877,1.05],[23,0,0.9212,1.05],[17,0,0.9212,1.05],[12,0,0.9241,1.05],[7,0,0.9375,1.05],[4,0,0.9375,1.05],[2,0,0.9447,1.05],[1,0,0.9493,1.05],[0,0,0.9504,1.05]],"runnable":true},{"id":"fed_combined_load_1p25_line_101_MG1","title":"Line 101 · MG1","category":"Combined disturbance","description":"1.25× load · line 101 open · MG1 static generators offline","series":[[8,0,0.9272,1.05],[4,0,0.9379,1.05],[2,0,0.9424,1.05],[1,0,0.9477,1.05],[1,0,0.9477,1.05],[0,0,0.952,1.05]],"runnable":false},{"id":"fed_load_scale_1p5","title":"System demand","category":"Load increase","description":"All loads scaled to 1.50× the original demand","series":[[54,0,0.7979,1.05],[48,0,0.8696,1.05],[40,0,0.8739,1.05],[34,0,0.8741,1.05],[30,0,0.8744,1.05],[26,0,0.8881,1.05],[12,0,0.9218,1.05],[5,0,0.9291,1.05],[1,0,0.9383,1.05],[0,0,0.9507,1.05]],"runnable":true},{"id":"fed_n1_tieline_49_MG1_to_MG2","title":"Tie-line 49 · MG1–MG2","category":"Tie-line outage","description":"Line 49 open between bus 29 in MG1 and bus 37 in MG2","series":[[4,0,0.943,1.05],[2,0,0.9441,1.05],[1,0,0.946,1.05],[0,0,0.952,1.05]],"runnable":true},{"id":"fed_der_drop_all_sgens","title":"Distributed generation","category":"DER outage","description":"Static-generator injections set to zero across the federation","series":[[3,0,0.943,1.05],[1,0,0.946,1.05],[0,0,0.952,1.05]],"runnable":true},{"id":"fed_load_scale_1p45","title":"System demand · 1.45×","category":"Load increase","description":"All loads scaled to 1.45× the original demand","series":[[38,0,0.8443,1.05],[26,0,0.8989,1.05],[18,0,0.9151,1.05],[14,0,0.9263,1.05],[10,0,0.935,1.05],[7,0,0.9352,1.05],[4,0,0.9415,1.05],[2,0,0.9426,1.05],[1,0,0.9483,1.05],[0,0,0.9509,1.05]],"runnable":true},{"id":"fed_combined_load_1p35_line_92_MG2","title":"Line 92 · MG2","category":"Combined disturbance","description":"1.35× load · line 92 open · MG2 static generators offline","series":[[16,0,0.898,1.05],[12,0,0.924,1.05],[11,0,0.9309,1.05],[6,0,0.9388,1.05],[5,0,0.9405,1.05],[4,0,0.9405,1.05],[3,0,0.9405,1.05],[1,0,0.95,1.05],[0,0,0.9519,1.05]],"runnable":true}]</script>
+<script>
+"use strict";
+const list=JSON.parse(document.getElementById("series").textContent),get=id=>document.getElementById(id);
+const zone="http://127.0.0.1:8765",site="https://hannaancode.github.io",buttons=[];
+let choice=0,step=0,playing=null,link=null;
+function stop(){if(playing!==null)clearInterval(playing);playing=null;}
+function text(id,value){get(id).textContent=value;}
+function node(tag,value){const el=document.createElement(tag);el.textContent=value;return el;}
+function draw(){
+  const plot=get("plot"),ctx=plot.getContext("2d"),w=plot.clientWidth,h=plot.clientHeight;if(!ctx||w<85||h<70)return;
+  const ratio=Math.min(window.devicePixelRatio||1,2);plot.width=Math.round(w*ratio);plot.height=Math.round(h*ratio);ctx.setTransform(ratio,0,0,ratio,0,0);
+  const s=list[choice].series,top=14,bottom=h-32,left=32,right=w-14,high=Math.max(4,s[0][0]);
+  const x=i=>left+(right-left)*i/(s.length-1),y=v=>bottom-v*(bottom-top)/high;
+  ctx.font="12px Segoe UI,sans-serif";ctx.textBaseline="middle";ctx.textAlign="right";
+  for(const v of [0,Math.round(high/2),high]){ctx.strokeStyle="#cddbd6";ctx.beginPath();ctx.moveTo(left,y(v));ctx.lineTo(right,y(v));ctx.stroke();ctx.fillStyle="#4a6268";ctx.fillText(String(v),left-6,y(v));}
+  ctx.textAlign="center";for(let i=0;i<s.length;i++){if(w<350&&i%2&&i<s.length-1)continue;ctx.fillText(String(i),x(i),bottom+11);}
+  ctx.fillText("Executed actions",(left+right)/2,bottom+25);ctx.lineWidth=2;ctx.strokeStyle="#086653";ctx.beginPath();
+  for(let i=0;i<=step;i++){if(i===0)ctx.moveTo(x(i),y(s[i][0]));else ctx.lineTo(x(i),y(s[i][0]));}ctx.stroke();
+  for(let i=0;i<=step;i++){ctx.beginPath();ctx.arc(x(i),y(s[i][0]),i===step?4.5:3,0,2*Math.PI);ctx.fillStyle=i===step?"#964718":"#086653";ctx.fill();}ctx.lineWidth=1;
+}
+function paint(){
+  const c=list[choice],s=c.series,f=s[step],last=s.length-1;
+  text("category",c.category+" · measured replay");text("title",c.title);text("description",c.description);
+  text("stepLabel","Action "+step+" of "+last);get("step").max=last;get("step").value=step;get("step").setAttribute("aria-valuetext",get("stepLabel").textContent);
+  text("play",playing===null?"Play measured replay":"Pause replay");get("prev").disabled=step===0;get("next").disabled=step===last;get("end").disabled=step===last;
+  text("uv",f[0]+" / 118");text("ov",f[1]+" / 118");text("vmin",f[2].toFixed(4));text("vmax",f[3].toFixed(4));
+  text("announcement",step===last&&f[0]===0&&f[1]===0?"Restored. All 118 bus voltages are inside the operating band.":step===0?"Recorded initial state.":f[0]+" buses remain below 0.95 p.u.");
+  const table=get("table");table.replaceChildren();s.forEach((v,i)=>{const row=node("tr","");row.setAttribute("aria-current",String(i===step));for(const item of [i,v[0],v[1],v[2].toFixed(4),v[3].toFixed(4)])row.append(node("td",item));table.append(row);});
+  get("fresh").disabled=!c.runnable||Boolean(link);draw();
+}
+function select(i){
+  stop();if(link){clearTimeout(link.timer);link=null;}
+  choice=i;step=0;buttons.forEach((b,j)=>b.setAttribute("aria-pressed",String(j===choice)));
+  get("dataTable").open=false;text("connection",list[i].runnable?"":"This archived line 101 case is available for replay only.");paint();
+}
+function jump(i){stop();step=Math.max(0,Math.min(list[choice].series.length-1,i));paint();}
+for(const [i,c] of list.entries()){const b=node("button",c.title);b.type="button";b.append(node("small",c.category+" · "+c.series[0][0]+" low buses"));b.addEventListener("click",()=>select(i));get("choices").append(b);buttons.push(b);}
+get("play").addEventListener("click",()=>{if(playing!==null){stop();paint();return;}if(step===list[choice].series.length-1)step=0;
+  playing=setInterval(()=>{step++;if(step===list[choice].series.length-1)stop();paint();},1000);paint();});
+get("end").addEventListener("click",()=>jump(list[choice].series.length-1));get("prev").addEventListener("click",()=>jump(step-1));
+get("next").addEventListener("click",()=>jump(step+1));get("step").addEventListener("input",()=>jump(Number(get("step").value)));
+function finishLink(message){if(link)clearTimeout(link.timer);link=null;text("connection",message);paint();}
+get("fresh").addEventListener("click",()=>{
+  if(link||!list[choice].runnable)return;
+  if(location.origin!==site){text("connection","Local confirmation is available from the published GitHub Pages site on the authorized PC.");return;}
+  const nonce=Array.from(crypto.getRandomValues(new Uint8Array(16)),v=>v.toString(16).padStart(2,"0")).join("");
+  const child=window.open(zone+"/panel-connect#nonce="+nonce,"_blank","popup,width=610,height=640");
+  if(!child){text("connection","The browser blocked the companion window. Allow this popup on the authorized PC and try again. No run was requested.");return;}
+  link={child,nonce,caseId:list[choice].id,sent:false,timer:null};text("connection","Waiting for the local companion on this device…");
+  link.timer=setTimeout(()=>finishLink("No verified reply from the local companion. On the authorized PC, start the panel service on port 8765 and keep its confirmation window open. Other devices can use the measured replay."),12000);
+  paint();
+});
+window.addEventListener("message",e=>{
+  if(!link||e.origin!==zone||e.source!==link.child||!e.data||typeof e.data!=="object")return;
+  const d=e.data;
+  if(d.type==="panel-companion-ready"&&(!d.nonce||d.nonce===link.nonce)&&!link.sent){
+    link.sent=true;link.child.postMessage({type:"panel-request",nonce:link.nonce,case_id:link.caseId},zone);return;
+  }
+  if(d.type==="panel-connection"&&link.sent&&d.nonce===link.nonce&&typeof d.available==="boolean"){
+    const reason=typeof d.message==="string"?d.message.slice(0,320):"";
+    finishLink(d.available?"Companion connected. Confirm the fresh run in the private local window.":("The local companion cannot run this case. "+(reason||"Check authorization, free T4 availability and available RAM in the local window.")));
+  }
+});
+window.addEventListener("resize",draw);select(0);
+</script></body></html>
